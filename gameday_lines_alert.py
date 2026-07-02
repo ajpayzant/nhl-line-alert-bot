@@ -67,9 +67,6 @@ def now_str() -> str:
 
 
 def clean_text(text: str) -> str:
-    """
-    Normalize whitespace while preserving useful line breaks.
-    """
     if not isinstance(text, str):
         return ""
 
@@ -81,9 +78,6 @@ def clean_text(text: str) -> str:
 
 
 def normalize_tweet_url(url: str) -> str:
-    """
-    Normalize Twitter/X URLs into a consistent twitter.com format.
-    """
     if not isinstance(url, str):
         return ""
 
@@ -98,9 +92,6 @@ def normalize_tweet_url(url: str) -> str:
 
 
 def extract_status_id(tweet_url: str):
-    """
-    Extract numeric status ID from a Twitter/X status URL.
-    """
     if not isinstance(tweet_url, str):
         return None
 
@@ -113,9 +104,6 @@ def extract_status_id(tweet_url: str):
 
 
 def looks_truncated(text: str) -> bool:
-    """
-    Detects visibly truncated text ending with ellipsis.
-    """
     if not isinstance(text, str):
         return False
 
@@ -125,9 +113,6 @@ def looks_truncated(text: str) -> bool:
 
 
 def safe_str(value):
-    """
-    Converts values safely for CSV/Slack usage.
-    """
     if value is None:
         return ""
 
@@ -139,9 +124,6 @@ def safe_str(value):
 # ============================================================
 
 def load_seen_status_ids(path: str = SEEN_PATH) -> set:
-    """
-    Loads seen status IDs from JSON.
-    """
     if not os.path.exists(path):
         return set()
 
@@ -160,9 +142,6 @@ def load_seen_status_ids(path: str = SEEN_PATH) -> set:
 
 
 def save_seen_status_ids(seen_ids: set, path: str = SEEN_PATH):
-    """
-    Saves seen status IDs to JSON.
-    """
     with open(path, "w", encoding="utf-8") as f:
         json.dump(sorted(list(seen_ids)), f, indent=2)
 
@@ -172,19 +151,6 @@ def save_seen_status_ids(seen_ids: set, path: str = SEEN_PATH):
 # ============================================================
 
 def scrape_gameday_line_posts() -> pd.DataFrame:
-    """
-    Scrapes GameDayTweets /lines page.
-
-    This gets:
-        - status_id
-        - source_handle
-        - GameDayLines tweet URL
-        - date text
-        - GameDayTweets preview text
-
-    Full tweet text is fetched later through oEmbed.
-    """
-
     response = requests.get(URL, headers=HEADERS, timeout=25)
     response.raise_for_status()
 
@@ -251,12 +217,6 @@ def scrape_gameday_line_posts() -> pd.DataFrame:
 # ============================================================
 
 def fetch_oembed_text(tweet_url: str) -> dict:
-    """
-    Uses Twitter/X oEmbed to fetch fuller embedded tweet text.
-
-    This fixes GameDayTweets preview truncation for most text-based line tweets.
-    """
-
     endpoint = "https://publish.twitter.com/oembed"
 
     params = {
@@ -307,14 +267,6 @@ def fetch_oembed_text(tweet_url: str) -> dict:
 
 
 def choose_best_text(gdt_preview_text: str, oembed_text: str):
-    """
-    Chooses best text available.
-
-    Priority:
-        1. oEmbed full text
-        2. GameDayTweets preview fallback
-    """
-
     gdt_preview_text = gdt_preview_text or ""
     oembed_text = oembed_text or ""
 
@@ -328,10 +280,6 @@ def choose_best_text(gdt_preview_text: str, oembed_text: str):
 
 
 def enrich_new_posts_with_oembed(new_df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Fetch full oEmbed text only for newly detected posts.
-    """
-
     if new_df.empty:
         return new_df
 
@@ -385,10 +333,6 @@ def validate_slack_webhook():
 
 
 def send_slack_message(message: str):
-    """
-    Sends a message to Slack through Incoming Webhook.
-    """
-
     validate_slack_webhook()
 
     payload = {
@@ -409,24 +353,70 @@ def send_slack_message(message: str):
     return True
 
 
-def build_slack_notification(row) -> str:
+def clean_oembed_footer(text: str) -> str:
     """
-    Builds final Slack alert message.
+    Removes the trailing author/date footer that oEmbed appends to tweet text.
+    e.g. "— Jesse Granger (@JesseGranger_)\nJune 9, 2026"
+    Already shown in the Source/Date fields of the alert, so strip it from the body.
     """
+    if not isinstance(text, str):
+        return ""
 
+    lines = [line.rstrip() for line in text.strip().splitlines()]
+
+    while lines and not lines[-1].strip():
+        lines.pop()
+
+    if lines and re.match(r"^[A-Za-z]+ \d{1,2}, \d{4}$", lines[-1].strip()):
+        lines.pop()
+
+    if lines and re.match(r"^— .+\(@[^)]+\)$", lines[-1].strip()):
+        lines.pop()
+
+    while lines and not lines[-1].strip():
+        lines.pop()
+
+    return "\n".join(lines).strip()
+
+
+def format_slack_quote(text: str, max_chars: int = 2800) -> str:
+    """
+    Formats tweet text as a Slack blockquote. Easier to read than a code block.
+    """
+    if not isinstance(text, str):
+        text = ""
+
+    text = text.strip()
+
+    if len(text) > max_chars:
+        text = text[:max_chars].rstrip() + "\n...[truncated]"
+
+    lines = text.splitlines()
+    quoted_lines = []
+
+    for line in lines:
+        line = line.rstrip()
+        quoted_lines.append(f"> {line}" if line else ">")
+
+    return "\n".join(quoted_lines).strip()
+
+
+def build_slack_notification(row) -> str:
     source = safe_str(row.get("source_handle")) or "Unknown source"
     date_text = safe_str(row.get("tweet_date_text")) or "Unknown date"
     tweet_url = safe_str(row.get("tweet_url"))
-    best_text = safe_str(row.get("best_text") or row.get("gdt_preview_text"))
-    text_source = safe_str(row.get("best_text_source")) or "unknown"
+
+    raw_best_text = safe_str(row.get("best_text") or row.get("gdt_preview_text"))
+    clean_tweet_text = clean_oembed_footer(raw_best_text)
+    formatted_tweet_text = format_slack_quote(clean_tweet_text)
 
     notes = []
 
     if bool(row.get("best_text_is_truncated")):
-        notes.append("Text may still be truncated. Open link for full tweet.")
+        notes.append("Text may still be truncated. Open the link for the full tweet.")
 
     if bool(row.get("is_probably_image_based")):
-        notes.append("This appears to be an image-based lineup post. Open link to view image.")
+        notes.append("This appears to be an image-based lineup post. Open the link to view the image.")
 
     notes_text = ""
 
@@ -438,12 +428,11 @@ def build_slack_notification(row) -> str:
 
 *Source:* {source}
 *Date:* {date_text}
-*Text Source:* {text_source}
 
 *Line Tweet:*
-```{best_text}```{notes_text}
+{formatted_tweet_text}{notes_text}
 
-*Link:* {tweet_url}
+*Link:* <{tweet_url}|Open tweet>
 """.strip()
 
     return message
@@ -466,10 +455,6 @@ Timestamp: {now_str()}
 # ============================================================
 
 def append_alert_log(alert_df: pd.DataFrame, path: str = ALERT_LOG_PATH):
-    """
-    Appends sent alerts to CSV.
-    """
-
     if alert_df.empty:
         return
 
@@ -531,18 +516,6 @@ def append_alert_log(alert_df: pd.DataFrame, path: str = ALERT_LOG_PATH):
 # ============================================================
 
 def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFrame:
-    """
-    Main production function.
-
-    First run behavior:
-        If seen file is empty and send_backfill_on_first_run=False:
-            Save current 50 posts as seen and send no Slack alerts.
-
-    Normal behavior:
-        Detect new status IDs, oEmbed only those posts, send Slack alerts,
-        save successful sent IDs as seen.
-    """
-
     current_df = scrape_gameday_line_posts()
 
     if current_df.empty:
@@ -574,7 +547,6 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
     if new_df.empty:
         return pd.DataFrame()
 
-    # Safety cap: newest posts are at the top of the page.
     if len(new_df) > MAX_NEW_ALERTS_PER_RUN:
         print(
             f"Safety cap active: limiting alerts from {len(new_df)} "
