@@ -28,7 +28,7 @@ import requests
 import pandas as pd
 
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 
 
@@ -353,6 +353,35 @@ def send_slack_message(message: str):
     return True
 
 
+def snowflake_to_et(status_id: str) -> str:
+    """
+    Extracts the UTC timestamp encoded in a Twitter/X Snowflake ID and
+    converts it to Eastern Time (ET), handling EST/EDT automatically.
+    """
+    try:
+        snowflake_int = int(status_id)
+        # Twitter epoch: 1288834974657 ms (Nov 4, 2010)
+        ms = (snowflake_int >> 22) + 1288834974657
+        utc_dt = datetime.fromtimestamp(ms / 1000.0, tz=timezone.utc)
+        # Determine EST vs EDT: second Sunday in March → first Sunday in November
+        year = utc_dt.year
+        # Second Sunday in March
+        march1 = datetime(year, 3, 1, tzinfo=timezone.utc)
+        dst_start = march1 + timedelta(days=(6 - march1.weekday()) % 7 + 7, hours=7)
+        # First Sunday in November
+        nov1 = datetime(year, 11, 1, tzinfo=timezone.utc)
+        dst_end = nov1 + timedelta(days=(6 - nov1.weekday()) % 7, hours=6)
+        if dst_start <= utc_dt < dst_end:
+            et_dt = utc_dt + timedelta(hours=-4)
+            tz_label = "EDT"
+        else:
+            et_dt = utc_dt + timedelta(hours=-5)
+            tz_label = "EST"
+        return et_dt.strftime(f"%b %-d, %Y at %-I:%M %p {tz_label}")
+    except Exception:
+        return "Unknown"
+
+
 def clean_oembed_footer(text: str) -> str:
     """
     Removes the trailing author/date footer that oEmbed appends to tweet text.
@@ -403,8 +432,37 @@ def format_slack_quote(text: str, max_chars: int = 2800) -> str:
 
 def build_slack_notification(row) -> str:
     source = safe_str(row.get("source_handle")) or "Unknown source"
-    date_text = safe_str(row.get("tweet_date_text")) or "Unknown date"
     tweet_url = safe_str(row.get("tweet_url"))
+    status_id = safe_str(row.get("status_id"))
+
+    tweet_time = snowflake_to_et(status_id)
+    alert_time_utc = datetime.now(tz=timezone.utc)
+
+    # Compute delay between tweet posted and alert sent
+    try:
+        tweet_ms = (int(status_id) >> 22) + 1288834974657
+        tweet_utc = datetime.fromtimestamp(tweet_ms / 1000.0, tz=timezone.utc)
+        delay_secs = int((alert_time_utc - tweet_utc).total_seconds())
+        if delay_secs < 0:
+            delay_secs = 0
+        delay_mins, delay_rem = divmod(delay_secs, 60)
+        delay_str = f"({delay_mins}m {delay_rem}s delay)"
+    except Exception:
+        delay_str = ""
+
+    # Alert sent time in ET
+    year = alert_time_utc.year
+    march1 = datetime(year, 3, 1, tzinfo=timezone.utc)
+    dst_start = march1 + timedelta(days=(6 - march1.weekday()) % 7 + 7, hours=7)
+    nov1 = datetime(year, 11, 1, tzinfo=timezone.utc)
+    dst_end = nov1 + timedelta(days=(6 - nov1.weekday()) % 7, hours=6)
+    if dst_start <= alert_time_utc < dst_end:
+        alert_et = alert_time_utc + timedelta(hours=-4)
+        alert_tz = "EDT"
+    else:
+        alert_et = alert_time_utc + timedelta(hours=-5)
+        alert_tz = "EST"
+    alert_time_str = alert_et.strftime(f"%b %-d, %Y at %-I:%M %p {alert_tz}")
 
     raw_best_text = safe_str(row.get("best_text") or row.get("gdt_preview_text"))
     clean_tweet_text = clean_oembed_footer(raw_best_text)
@@ -427,7 +485,8 @@ def build_slack_notification(row) -> str:
 🚨 *New NHL Line Tweet Detected*
 
 *Source:* {source}
-*Date:* {date_text}
+*Tweet Time:* {tweet_time}
+*Alert Sent:* {alert_time_str}  {delay_str}
 
 *Line Tweet:*
 {formatted_tweet_text}{notes_text}
