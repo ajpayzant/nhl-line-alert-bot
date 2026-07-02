@@ -37,6 +37,7 @@ from urllib.parse import urlparse
 # ============================================================
 
 URL = "https://www.gamedaytweets.com/lines"
+NHL_SCHEDULE_API = "https://api-web.nhle.com/v1/schedule/{date}"
 
 SEEN_PATH = "seen_gameday_line_status_ids.json"
 ALERT_LOG_PATH = "gameday_line_alert_log.csv"
@@ -353,6 +354,60 @@ def send_slack_message(message: str):
     return True
 
 
+def is_nhl_game_day() -> bool:
+    """
+    Returns True if there are NHL regular season or playoff games today (ET date).
+    Falls back to True if the API is unreachable so we never miss a real game day.
+    """
+    try:
+        now_et = datetime.now(tz=timezone.utc) + timedelta(hours=-4)
+        today = now_et.strftime("%Y-%m-%d")
+        response = requests.get(
+            NHL_SCHEDULE_API.format(date=today),
+            headers=HEADERS,
+            timeout=10,
+        )
+        if response.status_code != 200:
+            print(f"NHL schedule API returned {response.status_code} — defaulting to run.")
+            return True
+        data = response.json()
+        game_days = data.get("gameWeek", [])
+        for day in game_days:
+            if day.get("date") != today:
+                continue
+            for game in day.get("games", []):
+                game_type = game.get("gameType")
+                # 2 = regular season, 3 = playoffs
+                if game_type in (2, 3):
+                    return True
+        print(f"No NHL regular season or playoff games scheduled for {today}. Skipping run.")
+        return False
+    except Exception as e:
+        print(f"NHL schedule API check failed ({e}) — defaulting to run.")
+        return True
+
+
+def prune_seen_ids(seen_ids: set, max_age_days: int = 7) -> set:
+    """
+    Removes status IDs older than max_age_days using the Snowflake timestamp.
+    """
+    cutoff_ms = (datetime.now(tz=timezone.utc).timestamp() * 1000) - (max_age_days * 86400 * 1000)
+    pruned = set()
+    removed = 0
+    for sid in seen_ids:
+        try:
+            tweet_ms = (int(sid) >> 22) + 1288834974657
+            if tweet_ms >= cutoff_ms:
+                pruned.add(sid)
+            else:
+                removed += 1
+        except Exception:
+            pruned.add(sid)
+    if removed:
+        print(f"Pruned {removed} seen IDs older than {max_age_days} days.")
+    return pruned
+
+
 def snowflake_to_et(status_id: str) -> str:
     """
     Extracts the UTC timestamp encoded in a Twitter/X Snowflake ID and
@@ -575,6 +630,9 @@ def append_alert_log(alert_df: pd.DataFrame, path: str = ALERT_LOG_PATH):
 # ============================================================
 
 def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFrame:
+    if not is_nhl_game_day():
+        return pd.DataFrame()
+
     current_df = scrape_gameday_line_posts()
 
     if current_df.empty:
@@ -582,6 +640,7 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
         return pd.DataFrame()
 
     seen_ids = load_seen_status_ids()
+    seen_ids = prune_seen_ids(seen_ids)
 
     print(f"Current posts on page: {len(current_df)}")
     print(f"Previously seen status IDs: {len(seen_ids)}")
