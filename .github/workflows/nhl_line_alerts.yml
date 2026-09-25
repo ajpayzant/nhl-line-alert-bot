@@ -17,6 +17,7 @@ on:
           - check
           - test-slack
           - scrape-only
+          - send-latest
 
       send_backfill_on_first_run:
         description: "Send current existing posts if seen file is empty? Usually keep false."
@@ -69,6 +70,8 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           MAX_NEW_ALERTS_PER_RUN: "15"
           REQUEST_SLEEP_SECONDS: "0.75"
+          # NHL gameType codes that count as game days: 1 = preseason, 2 = regular season, 3 = playoffs.
+          ALERT_GAME_TYPES: "1,2,3"
         run: |
           MODE="${{ github.event.inputs.mode || 'check' }}"
           SEND_BACKFILL="${{ github.event.inputs.send_backfill_on_first_run || 'false' }}"
@@ -81,7 +84,7 @@ jobs:
             --send-backfill-on-first-run "$SEND_BACKFILL"
 
       - name: Commit updated seen IDs and alert log
-        if: github.event.inputs.mode != 'scrape-only'
+        if: github.event.inputs.mode != 'scrape-only' && github.event.inputs.mode != 'send-latest'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

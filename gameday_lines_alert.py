@@ -30,6 +30,14 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
+from zoneinfo import ZoneInfo
+
+try:
+    # Impersonates a real Chrome TLS/HTTP2 fingerprint, which Cloudflare
+    # is much less likely to block than plain python-requests.
+    from curl_cffi import requests as cffi_requests
+except ImportError:
+    cffi_requests = None
 
 
 # ============================================================
@@ -49,6 +57,14 @@ MAX_NEW_ALERTS_PER_RUN = int(os.getenv("MAX_NEW_ALERTS_PER_RUN", "15"))
 
 # Seconds between oEmbed requests / Slack sends.
 REQUEST_SLEEP_SECONDS = float(os.getenv("REQUEST_SLEEP_SECONDS", "0.75"))
+
+# NHL gameType codes that count as a game day: 1 = preseason, 2 = regular season, 3 = playoffs.
+ALERT_GAME_TYPES = {
+    int(x) for x in os.getenv("ALERT_GAME_TYPES", "1,2,3").split(",") if x.strip()
+}
+
+# Seen IDs older than this are pruned, so posts older than this are never alerted.
+MAX_POST_AGE_DAYS = 7
 
 HEADERS = {
     "User-Agent": (
@@ -113,6 +129,20 @@ def looks_truncated(text: str) -> bool:
     return stripped.endswith("…") or "…" in stripped[-15:]
 
 
+def status_id_to_utc(status_id: str) -> datetime:
+    # Twitter/X Snowflake IDs encode ms since the Twitter epoch (Nov 4, 2010).
+    ms = (int(status_id) >> 22) + 1288834974657
+    return datetime.fromtimestamp(ms / 1000.0, tz=timezone.utc)
+
+
+def is_recent_post(status_id: str, max_age_days: int = MAX_POST_AGE_DAYS) -> bool:
+    try:
+        age = datetime.now(tz=timezone.utc) - status_id_to_utc(status_id)
+        return age <= timedelta(days=max_age_days)
+    except Exception:
+        return True
+
+
 def safe_str(value):
     if value is None:
         return ""
@@ -151,11 +181,33 @@ def save_seen_status_ids(seen_ids: set, path: str = SEEN_PATH):
 # SCRAPE GAMEDAYTWEETS
 # ============================================================
 
-def scrape_gameday_line_posts() -> pd.DataFrame:
-    response = requests.get(URL, headers=HEADERS, timeout=25)
-    response.raise_for_status()
+def fetch_lines_page() -> str:
+    errors = []
 
-    soup = BeautifulSoup(response.text, "lxml")
+    if cffi_requests is not None:
+        try:
+            response = cffi_requests.get(URL, impersonate="chrome", timeout=25)
+            if response.status_code == 200:
+                return response.text
+            errors.append(f"curl_cffi: HTTP {response.status_code}")
+        except Exception as e:
+            errors.append(f"curl_cffi: {e}")
+    else:
+        errors.append("curl_cffi: not installed")
+
+    response = requests.get(URL, headers=HEADERS, timeout=25)
+    if response.status_code == 200:
+        return response.text
+    errors.append(f"requests: HTTP {response.status_code}")
+
+    raise RuntimeError(
+        f"Could not fetch {URL} ({'; '.join(errors)}). "
+        "A 403 here usually means the site is blocking this runner's IP address."
+    )
+
+
+def scrape_gameday_line_posts() -> pd.DataFrame:
+    soup = BeautifulSoup(fetch_lines_page(), "lxml")
 
     records = []
     blocks = soup.select("blockquote.tweet.full-sized-tweet")
@@ -356,12 +408,11 @@ def send_slack_message(message: str):
 
 def is_nhl_game_day() -> bool:
     """
-    Returns True if there are NHL regular season or playoff games today (ET date).
+    Returns True if there are NHL games of an ALERT_GAME_TYPES type today (ET date).
     Falls back to True if the API is unreachable so we never miss a real game day.
     """
     try:
-        now_et = datetime.now(tz=timezone.utc) + timedelta(hours=-4)
-        today = now_et.strftime("%Y-%m-%d")
+        today = datetime.now(tz=ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
         response = requests.get(
             NHL_SCHEDULE_API.format(date=today),
             headers=HEADERS,
@@ -377,62 +428,51 @@ def is_nhl_game_day() -> bool:
                 continue
             for game in day.get("games", []):
                 game_type = game.get("gameType")
-                # 2 = regular season, 3 = playoffs
-                if game_type in (2, 3):
+                if game_type in ALERT_GAME_TYPES:
                     return True
-        print(f"No NHL regular season or playoff games scheduled for {today}. Skipping run.")
+        print(f"No NHL games of type {sorted(ALERT_GAME_TYPES)} scheduled for {today}. Skipping run.")
         return False
     except Exception as e:
         print(f"NHL schedule API check failed ({e}) — defaulting to run.")
         return True
 
 
-def prune_seen_ids(seen_ids: set, max_age_days: int = 7) -> set:
+def prune_seen_ids(seen_ids: set, max_age_days: int = MAX_POST_AGE_DAYS) -> set:
     """
     Removes status IDs older than max_age_days using the Snowflake timestamp.
     """
-    cutoff_ms = (datetime.now(tz=timezone.utc).timestamp() * 1000) - (max_age_days * 86400 * 1000)
     pruned = set()
     removed = 0
     for sid in seen_ids:
-        try:
-            tweet_ms = (int(sid) >> 22) + 1288834974657
-            if tweet_ms >= cutoff_ms:
-                pruned.add(sid)
-            else:
-                removed += 1
-        except Exception:
+        if is_recent_post(sid, max_age_days):
             pruned.add(sid)
+        else:
+            removed += 1
     if removed:
         print(f"Pruned {removed} seen IDs older than {max_age_days} days.")
     return pruned
 
 
+def format_et(utc_dt: datetime) -> str:
+    """
+    Formats a UTC datetime in Eastern Time, e.g. "Sep 24, 2026 at 7:05 PM EDT".
+    Built by hand because %-d / %-I are not supported on Windows.
+    """
+    et_dt = utc_dt.astimezone(ZoneInfo("America/New_York"))
+    hour = et_dt.hour % 12 or 12
+    return (
+        f"{et_dt:%b} {et_dt.day}, {et_dt.year} at "
+        f"{hour}:{et_dt:%M} {et_dt:%p} {et_dt.tzname()}"
+    )
+
+
 def snowflake_to_et(status_id: str) -> str:
     """
     Extracts the UTC timestamp encoded in a Twitter/X Snowflake ID and
-    converts it to Eastern Time (ET), handling EST/EDT automatically.
+    converts it to Eastern Time (ET).
     """
     try:
-        snowflake_int = int(status_id)
-        # Twitter epoch: 1288834974657 ms (Nov 4, 2010)
-        ms = (snowflake_int >> 22) + 1288834974657
-        utc_dt = datetime.fromtimestamp(ms / 1000.0, tz=timezone.utc)
-        # Determine EST vs EDT: second Sunday in March → first Sunday in November
-        year = utc_dt.year
-        # Second Sunday in March
-        march1 = datetime(year, 3, 1, tzinfo=timezone.utc)
-        dst_start = march1 + timedelta(days=(6 - march1.weekday()) % 7 + 7, hours=7)
-        # First Sunday in November
-        nov1 = datetime(year, 11, 1, tzinfo=timezone.utc)
-        dst_end = nov1 + timedelta(days=(6 - nov1.weekday()) % 7, hours=6)
-        if dst_start <= utc_dt < dst_end:
-            et_dt = utc_dt + timedelta(hours=-4)
-            tz_label = "EDT"
-        else:
-            et_dt = utc_dt + timedelta(hours=-5)
-            tz_label = "EST"
-        return et_dt.strftime(f"%b %-d, %Y at %-I:%M %p {tz_label}")
+        return format_et(status_id_to_utc(status_id))
     except Exception:
         return "Unknown"
 
@@ -495,8 +535,7 @@ def build_slack_notification(row) -> str:
 
     # Compute delay between tweet posted and alert sent
     try:
-        tweet_ms = (int(status_id) >> 22) + 1288834974657
-        tweet_utc = datetime.fromtimestamp(tweet_ms / 1000.0, tz=timezone.utc)
+        tweet_utc = status_id_to_utc(status_id)
         delay_secs = int((alert_time_utc - tweet_utc).total_seconds())
         if delay_secs < 0:
             delay_secs = 0
@@ -505,19 +544,7 @@ def build_slack_notification(row) -> str:
     except Exception:
         delay_str = ""
 
-    # Alert sent time in ET
-    year = alert_time_utc.year
-    march1 = datetime(year, 3, 1, tzinfo=timezone.utc)
-    dst_start = march1 + timedelta(days=(6 - march1.weekday()) % 7 + 7, hours=7)
-    nov1 = datetime(year, 11, 1, tzinfo=timezone.utc)
-    dst_end = nov1 + timedelta(days=(6 - nov1.weekday()) % 7, hours=6)
-    if dst_start <= alert_time_utc < dst_end:
-        alert_et = alert_time_utc + timedelta(hours=-4)
-        alert_tz = "EDT"
-    else:
-        alert_et = alert_time_utc + timedelta(hours=-5)
-        alert_tz = "EST"
-    alert_time_str = alert_et.strftime(f"%b %-d, %Y at %-I:%M %p {alert_tz}")
+    alert_time_str = format_et(alert_time_utc)
 
     raw_best_text = safe_str(row.get("best_text") or row.get("gdt_preview_text"))
     clean_tweet_text = clean_oembed_footer(raw_best_text)
@@ -658,7 +685,11 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
 
     current_df["already_seen"] = current_df["status_id"].astype(str).isin(seen_ids)
 
-    new_df = current_df[current_df["already_seen"] == False].copy()
+    # Pruned IDs are forgotten, so posts older than the prune window must be
+    # skipped too or they would re-alert after a quiet stretch.
+    current_df["is_recent"] = current_df["status_id"].astype(str).map(is_recent_post)
+
+    new_df = current_df[(current_df["already_seen"] == False) & current_df["is_recent"]].copy()
 
     print(f"New posts detected before cap: {len(new_df)}")
 
@@ -721,7 +752,7 @@ def main():
 
     parser.add_argument(
         "--mode",
-        choices=["check", "test-slack", "scrape-only"],
+        choices=["check", "test-slack", "scrape-only", "send-latest"],
         default="check",
         help="Run mode.",
     )
@@ -743,6 +774,9 @@ def main():
     if args.mode == "scrape-only":
         print("Running scrape-only test...")
         df = scrape_gameday_line_posts()
+        if df.empty:
+            print("No posts found.")
+            return
         print(df[[
             "row_num",
             "status_id",
@@ -752,6 +786,18 @@ def main():
             "gdt_is_truncated",
             "gdt_preview_text",
         ]].head(10).to_string(index=False))
+        return
+
+    if args.mode == "send-latest":
+        # End-to-end test: sends the newest real post to Slack without touching seen IDs.
+        print("Sending latest line post to Slack...")
+        df = scrape_gameday_line_posts()
+        if df.empty:
+            print("No posts found.")
+            return
+        row = enrich_new_posts_with_oembed(df.head(1)).iloc[0]
+        send_slack_message(build_slack_notification(row))
+        print(f"Slack alert sent for {row['status_id']} from {row.get('source_handle')}")
         return
 
     send_backfill = parse_bool(args.send_backfill_on_first_run)
