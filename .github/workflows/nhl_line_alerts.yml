@@ -87,7 +87,8 @@ jobs:
             --send-backfill-on-first-run "$SEND_BACKFILL"
 
       - name: Commit updated seen IDs and alert log
-        if: github.event.inputs.mode != 'scrape-only' && github.event.inputs.mode != 'send-latest'
+        # always(): commit whatever was sent even if the bot step errored, so it is never re-sent.
+        if: always() && github.event.inputs.mode != 'scrape-only' && github.event.inputs.mode != 'send-latest'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

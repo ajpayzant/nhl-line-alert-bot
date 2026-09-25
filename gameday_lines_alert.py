@@ -691,6 +691,11 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
 
     new_df = current_df[(current_df["already_seen"] == False) & current_df["is_recent"]].copy()
 
+    # The page is not in posting order. Snowflake IDs increase with time, so
+    # sorting by ID sends the oldest tweet first and the cap keeps the oldest.
+    new_df["status_id_int"] = new_df["status_id"].astype(int)
+    new_df = new_df.sort_values("status_id_int").drop(columns="status_id_int").reset_index(drop=True)
+
     print(f"New posts detected before cap: {len(new_df)}")
 
     if new_df.empty:
@@ -714,19 +719,24 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
             send_slack_message(message)
             print(f"Slack alert sent for {row['status_id']} from {row.get('source_handle')}")
             sent_rows.append(row.to_dict())
+
+            # Save after every send so a crash later in the run cannot cause repeats.
+            seen_ids.add(str(row["status_id"]))
+            save_seen_status_ids(seen_ids)
             time.sleep(REQUEST_SLEEP_SECONDS)
 
         except Exception as e:
+            # Stop here so a later tweet is never posted ahead of this one.
+            # It is not marked seen, so the next run retries it first.
             print(f"ERROR: Failed to send Slack alert for {row['status_id']}: {e}")
+            break
 
     sent_df = pd.DataFrame(sent_rows)
 
     if not sent_df.empty:
-        updated_seen_ids = seen_ids.union(set(sent_df["status_id"].dropna().astype(str)))
-        save_seen_status_ids(updated_seen_ids)
         append_alert_log(sent_df)
 
-        print(f"Saved {len(updated_seen_ids)} total seen IDs.")
+        print(f"Saved {len(seen_ids)} total seen IDs.")
         print(f"Logged {len(sent_df)} sent alerts.")
     else:
         print("No alerts were successfully sent. Seen IDs were not updated.")
