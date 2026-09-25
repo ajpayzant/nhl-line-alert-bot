@@ -2,8 +2,9 @@ name: NHL GameDayTweets Line Alerts
 
 on:
   schedule:
-    # GitHub Actions scheduled workflows use cron.
-    # This runs every 5 minutes.
+    # Backup only. GitHub throttles scheduled runs heavily (observed ~every 3h),
+    # so the real 5-minute cadence comes from an external scheduler
+    # (cron-job.org) calling the workflow_dispatch API with mode=check.
     - cron: "*/5 * * * *"
 
   workflow_dispatch:
@@ -38,6 +39,7 @@ concurrency:
 jobs:
   run-line-alert-bot:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -49,6 +51,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -95,5 +98,7 @@ jobs:
             echo "No storage changes to commit."
           else
             git commit -m "Update NHL line alert state [skip ci]"
+            # Rebase in case someone pushed code while this run was going.
+            git pull --rebase origin main
             git push
           fi
