@@ -73,8 +73,6 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           MAX_NEW_ALERTS_PER_RUN: "15"
           REQUEST_SLEEP_SECONDS: "0.75"
-          # NHL gameType codes that count as game days: 1 = preseason, 2 = regular season, 3 = playoffs.
-          ALERT_GAME_TYPES: "1,2,3"
         run: |
           MODE="${{ github.event.inputs.mode || 'check' }}"
           SEND_BACKFILL="${{ github.event.inputs.send_backfill_on_first_run || 'false' }}"

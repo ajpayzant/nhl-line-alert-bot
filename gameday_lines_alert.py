@@ -45,7 +45,6 @@ except ImportError:
 # ============================================================
 
 URL = "https://www.gamedaytweets.com/lines"
-NHL_SCHEDULE_API = "https://api-web.nhle.com/v1/schedule/{date}"
 
 SEEN_PATH = "seen_gameday_line_status_ids.json"
 ALERT_LOG_PATH = "gameday_line_alert_log.csv"
@@ -57,11 +56,6 @@ MAX_NEW_ALERTS_PER_RUN = int(os.getenv("MAX_NEW_ALERTS_PER_RUN", "15"))
 
 # Seconds between oEmbed requests / Slack sends.
 REQUEST_SLEEP_SECONDS = float(os.getenv("REQUEST_SLEEP_SECONDS", "0.75"))
-
-# NHL gameType codes that count as a game day: 1 = preseason, 2 = regular season, 3 = playoffs.
-ALERT_GAME_TYPES = {
-    int(x) for x in os.getenv("ALERT_GAME_TYPES", "1,2,3").split(",") if x.strip()
-}
 
 # Seen IDs older than this are pruned, so posts older than this are never alerted.
 MAX_POST_AGE_DAYS = 7
@@ -406,37 +400,6 @@ def send_slack_message(message: str):
     return True
 
 
-def is_nhl_game_day() -> bool:
-    """
-    Returns True if there are NHL games of an ALERT_GAME_TYPES type today (ET date).
-    Falls back to True if the API is unreachable so we never miss a real game day.
-    """
-    try:
-        today = datetime.now(tz=ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
-        response = requests.get(
-            NHL_SCHEDULE_API.format(date=today),
-            headers=HEADERS,
-            timeout=10,
-        )
-        if response.status_code != 200:
-            print(f"NHL schedule API returned {response.status_code} — defaulting to run.")
-            return True
-        data = response.json()
-        game_days = data.get("gameWeek", [])
-        for day in game_days:
-            if day.get("date") != today:
-                continue
-            for game in day.get("games", []):
-                game_type = game.get("gameType")
-                if game_type in ALERT_GAME_TYPES:
-                    return True
-        print(f"No NHL games of type {sorted(ALERT_GAME_TYPES)} scheduled for {today}. Skipping run.")
-        return False
-    except Exception as e:
-        print(f"NHL schedule API check failed ({e}) — defaulting to run.")
-        return True
-
-
 def prune_seen_ids(seen_ids: set, max_age_days: int = MAX_POST_AGE_DAYS) -> set:
     """
     Removes status IDs older than max_age_days using the Snowflake timestamp.
@@ -657,9 +620,6 @@ def append_alert_log(alert_df: pd.DataFrame, path: str = ALERT_LOG_PATH):
 # ============================================================
 
 def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFrame:
-    if not is_nhl_game_day():
-        return pd.DataFrame()
-
     current_df = scrape_gameday_line_posts()
 
     if current_df.empty:
