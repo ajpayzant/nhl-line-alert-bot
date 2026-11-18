@@ -1,4 +1,4 @@
-name: NHL Line Alerts (GameDayTweets + Daily Faceoff)
+name: NHL Line Alerts (GameDayTweets + Daily Faceoff + NHL.com)
 
 on:
   schedule:
@@ -96,6 +96,18 @@ jobs:
 
           python dfo_lines_alert.py             --mode "$MODE"             --send-backfill-on-first-run "$SEND_BACKFILL"
 
+      - name: Run NHL.com projected lineups alert bot
+        # One request per run unless NHL.com edited its lineup article.
+        if: always() && github.event.inputs.mode != 'test-slack'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          NHLCOM_MAX_ALERTS_PER_RUN: "40"
+        run: |
+          MODE="${{ github.event.inputs.mode || 'check' }}"
+          SEND_BACKFILL="${{ github.event.inputs.send_backfill_on_first_run || 'false' }}"
+
+          python nhlcom_lines_alert.py --mode "$MODE" --send-backfill-on-first-run "$SEND_BACKFILL"
+
       - name: Commit updated seen IDs and alert log
         # always(): commit whatever was sent even if the bot step errored, so it is never re-sent.
         if: always() && github.event.inputs.mode != 'scrape-only' && github.event.inputs.mode != 'send-latest'
@@ -103,7 +115,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          for f in seen_gameday_line_status_ids.json gameday_line_alert_log.csv dfo_lines_state.json dfo_line_alert_log.csv; do
+          for f in seen_gameday_line_status_ids.json gameday_line_alert_log.csv dfo_lines_state.json dfo_line_alert_log.csv nhlcom_lines_state.json nhlcom_line_alert_log.csv; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
 
