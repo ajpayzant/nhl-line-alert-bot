@@ -32,6 +32,8 @@ from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
+import lineup_xcheck
+
 try:
     # Impersonates a real Chrome TLS/HTTP2 fingerprint, which Cloudflare
     # is much less likely to block than plain python-requests.
@@ -671,14 +673,23 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
     new_enriched_df = enrich_new_posts_with_oembed(new_df)
 
     sent_rows = []
+    # Cross-check against the other sources' lineups. Tweets it can't read as
+    # lines (PP units, notes, images) are sent exactly as before.
+    xcheck = lineup_xcheck.Checker("gameday")
 
     for _, row in new_enriched_df.iterrows():
         message = build_slack_notification(row)
+        now = datetime.now(tz=timezone.utc)
+        tweet_lineup = xcheck.from_tweet(safe_str(row.get("best_text") or row.get("gdt_preview_text")), now)
+        if tweet_lineup:
+            message = xcheck.annotate(message, tweet_lineup[0], tweet_lineup[1], now)
 
         try:
             send_slack_message(message)
             print(f"Slack alert sent for {row['status_id']} from {row.get('source_handle')}")
             sent_rows.append(row.to_dict())
+            if tweet_lineup:
+                xcheck.record(tweet_lineup[0], tweet_lineup[1], now)
 
             # Save after every send so a crash later in the run cannot cause repeats.
             seen_ids.add(str(row["status_id"]))

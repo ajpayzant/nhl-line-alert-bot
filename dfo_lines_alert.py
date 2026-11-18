@@ -32,6 +32,7 @@ import requests
 
 from datetime import datetime, timedelta, timezone
 
+import lineup_xcheck
 from gameday_lines_alert import (
     HEADERS,
     MAX_NEW_ALERTS_PER_RUN,
@@ -385,6 +386,7 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
 
     sent = 0
     alerted = already_alerted()
+    xcheck = lineup_xcheck.Checker("dfo")
     for team in teams:
         prev = state.get(team["team"])
         if is_stale(team, prev):
@@ -402,7 +404,11 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
             print(f"Hit the {MAX_NEW_ALERTS_PER_RUN}-alert cap; {team['team']} waits for the next run.")
             continue
 
-        send_slack_message(build_slack_notification(team, kind, prev))
+        now = datetime.now(timezone.utc)
+        lineup = {"forwards": team["forwards"], "defense": team["defense"],
+                  "goalie": team["goalies"][0] if team["goalies"] else ""}
+        send_slack_message(xcheck.annotate(build_slack_notification(team, kind, prev), team["team"], lineup, now))
+        xcheck.record(team["team"], lineup, now)
         append_alert_log(team, kind)
         alerted.add((team["team"], team["source"], lineup_signature(team)))
         state[team["team"]] = state_entry(team)

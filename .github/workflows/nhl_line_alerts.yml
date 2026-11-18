@@ -116,7 +116,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          for f in seen_gameday_line_status_ids.json gameday_line_alert_log.csv dfo_lines_state.json dfo_line_alert_log.csv dfo_last_scrape.txt nhlcom_lines_state.json nhlcom_line_alert_log.csv; do
+          for f in seen_gameday_line_status_ids.json gameday_line_alert_log.csv dfo_lines_state.json dfo_line_alert_log.csv dfo_last_scrape.txt nhlcom_lines_state.json nhlcom_line_alert_log.csv posted_lineups.json roster_cache.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
 

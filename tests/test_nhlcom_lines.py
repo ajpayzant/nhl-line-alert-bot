@@ -27,12 +27,20 @@ def story(f=F, d=D, g=G, updated="2026-11-17T21:09:00Z", content="2026-11-17T20:
     return {"contentDate": content, "lastUpdatedDate": updated, "parts": [{"type": "markdown", "content": part}]}
 
 
+class NoCheck:
+    def annotate(self, message, *a):
+        return message
+
+    def record(self, *a):
+        pass
+
+
 def run(s, state, hhmm="16:10"):
     h, m = map(int, hhmm.split(":"))
     sent = []
     bot.check_and_send_alerts(s, state, datetime(2026, 11, 17, h, m, tzinfo=ET), send=sent.append,
                               fetch=lambda team: ROSTER, save=lambda s: None, log=lambda *a: None,
-                              sleep=lambda s: None)
+                              sleep=lambda s: None, xcheck=NoCheck())
     return sent
 
 

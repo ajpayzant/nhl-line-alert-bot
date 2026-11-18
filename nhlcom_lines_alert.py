@@ -41,6 +41,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+import lineup_xcheck
 from gameday_lines_alert import (
     HEADERS,
     format_et,
@@ -407,7 +408,7 @@ def rosters_for(state: dict, teams: list, today: str, fetch=fetch_roster) -> dic
 
 def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_slack_message,
                           send_backfill_on_first_run: bool = False, fetch=fetch_roster,
-                          save=save_state, log=append_alert_log, sleep=time.sleep) -> list:
+                          save=save_state, log=append_alert_log, sleep=time.sleep, xcheck=None) -> list:
     """Returns the messages sent. ``story`` is the article JSON; ``state`` is
     updated in place (and saved via ``save`` after every send)."""
     article_updated = story.get("lastUpdatedDate") or story["contentDate"]
@@ -430,6 +431,7 @@ def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_sla
             print(f"  {t['team']}: corrected {t['fixed']}")
     print(f"Article updated {article_updated}: {len(teams)} team lineups for {teams[0]['game_date'] if teams else '-'}.")
 
+    xcheck = xcheck or lineup_xcheck.Checker("nhlcom")
     sent = []
     for t in sorted(teams, key=lambda t: (t["start"], t["home"][0], t["team"] != t["away"][0])):
         key = f"{t['game_date']}:{t['team']}"
@@ -447,10 +449,12 @@ def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_sla
             print(f"Hit the {MAX_ALERTS_PER_RUN}-alert cap; {t['team']} waits for the next run.")
             continue
         kind = "update" if prev else "new"
-        message = build_slack_notification(t, kind, prev, article_updated, now)
+        lineup = {"forwards": t["forwards"], "defense": t["defense"], "goalie": t["goalies"][0] if t["goalies"] else ""}
+        message = xcheck.annotate(build_slack_notification(t, kind, prev, article_updated, now), t["team"], lineup, now)
         if sent:
             sleep(SEND_SLEEP_SECONDS)
         send(message)
+        xcheck.record(t["team"], lineup, now)
         log(t, kind, article_updated, describe_changes(t, prev) if prev else [])
         lineups[key] = entry(t, article_updated)
         save(state)
