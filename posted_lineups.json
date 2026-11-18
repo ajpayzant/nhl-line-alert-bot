@@ -42,6 +42,30 @@
     "goalie": ""
    }
   },
+  "SJS": {
+   "gameday": {
+    "at": "2026-11-18T19:41:35+00:00",
+    "defense": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Wennberg",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Ostapchuk",
+      "Toffoli"
+     ]
+    ],
+    "goalie": ""
+   }
+  },
   "STL": {
    "gameday": {
     "at": "2026-11-18T18:52:37+00:00",
