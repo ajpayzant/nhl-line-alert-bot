@@ -1,13 +1,13 @@
 {
   "ANA": {
-    "goalie": "Husso",
+    "goalie": "Dostal",
     "players": [
       "Carlsson",
       "Caulfield",
       "Colangelo",
       "Gauthier",
       "Granlund",
-      "Hinds",
+      "Helleson",
       "Killorn",
       "Lacombe",
       "Luneau",
@@ -20,9 +20,9 @@
       "Warren",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Caulfield\"], [\"Malott\", \"Granlund\", \"Terry\"], [\"Killorn\", \"Washe\"], [\"Nesterenko\", \"McQueen\", \"Colangelo\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Warren\"], [\"Hinds\", \"Luneau\"]], [\"Husso\"], [\"Killorn\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://x.com/AnaheimDucks/status/2122856060281127399",
-    "updated_at": "2026-11-18T00:57:50.337Z"
+    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Caulfield\"], [\"Malott\", \"Granlund\", \"Terry\"], [\"Killorn\", \"Washe\"], [\"Nesterenko\", \"McQueen\", \"Colangelo\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Luneau\"], [\"Helleson\", \"Warren\"]], [\"Dostal\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020339",
+    "updated_at": "2026-11-18T14:57:15.531Z"
   },
   "BOS": {
     "goalie": "Swayman",
