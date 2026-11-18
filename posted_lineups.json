@@ -42,6 +42,48 @@
     "goalie": "Swayman"
    }
   },
+  "BUF": {
+   "dfo": {
+    "at": "2026-11-18T20:34:35+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Metsa"
+     ]
+    ],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Lyon"
+   }
+  },
   "COL": {
    "nhlcom": {
     "at": "2026-11-18T19:53:26+00:00",
@@ -193,6 +235,46 @@
    }
   },
   "STL": {
+   "dfo": {
+    "at": "2026-11-18T20:34:35+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Carlo"
+     ]
+    ],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Snuggerud"
+     ],
+     [
+      "Holloway",
+      "McTavish",
+      "McMichael"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Dvorsky",
+      "Suter",
+      "Toropchenko"
+     ]
+    ],
+    "goalie": "Hofer"
+   },
    "gameday": {
     "at": "2026-11-18T18:52:37+00:00",
     "defense": [

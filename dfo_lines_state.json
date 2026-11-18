@@ -53,13 +53,13 @@
     "goalie": "Lyon",
     "players": [
       "Benson",
+      "Carrick",
       "Dahlin",
       "Doan",
       "Kozak",
       "Krebs",
       "Kulich",
       "Malenstyn",
-      "McLeod",
       "Metsa",
       "Norris",
       "Ostlund",
@@ -71,9 +71,9 @@
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"McLeod\", \"Ostlund\", \"Quinn\"], [\"Krebs\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Zucker\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Lyon\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020337",
-    "updated_at": "2026-11-18T14:53:34.379Z"
+    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Lyon\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
+    "source": "https://x.com/pham1717/status/2123131868384002403?a=5bi4XRWUorRINCjGzk0&s=20",
+    "updated_at": "2026-11-18T20:33:32.137Z"
   },
   "CAR": {
     "goalie": "Bussi",
@@ -638,8 +638,8 @@
       "Toropchenko"
     ],
     "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"McMichael\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Dvorsky\", \"Suter\", \"Toropchenko\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020339",
-    "updated_at": "2026-11-18T14:58:26.036Z"
+    "source": "https://x.com/lkorac10/status/2123125585048121744?a=GEmSjK-LPLJ0Mq7YLXo&s=20",
+    "updated_at": "2026-11-18T20:32:09.894Z"
   },
   "TBL": {
     "goalie": "Vasilevskiy",
