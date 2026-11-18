@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-18T19:53:14.882Z",
+ "article_updated": "2026-11-18T19:57:51.997Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1042,6 +1042,54 @@
     "Justin Holl"
    ]
   },
+  "2026-11-18:BOS": {
+   "article_updated": "2026-11-18T19:57:51.997Z",
+   "defense": [
+    [
+     "Hampus Lindholm",
+     "Charlie McAvoy"
+    ],
+    [
+     "Nikita Zadorov",
+     "Will Borgen"
+    ],
+    [
+     "Mason Lohrei",
+     "Connor Clifton"
+    ]
+   ],
+   "forwards": [
+    [
+     "JJ Peterka",
+     "Pavel Zacha",
+     "David Pastrnak"
+    ],
+    [
+     "Michael Eyssimont",
+     "Fraser Minten",
+     "Morgan Geekie"
+    ],
+    [
+     "Casey Mittelstadt",
+     "Elias Lindholm",
+     "Marat Khusnutdinov"
+    ],
+    [
+     "Tanner Jeannot",
+     "Sean Kuraly",
+     "Mark Kastelic"
+    ]
+   ],
+   "goalies": [
+    "Jeremy Swayman",
+    "Michael DiPietro"
+   ],
+   "scratched": [
+    "Matthew Poitras",
+    "Frederic Brunet",
+    "Jonathan Aspirot"
+   ]
+  },
   "2026-11-18:COL": {
    "article_updated": "2026-11-18T19:53:14.882Z",
    "defense": [
@@ -1086,6 +1134,53 @@
    ],
    "scratched": [
     "Mike Reilly"
+   ]
+  },
+  "2026-11-18:DET": {
+   "article_updated": "2026-11-18T19:57:51.997Z",
+   "defense": [
+    [
+     "Anton Johansson",
+     "Moritz Seider"
+    ],
+    [
+     "Ben Chiarot",
+     "Justin Faulk"
+    ],
+    [
+     "Andreas Englund",
+     "Jacob Bernard-Docker"
+    ]
+   ],
+   "forwards": [
+    [
+     "Alex DeBrincat",
+     "Emmitt Finnie",
+     "Viktor Arvidsson"
+    ],
+    [
+     "Michael Brandsegg-Nygård",
+     "Andrew Copp",
+     "Lucas Raymond"
+    ],
+    [
+     "Carter Mazur",
+     "Nate Danielson",
+     "J.T. Compher"
+    ],
+    [
+     "Michael Rasmussen",
+     "Sheldon Dries",
+     "Keegan Kolesar"
+    ]
+   ],
+   "goalies": [
+    "Daniil Tarasov",
+    "John Gibson"
+   ],
+   "scratched": [
+    "Axel Sandin-Pellikka",
+    "John Leonard"
    ]
   },
   "2026-11-18:MTL": {
@@ -1234,6 +1329,104 @@
  "rosters": {
   "date": "2026-11-18",
   "teams": {
+   "BOS": [
+    [
+     "Michael Eyssimont",
+     "C"
+    ],
+    [
+     "Morgan Geekie",
+     "C"
+    ],
+    [
+     "James Hagens",
+     "C"
+    ],
+    [
+     "Tanner Jeannot",
+     "L"
+    ],
+    [
+     "Mark Kastelic",
+     "C"
+    ],
+    [
+     "Marat Khusnutdinov",
+     "C"
+    ],
+    [
+     "Sean Kuraly",
+     "C"
+    ],
+    [
+     "Elias Lindholm",
+     "C"
+    ],
+    [
+     "Fraser Minten",
+     "C"
+    ],
+    [
+     "Casey Mittelstadt",
+     "C"
+    ],
+    [
+     "David Pastrnak",
+     "R"
+    ],
+    [
+     "JJ Peterka",
+     "R"
+    ],
+    [
+     "Matthew Poitras",
+     "C"
+    ],
+    [
+     "Pavel Zacha",
+     "C"
+    ],
+    [
+     "Jonathan Aspirot",
+     "D"
+    ],
+    [
+     "Will Borgen",
+     "D"
+    ],
+    [
+     "Frederic Brunet",
+     "D"
+    ],
+    [
+     "Connor Clifton",
+     "D"
+    ],
+    [
+     "Hampus Lindholm",
+     "D"
+    ],
+    [
+     "Mason Lohrei",
+     "D"
+    ],
+    [
+     "Charlie McAvoy",
+     "D"
+    ],
+    [
+     "Nikita Zadorov",
+     "D"
+    ],
+    [
+     "Michael DiPietro",
+     "G"
+    ],
+    [
+     "Jeremy Swayman",
+     "G"
+    ]
+   ],
    "COL": [
     [
      "Gavin Brindley",
@@ -1333,6 +1526,100 @@
     ],
     [
      "Scott Wedgewood",
+     "G"
+    ]
+   ],
+   "DET": [
+    [
+     "Mason Appleton",
+     "C"
+    ],
+    [
+     "Viktor Arvidsson",
+     "L"
+    ],
+    [
+     "Michael Brandsegg-Nygård",
+     "R"
+    ],
+    [
+     "J.T. Compher",
+     "L"
+    ],
+    [
+     "Andrew Copp",
+     "C"
+    ],
+    [
+     "Alex DeBrincat",
+     "R"
+    ],
+    [
+     "Sheldon Dries",
+     "C"
+    ],
+    [
+     "Emmitt Finnie",
+     "C"
+    ],
+    [
+     "Marco Kasper",
+     "C"
+    ],
+    [
+     "Keegan Kolesar",
+     "R"
+    ],
+    [
+     "Carter Mazur",
+     "L"
+    ],
+    [
+     "Michael Rasmussen",
+     "C"
+    ],
+    [
+     "Lucas Raymond",
+     "L"
+    ],
+    [
+     "Jacob Bernard-Docker",
+     "D"
+    ],
+    [
+     "Ben Chiarot",
+     "D"
+    ],
+    [
+     "Andreas Englund",
+     "D"
+    ],
+    [
+     "Justin Faulk",
+     "D"
+    ],
+    [
+     "Albert Johansson",
+     "D"
+    ],
+    [
+     "Anton Johansson",
+     "D"
+    ],
+    [
+     "Moritz Seider",
+     "D"
+    ],
+    [
+     "William Wallinder",
+     "D"
+    ],
+    [
+     "John Gibson",
+     "G"
+    ],
+    [
+     "Daniil Tarasov",
      "G"
     ]
    ],
