@@ -156,13 +156,13 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
-      "Bedard",
       "Bertuzzi",
       "Cole",
       "Del Mastro",
       "Donato",
       "Frondell",
       "Greene",
+      "Greenway",
       "Kaiser",
       "Kane",
       "Kantserov",
@@ -175,9 +175,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Bertuzzi\", \"Bedard\", \"Kantserov\"], [\"Smith\", \"Frondell\", \"Teravainen\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Greene\", \"Donato\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Nazar\", \"Kantserov\", \"Kane\", \"Bedard\", \"Rinzel\"]]",
-    "source": "https://x.com/Mario_Tirabassi/status/2122378864194433072",
-    "updated_at": "2026-11-17T02:36:53.865Z"
+    "signature": "[[[\"Bertuzzi\", \"Greene\", \"Kantserov\"], [\"Smith\", \"Frondell\", \"Teravainen\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Donato\", \"Greenway\"]], [[\"Vlasic\", \"Cole\"], [\"Kaiser\", \"Rinzel\"], [\"Del Mastro\", \"Levshunov\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
+    "source": "",
+    "updated_at": "2026-11-18T12:10:04.303Z"
   },
   "COL": {
     "goalie": "Blackwood",
@@ -308,7 +308,7 @@
     "updated_at": "2026-11-17T23:41:52.132Z"
   },
   "LAK": {
-    "goalie": "Forsberg",
+    "goalie": "Kuemper",
     "players": [
       "Anderson",
       "Armia",
@@ -329,9 +329,9 @@
       "Turcotte",
       "Zuccarello"
     ],
-    "signature": "[[[\"Turcotte\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Laughton\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Forsberg\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
-    "source": "https://lakingsinsider.com/2026/11/17/11-17-preview-gustafsson-expected-to-return-power-play-entries-setup-overtime-history/",
-    "updated_at": "2026-11-17T18:08:59.150Z"
+    "signature": "[[[\"Turcotte\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Laughton\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020333",
+    "updated_at": "2026-11-18T11:50:03.778Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
