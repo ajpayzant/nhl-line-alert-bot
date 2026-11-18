@@ -85,6 +85,46 @@
    }
   },
   "COL": {
+   "dfo": {
+    "at": "2026-11-18T20:49:35+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Juulsen"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Schwartz",
+      "Kadri",
+      "Hughes"
+     ],
+     [
+      "Landeskog",
+      "Roy",
+      "Brindley"
+     ],
+     [
+      "Kelly",
+      "Svechkov",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood"
+   },
    "nhlcom": {
     "at": "2026-11-18T19:53:26+00:00",
     "defense": [
