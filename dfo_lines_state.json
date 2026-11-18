@@ -72,8 +72,8 @@
       "Zucker"
     ],
     "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"McLeod\", \"Ostlund\", \"Quinn\"], [\"Krebs\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Zucker\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Lyon\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://x.com/rachelmlenzi/status/2122836598903521759",
-    "updated_at": "2026-11-17T23:44:04.629Z"
+    "source": "https://www.nhl.com/gamecenter/2026020337",
+    "updated_at": "2026-11-18T14:53:34.379Z"
   },
   "CAR": {
     "goalie": "Bussi",
@@ -512,7 +512,7 @@
     "updated_at": "2026-11-16T16:06:30.660Z"
   },
   "PHI": {
-    "goalie": "Woll",
+    "goalie": "Vladar",
     "players": [
       "Acciari",
       "Barkey",
@@ -533,9 +533,9 @@
       "York",
       "Zegras"
     ],
-    "signature": "[[[\"Foerster\", \"Zegras\", \"Konecny\"], [\"Knuble\", \"Dvorak\", \"Tippett\"], [\"Martone\", \"Cates\", \"Michkov\"], [\"Barkey\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Drysdale\"], [\"York\", \"Ristolainen\"], [\"Seeler\", \"Bonk\"]], [\"Woll\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
-    "source": "https://x.com/wmjsports/status/2122836127833038925",
-    "updated_at": "2026-11-17T23:41:24.456Z"
+    "signature": "[[[\"Foerster\", \"Zegras\", \"Konecny\"], [\"Knuble\", \"Dvorak\", \"Tippett\"], [\"Martone\", \"Cates\", \"Michkov\"], [\"Barkey\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Drysdale\"], [\"York\", \"Ristolainen\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020337",
+    "updated_at": "2026-11-18T14:54:38.234Z"
   },
   "PIT": {
     "goalie": "Murashov",
