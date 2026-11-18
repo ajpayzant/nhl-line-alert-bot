@@ -512,7 +512,7 @@
     "updated_at": "2026-11-18T15:03:45.740Z"
   },
   "PHI": {
-    "goalie": "Vladar",
+    "goalie": "Woll",
     "players": [
       "Acciari",
       "Barkey",
@@ -533,9 +533,9 @@
       "York",
       "Zegras"
     ],
-    "signature": "[[[\"Foerster\", \"Zegras\", \"Konecny\"], [\"Knuble\", \"Dvorak\", \"Tippett\"], [\"Martone\", \"Cates\", \"Michkov\"], [\"Barkey\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Drysdale\"], [\"York\", \"Ristolainen\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020337",
-    "updated_at": "2026-11-18T14:54:38.234Z"
+    "signature": "[[[\"Foerster\", \"Zegras\", \"Konecny\"], [\"Knuble\", \"Dvorak\", \"Tippett\"], [\"Martone\", \"Cates\", \"Michkov\"], [\"Barkey\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Drysdale\"], [\"York\", \"Ristolainen\"], [\"Seeler\", \"Bonk\"]], [\"Woll\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
+    "source": "https://x.com/wmjsports/status/2122836127833038925",
+    "updated_at": "2026-11-17T23:41:24.456Z"
   },
   "PIT": {
     "goalie": "Murashov",
@@ -746,7 +746,7 @@
     "updated_at": "2026-11-17T02:23:05.410Z"
   },
   "VGK": {
-    "goalie": "Hill",
+    "goalie": "Hart",
     "players": [
       "Andersson",
       "Barbashev",
@@ -767,9 +767,9 @@
       "Theodore",
       "Wotherspoon"
     ],
-    "signature": "[[[\"Howden\", \"Eichel\", \"Stone\"], [\"Connelly\", \"Karlsson\", \"Marner\"], [\"Barbashev\", \"Hertl\", \"Olofsson\"], [\"Lavoie\", \"Dowd\", \"Bowman\"]], [[\"McNabb\", \"Theodore\"], [\"Lauzon\", \"Andersson\"], [\"Wotherspoon\", \"Coghlan\"]], [\"Hill\"], [\"Stone\", \"Hertl\", \"Olofsson\", \"Eichel\", \"Marner\"]]",
-    "source": "https://x.com/SinBinVegas/status/2122766795908292885",
-    "updated_at": "2026-11-17T19:19:55.343Z"
+    "signature": "[[[\"Howden\", \"Eichel\", \"Stone\"], [\"Connelly\", \"Karlsson\", \"Marner\"], [\"Barbashev\", \"Hertl\", \"Olofsson\"], [\"Lavoie\", \"Dowd\", \"Bowman\"]], [[\"McNabb\", \"Theodore\"], [\"Lauzon\", \"Andersson\"], [\"Wotherspoon\", \"Coghlan\"]], [\"Hart\"], [\"Stone\", \"Hertl\", \"Olofsson\", \"Eichel\", \"Marner\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020342",
+    "updated_at": "2026-11-18T15:05:41.850Z"
   },
   "WPG": {
     "goalie": "Daws",
