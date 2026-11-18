@@ -414,6 +414,10 @@ def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_sla
     if state.get("article_updated") == article_updated:
         print(f"Article unchanged since {article_updated}.")
         return []
+    if state.get("article_updated") and article_updated < state["article_updated"]:
+        # An older cached copy (as Daily Faceoff's CDN serves sometimes): never go backwards.
+        print(f"Ignoring an older copy of the article ({article_updated} < {state['article_updated']}).")
+        return []
 
     first_run = "lineups" not in state
     lineups = state.setdefault("lineups", {})

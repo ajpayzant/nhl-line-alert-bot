@@ -88,3 +88,10 @@ def test_time_with_comma_and_missing_paren():
     assert t["start"].startswith("2026-11-17T19:30")
     t["injured"] = ["Dylan DeMelo lower body)"]
     assert bot.normalize(t, ROSTER)["injured"] == ["Dylan DeMelo (lower body)"]
+
+
+def test_older_cached_article_is_ignored():
+    state = seeded()
+    run(story(updated="2026-11-17T22:12:00Z"), state)
+    f2 = [r[::-1] for r in F[::-1]]
+    assert run(story(f=f2, updated="2026-11-17T21:09:00Z"), state, "17:20") == []

@@ -30,7 +30,7 @@ import time
 import argparse
 import requests
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from gameday_lines_alert import (
     HEADERS,
@@ -219,9 +219,28 @@ def state_entry(team: dict) -> dict:
     }
 
 
-def alert_kind(team: dict, prev: dict | None) -> str | None:
-    """Returns "new", "update" or None (no alert)."""
-    if prev is None or is_reset(team):
+def is_stale(team: dict, prev: dict | None) -> bool:
+    """Daily Faceoff's CDN sometimes serves an old cached copy of a team page (seen
+    Nov 18: Chicago flipped between that morning's reset and the night before's
+    lineup for an hour). A page older than the one already seen is ignored."""
+    return bool(prev and team["updated_at"] and prev.get("updated_at") and team["updated_at"] < prev["updated_at"])
+
+
+def already_alerted(path: str = ALERT_LOG_PATH, days: int = 3) -> set:
+    """(team, source, lineup) for every alert in the log from the last few days."""
+    if not os.path.exists(path):
+        return set()
+    cutoff = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d %H:%M:%S")
+    with open(path, newline="", encoding="utf-8") as f:
+        return {(r["team"], r["source"], r["lineup"]) for r in csv.DictReader(f) if r["alert_sent_at"] >= cutoff}
+
+
+def alert_kind(team: dict, prev: dict | None, alerted: set = frozenset()) -> str | None:
+    """Returns "new", "update" or None (no alert). The same lineup from the same
+    source is never sent twice."""
+    if prev is None or is_reset(team) or is_stale(team, prev):
+        return None
+    if (team["team"], team["source"], lineup_signature(team)) in alerted:
         return None
     if team["source"] != prev.get("source"):
         return "new"
@@ -341,9 +360,13 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
     teams.sort(key=lambda t: t["updated_at"])
 
     sent = 0
+    alerted = already_alerted()
     for team in teams:
         prev = state.get(team["team"])
-        kind = alert_kind(team, prev) if not first_run else ("new" if not is_reset(team) else None)
+        if is_stale(team, prev):
+            print(f"{team['team']}: ignoring a stale cached page ({team['updated_at']} < {prev['updated_at']})")
+            continue
+        kind = alert_kind(team, prev, alerted) if not first_run else ("new" if not is_reset(team) else None)
 
         if kind is None:
             if prev is None or prev.get("updated_at") != team["updated_at"]:
@@ -357,6 +380,7 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
 
         send_slack_message(build_slack_notification(team, kind, prev))
         append_alert_log(team, kind)
+        alerted.add((team["team"], team["source"], lineup_signature(team)))
         state[team["team"]] = state_entry(team)
         save_state(state)
         sent += 1
