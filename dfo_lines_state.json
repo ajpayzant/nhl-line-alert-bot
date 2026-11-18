@@ -111,7 +111,6 @@
       "Gudbranson",
       "Johnson",
       "Knies",
-      "Lomberg",
       "Lorentz",
       "Mateychuk",
       "Nichushkin",
@@ -123,9 +122,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Voronkov\", \"Fantilli\", \"Nichushkin\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Coyle\", \"Olivier\"], [\"Lomberg\", \"Williams\", \"Lorentz\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Fabbro\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Del Bel Belluz\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "",
-    "updated_at": "2026-11-17T17:59:23.315Z"
+    "signature": "[[[\"Voronkov\", \"Fantilli\", \"Nichushkin\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Coyle\", \"Olivier\"], [\"Williams\", \"Lorentz\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Fabbro\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Del Bel Belluz\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020336",
+    "updated_at": "2026-11-18T12:12:41.271Z"
   },
   "CGY": {
     "goalie": "Wolf",
