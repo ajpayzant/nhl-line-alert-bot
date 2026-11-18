@@ -538,16 +538,15 @@
     "updated_at": "2026-11-18T17:32:43.662Z"
   },
   "PIT": {
-    "goalie": "Murashov",
+    "goalie": "Silovs",
     "players": [
-      "Brazeau",
-      "Carlile",
       "Chinakhov",
       "Crosby",
       "Dewar",
       "Girard",
       "Karlsson",
       "Kindel",
+      "Koivunen",
       "Korczak",
       "Lapierre",
       "Letang",
@@ -557,11 +556,12 @@
       "Novak",
       "Rakell",
       "Robertson",
-      "Stastney"
+      "Stastney",
+      "van Riemsdyk"
     ],
-    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Chinakhov\"], [\"Robertson\", \"Lapierre\", \"Brazeau\"], [\"McGroarty\", \"Lizotte\", \"Dewar\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"Carlile\", \"Letang\"]], [\"Murashov\"], [\"Kindel\", \"Novak\", \"Rakell\", \"Karlsson\", \"Crosby\"]]",
-    "source": "https://x.com/PensInsideScoop/status/2122023227442782666?a=m7iP2dDPji9ycxpkJh8&s=20",
-    "updated_at": "2026-11-15T17:59:44.808Z"
+    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Robertson\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"van Riemsdyk\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "source": "https://x.com/JG_PxP/status/2123090101869654239?s=20",
+    "updated_at": "2026-11-18T17:37:30.383Z"
   },
   "SEA": {
     "goalie": "Daccord",
