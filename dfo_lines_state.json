@@ -668,7 +668,7 @@
     "updated_at": "2026-11-18T11:57:03.966Z"
   },
   "TOR": {
-    "goalie": "Bobrovsky",
+    "goalie": "Stolarz",
     "players": [
       "Blueger",
       "Cowan",
@@ -689,9 +689,9 @@
       "Tavares",
       "Tverberg"
     ],
-    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"Tverberg\", \"Tavares\", \"Nylander\"], [\"McKenna\", \"Paul\", \"Joshua\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Ekman-Larsson\", \"Tanev\"], [\"Rielly\", \"Stecher\"]], [\"Bobrovsky\"], [\"Tavares\", \"Nylander\", \"Roslovic\", \"Raddysh\", \"Matthews\"]]",
-    "source": "https://x.com/davidalter/status/2122367276297166987",
-    "updated_at": "2026-11-18T12:26:46.089Z"
+    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"Tverberg\", \"Tavares\", \"Nylander\"], [\"McKenna\", \"Paul\", \"Joshua\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Ekman-Larsson\", \"Tanev\"], [\"Rielly\", \"Stecher\"]], [\"Stolarz\"], [\"Tavares\", \"Nylander\", \"Roslovic\", \"Raddysh\", \"Matthews\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020338",
+    "updated_at": "2026-11-18T14:55:42.637Z"
   },
   "UTA": {
     "goalie": "Vejmelka",
