@@ -211,6 +211,46 @@
    }
   },
   "SJS": {
+   "dfo": {
+    "at": "2026-11-18T20:39:36+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Orlov",
+      "Trouba"
+     ],
+     [
+      "Dickinson",
+      "Allan"
+     ]
+    ],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Wennberg",
+      "Smith"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Toffoli",
+      "Ostapchuk",
+      "Misa"
+     ]
+    ],
+    "goalie": "Askarov"
+   },
    "gameday": {
     "at": "2026-11-18T19:41:35+00:00",
     "defense": [],

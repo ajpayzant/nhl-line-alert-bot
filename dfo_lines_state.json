@@ -592,13 +592,13 @@
   "SJS": {
     "goalie": "Askarov",
     "players": [
+      "Allan",
       "Celebrini",
       "Dellandrea",
       "Dickinson",
       "Gaudette",
       "Goodrow",
       "Graf",
-      "Kesselring",
       "Marchment",
       "Misa",
       "Nurse",
@@ -611,9 +611,9 @@
       "Trouba",
       "Wennberg"
     ],
-    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Marchment\", \"Wennberg\", \"Misa\"], [\"Toffoli\", \"Dellandrea\", \"Graf\"], [\"Goodrow\", \"Ostapchuk\", \"Gaudette\"]], [[\"Nurse\", \"Kesselring\"], [\"Dickinson\", \"Trouba\"], [\"Orlov\", \"Pohlkamp\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Toffoli\", \"Celebrini\", \"Dickinson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020343",
-    "updated_at": "2026-11-18T15:10:23.453Z"
+    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Gaudette\"], [\"Goodrow\", \"Wennberg\", \"Smith\"], [\"Marchment\", \"Dellandrea\", \"Graf\"], [\"Toffoli\", \"Ostapchuk\", \"Misa\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Orlov\", \"Trouba\"], [\"Dickinson\", \"Allan\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Toffoli\", \"Celebrini\", \"Dickinson\"]]",
+    "source": "https://x.com/CurtisPashelka/status/2123139765826646318?a=ZNhmZSLG15fFoh_CGl0&s=20",
+    "updated_at": "2026-11-18T20:35:07.574Z"
   },
   "STL": {
     "goalie": "Hofer",
