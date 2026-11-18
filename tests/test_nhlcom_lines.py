@@ -37,7 +37,7 @@ def run(s, state, hhmm="16:10"):
 
 
 def seeded():
-    return {"article_updated": "x", "lineups": {}}
+    return {"article_updated": "2026-11-16T21:00:00Z", "lineups": {}}
 
 
 def test_first_run_seeds_silently_then_posts_each_team_once():
