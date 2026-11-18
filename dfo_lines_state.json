@@ -155,13 +155,13 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
+      "Bedard",
       "Bertuzzi",
       "Cole",
       "Del Mastro",
       "Donato",
       "Frondell",
       "Greene",
-      "Greenway",
       "Kaiser",
       "Kane",
       "Kantserov",
@@ -174,9 +174,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Bertuzzi\", \"Greene\", \"Kantserov\"], [\"Smith\", \"Frondell\", \"Teravainen\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Donato\", \"Greenway\"]], [[\"Vlasic\", \"Cole\"], [\"Kaiser\", \"Rinzel\"], [\"Del Mastro\", \"Levshunov\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
-    "source": "",
-    "updated_at": "2026-11-18T12:10:04.303Z"
+    "signature": "[[[\"Bertuzzi\", \"Bedard\", \"Kantserov\"], [\"Smith\", \"Frondell\", \"Teravainen\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Greene\", \"Donato\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Nazar\", \"Kantserov\", \"Kane\", \"Bedard\", \"Rinzel\"]]",
+    "source": "https://x.com/Mario_Tirabassi/status/2122378864194433072",
+    "updated_at": "2026-11-17T02:36:53.865Z"
   },
   "COL": {
     "goalie": "Blackwood",
