@@ -308,7 +308,7 @@
     "updated_at": "2026-11-17T23:41:52.132Z"
   },
   "LAK": {
-    "goalie": "Forsberg",
+    "goalie": "Kuemper",
     "players": [
       "Anderson",
       "Armia",
@@ -329,9 +329,9 @@
       "Turcotte",
       "Zuccarello"
     ],
-    "signature": "[[[\"Turcotte\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Laughton\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Forsberg\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
-    "source": "https://lakingsinsider.com/2026/11/17/11-17-preview-gustafsson-expected-to-return-power-play-entries-setup-overtime-history/",
-    "updated_at": "2026-11-17T18:08:59.150Z"
+    "signature": "[[[\"Turcotte\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Laughton\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020333",
+    "updated_at": "2026-11-18T11:50:03.778Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
@@ -819,8 +819,8 @@
       "Tuch",
       "Wilson"
     ],
-    "signature": "[[[\"Protas\", \"Dubois\", \"Tuch\"], [\"Leonard\", \"Strome\", \"Wilson\"], [\"Beauvillier\", \"Jenner\", \"Kyrou\"], [\"Ovechkin\", \"Protas\", \"Sourdif\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Liljegren\"], [\"Hutson\", \"St. Ivany\"]], [\"Thompson\"], [\"Wilson\", \"Strome\", \"Kyrou\", \"Ovechkin\", \"Chychrun\"]]",
-    "source": "https://x.com/VogsCaps/status/2122845321525141729",
-    "updated_at": "2026-11-18T00:14:09.344Z"
+    "signature": "[[[\"Protas\", \"Dubois\", \"Tuch\"], [\"Leonard\", \"Strome\", \"Wilson\"], [\"Sourdif\", \"Protas\", \"Kyrou\"], [\"Ovechkin\", \"Jenner\", \"Beauvillier\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Liljegren\"], [\"Hutson\", \"St. Ivany\"]], [\"Thompson\"], [\"Wilson\", \"Strome\", \"Kyrou\", \"Ovechkin\", \"Chychrun\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020334",
+    "updated_at": "2026-11-18T11:53:52.406Z"
   }
 }
