@@ -616,7 +616,7 @@
     "updated_at": "2026-11-18T02:40:21.700Z"
   },
   "STL": {
-    "goalie": "Binnington",
+    "goalie": "Hofer",
     "players": [
       "Barron",
       "Berggren",
@@ -637,9 +637,9 @@
       "Thomas",
       "Toropchenko"
     ],
-    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"McMichael\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Dvorsky\", \"Suter\", \"Toropchenko\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Binnington\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "https://x.com/lkorac10/status/2122851291760369909",
-    "updated_at": "2026-11-18T00:38:51.558Z"
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"McMichael\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Dvorsky\", \"Suter\", \"Toropchenko\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020339",
+    "updated_at": "2026-11-18T14:58:26.036Z"
   },
   "TBL": {
     "goalie": "Vasilevskiy",
