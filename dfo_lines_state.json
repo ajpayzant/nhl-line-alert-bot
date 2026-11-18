@@ -408,7 +408,7 @@
     "updated_at": "2026-11-17T17:43:53.464Z"
   },
   "NSH": {
-    "goalie": "Annunen",
+    "goalie": "Saros",
     "players": [
       "Bourque",
       "Colton",
@@ -429,9 +429,9 @@
       "Wilsby",
       "Wright"
     ],
-    "signature": "[[[\"Stamkos\", \"O'Reilly\", \"Bourque\"], [\"Forsberg\", \"Wright\", \"Hoglander\"], [\"Schaefer\", \"Kerfoot\", \"Marchessault\"], [\"Colton\", \"Drury\", \"Edstrom\"]], [[\"Josi\", \"Wilsby\"], [\"Skjei\", \"Perbix\"], [\"Hague\", \"Struble\"]], [\"Annunen\"], [\"Forsberg\", \"O'Reilly\", \"Marchessault\", \"Stamkos\", \"Josi\"]]",
-    "source": "https://x.com/brooksbratten/status/2122851024805240929",
-    "updated_at": "2026-11-18T00:39:21.931Z"
+    "signature": "[[[\"Stamkos\", \"O'Reilly\", \"Bourque\"], [\"Forsberg\", \"Wright\", \"Hoglander\"], [\"Schaefer\", \"Kerfoot\", \"Marchessault\"], [\"Colton\", \"Drury\", \"Edstrom\"]], [[\"Josi\", \"Wilsby\"], [\"Skjei\", \"Perbix\"], [\"Hague\", \"Struble\"]], [\"Saros\"], [\"Forsberg\", \"O'Reilly\", \"Marchessault\", \"Stamkos\", \"Josi\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020340",
+    "updated_at": "2026-11-18T15:01:56.750Z"
   },
   "NYI": {
     "goalie": "Sorokin",
