@@ -1,6 +1,46 @@
 {
  "2026-11-18": {
   "BOS": {
+   "gameday": {
+    "at": "2026-11-18T23:57:19+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman"
+   },
    "nhlcom": {
     "at": "2026-11-18T19:58:26+00:00",
     "defense": [
