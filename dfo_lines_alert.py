@@ -54,6 +54,30 @@ TEAM_URL = "https://www.dailyfaceoff.com/teams/{slug}/line-combinations"
 STATE_PATH = "dfo_lines_state.json"
 ALERT_LOG_PATH = "dfo_line_alert_log.csv"
 
+# The workflow runs every minute, but reading all 32 Daily Faceoff pages that
+# often gets throttled, so this step scrapes at most once per interval and
+# skips the runs in between. The last scrape time is kept in LAST_SCRAPE_PATH.
+LAST_SCRAPE_PATH = "dfo_last_scrape.txt"
+MIN_SCRAPE_INTERVAL_SECONDS = float(os.getenv("DFO_MIN_SCRAPE_INTERVAL_SECONDS", "270"))
+
+
+def due_for_scrape(now: datetime, path: str = LAST_SCRAPE_PATH) -> bool:
+    """True if the last scrape started at least MIN_SCRAPE_INTERVAL_SECONDS ago.
+    270 s (not 300) so a run that starts a few seconds early still counts: with
+    one run a minute this scrapes every 5th run."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            last = datetime.fromisoformat(f.read().strip())
+    except (OSError, ValueError):
+        return True
+    return (now - last).total_seconds() >= MIN_SCRAPE_INTERVAL_SECONDS
+
+
+def mark_scraped(now: datetime, path: str = LAST_SCRAPE_PATH):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(now.isoformat(timespec="seconds"))
+
+
 # Seconds between team page requests.
 PAGE_SLEEP_SECONDS = float(os.getenv("DFO_PAGE_SLEEP_SECONDS", "0.3"))
 
@@ -425,6 +449,11 @@ def main():
         print(f"Slack alert sent for {team['team']}")
         return
 
+    now = datetime.now(timezone.utc)
+    if not due_for_scrape(now):
+        print(f"DFO: last scrape under {MIN_SCRAPE_INTERVAL_SECONDS:.0f}s ago; skipping this run.")
+        return
+    mark_scraped(now)  # before scraping, so a throttled/failed scrape also waits out the interval
     print(f"DFO run started at {now_str()}")
     sent = check_and_send_alerts(parse_bool(args.send_backfill_on_first_run))
     print(f"DFO run complete. Alerts sent: {sent}")

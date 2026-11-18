@@ -26,3 +26,18 @@ def test_same_source_and_lineup_never_sent_twice():
     assert b.alert_kind(t, prev, alerted) is None
     changed = team("2026-11-18T18:00:00Z", t["source"], f="Z")
     assert b.alert_kind(changed, b.state_entry(t), alerted) == "update"   # a real edit still goes out
+
+
+def test_scrapes_at_most_every_five_minutes(tmp_path):
+    from datetime import datetime, timedelta, timezone
+    path = tmp_path / "last.txt"
+    t0 = datetime(2026, 11, 18, 18, 0, 5, tzinfo=timezone.utc)
+    assert b.due_for_scrape(t0, path)                    # no file yet
+    b.mark_scraped(t0, path)
+    runs = [t0 + timedelta(minutes=m, seconds=s) for m, s in [(1, -2), (2, 3), (3, 0), (4, -4), (5, 1), (6, 0)]]
+    due = []
+    for t in runs:
+        if b.due_for_scrape(t, path):
+            b.mark_scraped(t, path)
+            due.append(t.minute)
+    assert due == [5]          # 3:56 after is too soon; the 5:01 run scrapes; 6:00 waits again
