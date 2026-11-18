@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-18T03:37:54.013Z",
+ "article_updated": "2026-11-18T17:35:40.652Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1041,2228 +1041,311 @@
     "Ivan Miroshnichenko",
     "Justin Holl"
    ]
+  },
+  "2026-11-18:MTL": {
+   "article_updated": "2026-11-18T17:35:40.652Z",
+   "defense": [
+    [
+     "Lane Hutson",
+     "Noah Dobson"
+    ],
+    [
+     "Kaiden Guhle",
+     "Alexandre Carrier"
+    ],
+    [
+     "Arber Xhekaj",
+     "Adam Engstrom"
+    ]
+   ],
+   "forwards": [
+    [
+     "Cole Caufield",
+     "Nick Suzuki",
+     "Juraj Slafkovský"
+    ],
+    [
+     "Zachary Bolduc",
+     "Phillip Danault",
+     "Alexandre Texier"
+    ],
+    [
+     "Brett Berard",
+     "Jake Evans",
+     "Owen Beck"
+    ],
+    [
+     "Alex Newhook",
+     "Oliver Kapanen",
+     "Kirby Dach"
+    ]
+   ],
+   "goalies": [
+    "Jacob Fowler",
+    "Jakub Dobes"
+   ],
+   "scratched": [
+    "David Reinbacher",
+    "Florian Xhekaj"
+   ]
+  },
+  "2026-11-18:NJD": {
+   "article_updated": "2026-11-18T17:35:40.652Z",
+   "defense": [
+    [
+     "Luke Hughes",
+     "Brett Pesce"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "Dougie Hamilton"
+    ],
+    [
+     "Declan Chisholm",
+     "Brenden Dillon"
+    ]
+   ],
+   "forwards": [
+    [
+     "Arseny Gritsyuk",
+     "Jack Hughes",
+     "Jesper Bratt"
+    ],
+    [
+     "Timo Meier",
+     "Nico Hischier",
+     "Luke Evangelista"
+    ],
+    [
+     "Stefan Noesen",
+     "Evan Rodrigues",
+     "Connor Brown"
+    ],
+    [
+     "Jesper Boqvist",
+     "Cody Glass",
+     "Lenni Hameenaho"
+    ]
+   ],
+   "goalies": [
+    "Connor Hellebuyck",
+    "Jake Allen"
+   ],
+   "scratched": [
+    "Amadeus Lombardi",
+    "Anton Silaev",
+    "Vladislav Kolyachonok"
+   ]
   }
  },
  "rosters": {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "teams": {
-   "ANA": [
+   "MTL": [
     [
-     "Leo Carlsson",
+     "Josh Anderson",
+     "R"
+    ],
+    [
+     "Owen Beck",
      "C"
     ],
     [
-     "Judd Caulfield",
-     "R"
-    ],
-    [
-     "Sam Colangelo",
-     "R"
-    ],
-    [
-     "Cutter Gauthier",
+     "Brett Berard",
      "L"
     ],
     [
-     "Mikael Granlund",
-     "C"
-    ],
-    [
-     "A.J. Greer",
-     "L"
-    ],
-    [
-     "Alex Killorn",
-     "L"
-    ],
-    [
-     "Jeff Malott",
-     "L"
-    ],
-    [
-     "Roger McQueen",
-     "C"
-    ],
-    [
-     "Nikita Nesterenko",
-     "C"
-    ],
-    [
-     "Ryan Poehling",
-     "C"
-    ],
-    [
-     "Beckett Sennecke",
+     "Zachary Bolduc",
      "R"
     ],
     [
-     "Troy Terry",
+     "Cole Caufield",
      "R"
     ],
     [
-     "Frank Vatrano",
-     "R"
-    ],
-    [
-     "Tim Washe",
+     "Kirby Dach",
      "C"
     ],
     [
-     "Drew Helleson",
+     "Phillip Danault",
+     "C"
+    ],
+    [
+     "Ivan Demidov",
+     "R"
+    ],
+    [
+     "Jake Evans",
+     "C"
+    ],
+    [
+     "Oliver Kapanen",
+     "C"
+    ],
+    [
+     "Chris Kreider",
+     "L"
+    ],
+    [
+     "Alex Newhook",
+     "C"
+    ],
+    [
+     "Juraj Slafkovský",
+     "L"
+    ],
+    [
+     "Nick Suzuki",
+     "C"
+    ],
+    [
+     "Alexandre Texier",
+     "L"
+    ],
+    [
+     "Florian Xhekaj",
+     "L"
+    ],
+    [
+     "Alexandre Carrier",
      "D"
     ],
     [
-     "Tyson Hinds",
+     "Noah Dobson",
      "D"
     ],
     [
-     "Jackson LaCombe",
+     "Adam Engstrom",
      "D"
     ],
     [
-     "Tristan Luneau",
+     "Kaiden Guhle",
      "D"
     ],
     [
-     "Pavel Mintyukov",
+     "Lane Hutson",
      "D"
     ],
     [
-     "Travis Mitchell",
+     "Mike Matheson",
      "D"
     ],
     [
-     "Ian Moore",
+     "David Reinbacher",
      "D"
     ],
     [
-     "Noah Warren",
+     "Arber Xhekaj",
      "D"
     ],
     [
-     "Laurent Brossoit",
+     "Jakub Dobes",
      "G"
     ],
     [
-     "Lukas Dostal",
+     "Jacob Fowler",
      "G"
     ],
     [
-     "Ville Husso",
-     "G"
-    ]
-   ],
-   "BOS": [
-    [
-     "Michael Eyssimont",
-     "C"
-    ],
-    [
-     "Morgan Geekie",
-     "C"
-    ],
-    [
-     "James Hagens",
-     "C"
-    ],
-    [
-     "Tanner Jeannot",
-     "L"
-    ],
-    [
-     "Mark Kastelic",
-     "C"
-    ],
-    [
-     "Marat Khusnutdinov",
-     "C"
-    ],
-    [
-     "Sean Kuraly",
-     "C"
-    ],
-    [
-     "Elias Lindholm",
-     "C"
-    ],
-    [
-     "Fraser Minten",
-     "C"
-    ],
-    [
-     "Casey Mittelstadt",
-     "C"
-    ],
-    [
-     "David Pastrnak",
-     "R"
-    ],
-    [
-     "JJ Peterka",
-     "R"
-    ],
-    [
-     "Matthew Poitras",
-     "C"
-    ],
-    [
-     "Pavel Zacha",
-     "C"
-    ],
-    [
-     "Jonathan Aspirot",
-     "D"
-    ],
-    [
-     "Will Borgen",
-     "D"
-    ],
-    [
-     "Frederic Brunet",
-     "D"
-    ],
-    [
-     "Connor Clifton",
-     "D"
-    ],
-    [
-     "Hampus Lindholm",
-     "D"
-    ],
-    [
-     "Mason Lohrei",
-     "D"
-    ],
-    [
-     "Charlie McAvoy",
-     "D"
-    ],
-    [
-     "Nikita Zadorov",
-     "D"
-    ],
-    [
-     "Michael DiPietro",
-     "G"
-    ],
-    [
-     "Jeremy Swayman",
+     "Samuel Montembeault",
      "G"
     ]
    ],
-   "BUF": [
+   "NJD": [
     [
-     "Zach Benson",
+     "Jesper Boqvist",
+     "C"
+    ],
+    [
+     "Jesper Bratt",
      "L"
     ],
     [
-     "Sam Carrick",
-     "C"
-    ],
-    [
-     "Justin Danforth",
+     "Connor Brown",
      "R"
     ],
     [
-     "Josh Doan",
+     "Luke Evangelista",
      "R"
     ],
     [
-     "Konsta Helenius",
+     "Cody Glass",
      "C"
     ],
     [
-     "Tyson Kozak",
-     "C"
-    ],
-    [
-     "Peyton Krebs",
-     "C"
-    ],
-    [
-     "Jiri Kulich",
-     "C"
-    ],
-    [
-     "Beck Malenstyn",
-     "L"
-    ],
-    [
-     "Ryan McLeod",
-     "C"
-    ],
-    [
-     "Josh Norris",
-     "C"
-    ],
-    [
-     "Noah Ostlund",
-     "C"
-    ],
-    [
-     "Jack Quinn",
+     "Arseny Gritsyuk",
      "R"
     ],
     [
-     "Tage Thompson",
+     "Lenni Hameenaho",
+     "R"
+    ],
+    [
+     "Nico Hischier",
      "C"
     ],
     [
-     "Jason Zucker",
-     "L"
+     "Jack Hughes",
+     "C"
     ],
     [
-     "Louis Crevier",
+     "Amadeus Lombardi",
+     "C"
+    ],
+    [
+     "Anthony Mantha",
+     "R"
+    ],
+    [
+     "Timo Meier",
+     "R"
+    ],
+    [
+     "Stefan Noesen",
+     "R"
+    ],
+    [
+     "Evan Rodrigues",
+     "C"
+    ],
+    [
+     "Declan Chisholm",
      "D"
     ],
     [
-     "Rasmus Dahlin",
+     "Brenden Dillon",
      "D"
     ],
     [
-     "Matt Grzelcyk",
+     "Dougie Hamilton",
      "D"
     ],
     [
-     "Zach Metsa",
+     "Luke Hughes",
      "D"
     ],
     [
-     "Owen Power",
+     "Johnathan Kovacevic",
      "D"
     ],
     [
-     "Mattias Samuelsson",
+     "Brett Pesce",
      "D"
     ],
     [
-     "Conor Timmins",
+     "Jonas Siegenthaler",
      "D"
     ],
     [
-     "Olen Zellweger",
+     "Anton Silaev",
      "D"
     ],
     [
-     "Colten Ellis",
+     "Jake Allen",
      "G"
     ],
     [
-     "Ukko-Pekka Luukkonen",
-     "G"
-    ],
-    [
-     "Alex Lyon",
-     "G"
-    ]
-   ],
-   "CBJ": [
-    [
-     "Charlie Coyle",
-     "C"
-    ],
-    [
-     "Luca Del Bel Belluz",
-     "C"
-    ],
-    [
-     "Adam Fantilli",
-     "C"
-    ],
-    [
-     "Conor Garland",
-     "R"
-    ],
-    [
-     "Kent Johnson",
-     "C"
-    ],
-    [
-     "Matthew Knies",
-     "L"
-    ],
-    [
-     "Ryan Lomberg",
-     "L"
-    ],
-    [
-     "Steven Lorentz",
-     "C"
-    ],
-    [
-     "Sean Monahan",
-     "C"
-    ],
-    [
-     "Valeri Nichushkin",
-     "R"
-    ],
-    [
-     "Mathieu Olivier",
-     "R"
-    ],
-    [
-     "Cole Sillinger",
-     "C"
-    ],
-    [
-     "Dmitri Voronkov",
-     "L"
-    ],
-    [
-     "Jack Williams",
-     "C"
-    ],
-    [
-     "Jake Christiansen",
-     "D"
-    ],
-    [
-     "Dante Fabbro",
-     "D"
-    ],
-    [
-     "Erik Gudbranson",
-     "D"
-    ],
-    [
-     "Denton Mateychuk",
-     "D"
-    ],
-    [
-     "Ivan Provorov",
-     "D"
-    ],
-    [
-     "Damon Severson",
-     "D"
-    ],
-    [
-     "Zach Werenski",
-     "D"
-    ],
-    [
-     "Jet Greaves",
-     "G"
-    ],
-    [
-     "Cam Talbot",
-     "G"
-    ]
-   ],
-   "CGY": [
-    [
-     "Mikael Backlund",
-     "C"
-    ],
-    [
-     "Jonathan Castagna",
-     "C"
-    ],
-    [
-     "Matt Coronato",
-     "R"
-    ],
-    [
-     "Joel Farabee",
-     "L"
-    ],
-    [
-     "Morgan Frost",
-     "C"
-    ],
-    [
-     "Matvei Gridin",
-     "R"
-    ],
-    [
-     "Jonathan Huberdeau",
-     "L"
-    ],
-    [
-     "Adam Klapka",
-     "R"
-    ],
-    [
-     "Brennan Othmann",
-     "L"
-    ],
-    [
-     "Martin Pospisil",
-     "C"
-    ],
-    [
-     "Yegor Sharangovich",
-     "C"
-    ],
-    [
-     "Ryan Strome",
-     "C"
-    ],
-    [
-     "Aydar Suniev",
-     "L"
-    ],
-    [
-     "Maxim Tsyplakov",
-     "R"
-    ],
-    [
-     "Kevin Bahl",
-     "D"
-    ],
-    [
-     "Joel Hanley",
-     "D"
-    ],
-    [
-     "Yan Kuznetsov",
-     "D"
-    ],
-    [
-     "Jake Middleton",
-     "D"
-    ],
-    [
-     "Simon Nemec",
-     "D"
-    ],
-    [
-     "Brayden Pachal",
-     "D"
-    ],
-    [
-     "Zayne Parekh",
-     "D"
-    ],
-    [
-     "Zach Whitecloud",
-     "D"
-    ],
-    [
-     "Devin Cooley",
-     "G"
-    ],
-    [
-     "Dustin Wolf",
-     "G"
-    ]
-   ],
-   "CHI": [
-    [
-     "Connor Bedard",
-     "C"
-    ],
-    [
-     "Tyler Bertuzzi",
-     "L"
-    ],
-    [
-     "Dillon Boucher",
-     "L"
-    ],
-    [
-     "Ryan Donato",
-     "C"
-    ],
-    [
-     "Anton Frondell",
-     "C"
-    ],
-    [
-     "Ryan Greene",
-     "C"
-    ],
-    [
-     "Jordan Greenway",
-     "L"
-    ],
-    [
-     "Patrick Kane",
-     "R"
-    ],
-    [
-     "Roman Kantserov",
-     "R"
-    ],
-    [
-     "Andrew Mangiapane",
-     "L"
-    ],
-    [
-     "Oliver Moore",
-     "C"
-    ],
-    [
-     "Frank Nazar",
-     "C"
-    ],
-    [
-     "Cole Smith",
-     "R"
-    ],
-    [
-     "Teuvo Teravainen",
-     "C"
-    ],
-    [
-     "Bowen Byram",
-     "D"
-    ],
-    [
-     "Ian Cole",
-     "D"
-    ],
-    [
-     "Ethan Del Mastro",
-     "D"
-    ],
-    [
-     "Wyatt Kaiser",
-     "D"
-    ],
-    [
-     "Kevin Korchinski",
-     "D"
-    ],
-    [
-     "Artyom Levshunov",
-     "D"
-    ],
-    [
-     "Sam Rinzel",
-     "D"
-    ],
-    [
-     "Alex Vlasic",
-     "D"
-    ],
-    [
-     "Drew Commesso",
-     "G"
-    ],
-    [
-     "Spencer Knight",
-     "G"
-    ]
-   ],
-   "DAL": [
-    [
-     "Jamie Benn",
-     "L"
-    ],
-    [
-     "Colin Blackwell",
-     "C"
-    ],
-    [
-     "Oskar Bäck",
-     "C"
-    ],
-    [
-     "Matt Duchene",
-     "C"
-    ],
-    [
-     "Radek Faksa",
-     "C"
-    ],
-    [
-     "Roope Hintz",
-     "C"
-    ],
-    [
-     "Justin Hryckowian",
-     "C"
-    ],
-    [
-     "Arttu Hyry",
-     "R"
-    ],
-    [
-     "Wyatt Johnston",
-     "C"
-    ],
-    [
-     "Joel Kiviranta",
-     "L"
-    ],
-    [
-     "David Perron",
-     "L"
-    ],
-    [
-     "Mikko Rantanen",
-     "R"
-    ],
-    [
-     "Jason Robertson",
-     "L"
-    ],
-    [
-     "Tyler Seguin",
-     "C"
-    ],
-    [
-     "Sam Steel",
-     "C"
-    ],
-    [
-     "Lian Bichsel",
-     "D"
-    ],
-    [
-     "Kyle Burroughs",
-     "D"
-    ],
-    [
-     "Kyle Capobianco",
-     "D"
-    ],
-    [
-     "Thomas Harley",
-     "D"
-    ],
-    [
-     "Miro Heiskanen",
-     "D"
-    ],
-    [
-     "Esa Lindell",
-     "D"
-    ],
-    [
-     "Nils Lundkvist",
-     "D"
-    ],
-    [
-     "Tyler Myers",
-     "D"
-    ],
-    [
-     "Trey Taylor",
-     "D"
-    ],
-    [
-     "Casey DeSmith",
-     "G"
-    ],
-    [
-     "Jake Oettinger",
-     "G"
-    ]
-   ],
-   "EDM": [
-    [
-     "Colton Dach",
-     "C"
-    ],
-    [
-     "Jason Dickinson",
-     "C"
-    ],
-    [
-     "Leon Draisaitl",
-     "C"
-    ],
-    [
-     "Alex Formenton",
-     "L"
-    ],
-    [
-     "Trent Frederic",
-     "C"
-    ],
-    [
-     "Filip Hallander",
-     "C"
-    ],
-    [
-     "Zach Hyman",
-     "L"
-    ],
-    [
-     "Mattias Janmark",
-     "C"
-    ],
-    [
-     "Max Jones",
-     "L"
-    ],
-    [
-     "Mathieu Joseph",
-     "R"
-    ],
-    [
-     "Kasperi Kapanen",
-     "R"
-    ],
-    [
-     "Connor McDavid",
-     "C"
-    ],
-    [
-     "Owen Michaels",
-     "R"
-    ],
-    [
-     "Ryan Nugent-Hopkins",
-     "C"
-    ],
-    [
-     "Vasily Podkolzin",
-     "R"
-    ],
-    [
-     "Matt Savoie",
-     "C"
-    ],
-    [
-     "Evan Bouchard",
-     "D"
-    ],
-    [
-     "Mattias Ekholm",
-     "D"
-    ],
-    [
-     "Ty Emberson",
-     "D"
-    ],
-    [
-     "Shakir Mukhamadullin",
-     "D"
-    ],
-    [
-     "Connor Murphy",
-     "D"
-    ],
-    [
-     "Alec Regula",
-     "D"
-    ],
-    [
-     "Ryan Shea",
-     "D"
-    ],
-    [
-     "Jake Walman",
-     "D"
-    ],
-    [
-     "Frederik Andersen",
-     "G"
-    ],
-    [
-     "Tristan Jarry",
-     "G"
-    ],
-    [
-     "Devon Levi",
-     "G"
-    ]
-   ],
-   "FLA": [
-    [
-     "Aleksander Barkov",
-     "C"
-    ],
-    [
-     "Sam Bennett",
-     "C"
-    ],
-    [
-     "Lars Eller",
-     "C"
-    ],
-    [
-     "Jonah Gadjovich",
-     "L"
-    ],
-    [
-     "Garnet Hathaway",
-     "R"
-    ],
-    [
-     "Bokondji Imama",
-     "L"
-    ],
-    [
-     "Anton Lundell",
-     "C"
-    ],
-    [
-     "Eetu Luostarinen",
-     "C"
-    ],
-    [
-     "Brad Marchand",
-     "L"
-    ],
-    [
-     "Cole Reinhardt",
-     "L"
-    ],
-    [
-     "Sam Reinhart",
-     "C"
-    ],
-    [
-     "Cole Schwindt",
-     "R"
-    ],
-    [
-     "Brady Tkachuk",
-     "L"
-    ],
-    [
-     "Matthew Tkachuk",
-     "L"
-    ],
-    [
-     "Carter Verhaeghe",
-     "C"
-    ],
-    [
-     "Sandis Vilmanis",
-     "L"
-    ],
-    [
-     "Uvis Balinskis",
-     "D"
-    ],
-    [
-     "Aaron Ekblad",
-     "D"
-    ],
-    [
-     "Gustav Forsling",
-     "D"
-    ],
-    [
-     "Radko Gudas",
-     "D"
-    ],
-    [
-     "Seth Jones",
-     "D"
-    ],
-    [
-     "Dmitry Kulikov",
-     "D"
-    ],
-    [
-     "Niko Mikkola",
-     "D"
-    ],
-    [
-     "Jacob Markstrom",
-     "G"
-    ],
-    [
-     "Akira Schmid",
-     "G"
-    ]
-   ],
-   "LAK": [
-    [
-     "Joel Armia",
-     "R"
-    ],
-    [
-     "Quinton Byfield",
-     "R"
-    ],
-    [
-     "Kevin Fiala",
-     "L"
-    ],
-    [
-     "Erik Haula",
-     "L"
-    ],
-    [
-     "Samuel Helenius",
-     "C"
-    ],
-    [
-     "Adrian Kempe",
-     "R"
-    ],
-    [
-     "Alex Laferriere",
-     "R"
-    ],
-    [
-     "Scott Laughton",
-     "C"
-    ],
-    [
-     "Andre Lee",
-     "L"
-    ],
-    [
-     "Trevor Moore",
-     "L"
-    ],
-    [
-     "Artemi Panarin",
-     "L"
-    ],
-    [
-     "Corey Perry",
-     "R"
-    ],
-    [
-     "Alex Turcotte",
-     "C"
-    ],
-    [
-     "Mats Zuccarello",
-     "R"
-    ],
-    [
-     "Mikey Anderson",
-     "D"
-    ],
-    [
-     "Cody Ceci",
-     "D"
-    ],
-    [
-     "Brandt Clarke",
-     "D"
-    ],
-    [
-     "Drew Doughty",
-     "D"
-    ],
-    [
-     "Brian Dumoulin",
-     "D"
-    ],
-    [
-     "Joel Edmundson",
-     "D"
-    ],
-    [
-     "Erik Gustafsson",
-     "D"
-    ],
-    [
-     "Anton Forsberg",
-     "G"
-    ],
-    [
-     "Darcy Kuemper",
-     "G"
-    ]
-   ],
-   "MIN": [
-    [
-     "Matt Boldy",
-     "L"
-    ],
-    [
-     "Bobby Brink",
-     "R"
-    ],
-    [
-     "Blake Coleman",
-     "L"
-    ],
-    [
-     "Joel Eriksson Ek",
-     "C"
-    ],
-    [
-     "Marcus Foligno",
-     "L"
-    ],
-    [
-     "Nick Foligno",
-     "L"
-    ],
-    [
-     "Ryan Hartman",
-     "R"
-    ],
-    [
-     "Kirill Kaprizov",
-     "L"
-    ],
-    [
-     "Michael McCarron",
-     "C"
-    ],
-    [
-     "Maxim Shabanov",
-     "R"
-    ],
-    [
-     "Nico Sturm",
-     "C"
-    ],
-    [
-     "Yakov Trenin",
-     "C"
-    ],
-    [
-     "Danila Yurov",
-     "R"
-    ],
-    [
-     "Zach Bogosian",
-     "D"
-    ],
-    [
-     "Jonas Brodin",
-     "D"
-    ],
-    [
-     "Brock Faber",
-     "D"
-    ],
-    [
-     "Quinn Hughes",
-     "D"
-    ],
-    [
-     "Matt Kiersted",
-     "D"
-    ],
-    [
-     "Olli Maatta",
-     "D"
-    ],
-    [
-     "David Spacek",
-     "D"
-    ],
-    [
-     "Jared Spurgeon",
-     "D"
-    ],
-    [
-     "Filip Gustavsson",
-     "G"
-    ],
-    [
-     "Calvin Pickard",
-     "G"
-    ],
-    [
-     "Jesper Wallstedt",
-     "G"
-    ]
-   ],
-   "NSH": [
-    [
-     "Mavrik Bourque",
-     "C"
-    ],
-    [
-     "Ross Colton",
-     "C"
-    ],
-    [
-     "Jack Drury",
-     "C"
-    ],
-    [
-     "Adam Edstrom",
-     "C"
-    ],
-    [
-     "Filip Forsberg",
-     "L"
-    ],
-    [
-     "Nils Hoglander",
-     "L"
-    ],
-    [
-     "Alexander Kerfoot",
-     "C"
-    ],
-    [
-     "Jonathan Marchessault",
-     "C"
-    ],
-    [
-     "Ryan O'Reilly",
-     "C"
-    ],
-    [
-     "Vitali Pinchuk",
-     "C"
-    ],
-    [
-     "Reid Schaefer",
-     "L"
-    ],
-    [
-     "Steven Stamkos",
-     "C"
-    ],
-    [
-     "Shane Wright",
-     "C"
-    ],
-    [
-     "Nicolas Hague",
-     "D"
-    ],
-    [
-     "Daemon Hunt",
-     "D"
-    ],
-    [
-     "Roman Josi",
-     "D"
-    ],
-    [
-     "Ilya Lyubushkin",
-     "D"
-    ],
-    [
-     "Nick Perbix",
-     "D"
-    ],
-    [
-     "Brady Skjei",
-     "D"
-    ],
-    [
-     "Jayden Struble",
-     "D"
-    ],
-    [
-     "William Trudeau",
-     "D"
-    ],
-    [
-     "Adam Wilsby",
-     "D"
-    ],
-    [
-     "Justus Annunen",
-     "G"
-    ],
-    [
-     "Juuse Saros",
-     "G"
-    ]
-   ],
-   "NYI": [
-    [
-     "Mathew Barzal",
-     "C"
-    ],
-    [
-     "Mitchell Chaffee",
-     "R"
-    ],
-    [
-     "Casey Cizikas",
-     "C"
-    ],
-    [
-     "Anthony Duclair",
-     "L"
-    ],
-    [
-     "Victor Eklund",
-     "R"
-    ],
-    [
-     "Emil Heineman",
-     "L"
-    ],
-    [
-     "Simon Holmstrom",
-     "R"
-    ],
-    [
-     "Bo Horvat",
-     "C"
-    ],
-    [
-     "Matias Maccelli",
-     "L"
-    ],
-    [
-     "Jean-Gabriel Pageau",
-     "C"
-    ],
-    [
-     "Ondrej Palat",
-     "L"
-    ],
-    [
-     "Kyle Palmieri",
-     "C"
-    ],
-    [
-     "Calum Ritchie",
-     "C"
-    ],
-    [
-     "Brayden Schenn",
-     "C"
-    ],
-    [
-     "Tony DeAngelo",
-     "D"
-    ],
-    [
-     "Ben Hutton",
-     "D"
-    ],
-    [
-     "Matthew Kessel",
-     "D"
-    ],
-    [
-     "Scott Mayfield",
-     "D"
-    ],
-    [
-     "Adam Pelech",
-     "D"
-    ],
-    [
-     "Ryan Pulock",
-     "D"
-    ],
-    [
-     "Alexander Romanov",
-     "D"
-    ],
-    [
-     "Matthew Schaefer",
-     "D"
-    ],
-    [
-     "Logan Stanley",
-     "D"
-    ],
-    [
-     "Ilya Sorokin",
-     "G"
-    ],
-    [
-     "Semyon Varlamov",
-     "G"
-    ]
-   ],
-   "OTT": [
-    [
-     "Michael Amadio",
-     "R"
-    ],
-    [
-     "Drake Batherson",
-     "R"
-    ],
-    [
-     "Andre Burakovsky",
-     "L"
-    ],
-    [
-     "Nick Cousins",
-     "C"
-    ],
-    [
-     "Dylan Cozens",
-     "C"
-    ],
-    [
-     "William Eklund",
-     "L"
-    ],
-    [
-     "Warren Foegele",
-     "L"
-    ],
-    [
-     "Claude Giroux",
-     "R"
-    ],
-    [
-     "Ridly Greig",
-     "C"
-    ],
-    [
-     "Stephen Halliday",
-     "C"
-    ],
-    [
-     "Hayden Hodgson",
-     "R"
-    ],
-    [
-     "Shane Pinto",
-     "C"
-    ],
-    [
-     "Tim Stützle",
-     "C"
-    ],
-    [
-     "Fabian Zetterlund",
-     "L"
-    ],
-    [
-     "Thomas Chabot",
-     "D"
-    ],
-    [
-     "Tyler Kleven",
-     "D"
-    ],
-    [
-     "Nikolas Matinpalo",
-     "D"
-    ],
-    [
-     "Jake Sanderson",
-     "D"
-    ],
-    [
-     "Jordan Spence",
-     "D"
-    ],
-    [
-     "Carter Yakemchuk",
-     "D"
-    ],
-    [
-     "Artem Zub",
-     "D"
-    ],
-    [
-     "Samuel Ersson",
-     "G"
-    ],
-    [
-     "Linus Ullmark",
-     "G"
-    ]
-   ],
-   "PHI": [
-    [
-     "Noel Acciari",
-     "C"
-    ],
-    [
-     "Denver Barkey",
-     "C"
-    ],
-    [
-     "Michael Bunting",
-     "L"
-    ],
-    [
-     "Noah Cates",
-     "L"
-    ],
-    [
-     "Sean Couturier",
-     "C"
-    ],
-    [
-     "Christian Dvorak",
-     "C"
-    ],
-    [
-     "Tyson Foerster",
-     "R"
-    ],
-    [
-     "Nikita Grebenkin",
-     "R"
-    ],
-    [
-     "Cole Knuble",
-     "R"
-    ],
-    [
-     "Travis Konecny",
-     "R"
-    ],
-    [
-     "Porter Martone",
-     "R"
-    ],
-    [
-     "Matvei Michkov",
-     "R"
-    ],
-    [
-     "Owen Tippett",
-     "R"
-    ],
-    [
-     "Trevor Zegras",
-     "C"
-    ],
-    [
-     "Simon Benoit",
-     "D"
-    ],
-    [
-     "Oliver Bonk",
-     "D"
-    ],
-    [
-     "Jamie Drysdale",
-     "D"
-    ],
-    [
-     "David Jiricek",
-     "D"
-    ],
-    [
-     "Rasmus Ristolainen",
-     "D"
-    ],
-    [
-     "Travis Sanheim",
-     "D"
-    ],
-    [
-     "Nick Seeler",
-     "D"
-    ],
-    [
-     "Cam York",
-     "D"
-    ],
-    [
-     "Dan Vladar",
-     "G"
-    ],
-    [
-     "Joseph Woll",
-     "G"
-    ]
-   ],
-   "SJS": [
-    [
-     "Macklin Celebrini",
-     "C"
-    ],
-    [
-     "Igor Chernyshov",
-     "L"
-    ],
-    [
-     "Ty Dellandrea",
-     "C"
-    ],
-    [
-     "Adam Gaudette",
-     "R"
-    ],
-    [
-     "Barclay Goodrow",
-     "C"
-    ],
-    [
-     "Collin Graf",
-     "R"
-    ],
-    [
-     "Brett Leason",
-     "R"
-    ],
-    [
-     "Mason Marchment",
-     "L"
-    ],
-    [
-     "Michael Misa",
-     "C"
-    ],
-    [
-     "Zack Ostapchuk",
-     "C"
-    ],
-    [
-     "Kiefer Sherwood",
-     "L"
-    ],
-    [
-     "Will Smith",
-     "C"
-    ],
-    [
-     "Ivar Stenberg",
-     "L"
-    ],
-    [
-     "Tyler Toffoli",
-     "C"
-    ],
-    [
-     "Alexander Wennberg",
-     "C"
-    ],
-    [
-     "Nolan Allan",
-     "D"
-    ],
-    [
-     "Sam Dickinson",
-     "D"
-    ],
-    [
-     "Michael Kesselring",
-     "D"
-    ],
-    [
-     "Darnell Nurse",
-     "D"
-    ],
-    [
-     "Dmitry Orlov",
-     "D"
-    ],
-    [
-     "Eric Pohlkamp",
-     "D"
-    ],
-    [
-     "Jacob Trouba",
-     "D"
-    ],
-    [
-     "Yaroslav Askarov",
-     "G"
-    ],
-    [
-     "Alex Nedeljkovic",
-     "G"
-    ]
-   ],
-   "STL": [
-    [
-     "Jonatan Berggren",
-     "R"
-    ],
-    [
-     "Pavel Buchnevich",
-     "L"
-    ],
-    [
-     "Dillon Dube",
-     "C"
-    ],
-    [
-     "Dalibor Dvorsky",
-     "R"
-    ],
-    [
-     "Dylan Holloway",
-     "L"
-    ],
-    [
-     "Ross Johnston",
-     "L"
-    ],
-    [
-     "Aleksanteri Kaskimaki",
-     "C"
-    ],
-    [
-     "Connor McMichael",
-     "L"
-    ],
-    [
-     "Mason McTavish",
-     "C"
-    ],
-    [
-     "Jake Neighbours",
-     "L"
-    ],
-    [
-     "Jimmy Snuggerud",
-     "R"
-    ],
-    [
-     "Pius Suter",
-     "C"
-    ],
-    [
-     "Robert Thomas",
-     "C"
-    ],
-    [
-     "Alexey Toropchenko",
-     "R"
-    ],
-    [
-     "Nathan Walker",
-     "L"
-    ],
-    [
-     "Justin Barron",
-     "D"
-    ],
-    [
-     "Philip Broberg",
-     "D"
-    ],
-    [
-     "Brandon Carlo",
-     "D"
-    ],
-    [
-     "Cam Fowler",
-     "D"
-    ],
-    [
-     "Logan Mailloux",
-     "D"
-    ],
-    [
-     "Colton Parayko",
-     "D"
-    ],
-    [
-     "Calle Rosen",
-     "D"
-    ],
-    [
-     "Tyler Tucker",
-     "D"
-    ],
-    [
-     "Jordan Binnington",
-     "G"
-    ],
-    [
-     "Joel Hofer",
-     "G"
-    ]
-   ],
-   "TBL": [
-    [
-     "Anthony Cirelli",
-     "C"
-    ],
-    [
-     "Conor Geekie",
-     "C"
-    ],
-    [
-     "Zemgus Girgensons",
-     "C"
-    ],
-    [
-     "Gage Goncalves",
-     "C"
-    ],
-    [
-     "Yanni Gourde",
-     "C"
-    ],
-    [
-     "Jake Guentzel",
-     "C"
-    ],
-    [
-     "Brandon Hagel",
-     "L"
-    ],
-    [
-     "Pontus Holmberg",
-     "R"
-    ],
-    [
-     "Nikita Kucherov",
-     "R"
-    ],
-    [
-     "Ilya Mikheyev",
-     "R"
-    ],
-    [
-     "Sam O'Reilly",
-     "R"
-    ],
-    [
-     "Brayden Point",
-     "C"
-    ],
-    [
-     "Scott Sabourin",
-     "R"
-    ],
-    [
-     "Jeffrey Viel",
-     "L"
-    ],
-    [
-     "John Carlson",
-     "D"
-    ],
-    [
-     "Erik Cernak",
-     "D"
-    ],
-    [
-     "Max Crozier",
-     "D"
-    ],
-    [
-     "Charle-Edouard D'Astous",
-     "D"
-    ],
-    [
-     "Victor Hedman",
-     "D"
-    ],
-    [
-     "Emil Lilleberg",
-     "D"
-    ],
-    [
-     "Ryan McDonagh",
-     "D"
-    ],
-    [
-     "J.J. Moser",
-     "D"
-    ],
-    [
-     "Dennis Hildeby",
-     "G"
-    ],
-    [
-     "Andrei Vasilevskiy",
-     "G"
-    ]
-   ],
-   "TOR": [
-    [
-     "Teddy Blueger",
-     "C"
-    ],
-    [
-     "Brendan Brisson",
-     "C"
-    ],
-    [
-     "Easton Cowan",
-     "R"
-    ],
-    [
-     "Brandon Duhaime",
-     "L"
-    ],
-    [
-     "Bo Groulx",
-     "C"
-    ],
-    [
-     "Dakota Joshua",
-     "C"
-    ],
-    [
-     "Zack MacEwen",
-     "R"
-    ],
-    [
-     "Kirill Marchenko",
-     "R"
-    ],
-    [
-     "Auston Matthews",
-     "C"
-    ],
-    [
-     "Gavin McKenna",
-     "L"
-    ],
-    [
-     "William Nylander",
-     "R"
-    ],
-    [
-     "Nick Paul",
-     "L"
-    ],
-    [
-     "Jack Roslovic",
-     "C"
-    ],
-    [
-     "Colton Sissons",
-     "C"
-    ],
-    [
-     "John Tavares",
-     "C"
-    ],
-    [
-     "Ryan Tverberg",
-     "C"
-    ],
-    [
-     "Miles Wood",
-     "L"
-    ],
-    [
-     "Nick Blankenburg",
-     "D"
-    ],
-    [
-     "Oliver Ekman-Larsson",
-     "D"
-    ],
-    [
-     "Jake McCabe",
-     "D"
-    ],
-    [
-     "Cole McWard",
-     "D"
-    ],
-    [
-     "Dakota Mermis",
-     "D"
-    ],
-    [
-     "Darren Raddysh",
-     "D"
-    ],
-    [
-     "Morgan Rielly",
-     "D"
-    ],
-    [
-     "Marshall Rifai",
-     "D"
-    ],
-    [
-     "Troy Stecher",
-     "D"
-    ],
-    [
-     "Chris Tanev",
-     "D"
-    ],
-    [
-     "Artur Akhtyamov",
-     "G"
-    ],
-    [
-     "Sergei Bobrovsky",
-     "G"
-    ],
-    [
-     "Anthony Stolarz",
-     "G"
-    ]
-   ],
-   "VGK": [
-    [
-     "Ivan Barbashev",
-     "L"
-    ],
-    [
-     "Braeden Bowman",
-     "R"
-    ],
-    [
-     "Trevor Connelly",
-     "L"
-    ],
-    [
-     "Nic Dowd",
-     "C"
-    ],
-    [
-     "Jack Eichel",
-     "C"
-    ],
-    [
-     "Marc Gatcomb",
-     "C"
-    ],
-    [
-     "Tomas Hertl",
-     "C"
-    ],
-    [
-     "Brett Howden",
-     "C"
-    ],
-    [
-     "William Karlsson",
-     "C"
-    ],
-    [
-     "Raphael Lavoie",
-     "C"
-    ],
-    [
-     "Mitch Marner",
-     "R"
-    ],
-    [
-     "Victor Olofsson",
-     "L"
-    ],
-    [
-     "Mark Stone",
-     "R"
-    ],
-    [
-     "Rasmus Andersson",
-     "D"
-    ],
-    [
-     "Dylan Coghlan",
-     "D"
-    ],
-    [
-     "Noah Hanifin",
-     "D"
-    ],
-    [
-     "Jeremy Lauzon",
-     "D"
-    ],
-    [
-     "Brayden McNabb",
-     "D"
-    ],
-    [
-     "Shea Theodore",
-     "D"
-    ],
-    [
-     "Parker Wotherspoon",
-     "D"
-    ],
-    [
-     "Carter Hart",
-     "G"
-    ],
-    [
-     "Adin Hill",
-     "G"
-    ]
-   ],
-   "WPG": [
-    [
-     "Morgan Barron",
-     "C"
-    ],
-    [
-     "Viggo Björck",
-     "C"
-    ],
-    [
-     "Kyle Connor",
-     "L"
-    ],
-    [
-     "Alex Iafallo",
-     "L"
-    ],
-    [
-     "Cole Koepke",
-     "L"
-    ],
-    [
-     "Adam Lowry",
-     "C"
-    ],
-    [
-     "Dawson Mercer",
-     "C"
-    ],
-    [
-     "Vladislav Namestnikov",
-     "C"
-    ],
-    [
-     "Nino Niederreiter",
-     "R"
-    ],
-    [
-     "Cole Perfetti",
-     "C"
-    ],
-    [
-     "Isak Rosen",
-     "R"
-    ],
-    [
-     "Mark Scheifele",
-     "C"
-    ],
-    [
-     "Gabriel Vilardi",
-     "C"
-    ],
-    [
-     "Brayden Yager",
-     "C"
-    ],
-    [
-     "Danil Zhilkin",
-     "C"
-    ],
-    [
-     "Tyrel Bauer",
-     "D"
-    ],
-    [
-     "Dylan DeMelo",
-     "D"
-    ],
-    [
-     "Mario Ferraro",
-     "D"
-    ],
-    [
-     "Haydn Fleury",
-     "D"
-    ],
-    [
-     "Josh Morrissey",
-     "D"
-    ],
-    [
-     "Neal Pionk",
-     "D"
-    ],
-    [
-     "Dylan Samberg",
-     "D"
-    ],
-    [
-     "Henry Thrun",
-     "D"
-    ],
-    [
-     "Nico Daws",
-     "G"
-    ],
-    [
-     "Stuart Skinner",
-     "G"
-    ],
-    [
-     "Clay Stevenson",
-     "G"
-    ]
-   ],
-   "WSH": [
-    [
-     "Anthony Beauvillier",
-     "R"
-    ],
-    [
-     "Pierre-Luc Dubois",
-     "C"
-    ],
-    [
-     "Ethen Frank",
-     "R"
-    ],
-    [
-     "Boone Jenner",
-     "C"
-    ],
-    [
-     "Jordan Kyrou",
-     "R"
-    ],
-    [
-     "Ryan Leonard",
-     "R"
-    ],
-    [
-     "Ivan Miroshnichenko",
-     "L"
-    ],
-    [
-     "Alex Ovechkin",
-     "L"
-    ],
-    [
-     "Aliaksei Protas",
-     "L"
-    ],
-    [
-     "Ilya Protas",
-     "L"
-    ],
-    [
-     "Justin Sourdif",
-     "C"
-    ],
-    [
-     "Dylan Strome",
-     "C"
-    ],
-    [
-     "Alex Tuch",
-     "R"
-    ],
-    [
-     "Tom Wilson",
-     "R"
-    ],
-    [
-     "Jakob Chychrun",
-     "D"
-    ],
-    [
-     "Vincent Desharnais",
-     "D"
-    ],
-    [
-     "Martin Fehérváry",
-     "D"
-    ],
-    [
-     "Justin Holl",
-     "D"
-    ],
-    [
-     "Cole Hutson",
-     "D"
-    ],
-    [
-     "Timothy Liljegren",
-     "D"
-    ],
-    [
-     "Matt Roy",
-     "D"
-    ],
-    [
-     "Rasmus Sandin",
-     "D"
-    ],
-    [
-     "Jack St. Ivany",
-     "D"
-    ],
-    [
-     "Charlie Lindgren",
-     "G"
-    ],
-    [
-     "Logan Thompson",
+     "Connor Hellebuyck",
      "G"
     ]
    ]
