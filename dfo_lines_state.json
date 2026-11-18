@@ -409,7 +409,7 @@
     "updated_at": "2026-11-17T17:43:53.464Z"
   },
   "NSH": {
-    "goalie": "Saros",
+    "goalie": "Annunen",
     "players": [
       "Bourque",
       "Colton",
@@ -430,9 +430,9 @@
       "Wilsby",
       "Wright"
     ],
-    "signature": "[[[\"Stamkos\", \"O'Reilly\", \"Bourque\"], [\"Forsberg\", \"Wright\", \"Hoglander\"], [\"Schaefer\", \"Kerfoot\", \"Marchessault\"], [\"Colton\", \"Drury\", \"Edstrom\"]], [[\"Josi\", \"Wilsby\"], [\"Skjei\", \"Perbix\"], [\"Hague\", \"Struble\"]], [\"Saros\"], [\"Forsberg\", \"O'Reilly\", \"Marchessault\", \"Stamkos\", \"Josi\"]]",
-    "source": "",
-    "updated_at": "2026-11-17T17:49:16.031Z"
+    "signature": "[[[\"Stamkos\", \"O'Reilly\", \"Bourque\"], [\"Forsberg\", \"Wright\", \"Hoglander\"], [\"Schaefer\", \"Kerfoot\", \"Marchessault\"], [\"Colton\", \"Drury\", \"Edstrom\"]], [[\"Josi\", \"Wilsby\"], [\"Skjei\", \"Perbix\"], [\"Hague\", \"Struble\"]], [\"Annunen\"], [\"Forsberg\", \"O'Reilly\", \"Marchessault\", \"Stamkos\", \"Josi\"]]",
+    "source": "https://x.com/brooksbratten/status/2122851024805240929",
+    "updated_at": "2026-11-18T00:39:21.931Z"
   },
   "NYI": {
     "goalie": "Sorokin",
@@ -638,9 +638,9 @@
       "Thomas",
       "Toropchenko"
     ],
-    "signature": "[[[\"Holloway\", \"Thomas\", \"Snuggerud\"], [\"Neighbours\", \"McTavish\", \"McMichael\"], [\"Dvorsky\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Kaskimaki\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Binnington\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "https://thehockeynews.com/nhl/st-louis-blues/game-day/11-17-26-ducks-blues-gameday-lineup",
-    "updated_at": "2026-11-17T18:48:03.102Z"
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"McMichael\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Dvorsky\", \"Suter\", \"Toropchenko\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Binnington\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "source": "https://x.com/lkorac10/status/2122851291760369909",
+    "updated_at": "2026-11-18T00:38:51.558Z"
   },
   "TBL": {
     "goalie": "Vasilevskiy",
