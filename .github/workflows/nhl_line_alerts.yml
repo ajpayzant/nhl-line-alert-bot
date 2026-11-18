@@ -1,4 +1,4 @@
-name: NHL GameDayTweets Line Alerts
+name: NHL Line Alerts (GameDayTweets + Daily Faceoff)
 
 on:
   schedule:
@@ -84,6 +84,18 @@ jobs:
             --mode "$MODE" \
             --send-backfill-on-first-run "$SEND_BACKFILL"
 
+      - name: Run Daily Faceoff line alert bot
+        # always(): DFO alerts still go out if the GameDayLines step failed.
+        if: always() && github.event.inputs.mode != 'test-slack'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          MAX_NEW_ALERTS_PER_RUN: "15"
+        run: |
+          MODE="${{ github.event.inputs.mode || 'check' }}"
+          SEND_BACKFILL="${{ github.event.inputs.send_backfill_on_first_run || 'false' }}"
+
+          python dfo_lines_alert.py             --mode "$MODE"             --send-backfill-on-first-run "$SEND_BACKFILL"
+
       - name: Commit updated seen IDs and alert log
         # always(): commit whatever was sent even if the bot step errored, so it is never re-sent.
         if: always() && github.event.inputs.mode != 'scrape-only' && github.event.inputs.mode != 'send-latest'
@@ -91,7 +103,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add seen_gameday_line_status_ids.json gameday_line_alert_log.csv
+          for f in seen_gameday_line_status_ids.json gameday_line_alert_log.csv dfo_lines_state.json dfo_line_alert_log.csv; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
 
           if git diff --cached --quiet; then
             echo "No storage changes to commit."
