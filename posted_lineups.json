@@ -437,6 +437,39 @@
     ],
     "goalie": "Cossa"
    }
+  },
+  "VAN": {
+   "gameday": {
+    "at": "2026-11-18T21:11:25+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Cotter"
+     ]
+    ],
+    "forwards": [
+     [
+      "Cotter",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Bains",
+      "Pettersson",
+      "Lekkerimäki"
+     ],
+     [
+      "?DOC",
+      "?Saddon",
+      "Gallagher"
+     ]
+    ],
+    "goalie": ""
+   }
   }
  }
 }
