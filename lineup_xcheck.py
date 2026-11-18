@@ -183,38 +183,64 @@ def _join_hyphenated(parts: list, n: Names) -> list:
     return out
 
 
+def _space_row(line: str):
+    """2-3 capitalised words and nothing else: a line written without dashes."""
+    words = line.split()
+    return 2 <= len(words) <= 3 and all(re.match(r"^[A-Z][a-zà-ÿ'’.A-Z]+$", w) for w in words) and ":" not in line
+
+
+def _team_of(rows: list, rosters: dict, exact: bool):
+    """The team whose roster has (nearly) all these names, or None."""
+    names = [x for r in rows for x in r]
+    best, hits = None, 0
+    for team, roster in rosters.items():
+        n = Names(roster)
+        h = sum(1 for x in names if (key(x) in n.last if exact else n.find(x)))
+        if h > hits:
+            best, hits = team, h
+    need = 0.85 if exact else 0.7
+    return best if best and hits >= 4 and hits >= need * len(names) else None
+
+
 def parse_tweet(text: str, rosters: dict):
     """(team, lineup) for a tweet that lists lines, else None."""
     text = (text or "").replace("\\n", "\n")
     text = re.split(r"\n\s*—\s", text)[0]               # drop the "— Reporter (@handle) date" footer
-    lines = text.split("\n")
-    first_row = next((i for i, l in enumerate(lines) if _row(l.strip())), None)
+    lines = [l.strip() for l in text.split("\n")]
+    is_row = [bool(_row(l)) or bool(_space_row(l)) for l in lines]
+    first_row = next((i for i, r in enumerate(is_row) if r), None)
     if first_row is None or _NOT_LINES.search("\n".join(lines[:first_row])):
         return None                                     # PP units or an in-game change: post as-is
-    rows, singles = [], []
-    for line in (l.strip() for l in text.split("\n")):
+    rows, spaced, singles = [], [], []
+    for line in lines:
         if _STOP.match(line):
             break                                       # power-play / penalty-kill units follow
         r = _row(line)
         if r:
             rows.append(r)
-        elif re.match(r"^[A-Z][\w'’.-]+(?: [A-Z][\w'’.-]+)?$", line):
+        elif _space_row(line):
+            spaced.append([w.rstrip(".") for w in line.split()])
+        if not r and re.match(r"^[A-Z][\w'’.-]+(?: [A-Z][\w'’.-]+)?$", line):
             singles.append(line)
-    if len(rows) < 2:
+    if len(rows) >= 2:
+        best = _team_of(rows, rosters, exact=False)
+    elif len(spaced) >= 4:
+        # "Benson Kulich Thompson": no dashes, so every word must be a roster last name.
+        rows, best = spaced, _team_of(spaced, rosters, exact=True)
+    else:
         return None
-    best, hits = None, 0
-    names = [x for r in rows for x in r]
-    for team, roster in rosters.items():
-        n = Names(roster)
-        h = sum(1 for x in names if n.find(x))
-        if h > hits:
-            best, hits = team, h
-    if not best or hits < 4 or hits < 0.7 * len(names):
+    if not best:
         return None
     n = Names(rosters[best])
     rows = [_join_hyphenated(r, n) for r in rows]
-    forwards = [r for r in rows if len(r) == 3]
-    defense = [r for r in rows if len(r) == 2]
+    forwards, defense = [], []
+    for r in rows:
+        pos = [(n.find(x) or {}).get("pos", "") for x in r]
+        if len(r) == 3:
+            (defense if sum(p == "D" for p in pos) >= 2 else forwards).append(r)
+        elif len(r) == 2 and not all(p in ("C", "L", "R") for p in pos):
+            defense.append(r)
+        # two confirmed forwards ("McLeod-Danforth", the extras) are neither a line nor a pair
     if len(forwards) < 2 and len(defense) < 2:
         return None
     goalie = next((s for s in singles if (p := n.find(s)) and p["pos"] == "G"), "")
@@ -255,6 +281,8 @@ def compare(new: dict, old: dict) -> list:
             k = frozenset(map(key, a[i]))
             j = max(unmatched_b, key=lambda j: len(k & keys_b[j]))
             unmatched_b.remove(j)
+            if k < keys_b[j] or keys_b[j] < k:
+                continue  # one source left a player off the line ("Viel-Sabourin"): not a difference
             odd = {n for n in a[i] + b[j] if key(n) not in k & keys_b[j]}
             if any(n.startswith("?") for n in odd):
                 continue  # involves a name not on the roster: don't call it a difference

@@ -84,3 +84,18 @@ def test_checker_never_raises(tmp_path):
     assert c.from_tweet(TWEET, NOW) is None                 # no rosters: tweet can't be read, still posted
     assert c.annotate("msg\n*Link:* x", "SJS", PROJ, NOW) == "msg\n*Link:* x"
     c.record("SJS", PROJ, NOW)                               # no exception
+
+
+def test_space_separated_lines_and_extras_row():
+    tweet = ("Stenberg Celebrini Smith\nMisa Wennberg Marchment\nToffoli Dellandrea Graf\n"
+             "Stenberg Misa\nNurse Kesselring\nDickinson Trouba\nOrlov Liljegren\n— Reporter (@r)")
+    team, lineup = x.parse_tweet(tweet, ROSTERS)
+    assert team == "SJS" and len(lineup["forwards"]) == 3
+    assert lineup["defense"] == [["Nurse", "Kesselring"], ["Dickinson", "Trouba"], ["Orlov", "Liljegren"]]
+
+
+def test_line_missing_a_player_is_not_a_difference(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "gameday", PROJ, NOW.replace(hour=16), ROSTERS, path)
+    short = {**PROJ, "forwards": [["Misa", "Marchment"]] + PROJ["forwards"][1:]}
+    assert x.cross_check_line("SJS", "dfo", short, NOW, ROSTERS, path).startswith("✅")
