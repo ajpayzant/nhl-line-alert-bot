@@ -1,5 +1,47 @@
 {
  "2026-11-18": {
+  "COL": {
+   "nhlcom": {
+    "at": "2026-11-18T19:53:26+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Juulsen"
+     ],
+     [
+      "Gagne",
+      "Burns"
+     ]
+    ],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Schwartz",
+      "Kadri",
+      "Hughes"
+     ],
+     [
+      "Landeskog",
+      "Roy",
+      "Brindley"
+     ],
+     [
+      "Kelly",
+      "Svechkov",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood"
+   }
+  },
   "SEA": {
    "gameday": {
     "at": "2026-11-18T18:52:27+00:00",
@@ -106,6 +148,48 @@
      ]
     ],
     "goalie": "Hofer"
+   }
+  },
+  "UTA": {
+   "nhlcom": {
+    "at": "2026-11-18T19:53:26+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "forwards": [
+     [
+      "Cooley",
+      "Trocheck",
+      "Keller"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "Carcone",
+      "McBain",
+      "Crouse"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Cossa"
    }
   }
  }

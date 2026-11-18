@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-18T17:40:35.001Z",
+ "article_updated": "2026-11-18T19:53:14.882Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1042,6 +1042,52 @@
     "Justin Holl"
    ]
   },
+  "2026-11-18:COL": {
+   "article_updated": "2026-11-18T19:53:14.882Z",
+   "defense": [
+    [
+     "Devon Toews",
+     "Sam Malinski"
+    ],
+    [
+     "Brett Kulak",
+     "Noah Juulsen"
+    ],
+    [
+     "Alex Gagne",
+     "Brent Burns"
+    ]
+   ],
+   "forwards": [
+    [
+     "Artturi Lehkonen",
+     "Brock Nelson",
+     "Martin Necas"
+    ],
+    [
+     "Jaden Schwartz",
+     "Nazem Kadri",
+     "T.J. Hughes"
+    ],
+    [
+     "Gabriel Landeskog",
+     "Nicolas Roy",
+     "Gavin Brindley"
+    ],
+    [
+     "Parker Kelly",
+     "Fedor Svechkov",
+     "Logan O'Connor"
+    ]
+   ],
+   "goalies": [
+    "Mackenzie Blackwood",
+    "Scott Wedgewood"
+   ],
+   "scratched": [
+    "Mike Reilly"
+   ]
+  },
   "2026-11-18:MTL": {
    "article_updated": "2026-11-18T17:35:40.652Z",
    "defense": [
@@ -1136,11 +1182,160 @@
     "Anton Silaev",
     "Vladislav Kolyachonok"
    ]
+  },
+  "2026-11-18:UTA": {
+   "article_updated": "2026-11-18T19:53:14.882Z",
+   "defense": [
+    [
+     "Mikhail Sergachev",
+     "Andrew Peeke"
+    ],
+    [
+     "Dmitri Simashev",
+     "MacKenzie Weegar"
+    ],
+    [
+     "Zac Jones",
+     "Nick DeSimone"
+    ]
+   ],
+   "forwards": [
+    [
+     "Logan Cooley",
+     "Vincent Trocheck",
+     "Clayton Keller"
+    ],
+    [
+     "Anders Lee",
+     "Barrett Hayton",
+     "Kailer Yamamoto"
+    ],
+    [
+     "Michael Carcone",
+     "Jack McBain",
+     "Lawson Crouse"
+    ],
+    [
+     "Liam O'Brien",
+     "Kevin Stenlund",
+     "Daniil But"
+    ]
+   ],
+   "goalies": [
+    "Sebastian Cossa",
+    "Karel Vejmelka"
+   ],
+   "scratched": [
+    "Ben McCartney",
+    "Gregor Biber"
+   ]
   }
  },
  "rosters": {
   "date": "2026-11-18",
   "teams": {
+   "COL": [
+    [
+     "Gavin Brindley",
+     "C"
+    ],
+    [
+     "T.J. Hughes",
+     "R"
+    ],
+    [
+     "Nazem Kadri",
+     "C"
+    ],
+    [
+     "Parker Kelly",
+     "C"
+    ],
+    [
+     "Zachary L'Heureux",
+     "L"
+    ],
+    [
+     "Gabriel Landeskog",
+     "L"
+    ],
+    [
+     "Artturi Lehkonen",
+     "L"
+    ],
+    [
+     "Nathan MacKinnon",
+     "C"
+    ],
+    [
+     "Martin Necas",
+     "C"
+    ],
+    [
+     "Brock Nelson",
+     "C"
+    ],
+    [
+     "Logan O'Connor",
+     "R"
+    ],
+    [
+     "Nicolas Roy",
+     "C"
+    ],
+    [
+     "Jaden Schwartz",
+     "L"
+    ],
+    [
+     "Fedor Svechkov",
+     "C"
+    ],
+    [
+     "Brent Burns",
+     "D"
+    ],
+    [
+     "Alex Gagne",
+     "D"
+    ],
+    [
+     "Noah Juulsen",
+     "D"
+    ],
+    [
+     "Brett Kulak",
+     "D"
+    ],
+    [
+     "Cale Makar",
+     "D"
+    ],
+    [
+     "Sam Malinski",
+     "D"
+    ],
+    [
+     "Josh Manson",
+     "D"
+    ],
+    [
+     "Mike Reilly",
+     "D"
+    ],
+    [
+     "Devon Toews",
+     "D"
+    ],
+    [
+     "Mackenzie Blackwood",
+     "G"
+    ],
+    [
+     "Scott Wedgewood",
+     "G"
+    ]
+   ],
    "MTL": [
     [
      "Josh Anderson",
@@ -1346,6 +1541,120 @@
     ],
     [
      "Connor Hellebuyck",
+     "G"
+    ]
+   ],
+   "UTA": [
+    [
+     "Daniil But",
+     "L"
+    ],
+    [
+     "Michael Carcone",
+     "L"
+    ],
+    [
+     "Logan Cooley",
+     "C"
+    ],
+    [
+     "Lawson Crouse",
+     "L"
+    ],
+    [
+     "Dylan Guenther",
+     "R"
+    ],
+    [
+     "Barrett Hayton",
+     "C"
+    ],
+    [
+     "Clayton Keller",
+     "R"
+    ],
+    [
+     "Anders Lee",
+     "L"
+    ],
+    [
+     "Jack McBain",
+     "C"
+    ],
+    [
+     "Ben McCartney",
+     "L"
+    ],
+    [
+     "Liam O'Brien",
+     "C"
+    ],
+    [
+     "Nick Schmaltz",
+     "C"
+    ],
+    [
+     "Kevin Stenlund",
+     "C"
+    ],
+    [
+     "Vincent Trocheck",
+     "C"
+    ],
+    [
+     "Kailer Yamamoto",
+     "R"
+    ],
+    [
+     "Gregor Biber",
+     "D"
+    ],
+    [
+     "Nick DeSimone",
+     "D"
+    ],
+    [
+     "Artem Duda",
+     "D"
+    ],
+    [
+     "Zac Jones",
+     "D"
+    ],
+    [
+     "Maveric Lamoureux",
+     "D"
+    ],
+    [
+     "John Marino",
+     "D"
+    ],
+    [
+     "Andrew Peeke",
+     "D"
+    ],
+    [
+     "Nate Schmidt",
+     "D"
+    ],
+    [
+     "Mikhail Sergachev",
+     "D"
+    ],
+    [
+     "Dmitri Simashev",
+     "D"
+    ],
+    [
+     "MacKenzie Weegar",
+     "D"
+    ],
+    [
+     "Sebastian Cossa",
+     "G"
+    ],
+    [
+     "Karel Vejmelka",
      "G"
     ]
    ]
