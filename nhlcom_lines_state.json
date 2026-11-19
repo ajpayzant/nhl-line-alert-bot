@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T17:50:48.451Z",
+ "article_updated": "2026-11-19T17:54:49.34Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1565,6 +1565,53 @@
     "Mike Matheson"
    ]
   },
+  "2026-11-19:NYI": {
+   "article_updated": "2026-11-19T17:54:49.34Z",
+   "defense": [
+    [
+     "Matthew Schaefer",
+     "Ryan Pulock"
+    ],
+    [
+     "Adam Pelech",
+     "Tony DeAngelo"
+    ],
+    [
+     "Ben Hutton",
+     "Matthew Kessel"
+    ]
+   ],
+   "forwards": [
+    [
+     "Simon Holmstrom",
+     "Bo Horvat",
+     "Kyle Palmieri"
+    ],
+    [
+     "Ondrej Palat",
+     "Mathew Barzal",
+     "Matias Maccelli"
+    ],
+    [
+     "Emil Heineman",
+     "Brayden Schenn",
+     "Victor Eklund"
+    ],
+    [
+     "Anthony Duclair",
+     "Jean-Gabriel Pageau",
+     "Casey Cizikas"
+    ]
+   ],
+   "goalies": [
+    "Semyon Varlamov",
+    "Ilya Sorokin"
+   ],
+   "scratched": [
+    "Scott Mayfield",
+    "Mitchell Chaffee"
+   ]
+  },
   "2026-11-19:OTT": {
    "article_updated": "2026-11-19T17:15:05.718Z",
    "defense": [
@@ -1703,6 +1750,54 @@
    "scratched": [
     "Max Crozier",
     "Jansen Harkins"
+   ]
+  },
+  "2026-11-19:WPG": {
+   "article_updated": "2026-11-19T17:54:49.34Z",
+   "defense": [
+    [
+     "Josh Morrissey",
+     "Mario Ferraro"
+    ],
+    [
+     "Dylan Samberg",
+     "Neal Pionk"
+    ],
+    [
+     "Henry Thrun",
+     "Tyrel Bauer"
+    ]
+   ],
+   "forwards": [
+    [
+     "Kyle Connor",
+     "Mark Scheifele",
+     "Gabriel Vilardi"
+    ],
+    [
+     "Cole Perfetti",
+     "Brayden Yager",
+     "Dawson Mercer"
+    ],
+    [
+     "Alex Iafallo",
+     "Adam Lowry",
+     "Viggo Björck"
+    ],
+    [
+     "Cole Koepke",
+     "Morgan Barron",
+     "Danil Zhilkin"
+    ]
+   ],
+   "goalies": [
+    "Stuart Skinner",
+    "Nico Daws"
+   ],
+   "scratched": [
+    "Clay Stevenson",
+    "Haydn Fleury",
+    "Nino Niederreiter"
    ]
   },
   "2026-11-19:WSH": {
@@ -2177,6 +2272,104 @@
      "G"
     ]
    ],
+   "NYI": [
+    [
+     "Mathew Barzal",
+     "C"
+    ],
+    [
+     "Mitchell Chaffee",
+     "R"
+    ],
+    [
+     "Casey Cizikas",
+     "C"
+    ],
+    [
+     "Anthony Duclair",
+     "L"
+    ],
+    [
+     "Victor Eklund",
+     "R"
+    ],
+    [
+     "Emil Heineman",
+     "L"
+    ],
+    [
+     "Simon Holmstrom",
+     "R"
+    ],
+    [
+     "Bo Horvat",
+     "C"
+    ],
+    [
+     "Matias Maccelli",
+     "L"
+    ],
+    [
+     "Jean-Gabriel Pageau",
+     "C"
+    ],
+    [
+     "Ondrej Palat",
+     "L"
+    ],
+    [
+     "Kyle Palmieri",
+     "C"
+    ],
+    [
+     "Brayden Schenn",
+     "C"
+    ],
+    [
+     "Tony DeAngelo",
+     "D"
+    ],
+    [
+     "Ben Hutton",
+     "D"
+    ],
+    [
+     "Matthew Kessel",
+     "D"
+    ],
+    [
+     "Scott Mayfield",
+     "D"
+    ],
+    [
+     "Adam Pelech",
+     "D"
+    ],
+    [
+     "Ryan Pulock",
+     "D"
+    ],
+    [
+     "Alexander Romanov",
+     "D"
+    ],
+    [
+     "Matthew Schaefer",
+     "D"
+    ],
+    [
+     "Logan Stanley",
+     "D"
+    ],
+    [
+     "Ilya Sorokin",
+     "G"
+    ],
+    [
+     "Semyon Varlamov",
+     "G"
+    ]
+   ],
    "OTT": [
     [
      "Michael Amadio",
@@ -2468,6 +2661,112 @@
     ],
     [
      "Andrei Vasilevskiy",
+     "G"
+    ]
+   ],
+   "WPG": [
+    [
+     "Morgan Barron",
+     "C"
+    ],
+    [
+     "Viggo Björck",
+     "C"
+    ],
+    [
+     "Kyle Connor",
+     "L"
+    ],
+    [
+     "Alex Iafallo",
+     "L"
+    ],
+    [
+     "Cole Koepke",
+     "L"
+    ],
+    [
+     "Adam Lowry",
+     "C"
+    ],
+    [
+     "Dawson Mercer",
+     "C"
+    ],
+    [
+     "Vladislav Namestnikov",
+     "C"
+    ],
+    [
+     "Nino Niederreiter",
+     "R"
+    ],
+    [
+     "Cole Perfetti",
+     "C"
+    ],
+    [
+     "Isak Rosen",
+     "R"
+    ],
+    [
+     "Mark Scheifele",
+     "C"
+    ],
+    [
+     "Gabriel Vilardi",
+     "C"
+    ],
+    [
+     "Brayden Yager",
+     "C"
+    ],
+    [
+     "Danil Zhilkin",
+     "C"
+    ],
+    [
+     "Tyrel Bauer",
+     "D"
+    ],
+    [
+     "Dylan DeMelo",
+     "D"
+    ],
+    [
+     "Mario Ferraro",
+     "D"
+    ],
+    [
+     "Haydn Fleury",
+     "D"
+    ],
+    [
+     "Josh Morrissey",
+     "D"
+    ],
+    [
+     "Neal Pionk",
+     "D"
+    ],
+    [
+     "Dylan Samberg",
+     "D"
+    ],
+    [
+     "Henry Thrun",
+     "D"
+    ],
+    [
+     "Nico Daws",
+     "G"
+    ],
+    [
+     "Stuart Skinner",
+     "G"
+    ],
+    [
+     "Clay Stevenson",
      "G"
     ]
    ],

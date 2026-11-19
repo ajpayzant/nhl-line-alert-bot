@@ -1225,6 +1225,46 @@
      ]
     ],
     "goalie": "Sorokin"
+   },
+   "nhlcom": {
+    "at": "2026-11-19T17:55:26+00:00",
+    "defense": [
+     [
+      "Schaefer",
+      "Pulock"
+     ],
+     [
+      "Pelech",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Palmieri"
+     ],
+     [
+      "Palat",
+      "Barzal",
+      "Maccelli"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau",
+      "Cizikas"
+     ]
+    ],
+    "goalie": "Varlamov"
    }
   },
   "NYR": {
@@ -1619,6 +1659,46 @@
      ]
     ],
     "goalie": "Daws"
+   },
+   "nhlcom": {
+    "at": "2026-11-19T17:55:26+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Ferraro"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Thrun",
+      "Bauer"
+     ]
+    ],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Zhilkin"
+     ]
+    ],
+    "goalie": "Skinner"
    }
   },
   "WSH": {
