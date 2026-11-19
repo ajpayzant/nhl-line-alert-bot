@@ -180,9 +180,9 @@
     "updated_at": "2026-11-18T17:33:51.733Z"
   },
   "COL": {
-    "goalie": "Blackwood",
+    "goalie": "Wedgewood",
     "players": [
-      "Brindley",
+      "Beckman",
       "Burns",
       "Gagne",
       "Hughes",
@@ -201,9 +201,9 @@
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Schwartz\", \"Kadri\", \"Hughes\"], [\"Landeskog\", \"Roy\", \"Brindley\"], [\"Kelly\", \"Svechkov\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Gagne\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020346",
-    "updated_at": "2026-11-19T15:08:04.586Z"
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Schwartz\", \"Kadri\", \"Hughes\"], [\"Beckman\", \"Roy\", \"Landeskog\"], [\"Kelly\", \"Svechkov\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Gagne\", \"Burns\"]], [\"Wedgewood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
+    "source": "",
+    "updated_at": "2026-11-19T21:36:35.130Z"
   },
   "DAL": {
     "goalie": "Oettinger",
