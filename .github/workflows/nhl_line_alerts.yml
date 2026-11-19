@@ -19,6 +19,7 @@ on:
           - test-slack
           - scrape-only
           - send-latest
+          - repost-today
 
       send_backfill_on_first_run:
         description: "Send current existing posts if seen file is empty? Usually keep false."
@@ -68,7 +69,14 @@ jobs:
             echo "alert_sent_at,status_id,source_handle,tweet_date_text,tweet_url,best_text_source,best_text_is_truncated,is_probably_image_based,best_text" > gameday_line_alert_log.csv
           fi
 
+      - name: Re-post today's lineups (manual, after a parsing fix)
+        if: github.event.inputs.mode == 'repost-today'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python repost_today.py --send
+
       - name: Run NHL line alert bot
+        if: github.event.inputs.mode != 'repost-today'
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           MAX_NEW_ALERTS_PER_RUN: "15"
@@ -87,7 +95,7 @@ jobs:
       - name: Run Daily Faceoff line alert bot
         # always(): DFO alerts still go out if the GameDayLines step failed.
         # Scrapes at most every ~5 minutes (dfo_last_scrape.txt); other runs skip it.
-        if: always() && github.event.inputs.mode != 'test-slack'
+        if: always() && github.event.inputs.mode != 'test-slack' && github.event.inputs.mode != 'repost-today'
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           MAX_NEW_ALERTS_PER_RUN: "15"
@@ -99,7 +107,7 @@ jobs:
 
       - name: Run NHL.com projected lineups alert bot
         # One request per run unless NHL.com edited its lineup article.
-        if: always() && github.event.inputs.mode != 'test-slack'
+        if: always() && github.event.inputs.mode != 'test-slack' && github.event.inputs.mode != 'repost-today'
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           NHLCOM_MAX_ALERTS_PER_RUN: "40"
