@@ -2109,6 +2109,48 @@
     "goalie": "Woll"
    }
   },
+  "SEA": {
+   "nhlcom": {
+    "at": "2026-11-19T19:45:27+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Ottavainen"
+     ]
+    ],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Daccord"
+   }
+  },
   "STL": {
    "dfo": {
     "at": "2026-11-19T18:09:38+00:00",
@@ -2272,6 +2314,48 @@
      ]
     ],
     "goalie": "Stolarz"
+   }
+  },
+  "VAN": {
+   "nhlcom": {
+    "at": "2026-11-19T19:45:27+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Pettersson",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ]
+    ],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Pettersson",
+      "Lekkerimäki"
+     ],
+     [
+      "Cotter",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Karlsson"
+     ],
+     [
+      "O'Connor",
+      "Sasson",
+      "Gallagher"
+     ]
+    ],
+    "goalie": "Meriläinen"
    }
   },
   "VGK": {
