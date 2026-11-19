@@ -386,6 +386,15 @@ def _earlier_day(meta: dict, today: str) -> bool:
     return bool(today and _when(meta) and datetime.fromisoformat(_when(meta)).astimezone(ET).date().isoformat() < today)
 
 
+def _stamp(meta: dict, today: str = "") -> str:
+    """'3:20 PM', or 'Nov 18 1:44 PM' for information from an earlier day."""
+    when = _clock(_when(meta))
+    if _earlier_day(meta, today):
+        t = datetime.fromisoformat(_when(meta)).astimezone(ET)
+        when = f"{t:%b} {t.day} {when}"
+    return when
+
+
 def tier(source: str, meta: dict, today: str = "") -> int:
     tweet = source == "gameday" or (source == "dfo" and meta.get("ref"))
     return 1 if tweet and not _earlier_day(meta, today) else 2
@@ -394,10 +403,7 @@ def tier(source: str, meta: dict, today: str = "") -> int:
 def describe(source: str, meta: dict, today: str = "") -> str:
     """'Daily Faceoff (via Zach Cavanagh, tweet 3:20 PM)', 'NHL.com projection (edited 3:26 PM)';
     the date is added when the information is from an earlier day."""
-    when = _clock(_when(meta))
-    if _earlier_day(meta, today):
-        t = datetime.fromisoformat(_when(meta)).astimezone(ET)
-        when = f"{t:%b} {t.day} {when}"
+    when = _stamp(meta, today)
     via = meta.get("via") or ""
     if source == "gameday":
         return f"GameDay tweet ({via + ', ' if via else ''}{when})"
@@ -429,7 +435,7 @@ def verdict(this: tuple, agree: list, disagree: list, today: str = "") -> str:
     elif _when(best[1]) == _when(rival[1]):
         why = "same tier and time; check the link"
     else:
-        why = f"newer info ({_clock(_when(best[1]))} vs {_clock(_when(rival[1]))})"
+        why = f"newer info ({_stamp(best[1], today)} vs {_stamp(rival[1], today)})"
     if our_side:
         backed = "" if best == this else f", backed by {describe(*best, today)}"
         return f"➜ *Most likely right: this lineup*{backed} — {why}"

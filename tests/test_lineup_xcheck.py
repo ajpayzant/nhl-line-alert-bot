@@ -166,4 +166,4 @@ def test_earlier_day_tweet_loses_to_todays_projection(tmp_path):
     banner, _ = x.cross_check("SJS", "nhlcom", ELEVEN, NOW.replace(hour=16), R2,
                               meta={"info_at": "2026-11-18T21:00:00+00:00"}, path=path)
     assert "*vs Daily Faceoff (via Pashelka, tweet Nov 17 11:35 AM):*" in banner
-    assert banner.endswith("➜ *Most likely right: this lineup* — newer info (4:00 PM vs 11:35 AM)")
+    assert banner.endswith("➜ *Most likely right: this lineup* — newer info (4:00 PM vs Nov 17 11:35 AM)")
