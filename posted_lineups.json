@@ -2320,6 +2320,50 @@
    }
   },
   "PHI": {
+   "gameday": {
+    "at": "2026-11-19T23:53:29+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Drysdale"
+     ],
+     [
+      "York",
+      "Ristolainen"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Zegras",
+      "Konecny"
+     ],
+     [
+      "Knuble",
+      "Dvorak",
+      "Tippett"
+     ],
+     [
+      "Martone",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Barkey",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Woll",
+    "info_at": "2026-11-19T23:52:04+00:00",
+    "ref": "2123565001617391757",
+    "via": "@jackiespiegel93"
+   },
    "nhlcom": {
     "at": "2026-11-19T17:15:30+00:00",
     "defense": [
