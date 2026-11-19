@@ -1615,6 +1615,50 @@
     "goalie": "Kuemper",
     "info_at": "2026-11-19T19:21:26+00:00",
     "via": "Zach Dooley"
+   },
+   "gameday": {
+    "at": "2026-11-19T23:39:28+00:00",
+    "defense": [
+     [
+      "Gustafsson",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Doughty"
+     ],
+     [
+      "Anderson",
+      "Dumoulin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lee",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Turcotte",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Laughton",
+      "Helenius",
+      "Perry"
+     ]
+    ],
+    "goalie": "Kuemper",
+    "info_at": "2026-11-19T23:39:02+00:00",
+    "ref": "2123561717972308459",
+    "via": "@DooleyLAK"
    }
   },
   "MIN": {
@@ -1874,7 +1918,7 @@
     "via": "Andrew Gross"
    },
    "gameday": {
-    "at": "2026-11-19T17:01:36+00:00",
+    "at": "2026-11-19T23:39:26+00:00",
     "defense": [
      [
       "Schaefer",
@@ -1889,12 +1933,8 @@
       "Kessel"
      ]
     ],
+    "extra": [],
     "forwards": [
-     [
-      "Holmstrom",
-      "Horvat",
-      "Palmieri"
-     ],
      [
       "Palat",
       "Barzal",
@@ -1906,12 +1946,15 @@
       "Eklund"
      ],
      [
-      "Duclair",
+      "Cizikas",
       "Pageau",
-      "Cizikas"
+      "Duclair"
      ]
     ],
-    "goalie": "Sorokin"
+    "goalie": "Sorokin",
+    "info_at": "2026-11-19T23:38:41+00:00",
+    "ref": "2123561629929611343",
+    "via": "@AGrossNewsday"
    },
    "nhlcom": {
     "at": "2026-11-19T17:55:26+00:00",
@@ -2700,6 +2743,50 @@
    }
   },
   "WSH": {
+   "gameday": {
+    "at": "2026-11-19T23:39:27+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Leonard",
+      "Jenner",
+      "Wilson"
+     ],
+     [
+      "Sourdif",
+      "Protas",
+      "Kyrou"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-19T23:38:52+00:00",
+    "ref": "2123561676264083844",
+    "via": "@sammisilber"
+   },
    "nhlcom": {
     "at": "2026-11-19T17:46:22+00:00",
     "defense": [
