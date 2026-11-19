@@ -364,7 +364,6 @@
     "players": [
       "Beck",
       "Berard",
-      "Bolduc",
       "Carrier",
       "Caufield",
       "Dach",
@@ -381,9 +380,9 @@
       "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Slafkovsky\", \"Evans\", \"Newhook\"], [\"Bolduc\", \"Danault\", \"Dach\"], [\"Berard\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Bolduc\", \"Caufield\", \"Hutson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020345",
-    "updated_at": "2026-11-19T15:06:24.956Z"
+    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Slafkovsky\", \"Evans\", \"Newhook\"], [\"Berard\", \"Danault\", \"Dach\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Texier\", \"Caufield\", \"Hutson\"]]",
+    "source": "",
+    "updated_at": "2026-11-19T21:52:14.045Z"
   },
   "NJD": {
     "goalie": "Hellebuyck",
