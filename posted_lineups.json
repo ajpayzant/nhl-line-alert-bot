@@ -797,6 +797,48 @@
   }
  },
  "2026-11-19": {
+  "ANA": {
+   "gameday": {
+    "at": "2026-11-19T18:38:28+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Warren"
+     ],
+     [
+      "Hinds",
+      "Luneau"
+     ]
+    ],
+    "forwards": [
+     [
+      "Gauthier",
+      "Carlsson",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Granlund",
+      "Sennecke"
+     ],
+     [
+      "Killorn",
+      "Washe",
+      "Terry"
+     ],
+     [
+      "Nesterenko",
+      "McQueen",
+      "Vatrano"
+     ]
+    ],
+    "goalie": ""
+   }
+  },
   "BUF": {
    "nhlcom": {
     "at": "2026-11-19T17:46:22+00:00",
