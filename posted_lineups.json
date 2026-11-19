@@ -925,34 +925,26 @@
   },
   "BUF": {
    "gameday": {
-    "at": "2026-11-19T23:45:29+00:00",
-    "defense": [],
-    "extra": [],
-    "forwards": [
+    "at": "2026-11-19T23:54:31+00:00",
+    "defense": [
      [
-      "Benson",
-      "Kulich",
-      "Thompson"
+      "Dahlin",
+      "Samuelsson"
      ],
      [
-      "Krebs",
-      "Ostlund",
-      "Quinn"
+      "Power",
+      "Timmins"
      ],
      [
-      "Zucker",
-      "Norris",
-      "Doan"
-     ],
-     [
-      "Malenstyn",
-      "Kozak",
-      "Carrick"
+      "Zellweger",
+      "Metsa"
      ]
     ],
+    "extra": [],
+    "forwards": [],
     "goalie": "",
-    "info_at": "2026-11-19T23:44:24+00:00",
-    "ref": "2123563070643695637",
+    "info_at": "2026-11-19T23:53:10+00:00",
+    "ref": "2123565276646240398",
     "via": "@rachelmlenzi"
    },
    "nhlcom": {
