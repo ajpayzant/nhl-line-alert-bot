@@ -881,6 +881,35 @@
     "goalie": "Wolf"
    }
   },
+  "DET": {
+   "gameday": {
+    "at": "2026-11-19T16:34:33+00:00",
+    "defense": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Copp",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": ""
+   }
+  },
   "EDM": {
    "gameday": {
     "at": "2026-11-19T16:32:24+00:00",
@@ -921,6 +950,35 @@
      ]
     ],
     "goalie": "Levi"
+   }
+  },
+  "FLA": {
+   "gameday": {
+    "at": "2026-11-19T16:34:32+00:00",
+    "defense": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Eller",
+      "Vilmanis"
+     ],
+     [
+      "Luostarinen",
+      "Lundell",
+      "Marchand"
+     ],
+     [
+      "Imama",
+      "Schwindt",
+      "Hathaway"
+     ]
+    ],
+    "goalie": ""
    }
   },
   "MTL": {
