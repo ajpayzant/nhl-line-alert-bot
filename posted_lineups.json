@@ -2158,7 +2158,7 @@
     "via": "Andrew Wilimek"
    },
    "gameday": {
-    "at": "2026-11-19T15:34:00+00:00",
+    "at": "2026-11-19T23:44:26+00:00",
     "defense": [
      [
       "Sanderson",
@@ -2167,8 +2167,13 @@
      [
       "Chabot",
       "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Zetterlund",
@@ -2191,7 +2196,10 @@
       "?Boucher"
      ]
     ],
-    "goalie": ""
+    "goalie": "Ullmark",
+    "info_at": "2026-11-19T23:43:12+00:00",
+    "ref": "2123562768620261488",
+    "via": "@SunGarrioch"
    },
    "nhlcom": {
     "at": "2026-11-19T17:15:30+00:00",
@@ -2494,7 +2502,7 @@
     "via": "Arun Srinivasan"
    },
    "gameday": {
-    "at": "2026-11-19T23:41:20+00:00",
+    "at": "2026-11-19T23:44:25+00:00",
     "defense": [
      [
       "McCabe",
@@ -2533,8 +2541,8 @@
      ]
     ],
     "goalie": "Bobrovsky",
-    "info_at": "2026-11-19T23:39:38+00:00",
-    "ref": "2123561871844511831",
+    "info_at": "2026-11-19T23:41:31+00:00",
+    "ref": "2123562345251459356",
     "via": "@davidalter"
    }
   },
