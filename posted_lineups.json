@@ -207,6 +207,46 @@
    }
   },
   "DET": {
+   "gameday": {
+    "at": "2026-11-19T00:06:29+00:00",
+    "defense": [
+     [
+      "Johansson",
+      "Seider"
+     ],
+     [
+      "Chiarot",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "?JBD"
+     ]
+    ],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Kasper"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Arvidsson"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": ""
+   },
    "nhlcom": {
     "at": "2026-11-18T19:58:26+00:00",
     "defense": [
