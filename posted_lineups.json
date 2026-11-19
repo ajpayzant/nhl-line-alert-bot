@@ -1003,6 +1003,46 @@
      ]
     ],
     "goalie": "Wolf"
+   },
+   "nhlcom": {
+    "at": "2026-11-19T18:37:24+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "forwards": [
+     [
+      "Farabee",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Gridin",
+      "Pospisil",
+      "Strome"
+     ],
+     [
+      "Sharangovich",
+      "Frost",
+      "Klapka"
+     ],
+     [
+      "Tsyplakov",
+      "Castagna",
+      "Suniev"
+     ]
+    ],
+    "goalie": "Wolf"
    }
   },
   "CHI": {
@@ -1339,6 +1379,46 @@
       "Sturm",
       "Yurov",
       "Shabanov"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt"
+   },
+   "nhlcom": {
+    "at": "2026-11-19T18:37:24+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Spurgeon"
+     ],
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Bogosian"
+     ]
+    ],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Sturm"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
      ],
      [
       "Foligno",

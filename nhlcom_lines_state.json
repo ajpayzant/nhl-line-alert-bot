@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T18:33:23.248Z",
+ "article_updated": "2026-11-19T18:37:00.198Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1517,6 +1517,53 @@
     "Dmitri Voronkov"
    ]
   },
+  "2026-11-19:CGY": {
+   "article_updated": "2026-11-19T18:37:00.198Z",
+   "defense": [
+    [
+     "Jake Middleton",
+     "Zach Whitecloud"
+    ],
+    [
+     "Joel Hanley",
+     "Simon Nemec"
+    ],
+    [
+     "Yan Kuznetsov",
+     "Zayne Parekh"
+    ]
+   ],
+   "forwards": [
+    [
+     "Joel Farabee",
+     "Mikael Backlund",
+     "Matt Coronato"
+    ],
+    [
+     "Matvei Gridin",
+     "Martin Pospisil",
+     "Ryan Strome"
+    ],
+    [
+     "Yegor Sharangovich",
+     "Morgan Frost",
+     "Adam Klapka"
+    ],
+    [
+     "Maxim Tsyplakov",
+     "Jonathan Castagna",
+     "Aydar Suniev"
+    ]
+   ],
+   "goalies": [
+    "Dustin Wolf",
+    "Devin Cooley"
+   ],
+   "scratched": [
+    "Brennan Othmann",
+    "Brayden Pachal"
+   ]
+  },
   "2026-11-19:CHI": {
    "article_updated": "2026-11-19T18:33:23.248Z",
    "defense": [
@@ -1608,6 +1655,54 @@
    "scratched": [
     "Max Jones",
     "Jake Walman"
+   ]
+  },
+  "2026-11-19:MIN": {
+   "article_updated": "2026-11-19T18:37:00.198Z",
+   "defense": [
+    [
+     "Quinn Hughes",
+     "Jared Spurgeon"
+    ],
+    [
+     "Jonas Brodin",
+     "Brock Faber"
+    ],
+    [
+     "Matt Kiersted",
+     "Zach Bogosian"
+    ]
+   ],
+   "forwards": [
+    [
+     "Kirill Kaprizov",
+     "Joel Eriksson Ek",
+     "Matt Boldy"
+    ],
+    [
+     "Maxim Shabanov",
+     "Danila Yurov",
+     "Nico Sturm"
+    ],
+    [
+     "Blake Coleman",
+     "Michael McCarron",
+     "Bobby Brink"
+    ],
+    [
+     "Marcus Foligno",
+     "Ryan Hartman",
+     "Nick Foligno"
+    ]
+   ],
+   "goalies": [
+    "Jesper Wallstedt",
+    "Calvin Pickard"
+   ],
+   "scratched": [
+    "David Spacek",
+    "Yakov Trenin",
+    "Tyler Pitlick"
    ]
   },
   "2026-11-19:MTL": {
@@ -2243,6 +2338,104 @@
      "G"
     ]
    ],
+   "CGY": [
+    [
+     "Mikael Backlund",
+     "C"
+    ],
+    [
+     "Jonathan Castagna",
+     "C"
+    ],
+    [
+     "Matt Coronato",
+     "R"
+    ],
+    [
+     "Joel Farabee",
+     "L"
+    ],
+    [
+     "Morgan Frost",
+     "C"
+    ],
+    [
+     "Matvei Gridin",
+     "R"
+    ],
+    [
+     "Jonathan Huberdeau",
+     "L"
+    ],
+    [
+     "Adam Klapka",
+     "R"
+    ],
+    [
+     "Brennan Othmann",
+     "L"
+    ],
+    [
+     "Martin Pospisil",
+     "C"
+    ],
+    [
+     "Yegor Sharangovich",
+     "C"
+    ],
+    [
+     "Ryan Strome",
+     "C"
+    ],
+    [
+     "Aydar Suniev",
+     "L"
+    ],
+    [
+     "Maxim Tsyplakov",
+     "R"
+    ],
+    [
+     "Kevin Bahl",
+     "D"
+    ],
+    [
+     "Joel Hanley",
+     "D"
+    ],
+    [
+     "Yan Kuznetsov",
+     "D"
+    ],
+    [
+     "Jake Middleton",
+     "D"
+    ],
+    [
+     "Simon Nemec",
+     "D"
+    ],
+    [
+     "Brayden Pachal",
+     "D"
+    ],
+    [
+     "Zayne Parekh",
+     "D"
+    ],
+    [
+     "Zach Whitecloud",
+     "D"
+    ],
+    [
+     "Devin Cooley",
+     "G"
+    ],
+    [
+     "Dustin Wolf",
+     "G"
+    ]
+   ],
    "CHI": [
     [
      "Connor Bedard",
@@ -2448,6 +2641,108 @@
     ],
     [
      "Devon Levi",
+     "G"
+    ]
+   ],
+   "MIN": [
+    [
+     "Matt Boldy",
+     "L"
+    ],
+    [
+     "Bobby Brink",
+     "R"
+    ],
+    [
+     "Blake Coleman",
+     "L"
+    ],
+    [
+     "Joel Eriksson Ek",
+     "C"
+    ],
+    [
+     "Marcus Foligno",
+     "L"
+    ],
+    [
+     "Nick Foligno",
+     "L"
+    ],
+    [
+     "Ryan Hartman",
+     "R"
+    ],
+    [
+     "Kirill Kaprizov",
+     "L"
+    ],
+    [
+     "Michael McCarron",
+     "C"
+    ],
+    [
+     "Tyler Pitlick",
+     "C"
+    ],
+    [
+     "Maxim Shabanov",
+     "R"
+    ],
+    [
+     "Nico Sturm",
+     "C"
+    ],
+    [
+     "Yakov Trenin",
+     "C"
+    ],
+    [
+     "Danila Yurov",
+     "R"
+    ],
+    [
+     "Zach Bogosian",
+     "D"
+    ],
+    [
+     "Jonas Brodin",
+     "D"
+    ],
+    [
+     "Brock Faber",
+     "D"
+    ],
+    [
+     "Quinn Hughes",
+     "D"
+    ],
+    [
+     "Matt Kiersted",
+     "D"
+    ],
+    [
+     "Olli Maatta",
+     "D"
+    ],
+    [
+     "David Spacek",
+     "D"
+    ],
+    [
+     "Jared Spurgeon",
+     "D"
+    ],
+    [
+     "Filip Gustavsson",
+     "G"
+    ],
+    [
+     "Calvin Pickard",
+     "G"
+    ],
+    [
+     "Jesper Wallstedt",
      "G"
     ]
    ],
