@@ -1032,6 +1032,46 @@
      ]
     ],
     "goalie": "Levi"
+   },
+   "nhlcom": {
+    "at": "2026-11-19T17:51:29+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "forwards": [
+     [
+      "Dach",
+      "McDavid",
+      "Hyman"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Kapanen"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Frederic"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Joseph"
+     ]
+    ],
+    "goalie": "Levi"
    }
   },
   "FLA": {
@@ -1334,6 +1374,47 @@
      ]
     ],
     "goalie": "Woll"
+   }
+  },
+  "TBL": {
+   "nhlcom": {
+    "at": "2026-11-19T17:51:29+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ]
+    ],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Gourde",
+      "O'Reilly",
+      "Goncalves"
+     ],
+     [
+      "Viel",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Lilleberg"
    }
   },
   "TOR": {

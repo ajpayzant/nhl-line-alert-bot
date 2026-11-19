@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T17:46:08.429Z",
+ "article_updated": "2026-11-19T17:50:48.451Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1470,6 +1470,53 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-19:EDM": {
+   "article_updated": "2026-11-19T17:50:48.451Z",
+   "defense": [
+    [
+     "Mattias Ekholm",
+     "Evan Bouchard"
+    ],
+    [
+     "Ryan Shea",
+     "Connor Murphy"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "Ty Emberson"
+    ]
+   ],
+   "forwards": [
+    [
+     "Colton Dach",
+     "Connor McDavid",
+     "Zach Hyman"
+    ],
+    [
+     "Vasily Podkolzin",
+     "Leon Draisaitl",
+     "Kasperi Kapanen"
+    ],
+    [
+     "Filip Hallander",
+     "Jason Dickinson",
+     "Trent Frederic"
+    ],
+    [
+     "Alex Formenton",
+     "Owen Michaels",
+     "Mathieu Joseph"
+    ]
+   ],
+   "goalies": [
+    "Devon Levi",
+    "Tristan Jarry"
+   ],
+   "scratched": [
+    "Max Jones",
+    "Jake Walman"
+   ]
+  },
   "2026-11-19:MTL": {
    "article_updated": "2026-11-19T17:10:27.329Z",
    "defense": [
@@ -1610,6 +1657,52 @@
     "David Jiricek",
     "Simon Benoit",
     "Michael Bunting"
+   ]
+  },
+  "2026-11-19:TBL": {
+   "article_updated": "2026-11-19T17:50:48.451Z",
+   "defense": [
+    [
+     "Charle-Edouard D'Astous",
+     "John Carlson"
+    ],
+    [
+     "Victor Hedman",
+     "J.J. Moser"
+    ],
+    [
+     "Ryan McDonagh",
+     "Erik Cernak"
+    ]
+   ],
+   "forwards": [
+    [
+     "Jake Guentzel",
+     "Brayden Point",
+     "Nikita Kucherov"
+    ],
+    [
+     "Ilya Mikheyev",
+     "Anthony Cirelli",
+     "Pontus Holmberg"
+    ],
+    [
+     "Yanni Gourde",
+     "Sam O'Reilly",
+     "Gage Goncalves"
+    ],
+    [
+     "Jeffrey Viel",
+     "Scott Sabourin"
+    ]
+   ],
+   "goalies": [
+    "Emil Lilleberg",
+    "Andrei Vasilevskiy"
+   ],
+   "scratched": [
+    "Max Crozier",
+    "Jansen Harkins"
    ]
   },
   "2026-11-19:WSH": {
@@ -1861,6 +1954,116 @@
     ],
     [
      "Pyotr Kochetkov",
+     "G"
+    ]
+   ],
+   "EDM": [
+    [
+     "Colton Dach",
+     "C"
+    ],
+    [
+     "Jason Dickinson",
+     "C"
+    ],
+    [
+     "Leon Draisaitl",
+     "C"
+    ],
+    [
+     "Alex Formenton",
+     "L"
+    ],
+    [
+     "Trent Frederic",
+     "C"
+    ],
+    [
+     "Filip Hallander",
+     "C"
+    ],
+    [
+     "Zach Hyman",
+     "L"
+    ],
+    [
+     "Mattias Janmark",
+     "C"
+    ],
+    [
+     "Max Jones",
+     "L"
+    ],
+    [
+     "Mathieu Joseph",
+     "R"
+    ],
+    [
+     "Kasperi Kapanen",
+     "R"
+    ],
+    [
+     "Connor McDavid",
+     "C"
+    ],
+    [
+     "Owen Michaels",
+     "R"
+    ],
+    [
+     "Ryan Nugent-Hopkins",
+     "C"
+    ],
+    [
+     "Vasily Podkolzin",
+     "R"
+    ],
+    [
+     "Matt Savoie",
+     "C"
+    ],
+    [
+     "Evan Bouchard",
+     "D"
+    ],
+    [
+     "Mattias Ekholm",
+     "D"
+    ],
+    [
+     "Ty Emberson",
+     "D"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "D"
+    ],
+    [
+     "Connor Murphy",
+     "D"
+    ],
+    [
+     "Alec Regula",
+     "D"
+    ],
+    [
+     "Ryan Shea",
+     "D"
+    ],
+    [
+     "Jake Walman",
+     "D"
+    ],
+    [
+     "Frederik Andersen",
+     "G"
+    ],
+    [
+     "Tristan Jarry",
+     "G"
+    ],
+    [
+     "Devon Levi",
      "G"
     ]
    ],
@@ -2163,6 +2366,108 @@
     ],
     [
      "Joseph Woll",
+     "G"
+    ]
+   ],
+   "TBL": [
+    [
+     "Anthony Cirelli",
+     "C"
+    ],
+    [
+     "Conor Geekie",
+     "C"
+    ],
+    [
+     "Zemgus Girgensons",
+     "C"
+    ],
+    [
+     "Gage Goncalves",
+     "C"
+    ],
+    [
+     "Yanni Gourde",
+     "C"
+    ],
+    [
+     "Jake Guentzel",
+     "C"
+    ],
+    [
+     "Brandon Hagel",
+     "L"
+    ],
+    [
+     "Jansen Harkins",
+     "C"
+    ],
+    [
+     "Pontus Holmberg",
+     "R"
+    ],
+    [
+     "Nikita Kucherov",
+     "R"
+    ],
+    [
+     "Ilya Mikheyev",
+     "R"
+    ],
+    [
+     "Sam O'Reilly",
+     "R"
+    ],
+    [
+     "Brayden Point",
+     "C"
+    ],
+    [
+     "Scott Sabourin",
+     "R"
+    ],
+    [
+     "Jeffrey Viel",
+     "L"
+    ],
+    [
+     "John Carlson",
+     "D"
+    ],
+    [
+     "Erik Cernak",
+     "D"
+    ],
+    [
+     "Max Crozier",
+     "D"
+    ],
+    [
+     "Charle-Edouard D'Astous",
+     "D"
+    ],
+    [
+     "Victor Hedman",
+     "D"
+    ],
+    [
+     "Emil Lilleberg",
+     "D"
+    ],
+    [
+     "Ryan McDonagh",
+     "D"
+    ],
+    [
+     "J.J. Moser",
+     "D"
+    ],
+    [
+     "Dennis Hildeby",
+     "G"
+    ],
+    [
+     "Andrei Vasilevskiy",
      "G"
     ]
    ],
