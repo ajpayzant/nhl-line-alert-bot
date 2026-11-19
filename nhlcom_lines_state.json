@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T14:31:06.287Z",
+ "article_updated": "2026-11-19T17:10:27.329Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1372,6 +1372,102 @@
    "scratched": [
     "Ben McCartney",
     "Gregor Biber"
+   ]
+  },
+  "2026-11-19:CAR": {
+   "article_updated": "2026-11-19T17:10:27.329Z",
+   "defense": [
+    [
+     "Jaccob Slavin",
+     "Jalen Chatfield"
+    ],
+    [
+     "K'Andre Miller",
+     "Sean Walker"
+    ],
+    [
+     "Shayne Gostisbehere",
+     "Alexander Nikishin"
+    ]
+   ],
+   "forwards": [
+    [
+     "William Carrier",
+     "Sebastian Aho",
+     "Andrei Svechnikov"
+    ],
+    [
+     "Nikolaj Ehlers",
+     "Logan Stankoven",
+     "Jackson Blake"
+    ],
+    [
+     "Jordan Martinook",
+     "Jordan Staal",
+     "Seth Jarvis"
+    ],
+    [
+     "Taylor Hall",
+     "Mark Jankowski",
+     "Eric Robinson"
+    ]
+   ],
+   "goalies": [
+    "Pyotr Kochetkov",
+    "Brandon Bussi"
+   ],
+   "scratched": [
+    "Juuso Välimäki",
+    "Jesperi Kotkaniemi",
+    "Nicolas Deslauriers"
+   ]
+  },
+  "2026-11-19:MTL": {
+   "article_updated": "2026-11-19T17:10:27.329Z",
+   "defense": [
+    [
+     "Lane Hutson",
+     "Noah Dobson"
+    ],
+    [
+     "Kaiden Guhle",
+     "Alexandre Carrier"
+    ],
+    [
+     "Arber Xhekaj",
+     "Adam Engstrom"
+    ]
+   ],
+   "forwards": [
+    [
+     "Cole Caufield",
+     "Nick Suzuki",
+     "Alexandre Texier"
+    ],
+    [
+     "Zachary Bolduc",
+     "Phillip Danault",
+     "Kirby Dach"
+    ],
+    [
+     "Alex Newhook",
+     "Jake Evans",
+     "Juraj Slafkovský"
+    ],
+    [
+     "Brett Berard",
+     "Oliver Kapanen",
+     "Owen Beck"
+    ]
+   ],
+   "goalies": [
+    "Jakub Dobes",
+    "Jacob Fowler"
+   ],
+   "scratched": [
+    "David Reinbacher",
+    "Florian Xhekaj",
+    "Mike Matheson"
    ]
   }
  },
