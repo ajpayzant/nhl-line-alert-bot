@@ -1075,6 +1075,46 @@
    }
   },
   "FLA": {
+   "dfo": {
+    "at": "2026-11-19T17:54:38+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Balinskis",
+      "Kulikov"
+     ]
+    ],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Bennett",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Lundell",
+      "Marchand"
+     ],
+     [
+      "Imama",
+      "Eller",
+      "Hathaway"
+     ]
+    ],
+    "goalie": "Markstrom"
+   },
    "gameday": {
     "at": "2026-11-19T16:34:32+00:00",
     "defense": [],

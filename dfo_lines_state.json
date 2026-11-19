@@ -286,6 +286,7 @@
     "goalie": "Markstrom",
     "players": [
       "Balinskis",
+      "Barkov",
       "Bennett",
       "Ekblad",
       "Eller",
@@ -296,16 +297,15 @@
       "Kulikov",
       "Lundell",
       "Luostarinen",
+      "Marchand",
       "Mikkola",
       "Reinhart",
-      "Schwindt",
       "Tkachuk",
-      "Verhaeghe",
-      "Vilmanis"
+      "Verhaeghe"
     ],
-    "signature": "[[[\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Reinhart\"], [\"Verhaeghe\", \"Eller\", \"Vilmanis\"], [\"Imama\", \"Schwindt\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Balinskis\", \"Kulikov\"]], [\"Markstrom\"], [\"Tkachuk\", \"Reinhart\", \"Verhaeghe\", \"Jones\", \"Tkachuk\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020335",
-    "updated_at": "2026-11-18T14:52:04.570Z"
+    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Marchand\"], [\"Imama\", \"Eller\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Balinskis\", \"Kulikov\"]], [\"Markstrom\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
+    "source": "https://x.com/JamesonCoop/status/2123450762999013829?s=20",
+    "updated_at": "2026-11-19T17:53:03.756Z"
   },
   "LAK": {
     "goalie": "Kuemper",
