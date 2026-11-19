@@ -881,6 +881,48 @@
     "goalie": "Kochetkov"
    }
   },
+  "CBJ": {
+   "nhlcom": {
+    "at": "2026-11-19T18:33:24+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Mateychuk"
+     ],
+     [
+      "Christiansen",
+      "Gudbranson"
+     ]
+    ],
+    "forwards": [
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Lomberg",
+      "Fantilli",
+      "Nichushkin"
+     ],
+     [
+      "Sillinger",
+      "Coyle",
+      "Olivier"
+     ],
+     [
+      "Lundeström",
+      "Williams",
+      "Lorentz"
+     ]
+    ],
+    "goalie": "Talbot"
+   }
+  },
   "CGY": {
    "dfo": {
     "at": "2026-11-19T18:09:38+00:00",
@@ -961,6 +1003,48 @@
      ]
     ],
     "goalie": "Wolf"
+   }
+  },
+  "CHI": {
+   "nhlcom": {
+    "at": "2026-11-19T18:33:24+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Kaiser",
+      "Del Mastro"
+     ]
+    ],
+    "forwards": [
+     [
+      "Kantserov",
+      "Frondell",
+      "Bertuzzi"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Greenway",
+      "Greene",
+      "Teravainen"
+     ],
+     [
+      "Mangiapane",
+      "Donato",
+      "Boucher"
+     ]
+    ],
+    "goalie": "Knight"
    }
   },
   "DET": {

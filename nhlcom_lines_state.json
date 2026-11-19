@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T17:54:49.34Z",
+ "article_updated": "2026-11-19T18:33:23.248Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1470,6 +1470,99 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-19:CBJ": {
+   "article_updated": "2026-11-19T18:33:23.248Z",
+   "defense": [
+    [
+     "Zach Werenski",
+     "Damon Severson"
+    ],
+    [
+     "Ivan Provorov",
+     "Denton Mateychuk"
+    ],
+    [
+     "Jake Christiansen",
+     "Erik Gudbranson"
+    ]
+   ],
+   "forwards": [
+    [
+     "Matthew Knies",
+     "Luca Del Bel Belluz",
+     "Kent Johnson"
+    ],
+    [
+     "Ryan Lomberg",
+     "Adam Fantilli",
+     "Valeri Nichushkin"
+    ],
+    [
+     "Cole Sillinger",
+     "Charlie Coyle",
+     "Mathieu Olivier"
+    ],
+    [
+     "Isac Lundeström",
+     "Jack Williams",
+     "Steven Lorentz"
+    ]
+   ],
+   "goalies": [
+    "Cam Talbot",
+    "Jet Greaves"
+   ],
+   "scratched": [
+    "Dante Fabbro",
+    "Dmitri Voronkov"
+   ]
+  },
+  "2026-11-19:CHI": {
+   "article_updated": "2026-11-19T18:33:23.248Z",
+   "defense": [
+    [
+     "Alex Vlasic",
+     "Sam Rinzel"
+    ],
+    [
+     "Ian Cole",
+     "Artyom Levshunov"
+    ],
+    [
+     "Wyatt Kaiser",
+     "Ethan Del Mastro"
+    ]
+   ],
+   "forwards": [
+    [
+     "Roman Kantserov",
+     "Anton Frondell",
+     "Tyler Bertuzzi"
+    ],
+    [
+     "Oliver Moore",
+     "Frank Nazar",
+     "Patrick Kane"
+    ],
+    [
+     "Jordan Greenway",
+     "Ryan Greene",
+     "Teuvo Teravainen"
+    ],
+    [
+     "Andrew Mangiapane",
+     "Ryan Donato",
+     "Dillon Boucher"
+    ]
+   ],
+   "goalies": [
+    "Spencer Knight",
+    "Drew Commesso"
+   ],
+   "scratched": [
+    "Kevin Korchinski"
+   ]
+  },
   "2026-11-19:EDM": {
    "article_updated": "2026-11-19T17:50:48.451Z",
    "defense": [
@@ -2049,6 +2142,202 @@
     ],
     [
      "Pyotr Kochetkov",
+     "G"
+    ]
+   ],
+   "CBJ": [
+    [
+     "Charlie Coyle",
+     "C"
+    ],
+    [
+     "Luca Del Bel Belluz",
+     "C"
+    ],
+    [
+     "Adam Fantilli",
+     "C"
+    ],
+    [
+     "Conor Garland",
+     "R"
+    ],
+    [
+     "Kent Johnson",
+     "C"
+    ],
+    [
+     "Matthew Knies",
+     "L"
+    ],
+    [
+     "Ryan Lomberg",
+     "L"
+    ],
+    [
+     "Steven Lorentz",
+     "C"
+    ],
+    [
+     "Isac Lundeström",
+     "C"
+    ],
+    [
+     "Sean Monahan",
+     "C"
+    ],
+    [
+     "Valeri Nichushkin",
+     "R"
+    ],
+    [
+     "Mathieu Olivier",
+     "R"
+    ],
+    [
+     "Cole Sillinger",
+     "C"
+    ],
+    [
+     "Dmitri Voronkov",
+     "L"
+    ],
+    [
+     "Jack Williams",
+     "C"
+    ],
+    [
+     "Jake Christiansen",
+     "D"
+    ],
+    [
+     "Dante Fabbro",
+     "D"
+    ],
+    [
+     "Erik Gudbranson",
+     "D"
+    ],
+    [
+     "Denton Mateychuk",
+     "D"
+    ],
+    [
+     "Ivan Provorov",
+     "D"
+    ],
+    [
+     "Damon Severson",
+     "D"
+    ],
+    [
+     "Zach Werenski",
+     "D"
+    ],
+    [
+     "Jet Greaves",
+     "G"
+    ],
+    [
+     "Cam Talbot",
+     "G"
+    ]
+   ],
+   "CHI": [
+    [
+     "Connor Bedard",
+     "C"
+    ],
+    [
+     "Tyler Bertuzzi",
+     "L"
+    ],
+    [
+     "Dillon Boucher",
+     "L"
+    ],
+    [
+     "Ryan Donato",
+     "C"
+    ],
+    [
+     "Anton Frondell",
+     "C"
+    ],
+    [
+     "Ryan Greene",
+     "C"
+    ],
+    [
+     "Jordan Greenway",
+     "L"
+    ],
+    [
+     "Patrick Kane",
+     "R"
+    ],
+    [
+     "Roman Kantserov",
+     "R"
+    ],
+    [
+     "Andrew Mangiapane",
+     "L"
+    ],
+    [
+     "Oliver Moore",
+     "C"
+    ],
+    [
+     "Frank Nazar",
+     "C"
+    ],
+    [
+     "Cole Smith",
+     "R"
+    ],
+    [
+     "Teuvo Teravainen",
+     "C"
+    ],
+    [
+     "Bowen Byram",
+     "D"
+    ],
+    [
+     "Ian Cole",
+     "D"
+    ],
+    [
+     "Ethan Del Mastro",
+     "D"
+    ],
+    [
+     "Wyatt Kaiser",
+     "D"
+    ],
+    [
+     "Kevin Korchinski",
+     "D"
+    ],
+    [
+     "Artyom Levshunov",
+     "D"
+    ],
+    [
+     "Sam Rinzel",
+     "D"
+    ],
+    [
+     "Alex Vlasic",
+     "D"
+    ],
+    [
+     "Drew Commesso",
+     "G"
+    ],
+    [
+     "Spencer Knight",
      "G"
     ]
    ],
