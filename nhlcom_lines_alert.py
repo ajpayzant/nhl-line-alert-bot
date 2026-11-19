@@ -488,11 +488,14 @@ def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_sla
         kind = "update" if prev else "new"
         lineup = {"forwards": t["forwards"], "defense": t["defense"], "extra": t.get("extra") or [],
                   "goalie": t["goalies"][0] if t["goalies"] else ""}
-        message = xcheck.annotate(build_slack_notification(t, kind, prev, article_updated, now), t["team"], lineup, now)
+        meta = {"info_at": datetime.fromisoformat(article_updated.replace("Z", "+00:00"))
+                .astimezone(timezone.utc).isoformat(timespec="seconds")}
+        message = xcheck.annotate(build_slack_notification(t, kind, prev, article_updated, now), t["team"], lineup, now,
+                                  meta)
         if sent:
             sleep(SEND_SLEEP_SECONDS)
         send(message)
-        xcheck.record(t["team"], lineup, now)
+        xcheck.record(t["team"], lineup, now, meta)
         log(t, kind, article_updated, describe_changes(t, prev) if prev else [])
         lineups[key] = entry(t, article_updated)
         save(state)

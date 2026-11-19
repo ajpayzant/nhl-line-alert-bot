@@ -294,6 +294,15 @@ def source_tweet_time(source: str):
         return None
 
 
+def xcheck_meta(team: dict) -> dict:
+    """For the cross-check: when the information came out (the reporter's tweet if
+    DFO links one, else DFO's update time), who it came from, and the tweet id."""
+    tweet_utc = source_tweet_time(team["source"])
+    info = tweet_utc or datetime.fromisoformat(team["updated_at"].replace("Z", "+00:00"))
+    return {"info_at": info.astimezone(timezone.utc).isoformat(timespec="seconds"), "via": team["source_name"],
+            "ref": extract_status_id(team["source"]) if tweet_utc else ""}
+
+
 def build_slack_notification(team: dict, kind: str, prev: dict | None) -> str:
     flags = team["flags"]
 
@@ -415,8 +424,9 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
         now = datetime.now(timezone.utc)
         lineup = {"forwards": team["forwards"], "defense": team["defense"], "extra": team.get("extra") or [],
                   "goalie": team["goalies"][0] if team["goalies"] else ""}
-        send_slack_message(xcheck.annotate(build_slack_notification(team, kind, prev), team["team"], lineup, now))
-        xcheck.record(team["team"], lineup, now)
+        send_slack_message(xcheck.annotate(build_slack_notification(team, kind, prev), team["team"], lineup, now,
+                                           xcheck_meta(team)))
+        xcheck.record(team["team"], lineup, now, xcheck_meta(team))
         append_alert_log(team, kind)
         alerted.add((team["team"], team["source"], lineup_signature(team)))
         state[team["team"]] = state_entry(team)

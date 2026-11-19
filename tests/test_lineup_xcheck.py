@@ -49,7 +49,7 @@ def test_same_groups_in_another_order_match(tmp_path):
     x.record("SJS", "nhlcom", PROJ, NOW.replace(hour=16), ROSTERS, path)
     team, lineup = x.parse_tweet(TWEET, ROSTERS)
     assert x.cross_check_line(team, "gameday", lineup, NOW, ROSTERS, path) == \
-        "✅ *Cross-check:* matches NHL.com projection (4:40 PM)"
+        "✅ *Cross-check:* matches NHL.com projection (edited 4:40 PM)"
 
 
 def test_real_difference_is_shown(tmp_path):
@@ -57,9 +57,10 @@ def test_real_difference_is_shown(tmp_path):
     x.record("SJS", "nhlcom", PROJ, NOW.replace(hour=16), ROSTERS, path)
     team, lineup = x.parse_tweet(TWEET.replace("Askarov", "Nedeljkovic").replace("Toffoli-", "Ferraro-"), ROSTERS)
     line = x.cross_check_line(team, "dfo", {**lineup}, NOW, ROSTERS, path)
-    assert line.startswith("⚠️ *Cross-check vs NHL.com projection (4:40 PM):*")
+    assert line.startswith("🚨 *SOURCES DISAGREE*\n*vs NHL.com projection (edited 4:40 PM):*")
     assert "L3 Ferraro-Dellandrea-Graf (NHL.com: Toffoli-Dellandrea-Graf)" in line
-    assert "G Nedeljkovic (NHL.com: Askarov)" in line
+    assert "• *Goalie:* Nedeljkovic here · Askarov on NHL.com" in line
+    assert "• *Players:* Ferraro in here, not on NHL.com · Toffoli on NHL.com, not here" not in line  # 3 lines: not complete
 
 
 def test_unknown_name_is_not_called_a_difference(tmp_path):
@@ -99,3 +100,70 @@ def test_line_missing_a_player_is_not_a_difference(tmp_path):
     x.record("SJS", "gameday", PROJ, NOW.replace(hour=16), ROSTERS, path)
     short = {**PROJ, "forwards": [["Misa", "Marchment"]] + PROJ["forwards"][1:]}
     assert x.cross_check_line("SJS", "dfo", short, NOW, ROSTERS, path).startswith("✅")
+
+
+# ---- 11F/7D vs 12F/6D, who to trust, banner placement ----
+
+SJS_X = SJS + [p("Jeff", "Skinner", "L"), p("Barclay", "Goodrow", "C"), p("Cody", "Ceci", "D")]
+FULL = {"forwards": [["Stenberg", "Celebrini", "Smith"], ["Misa", "Wennberg", "Marchment"],
+                     ["Toffoli", "Dellandrea", "Graf"], ["Skinner", "Goodrow", "Ferraro"]],
+        "defense": PROJ["defense"], "goalie": "Askarov"}
+ELEVEN = {**FULL, "forwards": FULL["forwards"][:3] + [["Skinner", "Goodrow"]], "extra": ["Ceci"]}
+R2 = {"SJS": SJS_X}
+
+
+def test_eleven_seven_vs_twelve_six_is_flagged(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "dfo", FULL, NOW.replace(hour=15), R2, path,
+             meta={"info_at": "2026-11-18T20:00:00+00:00", "via": "Curtis Pashelka", "ref": "111"})
+    banner, footer = x.cross_check("SJS", "nhlcom", ELEVEN, NOW.replace(hour=16), R2,
+                                   meta={"info_at": "2026-11-18T21:00:00+00:00"}, path=path)
+    assert footer == ""
+    assert banner.startswith("🚨 *SOURCES DISAGREE*\n*vs Daily Faceoff (via Curtis Pashelka, tweet 3:00 PM):*")
+    assert "• *Players:* Ceci in here, not on DFO · Ferraro on DFO, not here" in banner
+    assert "• *Format:* 11F/7D here · 12F/6D on DFO" in banner
+    # the reporter's tweet outranks NHL.com even though NHL.com is newer
+    assert banner.endswith("➜ *Most likely right: Daily Faceoff (via Curtis Pashelka, tweet 3:00 PM)* — "
+                           "a beat-reporter tweet outranks the NHL.com projection. _This post may be out of date._")
+
+
+def test_newer_tweet_wins_within_tier_and_agreeing_source_is_named(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "dfo", FULL, NOW.replace(hour=15), R2, path,
+             meta={"info_at": "2026-11-18T20:00:00+00:00", "via": "Pashelka", "ref": "111"})
+    x.record("SJS", "nhlcom", ELEVEN, NOW.replace(hour=16), R2, path, meta={"info_at": "2026-11-18T21:00:00+00:00"})
+    banner, _ = x.cross_check("SJS", "gameday", ELEVEN, NOW, R2,
+                              meta={"info_at": "2026-11-19T00:30:00+00:00", "via": "@CurtisPashelka", "ref": "222"},
+                              path=path)
+    assert "✅ *Agrees with:* NHL.com projection (edited 4:00 PM)" in banner
+    assert banner.endswith("➜ *Most likely right: this lineup* — newer info (7:30 PM vs 3:00 PM)")
+
+
+def test_same_tweet_is_labelled(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "gameday", FULL, NOW.replace(hour=15), R2, path, meta={"via": "@CurtisPashelka", "ref": "111"})
+    line = x.cross_check_line("SJS", "dfo", FULL, NOW, R2, path, meta={"via": "Curtis Pashelka", "ref": "111"})
+    assert line.startswith("✅ *Cross-check:* matches GameDay tweet (@CurtisPashelka, 3:40 PM), same tweet")
+
+
+def test_banner_goes_under_the_title():
+    msg = "🏒 *New DFO Lines: X*\n\n*Source:* y\n*Link:* z"
+    assert x.add_to_message(msg, "", "🚨 *SOURCES DISAGREE*") == \
+        "🏒 *New DFO Lines: X*\n\n🚨 *SOURCES DISAGREE*\n\n*Source:* y\n*Link:* z"
+
+
+def test_unreadable_tweet_name_skips_player_compare(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "nhlcom", FULL, NOW.replace(hour=15), R2, path)
+    tweet = {**FULL, "forwards": FULL["forwards"][:3] + [["Skinner", "Goodrow", "Fezza"]]}
+    assert x.cross_check_line("SJS", "gameday", tweet, NOW, R2, path).startswith("✅")
+
+
+def test_earlier_day_tweet_loses_to_todays_projection(tmp_path):
+    path = str(tmp_path / "posted.json")
+    x.record("SJS", "dfo", FULL, NOW.replace(hour=12), R2, path,
+             meta={"info_at": "2026-11-17T16:35:00+00:00", "via": "Pashelka", "ref": "111"})   # yesterday's tweet
+    banner, _ = x.cross_check("SJS", "nhlcom", ELEVEN, NOW.replace(hour=16), R2,
+                              meta={"info_at": "2026-11-18T21:00:00+00:00"}, path=path)
+    assert "*vs Daily Faceoff (via Pashelka, tweet Nov 17 11:35 AM):*" in banner
+    assert banner.endswith("➜ *Most likely right: this lineup* — newer info (4:00 PM vs 11:35 AM)")

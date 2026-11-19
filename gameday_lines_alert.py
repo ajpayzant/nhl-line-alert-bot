@@ -681,15 +681,18 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> pd.DataFr
         message = build_slack_notification(row)
         now = datetime.now(tz=timezone.utc)
         tweet_lineup = xcheck.from_tweet(safe_str(row.get("best_text") or row.get("gdt_preview_text")), now)
+        sid = str(row["status_id"])
+        meta = {"info_at": status_id_to_utc(sid).isoformat(timespec="seconds"),
+                "via": safe_str(row.get("source_handle")), "ref": sid}
         if tweet_lineup:
-            message = xcheck.annotate(message, tweet_lineup[0], tweet_lineup[1], now)
+            message = xcheck.annotate(message, tweet_lineup[0], tweet_lineup[1], now, meta)
 
         try:
             send_slack_message(message)
             print(f"Slack alert sent for {row['status_id']} from {row.get('source_handle')}")
             sent_rows.append(row.to_dict())
             if tweet_lineup:
-                xcheck.record(tweet_lineup[0], tweet_lineup[1], now)
+                xcheck.record(tweet_lineup[0], tweet_lineup[1], now, meta)
 
             # Save after every send so a crash later in the run cannot cause repeats.
             seen_ids.add(str(row["status_id"]))

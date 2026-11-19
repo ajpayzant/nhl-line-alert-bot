@@ -308,6 +308,46 @@ def compare(new: dict, old: dict) -> list:
     return diffs
 
 
+def _complete(l: dict) -> bool:
+    return len(l.get("forwards") or []) >= 4 and len(l.get("defense") or []) >= 3
+
+
+def shape(l: dict) -> str:
+    """"12F/6D", "11F/7D"."""
+    f = sum(len(r) for r in l.get("forwards") or [])
+    d = sum(len(r) for r in l.get("defense") or []) + len(l.get("extra") or [])
+    return f"{f}F/{d}D"
+
+
+def _unknown(l: dict) -> int:
+    return sum(1 for r in (l.get("forwards") or []) + (l.get("defense") or []) for n in r if n.startswith("?"))
+
+
+def personnel(new: dict, old: dict, new_src: str = "", old_src: str = "") -> dict:
+    """Who dresses, when both lineups are complete: {"format": (a, b) or None,
+    "only_new": [...], "only_old": [...]}. This is what line-by-line compare can't
+    show: an 11F/7D lineup vs a 12F/6D one, or a scratch on one side only.
+    A name not on the roster counts when it comes from NHL.com or DFO (full names
+    from a structured page, e.g. a same-day call-up). From a tweet it may be a
+    nickname the reader couldn't place, so if a tweet has one, players aren't
+    compared at all (the line-by-line compare still runs)."""
+    out = {"format": None, "only_new": [], "only_old": []}
+    if not (_complete(new) and _complete(old)):
+        return out
+    if shape(new) != shape(old):
+        out["format"] = (shape(new), shape(old))
+    if (new_src == "gameday" and _unknown(new)) or (old_src == "gameday" and _unknown(old)):
+        return out
+
+    def skaters(l):
+        names = [n for r in (l.get("forwards") or []) + (l.get("defense") or []) for n in r] + list(l.get("extra") or [])
+        return {key(n): n.lstrip("?") for n in names}
+    a, b = skaters(new), skaters(old)
+    out["only_new"] = sorted(a[k] for k in a.keys() - b.keys())
+    out["only_old"] = sorted(b[k] for k in b.keys() - a.keys())
+    return out
+
+
 def _comparable(a: dict, b: dict) -> bool:
     return bool(min(len(a.get("forwards") or []), len(b.get("forwards") or []))
                 or min(len(a.get("defense") or []), len(b.get("defense") or []))
@@ -326,35 +366,151 @@ def load_posted(path: str = POSTED_PATH) -> dict:
         return json.load(f)
 
 
-def cross_check_line(team: str, source: str, lineup: dict, now: datetime, rosters: dict,
-                     path: str = POSTED_PATH) -> str:
-    """The line to add to a post, or "" when no other source posted this team today."""
-    roster = rosters.get(team) or []
-    new = canonical(lineup, roster)
+# ============================================================
+# WHICH SOURCE TO TRUST
+# ============================================================
+#
+# Tier 1  a beat reporter's tweet: a GameDay tweet, or a DFO update whose source
+#         is a reporter's tweet (dated by the tweet, not by DFO's page, which
+#         lags it ~25 min)
+# Tier 2  NHL.com projection (dated by the article's last edit), or a DFO
+#         update with no tweet behind it
+# Within a tier the newer information wins. A tweet from an earlier day (DFO
+# sometimes still shows yesterday's practice tweet) drops to tier 2.
+
+def _when(meta: dict) -> str:
+    return meta.get("info_at") or meta.get("at") or ""
+
+
+def _earlier_day(meta: dict, today: str) -> bool:
+    return bool(today and _when(meta) and datetime.fromisoformat(_when(meta)).astimezone(ET).date().isoformat() < today)
+
+
+def tier(source: str, meta: dict, today: str = "") -> int:
+    tweet = source == "gameday" or (source == "dfo" and meta.get("ref"))
+    return 1 if tweet and not _earlier_day(meta, today) else 2
+
+
+def describe(source: str, meta: dict, today: str = "") -> str:
+    """'Daily Faceoff (via Zach Cavanagh, tweet 3:20 PM)', 'NHL.com projection (edited 3:26 PM)';
+    the date is added when the information is from an earlier day."""
+    when = _clock(_when(meta))
+    if _earlier_day(meta, today):
+        t = datetime.fromisoformat(_when(meta)).astimezone(ET)
+        when = f"{t:%b} {t.day} {when}"
+    via = meta.get("via") or ""
+    if source == "gameday":
+        return f"GameDay tweet ({via + ', ' if via else ''}{when})"
+    if source == "dfo":
+        return f"Daily Faceoff ({'via ' + via + ', ' if via else ''}{'tweet ' if meta.get('ref') else 'updated '}{when})"
+    return f"NHL.com projection (edited {when})"
+
+
+def _kind(source: str, meta: dict, today: str = "") -> str:
+    if tier(source, meta, today) == 1:
+        return "a beat-reporter tweet"
+    if _earlier_day(meta, today) and source != "nhlcom":
+        return "an earlier day's tweet"
+    return "the NHL.com projection" if source == "nhlcom" else "an unsourced DFO update"
+
+
+def verdict(this: tuple, agree: list, disagree: list, today: str = "") -> str:
+    """One line naming the lineup most likely to be right: the higher tier, then
+    the newer information. Each item is (source, meta); `agree` are the sources
+    that match this post, `disagree` the ones that don't."""
+    def rank(item):
+        return (-tier(*item, today), _when(item[1]))
+    ours = [this, *agree]
+    best = max(ours + disagree, key=rank)
+    our_side = best in ours
+    rival = max(disagree if our_side else ours, key=rank)
+    if tier(*best, today) < tier(*rival, today):
+        why = f"{_kind(*best, today)} outranks {_kind(*rival, today)}"
+    elif _when(best[1]) == _when(rival[1]):
+        why = "same tier and time; check the link"
+    else:
+        why = f"newer info ({_clock(_when(best[1]))} vs {_clock(_when(rival[1]))})"
+    if our_side:
+        backed = "" if best == this else f", backed by {describe(*best, today)}"
+        return f"➜ *Most likely right: this lineup*{backed} — {why}"
+    return f"➜ *Most likely right: {describe(*best, today)}* — {why}. _This post may be out of date._"
+
+
+# ============================================================
+# BUILD THE CROSS-CHECK
+# ============================================================
+
+def _diff_bullets(new: dict, old: dict, source: str, src: str) -> list:
+    """Most important first: goalie, who dresses, 11F/7D vs 12F/6D, then line placement."""
+    other = SHORT[src]
+    out = []
+    diffs = compare(new, old)
+    for slot, a, b in diffs:
+        if slot == "G":
+            out.append(f"• *Goalie:* {a} here · {b} on {other}")
+    pers = personnel(new, old, source, src)
+    if pers["only_new"] or pers["only_old"]:
+        parts = []
+        if pers["only_new"]:
+            parts.append(f"{', '.join(pers['only_new'])} in here, not on {other}")
+        if pers["only_old"]:
+            parts.append(f"{', '.join(pers['only_old'])} on {other}, not here")
+        out.append("• *Players:* " + " · ".join(parts))
+    if pers["format"]:
+        out.append(f"• *Format:* {pers['format'][0]} here · {pers['format'][1]} on {other}")
+    lines = [d for d in diffs if d[0] != "G"]
+    if lines:
+        shown = [f"{slot} {a} ({other}: {b})" for slot, a, b in lines[:MAX_DIFFS]]
+        more = f" · +{len(lines) - MAX_DIFFS} more" if len(lines) > MAX_DIFFS else ""
+        out.append("• *Lines:* " + " · ".join(shown) + more)
+    return out
+
+
+def cross_check(team: str, source: str, lineup: dict, now: datetime, rosters: dict,
+                meta: dict | None = None, path: str = POSTED_PATH) -> tuple:
+    """(banner, footer) for a post. The banner goes right under the title when
+    another source disagrees; the footer is a quiet ✅ line when all agree.
+    Both are "" when no other source posted this team today."""
+    new = canonical(lineup, rosters.get(team) or [])
+    this_meta = {"at": now.astimezone(timezone.utc).isoformat(timespec="seconds"), **(meta or {})}
     day = now.astimezone(ET).date().isoformat()
     others = (load_posted(path).get(day) or {}).get(team) or {}
-    matches, lines = [], []
+    agree, disagree, sections = [], [], []
     for src in ("gameday", "dfo", "nhlcom"):
         if src == source or src not in others:
             continue
         old = others[src]
         if not _comparable(new, old):
             continue
-        label = f"{LABELS[src]} ({_clock(old['at'])})"
-        diffs = compare(new, old)
-        if not diffs:
-            matches.append(label)
-            continue
-        shown = [f"{slot} {a} ({SHORT[src]}: {b})" for slot, a, b in diffs[:MAX_DIFFS]]
-        more = f" · +{len(diffs) - MAX_DIFFS} more" if len(diffs) > MAX_DIFFS else ""
-        lines.append(f"⚠️ *Cross-check vs {label}:* " + " · ".join(shown) + more)
-    if matches:
-        lines.insert(0, "✅ *Cross-check:* matches " + " and ".join(matches))
-    return "\n".join(lines)
+        same_tweet = bool(this_meta.get("ref") and this_meta.get("ref") == old.get("ref"))
+        label = describe(src, old, day) + (", same tweet" if same_tweet else "")
+        bullets = _diff_bullets(new, old, source, src)
+        if bullets:
+            disagree.append((src, old))
+            sections.append(f"*vs {label}:*\n" + "\n".join(bullets))
+        else:
+            agree.append((src, old, label))
+    agree_text = " and ".join(a[2] for a in agree)
+    if not disagree:
+        return "", f"✅ *Cross-check:* matches {agree_text}" if agree else ""
+    banner = ["🚨 *SOURCES DISAGREE*", *sections]
+    if agree:
+        banner.append(f"✅ *Agrees with:* {agree_text}")
+    banner.append(verdict((source, this_meta), [(a[0], a[1]) for a in agree], disagree, day))
+    return "\n".join(banner), ""
 
 
-def add_to_message(message: str, line: str) -> str:
-    """Put the cross-check line just above the message's *Link:* line."""
+def cross_check_line(team: str, source: str, lineup: dict, now: datetime, rosters: dict,
+                     path: str = POSTED_PATH, meta: dict | None = None) -> str:
+    """Banner and footer as one string (tests / logging)."""
+    return "\n".join(x for x in cross_check(team, source, lineup, now, rosters, meta, path) if x)
+
+
+def add_to_message(message: str, line: str = "", banner: str = "") -> str:
+    """Banner just under the title (first line); footer just above the *Link:* line."""
+    if banner:
+        head, sep, rest = message.partition("\n")
+        message = head + "\n\n" + banner + ("\n" + rest if sep else "")
     if not line:
         return message
     i = message.rfind("\n*Link:*")
@@ -376,27 +532,31 @@ class Checker:
                                  self.fetch, default={}) or {}
         return self._rosters
 
-    def annotate(self, message: str, team: str, lineup: dict, now: datetime) -> str:
-        line = safe(cross_check_line, team, self.source, lineup, now, self.rosters(now), self.posted_path,
-                    default="")
-        return add_to_message(message, line or "")
+    def annotate(self, message: str, team: str, lineup: dict, now: datetime, meta: dict | None = None) -> str:
+        banner, footer = safe(cross_check, team, self.source, lineup, now, self.rosters(now), meta,
+                              self.posted_path, default=("", "")) or ("", "")
+        return add_to_message(message, footer, banner)
 
-    def record(self, team: str, lineup: dict, now: datetime):
-        safe(record, team, self.source, lineup, now, self.rosters(now), self.posted_path)
+    def record(self, team: str, lineup: dict, now: datetime, meta: dict | None = None):
+        safe(record, team, self.source, lineup, now, self.rosters(now), self.posted_path, meta)
 
     def from_tweet(self, text: str, now: datetime):
         """(team, lineup) if the tweet lists lines, else None."""
         return safe(parse_tweet, text, self.rosters(now))
 
 
-def record(team: str, source: str, lineup: dict, now: datetime, rosters: dict, path: str = POSTED_PATH):
-    """Remember the lineup just posted, so later posts from other sources compare against it."""
+def record(team: str, source: str, lineup: dict, now: datetime, rosters: dict, path: str = POSTED_PATH,
+           meta: dict | None = None):
+    """Remember the lineup just posted, so later posts from other sources compare
+    against it. meta: info_at (when the information came out, ISO UTC), via
+    (reporter / handle), ref (the source tweet's status id, to spot the same tweet)."""
     data = load_posted(path)
     day = now.astimezone(ET).date().isoformat()
     keep = (now.astimezone(ET).date() - timedelta(days=2)).isoformat()
     data = {d: v for d, v in data.items() if d >= keep}
     entry = canonical(lineup, rosters.get(team) or [])
     entry["at"] = now.astimezone(timezone.utc).isoformat(timespec="seconds")
+    entry.update({k: v for k, v in (meta or {}).items() if v})
     data.setdefault(day, {}).setdefault(team, {})[source] = entry
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
