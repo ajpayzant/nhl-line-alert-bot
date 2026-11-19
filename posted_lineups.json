@@ -1747,6 +1747,49 @@
    }
   },
   "MTL": {
+   "gameday": {
+    "at": "2026-11-19T23:41:21+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Engstrom"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "Evans",
+      "Slafkovský"
+     ],
+     [
+      "Dach",
+      "Danault",
+      "Beck"
+     ],
+     [
+      "Xhekaj",
+      "Kapanen",
+      "Berard"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-19T23:40:41+00:00",
+    "ref": "2123562135691338139"
+   },
    "nhlcom": {
     "at": "2026-11-19T19:35:23+00:00",
     "defense": [
@@ -2451,7 +2494,7 @@
     "via": "Arun Srinivasan"
    },
    "gameday": {
-    "at": "2026-11-19T15:42:25+00:00",
+    "at": "2026-11-19T23:41:20+00:00",
     "defense": [
      [
       "McCabe",
@@ -2466,6 +2509,7 @@
       "Stecher"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Cowan",
@@ -2473,9 +2517,9 @@
       "Roslovic"
      ],
      [
-      "Paul",
+      "McKenna",
       "Tavares",
-      "McKenna"
+      "Paul"
      ],
      [
       "Joshua",
@@ -2488,7 +2532,10 @@
       "MacEwen"
      ]
     ],
-    "goalie": "Stolarz"
+    "goalie": "Bobrovsky",
+    "info_at": "2026-11-19T23:39:38+00:00",
+    "ref": "2123561871844511831",
+    "via": "@davidalter"
    }
   },
   "VAN": {
