@@ -224,10 +224,44 @@ def matcher(roster: list):
     return match
 
 
+FORWARD_POS = ("C", "L", "R")
+
+
+def split_rows(rows: list, pos: dict) -> tuple:
+    """(forward lines, defence pairs). NHL.com always lists forwards first, so this
+    picks the split point that best fits the roster positions it knows. Unknown
+    names (a same-day call-up not on the roster API yet, e.g. Stian Solberg on
+    Nov 19) don't count either way; with nothing known, the last three rows are
+    the pairs. An 11-forward lineup's 2-man fourth line stays a forward line."""
+    def count(row, want):
+        return sum(1 for n in row if pos.get(n) in want)
+    best = None
+    for k in range(len(rows) + 1):
+        cost = (sum(count(r, ("D",)) for r in rows[:k]) + sum(count(r, FORWARD_POS) for r in rows[k:])
+                + 10 * sum(len(r) >= 3 for r in rows[k:]) + 0.1 * abs(len(rows) - k - 3))
+        if best is None or cost < best[0]:
+            best = (cost, k)
+    return rows[:best[1]], rows[best[1]:]
+
+
+def split_singles(names: list, pos: dict) -> tuple:
+    """(goalies, extra skaters). Names on their own line are the goalies, plus the
+    7th defenceman when a team dresses 11F/7D (NHL.com lists him just above the
+    goalies). A name is a goalie if the roster says G, or if the roster doesn't
+    know him and he is one of the last two names; never if the roster says skater."""
+    goalies, extra = [], []
+    for i, n in enumerate(names):
+        p = pos.get(re.sub(r"\s*\(.*?\)\s*$", "", n))
+        if p == "G" or (not p and i >= len(names) - 2):
+            goalies.append(n)
+        else:
+            extra.append(n)
+    return goalies[:2], extra
+
+
 def normalize(team: dict, roster: list) -> dict:
     """Roster-correct every name, then split the dash rows into forward lines and
-    defence pairs (by roster position, else NHL.com's order: the last three rows
-    are the pairs) and the single names into goalies."""
+    defence pairs and the single names into goalies and extra skaters (the 7th D)."""
     match = matcher(roster)
     fixed, unmatched = {}, []
 
@@ -244,14 +278,9 @@ def normalize(team: dict, roster: list) -> dict:
 
     rows = [[fix(n) for n in row] for row in team["rows"]]
     pos = {n: p for n, p in roster}
-    is_d = [sum(pos.get(n) == "D" for n in row) > len(row) / 2 for row in rows]
-    if any(is_d) and not all(is_d):
-        forwards = [r for r, d in zip(rows, is_d) if not d]
-        defense = [r for r, d in zip(rows, is_d) if d]
-    else:
-        forwards, defense = rows[:-3], rows[-3:]
-    goalies = [fix(n) for n in team["singles"]][:2]
-    return {**team, "forwards": forwards, "defense": defense, "goalies": goalies,
+    forwards, defense = split_rows(rows, pos)
+    goalies, extra = split_singles([fix(n) for n in team["singles"]], pos)
+    return {**team, "forwards": forwards, "defense": defense, "goalies": goalies, "extra": extra,
             "scratched": [fix(n) for n in team["scratched"]], "injured": [fix(n) for n in team["injured"]],
             "fixed": fixed, "unmatched": unmatched}
 
@@ -262,17 +291,22 @@ def normalize(team: dict, roster: list) -> dict:
 
 def signature(t: dict) -> str:
     """What counts as a lineup change: who is on which forward line / defence pair
-    (order within a line ignored) and the projected starting goalie."""
-    return json.dumps([[sorted(r) for r in t["forwards"]], [sorted(r) for r in t["defense"]], t["goalies"][:1]])
+    (order within a line ignored), the projected starting goalie and, in an 11F/7D
+    lineup, the 7th defenceman (left out when empty so older state still compares)."""
+    sig = [[sorted(r) for r in t["forwards"]], [sorted(r) for r in t["defense"]], t["goalies"][:1]]
+    if t.get("extra"):
+        sig.append(sorted(t["extra"]))
+    return json.dumps(sig)
 
 
 def players(t: dict) -> set:
-    return {n for row in t["forwards"] + t["defense"] for n in row} | set(t["goalies"][:1])
+    return {n for row in t["forwards"] + t["defense"] for n in row} | set(t.get("extra") or []) | set(t["goalies"][:1])
 
 
 def slots(t: dict) -> dict:
     return {**{n: f"L{i + 1}" for i, r in enumerate(t["forwards"]) for n in r},
-            **{n: f"D{i + 1}" for i, r in enumerate(t["defense"]) for n in r}}
+            **{n: f"D{i + 1}" for i, r in enumerate(t["defense"]) for n in r},
+            **{n: "7th D" for n in t.get("extra") or []}}
 
 
 def describe_changes(t: dict, prev: dict) -> list:
@@ -326,6 +360,9 @@ def build_slack_notification(t: dict, kind: str, prev: dict | None, article_upda
         if i == len(t["forwards"]):
             body.append("")
         body.append(" - ".join(r) + ("   ◀" if i in changed_rows else ""))
+    if t.get("extra"):
+        body.append(f"7th D: {', '.join(t['extra'])}"
+                    + ("   ◀" if prev and sorted(t["extra"]) != sorted(prev.get("extra") or []) else ""))
     body.append("")
     if t["goalies"]:
         g = f"G: {t['goalies'][0]}" + (f"  (backup {t['goalies'][1]})" if len(t["goalies"]) > 1 else "")
@@ -373,7 +410,7 @@ def save_state(state: dict, path: str = STATE_PATH):
 
 
 def entry(t: dict, article_updated: str) -> dict:
-    return {"forwards": t["forwards"], "defense": t["defense"], "goalies": t["goalies"],
+    return {"forwards": t["forwards"], "defense": t["defense"], "goalies": t["goalies"], "extra": t.get("extra") or [],
             "scratched": t["scratched"], "article_updated": article_updated}
 
 
@@ -449,7 +486,8 @@ def check_and_send_alerts(story: dict, state: dict, now: datetime, send=send_sla
             print(f"Hit the {MAX_ALERTS_PER_RUN}-alert cap; {t['team']} waits for the next run.")
             continue
         kind = "update" if prev else "new"
-        lineup = {"forwards": t["forwards"], "defense": t["defense"], "goalie": t["goalies"][0] if t["goalies"] else ""}
+        lineup = {"forwards": t["forwards"], "defense": t["defense"], "extra": t.get("extra") or [],
+                  "goalie": t["goalies"][0] if t["goalies"] else ""}
         message = xcheck.annotate(build_slack_notification(t, kind, prev, article_updated, now), t["team"], lineup, now)
         if sent:
             sleep(SEND_SLEEP_SECONDS)

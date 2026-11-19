@@ -138,6 +138,7 @@ def canonical(lineup: dict, roster: list) -> dict:
     n = Names(roster)
     return {"forwards": [[n.canon(x) for x in r] for r in lineup.get("forwards") or []],
             "defense": [[n.canon(x) for x in r] for r in lineup.get("defense") or []],
+            "extra": [n.canon(x) for x in lineup.get("extra") or []],
             "goalie": n.canon(lineup["goalie"]) if lineup.get("goalie") else ""}
 
 
@@ -233,18 +234,32 @@ def parse_tweet(text: str, rosters: dict):
         return None
     n = Names(rosters[best])
     rows = [_join_hyphenated(r, n) for r in rows]
-    forwards, defense = [], []
+    forwards, defense, two_f = [], [], []
     for r in rows:
         pos = [(n.find(x) or {}).get("pos", "") for x in r]
         if len(r) == 3:
             (defense if sum(p == "D" for p in pos) >= 2 else forwards).append(r)
         elif len(r) == 2 and not all(p in ("C", "L", "R") for p in pos):
             defense.append(r)
-        # two confirmed forwards ("McLeod-Danforth", the extras) are neither a line nor a pair
+        elif len(r) == 2:
+            two_f.append((len(forwards), len(defense), r))
+    # Two confirmed forwards are usually the extras ("McLeod-Danforth"), but in an
+    # 11F/7D lineup they are the fourth line: right after three full lines, before
+    # the pairs, and not already on another line.
+    in_lines = {key(x) for r in forwards for x in r}
+    for n_f, n_d, r in two_f:
+        if n_f == 3 and n_d == 0 and len(forwards) == 3 and not in_lines & {key(x) for x in r}:
+            forwards.append(r)
+            break
     if len(forwards) < 2 and len(defense) < 2:
         return None
     goalie = next((s for s in singles if (p := n.find(s)) and p["pos"] == "G"), "")
-    return best, {"forwards": forwards[:4], "defense": defense[:3], "goalie": goalie}
+    extra = []
+    if len(forwards) == 4 and len(forwards[3]) == 2 and len(defense) == 3:
+        # 11F/7D: the lone defenceman listed on his own line is the 7th D.
+        paired = {key(x) for r in defense for x in r}
+        extra = [s for s in singles if (p := n.find(s)) and p["pos"] == "D" and key(s) not in paired][:1]
+    return best, {"forwards": forwards[:4], "defense": defense[:3], "extra": extra, "goalie": goalie}
 
 
 # ============================================================

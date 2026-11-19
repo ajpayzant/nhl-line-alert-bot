@@ -176,6 +176,8 @@ def parse_team(html: str) -> dict:
         "forwards": [line(f"f{i}") for i in range(1, 5) if groups.get(f"f{i}")],
         "defense": [line(f"d{i}") for i in range(1, 4) if groups.get(f"d{i}")],
         "goalies": [last_name(p["name"]) for p in goalies],
+        # DFO puts the 7th defenceman of an 11F/7D lineup in a fourth defence group.
+        "extra": [n for g in ("d4", "f5") for n in line(g)],
         "pp1": line("pp1"),
         "pp2": line("pp2"),
         "flags": flags,
@@ -204,12 +206,16 @@ def scrape_all_teams() -> list:
 # ============================================================
 
 def lineup_signature(team: dict) -> str:
-    """What counts as a lineup change: even-strength lines, starter, and PP1."""
-    return json.dumps([team["forwards"], team["defense"], team["goalies"][:1], team["pp1"]])
+    """What counts as a lineup change: even-strength lines, starter, PP1 and the
+    7th D (added only when there is one, so older saved signatures still match)."""
+    sig = [team["forwards"], team["defense"], team["goalies"][:1], team["pp1"]]
+    if team.get("extra"):
+        sig.append(team["extra"])
+    return json.dumps(sig)
 
 
 def lineup_players(team: dict) -> set:
-    return {n for line in team["forwards"] + team["defense"] for n in line}
+    return {n for line in team["forwards"] + team["defense"] for n in line} | set(team.get("extra") or [])
 
 
 def is_reset(team: dict) -> bool:
@@ -297,6 +303,8 @@ def build_slack_notification(team: dict, kind: str, prev: dict | None) -> str:
     body = [fmt(line, " - ") for line in team["forwards"]]
     body.append("")
     body += [fmt(line, " - ") for line in team["defense"]]
+    if team.get("extra"):
+        body.append(f"7th D: {fmt(team['extra'], ', ')}")
     body.append("")
     if team["goalies"]:
         body.append(f"G: {fmt(team['goalies'][:1], '')}"
@@ -405,7 +413,7 @@ def check_and_send_alerts(send_backfill_on_first_run: bool = False) -> int:
             continue
 
         now = datetime.now(timezone.utc)
-        lineup = {"forwards": team["forwards"], "defense": team["defense"],
+        lineup = {"forwards": team["forwards"], "defense": team["defense"], "extra": team.get("extra") or [],
                   "goalie": team["goalies"][0] if team["goalies"] else ""}
         send_slack_message(xcheck.annotate(build_slack_notification(team, kind, prev), team["team"], lineup, now))
         xcheck.record(team["team"], lineup, now)

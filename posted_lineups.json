@@ -888,8 +888,13 @@
      [
       "Mintyukov",
       "Luneau"
+     ],
+     [
+      "?Solberg",
+      "Warren"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Gauthier",
@@ -910,10 +915,6 @@
       "Nesterenko",
       "McQueen",
       "Vatrano"
-     ],
-     [
-      "?Solberg",
-      "Warren"
      ]
     ],
     "goalie": "Dostal"
@@ -1226,6 +1227,9 @@
       "Burns"
      ]
     ],
+    "extra": [
+     "Reilly"
+    ],
     "forwards": [
      [
       "Lehkonen",
@@ -1247,7 +1251,7 @@
       "Svechkov"
      ]
     ],
-    "goalie": "Reilly"
+    "goalie": "Wedgewood"
    }
   },
   "DET": {
@@ -2250,6 +2254,9 @@
       "Cernak"
      ]
     ],
+    "extra": [
+     "Lilleberg"
+    ],
     "forwards": [
      [
       "Guentzel",
@@ -2271,7 +2278,7 @@
       "Sabourin"
      ]
     ],
-    "goalie": "Lilleberg"
+    "goalie": "Vasilevskiy"
    }
   },
   "TOR": {
