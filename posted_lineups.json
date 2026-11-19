@@ -965,6 +965,35 @@
     "goalie": "Dobes"
    }
   },
+  "NYR": {
+   "gameday": {
+    "at": "2026-11-19T16:33:26+00:00",
+    "defense": [],
+    "forwards": [
+     [
+      "Perreault",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Cuylle",
+      "Miller",
+      "Kartye"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Bjorkstrand"
+     ],
+     [
+      "Chmelar",
+      "Gawdin",
+      "Rempe"
+     ]
+    ],
+    "goalie": ""
+   }
+  },
   "OTT": {
    "dfo": {
     "at": "2026-11-19T15:54:39+00:00",
