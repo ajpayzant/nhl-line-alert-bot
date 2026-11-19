@@ -836,7 +836,10 @@
       "Vatrano"
      ]
     ],
-    "goalie": "Dostal"
+    "goalie": "Dostal",
+    "info_at": "2026-11-19T18:33:01+00:00",
+    "ref": "2123484708516544852",
+    "via": "Zach Cavanagh"
    },
    "gameday": {
     "at": "2026-11-19T18:38:28+00:00",
@@ -1085,7 +1088,10 @@
       "Suniev"
      ]
     ],
-    "goalie": "Wolf"
+    "goalie": "Wolf",
+    "info_at": "2026-11-19T16:29:53+00:00",
+    "ref": "2123453722630205495",
+    "via": "Pat Steinberg"
    },
    "gameday": {
     "at": "2026-11-19T16:32:24+00:00",
@@ -1293,7 +1299,10 @@
       "Kolesar"
      ]
     ],
-    "goalie": "Gibson"
+    "goalie": "Gibson",
+    "info_at": "2026-11-19T16:17:33+00:00",
+    "ref": "2123450614692897055",
+    "via": "Ansar Khan"
    },
    "gameday": {
     "at": "2026-11-19T16:34:33+00:00",
@@ -1362,7 +1371,10 @@
       "Joseph"
      ]
     ],
-    "goalie": "Levi"
+    "goalie": "Levi",
+    "info_at": "2026-11-19T16:31:07+00:00",
+    "ref": "2123454032736141701",
+    "via": "Bob Stauffer"
    },
    "gameday": {
     "at": "2026-11-19T16:32:24+00:00",
@@ -1484,7 +1496,10 @@
       "Hathaway"
      ]
     ],
-    "goalie": "Markstrom"
+    "goalie": "Markstrom",
+    "info_at": "2026-11-19T16:18:08+00:00",
+    "ref": "2123450762999013829",
+    "via": "Jameson Olive"
    },
    "gameday": {
     "at": "2026-11-19T16:34:32+00:00",
@@ -1553,7 +1568,9 @@
       "Perry"
      ]
     ],
-    "goalie": "Kuemper"
+    "goalie": "Kuemper",
+    "info_at": "2026-11-19T19:21:26+00:00",
+    "via": "Zach Dooley"
    }
   },
   "MIN": {
@@ -1595,7 +1612,10 @@
       "Foligno"
      ]
     ],
-    "goalie": "Wallstedt"
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-19T17:38:15+00:00",
+    "ref": "2123470927669412047",
+    "via": "Joe Smith"
    },
    "nhlcom": {
     "at": "2026-11-19T18:37:24+00:00",
@@ -1719,7 +1739,10 @@
       "Edstrom"
      ]
     ],
-    "goalie": "Saros"
+    "goalie": "Saros",
+    "info_at": "2026-11-19T17:30:15+00:00",
+    "ref": "2123468911672783270",
+    "via": "Alex Daugherty"
    },
    "gameday": {
     "at": "2026-11-19T18:01:23+00:00",
@@ -1801,7 +1824,10 @@
       "Cizikas"
      ]
     ],
-    "goalie": "Sorokin"
+    "goalie": "Sorokin",
+    "info_at": "2026-11-19T16:31:33+00:00",
+    "ref": "2123454141645099253",
+    "via": "Andrew Gross"
    },
    "gameday": {
     "at": "2026-11-19T17:01:36+00:00",
@@ -1923,7 +1949,10 @@
       "Rempe"
      ]
     ],
-    "goalie": "Korpisalo"
+    "goalie": "Korpisalo",
+    "info_at": "2026-11-19T16:18:14+00:00",
+    "ref": "2123450787313451249",
+    "via": "Mollie Walker"
    },
    "gameday": {
     "at": "2026-11-19T16:33:26+00:00",
@@ -1992,7 +2021,10 @@
       "?Boucher"
      ]
     ],
-    "goalie": "Ersson"
+    "goalie": "Ersson",
+    "info_at": "2026-11-19T15:30:37+00:00",
+    "ref": "2123438804782416022",
+    "via": "Andrew Wilimek"
    },
    "gameday": {
     "at": "2026-11-19T15:34:00+00:00",
@@ -2152,7 +2184,10 @@
       "Melanson"
      ]
     ],
-    "goalie": "Grubauer"
+    "goalie": "Grubauer",
+    "info_at": "2026-11-18T18:44:44+00:00",
+    "ref": "2123125270869877238",
+    "via": "Mike Benton"
    },
    "nhlcom": {
     "at": "2026-11-19T19:45:27+00:00",
@@ -2234,7 +2269,9 @@
       "Toropchenko"
      ]
     ],
-    "goalie": "Hofer"
+    "goalie": "Hofer",
+    "info_at": "2026-11-19T18:07:40+00:00",
+    "via": "St. Louis Blues"
    }
   },
   "TBL": {
@@ -2320,7 +2357,10 @@
       "MacEwen"
      ]
     ],
-    "goalie": "Stolarz"
+    "goalie": "Stolarz",
+    "info_at": "2026-11-19T15:35:16+00:00",
+    "ref": "2123439977258221575",
+    "via": "Arun Srinivasan"
    },
    "gameday": {
     "at": "2026-11-19T15:42:25+00:00",
@@ -2444,7 +2484,10 @@
       "Gatcomb"
      ]
     ],
-    "goalie": "Hart"
+    "goalie": "Hart",
+    "info_at": "2026-11-19T19:01:28+00:00",
+    "ref": "2123491866368999913",
+    "via": "@SinBinVegas"
    },
    "gameday": {
     "at": "2026-11-19T19:20:33+00:00",
@@ -2526,7 +2569,10 @@
       "Iafallo"
      ]
     ],
-    "goalie": "Daws"
+    "goalie": "Daws",
+    "info_at": "2026-11-19T15:39:09+00:00",
+    "ref": "2123440952375431530",
+    "via": "Mitchell Clinton"
    },
    "gameday": {
     "at": "2026-11-19T15:42:24+00:00",
