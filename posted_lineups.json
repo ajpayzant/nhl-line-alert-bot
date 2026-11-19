@@ -1,6 +1,46 @@
 {
  "2026-11-18": {
   "BOS": {
+   "dfo": {
+    "at": "2026-11-19T00:09:36+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman"
+   },
    "gameday": {
     "at": "2026-11-18T23:57:19+00:00",
     "defense": [
@@ -207,6 +247,46 @@
    }
   },
   "DET": {
+   "dfo": {
+    "at": "2026-11-19T00:09:36+00:00",
+    "defense": [
+     [
+      "Johansson",
+      "Seider"
+     ],
+     [
+      "Chiarot",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Bernard-Docker"
+     ]
+    ],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Kasper"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Arvidsson"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Tarasov"
+   },
    "gameday": {
     "at": "2026-11-19T00:06:29+00:00",
     "defense": [
