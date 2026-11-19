@@ -877,6 +877,46 @@
      ]
     ],
     "goalie": ""
+   },
+   "nhlcom": {
+    "at": "2026-11-19T19:42:28+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Luneau"
+     ],
+     [
+      "Mitchell",
+      "Warren"
+     ]
+    ],
+    "forwards": [
+     [
+      "Gauthier",
+      "Carlsson",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Granlund",
+      "Sennecke"
+     ],
+     [
+      "Killorn",
+      "Washe",
+      "Terry"
+     ],
+     [
+      "Nesterenko",
+      "McQueen",
+      "Vatrano"
+     ]
+    ],
+    "goalie": "Dostal"
    }
   },
   "BUF": {
@@ -1167,6 +1207,47 @@
      ]
     ],
     "goalie": "Knight"
+   }
+  },
+  "COL": {
+   "nhlcom": {
+    "at": "2026-11-19T19:42:28+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Juulsen"
+     ],
+     [
+      "Gagne",
+      "Burns"
+     ]
+    ],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Schwartz",
+      "Kadri",
+      "Hughes"
+     ],
+     [
+      "Landeskog",
+      "Roy",
+      "O'Connor"
+     ],
+     [
+      "Kelly",
+      "Svechkov"
+     ]
+    ],
+    "goalie": "Reilly"
    }
   },
   "DET": {

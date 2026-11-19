@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T19:35:18.052Z",
+ "article_updated": "2026-11-19T19:41:40.346Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1374,6 +1374,54 @@
     "Gregor Biber"
    ]
   },
+  "2026-11-19:ANA": {
+   "article_updated": "2026-11-19T19:41:40.346Z",
+   "defense": [
+    [
+     "Jackson LaCombe",
+     "Ian Moore"
+    ],
+    [
+     "Pavel Mintyukov",
+     "Tristan Luneau"
+    ],
+    [
+     "Travis Mitchell",
+     "Noah Warren"
+    ]
+   ],
+   "forwards": [
+    [
+     "Cutter Gauthier",
+     "Leo Carlsson",
+     "Judd Caulfield"
+    ],
+    [
+     "Jeff Malott",
+     "Mikael Granlund",
+     "Beckett Sennecke"
+    ],
+    [
+     "Alex Killorn",
+     "Tim Washe",
+     "Troy Terry"
+    ],
+    [
+     "Nikita Nesterenko",
+     "Roger McQueen",
+     "Frank Vatrano"
+    ]
+   ],
+   "goalies": [
+    "Lukas Dostal",
+    "Ville Husso"
+   ],
+   "scratched": [
+    "Drew Helleson",
+    "Sam Colangelo",
+    "Tyson Hinds"
+   ]
+  },
   "2026-11-19:BUF": {
    "article_updated": "2026-11-19T17:46:08.429Z",
    "defense": [
@@ -1609,6 +1657,49 @@
    "scratched": [
     "Kevin Korchinski"
    ]
+  },
+  "2026-11-19:COL": {
+   "article_updated": "2026-11-19T19:41:40.346Z",
+   "defense": [
+    [
+     "Devon Toews",
+     "Sam Malinski"
+    ],
+    [
+     "Brett Kulak",
+     "Noah Juulsen"
+    ],
+    [
+     "Alex Gagne",
+     "Brent Burns"
+    ]
+   ],
+   "forwards": [
+    [
+     "Artturi Lehkonen",
+     "Brock Nelson",
+     "Martin Necas"
+    ],
+    [
+     "Jaden Schwartz",
+     "Nazem Kadri",
+     "T.J. Hughes"
+    ],
+    [
+     "Gabriel Landeskog",
+     "Nicolas Roy",
+     "Logan O'Connor"
+    ],
+    [
+     "Parker Kelly",
+     "Fedor Svechkov"
+    ]
+   ],
+   "goalies": [
+    "Mike Reilly",
+    "Scott Wedgewood"
+   ],
+   "scratched": []
   },
   "2026-11-19:EDM": {
    "article_updated": "2026-11-19T17:50:48.451Z",
@@ -2038,6 +2129,112 @@
  "rosters": {
   "date": "2026-11-19",
   "teams": {
+   "ANA": [
+    [
+     "Leo Carlsson",
+     "C"
+    ],
+    [
+     "Judd Caulfield",
+     "R"
+    ],
+    [
+     "Sam Colangelo",
+     "R"
+    ],
+    [
+     "Cutter Gauthier",
+     "L"
+    ],
+    [
+     "Mikael Granlund",
+     "C"
+    ],
+    [
+     "A.J. Greer",
+     "L"
+    ],
+    [
+     "Alex Killorn",
+     "L"
+    ],
+    [
+     "Jeff Malott",
+     "L"
+    ],
+    [
+     "Roger McQueen",
+     "C"
+    ],
+    [
+     "Nikita Nesterenko",
+     "C"
+    ],
+    [
+     "Ryan Poehling",
+     "C"
+    ],
+    [
+     "Beckett Sennecke",
+     "R"
+    ],
+    [
+     "Troy Terry",
+     "R"
+    ],
+    [
+     "Frank Vatrano",
+     "R"
+    ],
+    [
+     "Tim Washe",
+     "C"
+    ],
+    [
+     "Drew Helleson",
+     "D"
+    ],
+    [
+     "Tyson Hinds",
+     "D"
+    ],
+    [
+     "Jackson LaCombe",
+     "D"
+    ],
+    [
+     "Tristan Luneau",
+     "D"
+    ],
+    [
+     "Pavel Mintyukov",
+     "D"
+    ],
+    [
+     "Travis Mitchell",
+     "D"
+    ],
+    [
+     "Ian Moore",
+     "D"
+    ],
+    [
+     "Noah Warren",
+     "D"
+    ],
+    [
+     "Laurent Brossoit",
+     "G"
+    ],
+    [
+     "Lukas Dostal",
+     "G"
+    ],
+    [
+     "Ville Husso",
+     "G"
+    ]
+   ],
    "BUF": [
     [
      "Zach Benson",
@@ -2529,6 +2726,108 @@
     ],
     [
      "Spencer Knight",
+     "G"
+    ]
+   ],
+   "COL": [
+    [
+     "Gavin Brindley",
+     "C"
+    ],
+    [
+     "T.J. Hughes",
+     "R"
+    ],
+    [
+     "Nazem Kadri",
+     "C"
+    ],
+    [
+     "Parker Kelly",
+     "C"
+    ],
+    [
+     "Zachary L'Heureux",
+     "L"
+    ],
+    [
+     "Gabriel Landeskog",
+     "L"
+    ],
+    [
+     "Artturi Lehkonen",
+     "L"
+    ],
+    [
+     "Nathan MacKinnon",
+     "C"
+    ],
+    [
+     "Martin Necas",
+     "C"
+    ],
+    [
+     "Brock Nelson",
+     "C"
+    ],
+    [
+     "Logan O'Connor",
+     "R"
+    ],
+    [
+     "Nicolas Roy",
+     "C"
+    ],
+    [
+     "Jaden Schwartz",
+     "L"
+    ],
+    [
+     "Fedor Svechkov",
+     "C"
+    ],
+    [
+     "Brent Burns",
+     "D"
+    ],
+    [
+     "Alex Gagne",
+     "D"
+    ],
+    [
+     "Noah Juulsen",
+     "D"
+    ],
+    [
+     "Brett Kulak",
+     "D"
+    ],
+    [
+     "Cale Makar",
+     "D"
+    ],
+    [
+     "Sam Malinski",
+     "D"
+    ],
+    [
+     "Josh Manson",
+     "D"
+    ],
+    [
+     "Mike Reilly",
+     "D"
+    ],
+    [
+     "Devon Toews",
+     "D"
+    ],
+    [
+     "Mackenzie Blackwood",
+     "G"
+    ],
+    [
+     "Scott Wedgewood",
      "G"
     ]
    ],
