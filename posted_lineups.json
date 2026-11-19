@@ -1170,6 +1170,88 @@
      ]
     ],
     "goalie": ""
+   },
+   "nhlcom": {
+    "at": "2026-11-19T17:15:30+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "?Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "?Blais",
+      "Halliday",
+      "?Boucher"
+     ]
+    ],
+    "goalie": "Ersson"
+   }
+  },
+  "PHI": {
+   "nhlcom": {
+    "at": "2026-11-19T17:15:30+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Drysdale"
+     ],
+     [
+      "York",
+      "Ristolainen"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "forwards": [
+     [
+      "Foerster",
+      "Zegras",
+      "Konecny"
+     ],
+     [
+      "Knuble",
+      "Dvorak",
+      "Tippett"
+     ],
+     [
+      "Martone",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Barkey",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Woll"
    }
   },
   "TOR": {

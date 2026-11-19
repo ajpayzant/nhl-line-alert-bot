@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T17:10:27.329Z",
+ "article_updated": "2026-11-19T17:15:05.718Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1469,6 +1469,100 @@
     "Florian Xhekaj",
     "Mike Matheson"
    ]
+  },
+  "2026-11-19:OTT": {
+   "article_updated": "2026-11-19T17:15:05.718Z",
+   "defense": [
+    [
+     "Jake Sanderson",
+     "Artem Zub"
+    ],
+    [
+     "Thomas Chabot",
+     "Jordan Spence"
+    ],
+    [
+     "Tyler Kleven",
+     "Nikolas Matinpalo"
+    ]
+   ],
+   "forwards": [
+    [
+     "Fabian Zetterlund",
+     "Tim Stützle",
+     "Dylan Cozens"
+    ],
+    [
+     "Philip Tomasino",
+     "Shane Pinto",
+     "Drake Batherson"
+    ],
+    [
+     "Michael Amadio",
+     "Ridly Greig",
+     "Claude Giroux"
+    ],
+    [
+     "Samuel Blais",
+     "Stephen Halliday",
+     "Tyler Boucher"
+    ]
+   ],
+   "goalies": [
+    "Samuel Ersson",
+    "Linus Ullmark"
+   ],
+   "scratched": [
+    "Carter Yakemchuk"
+   ]
+  },
+  "2026-11-19:PHI": {
+   "article_updated": "2026-11-19T17:15:05.718Z",
+   "defense": [
+    [
+     "Travis Sanheim",
+     "Jamie Drysdale"
+    ],
+    [
+     "Cam York",
+     "Rasmus Ristolainen"
+    ],
+    [
+     "Nick Seeler",
+     "Oliver Bonk"
+    ]
+   ],
+   "forwards": [
+    [
+     "Tyson Foerster",
+     "Trevor Zegras",
+     "Travis Konecny"
+    ],
+    [
+     "Cole Knuble",
+     "Christian Dvorak",
+     "Owen Tippett"
+    ],
+    [
+     "Porter Martone",
+     "Noah Cates",
+     "Matvei Michkov"
+    ],
+    [
+     "Denver Barkey",
+     "Sean Couturier",
+     "Noel Acciari"
+    ]
+   ],
+   "goalies": [
+    "Joseph Woll",
+    "Dan Vladar"
+   ],
+   "scratched": [
+    "David Jiricek",
+    "Simon Benoit",
+    "Michael Bunting"
+   ]
   }
  },
  "rosters": {
@@ -1675,6 +1769,198 @@
     ],
     [
      "Samuel Montembeault",
+     "G"
+    ]
+   ],
+   "OTT": [
+    [
+     "Michael Amadio",
+     "R"
+    ],
+    [
+     "Drake Batherson",
+     "R"
+    ],
+    [
+     "Andre Burakovsky",
+     "L"
+    ],
+    [
+     "Nick Cousins",
+     "C"
+    ],
+    [
+     "Dylan Cozens",
+     "C"
+    ],
+    [
+     "William Eklund",
+     "L"
+    ],
+    [
+     "Warren Foegele",
+     "L"
+    ],
+    [
+     "Claude Giroux",
+     "R"
+    ],
+    [
+     "Ridly Greig",
+     "C"
+    ],
+    [
+     "Stephen Halliday",
+     "C"
+    ],
+    [
+     "Hayden Hodgson",
+     "R"
+    ],
+    [
+     "Shane Pinto",
+     "C"
+    ],
+    [
+     "Tim Stützle",
+     "C"
+    ],
+    [
+     "Fabian Zetterlund",
+     "L"
+    ],
+    [
+     "Thomas Chabot",
+     "D"
+    ],
+    [
+     "Tyler Kleven",
+     "D"
+    ],
+    [
+     "Nikolas Matinpalo",
+     "D"
+    ],
+    [
+     "Jake Sanderson",
+     "D"
+    ],
+    [
+     "Jordan Spence",
+     "D"
+    ],
+    [
+     "Carter Yakemchuk",
+     "D"
+    ],
+    [
+     "Artem Zub",
+     "D"
+    ],
+    [
+     "Samuel Ersson",
+     "G"
+    ],
+    [
+     "Linus Ullmark",
+     "G"
+    ]
+   ],
+   "PHI": [
+    [
+     "Noel Acciari",
+     "C"
+    ],
+    [
+     "Denver Barkey",
+     "C"
+    ],
+    [
+     "Michael Bunting",
+     "L"
+    ],
+    [
+     "Noah Cates",
+     "L"
+    ],
+    [
+     "Sean Couturier",
+     "C"
+    ],
+    [
+     "Christian Dvorak",
+     "C"
+    ],
+    [
+     "Tyson Foerster",
+     "R"
+    ],
+    [
+     "Nikita Grebenkin",
+     "R"
+    ],
+    [
+     "Cole Knuble",
+     "R"
+    ],
+    [
+     "Travis Konecny",
+     "R"
+    ],
+    [
+     "Porter Martone",
+     "R"
+    ],
+    [
+     "Matvei Michkov",
+     "R"
+    ],
+    [
+     "Owen Tippett",
+     "R"
+    ],
+    [
+     "Trevor Zegras",
+     "C"
+    ],
+    [
+     "Simon Benoit",
+     "D"
+    ],
+    [
+     "Oliver Bonk",
+     "D"
+    ],
+    [
+     "Jamie Drysdale",
+     "D"
+    ],
+    [
+     "David Jiricek",
+     "D"
+    ],
+    [
+     "Rasmus Ristolainen",
+     "D"
+    ],
+    [
+     "Travis Sanheim",
+     "D"
+    ],
+    [
+     "Nick Seeler",
+     "D"
+    ],
+    [
+     "Cam York",
+     "D"
+    ],
+    [
+     "Dan Vladar",
+     "G"
+    ],
+    [
+     "Joseph Woll",
      "G"
     ]
    ]
