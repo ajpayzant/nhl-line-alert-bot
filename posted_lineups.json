@@ -798,6 +798,46 @@
  },
  "2026-11-19": {
   "ANA": {
+   "dfo": {
+    "at": "2026-11-19T19:24:36+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Warren"
+     ],
+     [
+      "Hinds",
+      "Luneau"
+     ]
+    ],
+    "forwards": [
+     [
+      "Gauthier",
+      "Carlsson",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Granlund",
+      "Sennecke"
+     ],
+     [
+      "Killorn",
+      "Washe",
+      "Terry"
+     ],
+     [
+      "Nesterenko",
+      "McQueen",
+      "Vatrano"
+     ]
+    ],
+    "goalie": "Dostal"
+   },
    "gameday": {
     "at": "2026-11-19T18:38:28+00:00",
     "defense": [
@@ -1387,6 +1427,48 @@
      ]
     ],
     "goalie": ""
+   }
+  },
+  "LAK": {
+   "dfo": {
+    "at": "2026-11-19T19:24:36+00:00",
+    "defense": [
+     [
+      "Gustafsson",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Doughty"
+     ],
+     [
+      "Anderson",
+      "Dumoulin"
+     ]
+    ],
+    "forwards": [
+     [
+      "Turcotte",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Laughton",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Lee",
+      "Helenius",
+      "Perry"
+     ]
+    ],
+    "goalie": "Kuemper"
    }
   },
   "MIN": {
@@ -2112,6 +2194,46 @@
    }
   },
   "VGK": {
+   "dfo": {
+    "at": "2026-11-19T19:24:36+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "Hart"
+   },
    "gameday": {
     "at": "2026-11-19T19:20:33+00:00",
     "defense": [
