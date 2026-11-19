@@ -924,6 +924,37 @@
    }
   },
   "BUF": {
+   "gameday": {
+    "at": "2026-11-19T23:45:29+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-19T23:44:24+00:00",
+    "ref": "2123563070643695637",
+    "via": "@rachelmlenzi"
+   },
    "nhlcom": {
     "at": "2026-11-19T17:46:22+00:00",
     "defense": [
@@ -1575,7 +1606,7 @@
   },
   "LAK": {
    "dfo": {
-    "at": "2026-11-19T19:24:36+00:00",
+    "at": "2026-11-19T23:45:42+00:00",
     "defense": [
      [
       "Gustafsson",
@@ -1590,9 +1621,10 @@
       "Dumoulin"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
-      "Turcotte",
+      "Lee",
       "Laferriere",
       "Kempe"
      ],
@@ -1602,18 +1634,19 @@
       "Zuccarello"
      ],
      [
-      "Laughton",
+      "Turcotte",
       "Haula",
       "Armia"
      ],
      [
-      "Lee",
+      "Laughton",
       "Helenius",
       "Perry"
      ]
     ],
     "goalie": "Kuemper",
-    "info_at": "2026-11-19T19:21:26+00:00",
+    "info_at": "2026-11-19T23:36:17+00:00",
+    "ref": "2123561029036564642",
     "via": "Zach Dooley"
    },
    "gameday": {
@@ -1747,6 +1780,50 @@
    }
   },
   "MTL": {
+   "dfo": {
+    "at": "2026-11-19T23:45:42+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Engstrom"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "Evans",
+      "Slafkovský"
+     ],
+     [
+      "Dach",
+      "Danault",
+      "Beck"
+     ],
+     [
+      "Xhekaj",
+      "Kapanen",
+      "Berard"
+     ]
+    ],
+    "goalie": "Dobes",
+    "info_at": "2026-11-19T23:38:46+00:00",
+    "ref": "2123561652281106566",
+    "via": "Simon-Olivier Lorange"
+   },
    "gameday": {
     "at": "2026-11-19T23:41:21+00:00",
     "defense": [
