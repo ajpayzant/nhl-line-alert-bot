@@ -924,6 +924,46 @@
    }
   },
   "DET": {
+   "dfo": {
+    "at": "2026-11-19T17:49:39+00:00",
+    "defense": [
+     [
+      "Johansson",
+      "Seider"
+     ],
+     [
+      "Chiarot",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Bernard-Docker"
+     ]
+    ],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Copp",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Gibson"
+   },
    "gameday": {
     "at": "2026-11-19T16:34:33+00:00",
     "defense": [],
