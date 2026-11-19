@@ -362,6 +362,7 @@
     "goalie": "Fowler",
     "players": [
       "Beck",
+      "Berard",
       "Bolduc",
       "Carrier",
       "Caufield",
@@ -379,9 +380,9 @@
       "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Caufield\", \"Suzuki\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Texier\"], [\"Newhook\", \"Kapanen\", \"Dach\"], [\"Xhekaj\", \"Evans\", \"Beck\"]], [[\"Hutson\", \"Dobson\"], [\"Guhle\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Bolduc\", \"Caufield\", \"Hutson\"]]",
-    "source": "https://x.com/PFrioletRDS/status/2122481485093675199",
-    "updated_at": "2026-11-18T12:16:41.673Z"
+    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Slafkovsky\", \"Evans\", \"Newhook\"], [\"Bolduc\", \"Danault\", \"Dach\"], [\"Berard\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Bolduc\", \"Caufield\", \"Hutson\"]]",
+    "source": "https://x.com/EricEngels/status/2123208079789678698",
+    "updated_at": "2026-11-19T00:16:29.073Z"
   },
   "NJD": {
     "goalie": "Hellebuyck",

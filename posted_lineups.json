@@ -369,6 +369,46 @@
    }
   },
   "MTL": {
+   "dfo": {
+    "at": "2026-11-19T00:19:37+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Engstrom"
+     ]
+    ],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Slafkovský",
+      "Evans",
+      "Newhook"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Dach"
+     ],
+     [
+      "Berard",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "Fowler"
+   },
    "gameday": {
     "at": "2026-11-19T00:15:27+00:00",
     "defense": [
