@@ -124,7 +124,7 @@
   },
   "BUF": {
    "dfo": {
-    "at": "2026-11-18T20:34:35+00:00",
+    "at": "2026-11-19T00:59:33+00:00",
     "defense": [
      [
       "Samuelsson",
@@ -161,7 +161,49 @@
       "Carrick"
      ]
     ],
-    "goalie": "Lyon"
+    "goalie": "Luukkonen"
+   }
+  },
+  "CAR": {
+   "dfo": {
+    "at": "2026-11-19T00:59:33+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Ehlers",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Hall",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Kochetkov"
    }
   },
   "COL": {
