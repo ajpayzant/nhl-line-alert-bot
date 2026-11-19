@@ -918,6 +918,90 @@
     ],
     "goalie": ""
    }
+  },
+  "TOR": {
+   "gameday": {
+    "at": "2026-11-19T15:42:25+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Rielly",
+      "Tanev"
+     ],
+     [
+      "Ekman-Larsson",
+      "Stecher"
+     ]
+    ],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Roslovic"
+     ],
+     [
+      "Paul",
+      "Tavares",
+      "McKenna"
+     ],
+     [
+      "Joshua",
+      "Tverberg",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz"
+   }
+  },
+  "WPG": {
+   "gameday": {
+    "at": "2026-11-19T15:42:24+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Pionk"
+     ],
+     [
+      "Samberg",
+      "Ferraro"
+     ],
+     [
+      "Thrun",
+      "Bauer"
+     ]
+    ],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Zhilkin",
+      "Iafallo"
+     ]
+    ],
+    "goalie": "Daws"
+   }
   }
  }
 }
