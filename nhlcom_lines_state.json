@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T20:20:59.318Z",
+ "article_updated": "2026-11-19T20:26:56.546Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1375,7 +1375,7 @@
    ]
   },
   "2026-11-19:ANA": {
-   "article_updated": "2026-11-19T19:41:40.346Z",
+   "article_updated": "2026-11-19T20:26:56.546Z",
    "defense": [
     [
      "Jackson LaCombe",
@@ -1384,10 +1384,6 @@
     [
      "Pavel Mintyukov",
      "Tristan Luneau"
-    ],
-    [
-     "Travis Mitchell",
-     "Noah Warren"
     ]
    ],
    "forwards": [
@@ -1410,6 +1406,10 @@
      "Nikita Nesterenko",
      "Roger McQueen",
      "Frank Vatrano"
+    ],
+    [
+     "Stian Solberg",
+     "Noah Warren"
     ]
    ],
    "goalies": [

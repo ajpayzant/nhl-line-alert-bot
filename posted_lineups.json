@@ -879,7 +879,7 @@
     "goalie": ""
    },
    "nhlcom": {
-    "at": "2026-11-19T19:42:28+00:00",
+    "at": "2026-11-19T20:27:26+00:00",
     "defense": [
      [
       "LaCombe",
@@ -888,10 +888,6 @@
      [
       "Mintyukov",
       "Luneau"
-     ],
-     [
-      "Mitchell",
-      "Warren"
      ]
     ],
     "forwards": [
@@ -914,6 +910,10 @@
       "Nesterenko",
       "McQueen",
       "Vatrano"
+     ],
+     [
+      "?Solberg",
+      "Warren"
      ]
     ],
     "goalie": "Dostal"
