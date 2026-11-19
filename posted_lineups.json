@@ -1875,7 +1875,7 @@
   },
   "NYI": {
    "dfo": {
-    "at": "2026-11-19T18:09:38+00:00",
+    "at": "2026-11-19T23:40:38+00:00",
     "defense": [
      [
       "Schaefer",
@@ -1890,6 +1890,7 @@
       "Kessel"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Holmstrom",
@@ -1907,14 +1908,14 @@
       "Eklund"
      ],
      [
-      "Duclair",
+      "Cizikas",
       "Pageau",
-      "Cizikas"
+      "Duclair"
      ]
     ],
     "goalie": "Sorokin",
-    "info_at": "2026-11-19T16:31:33+00:00",
-    "ref": "2123454141645099253",
+    "info_at": "2026-11-19T23:35:49+00:00",
+    "ref": "2123560911797711260",
     "via": "Andrew Gross"
    },
    "gameday": {
@@ -2743,6 +2744,50 @@
    }
   },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-19T23:40:39+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Leonard",
+      "Jenner",
+      "Wilson"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Kyrou",
+      "Protas",
+      "Sourdif"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-19T23:35:56+00:00",
+    "ref": "2123560938389504301",
+    "via": "Sammi Silber"
+   },
    "gameday": {
     "at": "2026-11-19T23:39:27+00:00",
     "defense": [
