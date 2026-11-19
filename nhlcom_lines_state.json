@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-19T17:42:15.88Z",
+ "article_updated": "2026-11-19T17:46:08.429Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -1374,6 +1374,54 @@
     "Gregor Biber"
    ]
   },
+  "2026-11-19:BUF": {
+   "article_updated": "2026-11-19T17:46:08.429Z",
+   "defense": [
+    [
+     "Rasmus Dahlin",
+     "Mattias Samuelsson"
+    ],
+    [
+     "Conor Timmins",
+     "Owen Power"
+    ],
+    [
+     "Olen Zellweger",
+     "Louis Crevier"
+    ]
+   ],
+   "forwards": [
+    [
+     "Zach Benson",
+     "Jiri Kulich",
+     "Tage Thompson"
+    ],
+    [
+     "Peyton Krebs",
+     "Noah Ostlund",
+     "Jack Quinn"
+    ],
+    [
+     "Jason Zucker",
+     "Josh Norris",
+     "Josh Doan"
+    ],
+    [
+     "Beck Malenstyn",
+     "Tyson Kozak",
+     "Sam Carrick"
+    ]
+   ],
+   "goalies": [
+    "Ukko-Pekka Luukkonen",
+    "Alex Lyon"
+   ],
+   "scratched": [
+    "Zach Metsa",
+    "Ryan McLeod",
+    "Colten Ellis"
+   ]
+  },
   "2026-11-19:CAR": {
    "article_updated": "2026-11-19T17:10:27.329Z",
    "defense": [
@@ -1563,11 +1611,165 @@
     "Simon Benoit",
     "Michael Bunting"
    ]
+  },
+  "2026-11-19:WSH": {
+   "article_updated": "2026-11-19T17:46:08.429Z",
+   "defense": [
+    [
+     "Jakob Chychrun",
+     "Matt Roy"
+    ],
+    [
+     "Martin Fehérváry",
+     "Timothy Liljegren"
+    ],
+    [
+     "Cole Hutson",
+     "Jack St. Ivany"
+    ]
+   ],
+   "forwards": [
+    [
+     "Aliaksei Protas",
+     "Pierre-Luc Dubois",
+     "Alex Tuch"
+    ],
+    [
+     "Ryan Leonard",
+     "Dylan Strome",
+     "Tom Wilson"
+    ],
+    [
+     "Jordan Kyrou",
+     "Boone Jenner",
+     "Anthony Beauvillier"
+    ],
+    [
+     "Alex Ovechkin",
+     "Ilya Protas",
+     "Justin Sourdif"
+    ]
+   ],
+   "goalies": [
+    "Logan Thompson",
+    "Charlie Lindgren"
+   ],
+   "scratched": [
+    "Ethen Frank",
+    "Ivan Miroshnichenko",
+    "Justin Holl"
+   ]
   }
  },
  "rosters": {
   "date": "2026-11-19",
   "teams": {
+   "BUF": [
+    [
+     "Zach Benson",
+     "L"
+    ],
+    [
+     "Sam Carrick",
+     "C"
+    ],
+    [
+     "Justin Danforth",
+     "R"
+    ],
+    [
+     "Josh Doan",
+     "R"
+    ],
+    [
+     "Konsta Helenius",
+     "C"
+    ],
+    [
+     "Tyson Kozak",
+     "C"
+    ],
+    [
+     "Peyton Krebs",
+     "C"
+    ],
+    [
+     "Jiri Kulich",
+     "C"
+    ],
+    [
+     "Beck Malenstyn",
+     "L"
+    ],
+    [
+     "Ryan McLeod",
+     "C"
+    ],
+    [
+     "Josh Norris",
+     "C"
+    ],
+    [
+     "Noah Ostlund",
+     "C"
+    ],
+    [
+     "Jack Quinn",
+     "R"
+    ],
+    [
+     "Tage Thompson",
+     "C"
+    ],
+    [
+     "Jason Zucker",
+     "L"
+    ],
+    [
+     "Louis Crevier",
+     "D"
+    ],
+    [
+     "Rasmus Dahlin",
+     "D"
+    ],
+    [
+     "Matt Grzelcyk",
+     "D"
+    ],
+    [
+     "Zach Metsa",
+     "D"
+    ],
+    [
+     "Owen Power",
+     "D"
+    ],
+    [
+     "Mattias Samuelsson",
+     "D"
+    ],
+    [
+     "Conor Timmins",
+     "D"
+    ],
+    [
+     "Olen Zellweger",
+     "D"
+    ],
+    [
+     "Colten Ellis",
+     "G"
+    ],
+    [
+     "Ukko-Pekka Luukkonen",
+     "G"
+    ],
+    [
+     "Alex Lyon",
+     "G"
+    ]
+   ],
    "CAR": [
     [
      "Sebastian Aho",
@@ -1961,6 +2163,108 @@
     ],
     [
      "Joseph Woll",
+     "G"
+    ]
+   ],
+   "WSH": [
+    [
+     "Anthony Beauvillier",
+     "R"
+    ],
+    [
+     "Pierre-Luc Dubois",
+     "C"
+    ],
+    [
+     "Ethen Frank",
+     "R"
+    ],
+    [
+     "Boone Jenner",
+     "C"
+    ],
+    [
+     "Jordan Kyrou",
+     "R"
+    ],
+    [
+     "Ryan Leonard",
+     "R"
+    ],
+    [
+     "Ivan Miroshnichenko",
+     "L"
+    ],
+    [
+     "Alex Ovechkin",
+     "L"
+    ],
+    [
+     "Aliaksei Protas",
+     "L"
+    ],
+    [
+     "Ilya Protas",
+     "L"
+    ],
+    [
+     "Justin Sourdif",
+     "C"
+    ],
+    [
+     "Dylan Strome",
+     "C"
+    ],
+    [
+     "Alex Tuch",
+     "R"
+    ],
+    [
+     "Tom Wilson",
+     "R"
+    ],
+    [
+     "Jakob Chychrun",
+     "D"
+    ],
+    [
+     "Vincent Desharnais",
+     "D"
+    ],
+    [
+     "Martin Fehérváry",
+     "D"
+    ],
+    [
+     "Justin Holl",
+     "D"
+    ],
+    [
+     "Cole Hutson",
+     "D"
+    ],
+    [
+     "Timothy Liljegren",
+     "D"
+    ],
+    [
+     "Matt Roy",
+     "D"
+    ],
+    [
+     "Rasmus Sandin",
+     "D"
+    ],
+    [
+     "Jack St. Ivany",
+     "D"
+    ],
+    [
+     "Charlie Lindgren",
+     "G"
+    ],
+    [
+     "Logan Thompson",
      "G"
     ]
    ]

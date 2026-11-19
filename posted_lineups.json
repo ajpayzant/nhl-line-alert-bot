@@ -797,6 +797,48 @@
   }
  },
  "2026-11-19": {
+  "BUF": {
+   "nhlcom": {
+    "at": "2026-11-19T17:46:22+00:00",
+    "defense": [
+     [
+      "Dahlin",
+      "Samuelsson"
+     ],
+     [
+      "Timmins",
+      "Power"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Luukkonen"
+   }
+  },
   "CAR": {
    "nhlcom": {
     "at": "2026-11-19T17:10:30+00:00",
@@ -1416,6 +1458,48 @@
      ]
     ],
     "goalie": "Daws"
+   }
+  },
+  "WSH": {
+   "nhlcom": {
+    "at": "2026-11-19T17:46:22+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Leonard",
+      "Strome",
+      "Wilson"
+     ],
+     [
+      "Kyrou",
+      "Jenner",
+      "Beauvillier"
+     ],
+     [
+      "Ovechkin",
+      "Protas",
+      "Sourdif"
+     ]
+    ],
+    "goalie": "Thompson"
    }
   }
  }
