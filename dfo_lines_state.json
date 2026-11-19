@@ -183,6 +183,7 @@
     "players": [
       "Brindley",
       "Burns",
+      "Gagne",
       "Hughes",
       "Juulsen",
       "Kadri",
@@ -194,15 +195,14 @@
       "Necas",
       "Nelson",
       "O'Connor",
-      "Reilly",
       "Roy",
       "Schwartz",
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Schwartz\", \"Kadri\", \"Hughes\"], [\"Landeskog\", \"Roy\", \"Brindley\"], [\"Kelly\", \"Svechkov\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Reilly\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
-    "source": "https://coloradohockeynow.com/avalanche-projected-lineup-utah-mammoth/",
-    "updated_at": "2026-11-18T20:45:29.098Z"
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Schwartz\", \"Kadri\", \"Hughes\"], [\"Landeskog\", \"Roy\", \"Brindley\"], [\"Kelly\", \"Svechkov\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Gagne\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
+    "source": "https://x.com/Avalanche/status/2123248472304615493",
+    "updated_at": "2026-11-19T02:55:38.029Z"
   },
   "DAL": {
     "goalie": "Oettinger",
