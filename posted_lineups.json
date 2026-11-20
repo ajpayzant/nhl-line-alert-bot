@@ -842,21 +842,22 @@
     "via": "Zach Cavanagh"
    },
    "gameday": {
-    "at": "2026-11-19T18:38:28+00:00",
+    "at": "2026-11-20T01:37:23+00:00",
     "defense": [
      [
       "LaCombe",
       "Moore"
      ],
      [
-      "Mintyukov",
-      "Warren"
+      "?Solberg",
+      "Luneau"
      ],
      [
-      "Hinds",
-      "Luneau"
+      "Mintyukov",
+      "Warren"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Gauthier",
@@ -879,7 +880,10 @@
       "Vatrano"
      ]
     ],
-    "goalie": ""
+    "goalie": "",
+    "info_at": "2026-11-20T01:36:58+00:00",
+    "ref": "2123591400591896691",
+    "via": "@ZachCav"
    },
    "nhlcom": {
     "at": "2026-11-19T20:27:26+00:00",
