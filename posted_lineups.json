@@ -3523,6 +3523,52 @@
     "via": "@AnsarKhanMLive"
    }
   },
+  "EDM": {
+   "gameday": {
+    "at": "2026-11-20T19:08:36+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hallander",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Dach",
+      "Dickinson",
+      "Hyman"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-20T19:07:47+00:00",
+    "ref": "2123855843636687286",
+    "via": "@Bob_Stauffer"
+   }
+  },
   "NYR": {
    "gameday": {
     "at": "2026-11-20T16:37:26+00:00",
