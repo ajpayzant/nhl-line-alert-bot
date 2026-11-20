@@ -3444,6 +3444,52 @@
   }
  },
  "2026-11-20": {
+  "BOS": {
+   "gameday": {
+    "at": "2026-11-20T16:28:25+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-20T16:27:12+00:00",
+    "ref": "2123815434344681489",
+    "via": "@bellefraser1"
+   }
+  },
   "DET": {
    "gameday": {
     "at": "2026-11-20T16:17:23+00:00",
@@ -3475,6 +3521,52 @@
     "info_at": "2026-11-20T16:16:34+00:00",
     "ref": "2123812756453457940",
     "via": "@AnsarKhanMLive"
+   }
+  },
+  "WSH": {
+   "gameday": {
+    "at": "2026-11-20T16:28:25+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Holl"
+     ],
+     [
+      "Liljegren",
+      "Desharnais"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Leonard",
+      "Jenner",
+      "Wilson"
+     ],
+     [
+      "Sourdif",
+      "Protas",
+      "Kyrou"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-20T16:27:58+00:00",
+    "ref": "2123815625122512940",
+    "via": "@sammisilber"
    }
   }
  }
