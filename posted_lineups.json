@@ -3942,6 +3942,52 @@
     "info_at": "2026-11-20T19:52:39+00:00"
    }
   },
+  "SEA": {
+   "gameday": {
+    "at": "2026-11-20T20:49:23+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-20T20:48:55+00:00",
+    "ref": "2123881295638122585",
+    "via": "@sound_hockey"
+   }
+  },
   "SJS": {
    "gameday": {
     "at": "2026-11-20T19:29:28+00:00",
