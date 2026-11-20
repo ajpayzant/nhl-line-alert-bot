@@ -3523,6 +3523,52 @@
     "via": "@AnsarKhanMLive"
    }
   },
+  "NYR": {
+   "gameday": {
+    "at": "2026-11-20T16:37:26+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Schneider"
+     ],
+     [
+      "Robertson",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Perreault",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Cuylle",
+      "Miller",
+      "Kartye"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Glendening",
+      "Gawdin",
+      "Rempe"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-20T16:36:44+00:00",
+    "ref": "2123817833356292275",
+    "via": "@vzmercogliano"
+   }
+  },
   "WSH": {
    "gameday": {
     "at": "2026-11-20T16:28:25+00:00",
