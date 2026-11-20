@@ -1242,6 +1242,50 @@
    }
   },
   "CHI": {
+   "gameday": {
+    "at": "2026-11-20T00:38:26+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Kaiser",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kantserov",
+      "Frondell",
+      "Bertuzzi"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Smith",
+      "Greene",
+      "Teravainen"
+     ],
+     [
+      "Mangiapane",
+      "Donato",
+      "Boucher"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-20T00:37:50+00:00",
+    "ref": "2123576516802126231",
+    "via": "@BenPopeCST"
+   },
    "nhlcom": {
     "at": "2026-11-19T18:33:24+00:00",
     "defense": [
