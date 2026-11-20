@@ -3592,6 +3592,39 @@
     "via": "@PensInsideScoop"
    }
   },
+  "UTA": {
+   "gameday": {
+    "at": "2026-11-20T19:07:27+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "McCartney",
+      "Trocheck",
+      "Cooley"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "Crouse",
+      "McBain",
+      "Carcone"
+     ],
+     [
+      "But",
+      "Stenlund",
+      "O'Brien"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-20T19:06:23+00:00",
+    "ref": "2123855491642331150",
+    "via": "@houston_brogan"
+   }
+  },
   "WSH": {
    "gameday": {
     "at": "2026-11-20T16:28:25+00:00",
