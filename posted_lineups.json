@@ -1774,6 +1774,50 @@
     "ref": "2123470927669412047",
     "via": "Joe Smith"
    },
+   "gameday": {
+    "at": "2026-11-20T00:39:26+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Spurgeon"
+     ],
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Bogosian"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Sturm"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-20T00:38:22+00:00",
+    "ref": "2123576649577078843",
+    "via": "@JoeSmithNHL"
+   },
    "nhlcom": {
     "at": "2026-11-19T18:37:24+00:00",
     "defense": [
