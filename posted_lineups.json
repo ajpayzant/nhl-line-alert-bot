@@ -3442,5 +3442,40 @@
     "goalie": "Thompson"
    }
   }
+ },
+ "2026-11-20": {
+  "DET": {
+   "gameday": {
+    "at": "2026-11-20T16:17:23+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-20T16:16:34+00:00",
+    "ref": "2123812756453457940",
+    "via": "@AnsarKhanMLive"
+   }
+  }
  }
 }
