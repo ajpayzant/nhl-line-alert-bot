@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-20T19:52:39.893Z",
+ "article_updated": "2026-11-20T20:13:33.032Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -2227,6 +2227,55 @@
     "Justin Holl"
    ]
   },
+  "2026-11-20:CAR": {
+   "article_updated": "2026-11-20T20:13:33.032Z",
+   "defense": [
+    [
+     "Jaccob Slavin",
+     "Jalen Chatfield"
+    ],
+    [
+     "K'Andre Miller",
+     "Sean Walker"
+    ],
+    [
+     "Shayne Gostisbehere",
+     "Alexander Nikishin"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "William Carrier",
+     "Sebastian Aho",
+     "Andrei Svechnikov"
+    ],
+    [
+     "Nikolaj Ehlers",
+     "Logan Stankoven",
+     "Jackson Blake"
+    ],
+    [
+     "Jordan Martinook",
+     "Jordan Staal",
+     "Seth Jarvis"
+    ],
+    [
+     "Taylor Hall",
+     "Mark Jankowski",
+     "Eric Robinson"
+    ]
+   ],
+   "goalies": [
+    "Pyotr Kochetkov",
+    "Brandon Bussi"
+   ],
+   "scratched": [
+    "Juuso Välimäki",
+    "Jesperi Kotkaniemi",
+    "Nicolas Deslauriers"
+   ]
+  },
   "2026-11-20:CGY": {
    "article_updated": "2026-11-20T19:44:35.425Z",
    "defense": [
@@ -2321,6 +2370,54 @@
    "scratched": [
     "Ethan Del Mastro",
     "Dillon Boucher"
+   ]
+  },
+  "2026-11-20:EDM": {
+   "article_updated": "2026-11-20T20:13:33.032Z",
+   "defense": [
+    [
+     "Mattias Ekholm",
+     "Evan Bouchard"
+    ],
+    [
+     "Ryan Shea",
+     "Connor Murphy"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "Ty Emberson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Filip Hallander",
+     "Connor McDavid",
+     "Kasperi Kapanen"
+    ],
+    [
+     "Vasily Podkolzin",
+     "Leon Draisaitl",
+     "Mathieu Joseph"
+    ],
+    [
+     "Colton Dach",
+     "Jason Dickinson",
+     "Zach Hyman"
+    ],
+    [
+     "Alex Formenton",
+     "Owen Michaels",
+     "Trent Frederic"
+    ]
+   ],
+   "goalies": [
+    "Tristan Jarry",
+    "Devon Levi"
+   ],
+   "scratched": [
+    "Max Jones",
+    "Jake Walman"
    ]
   },
   "2026-11-20:NSH": {
@@ -2424,6 +2521,100 @@
  "rosters": {
   "date": "2026-11-20",
   "teams": {
+   "CAR": [
+    [
+     "Sebastian Aho",
+     "C"
+    ],
+    [
+     "Jackson Blake",
+     "R"
+    ],
+    [
+     "William Carrier",
+     "L"
+    ],
+    [
+     "Nicolas Deslauriers",
+     "L"
+    ],
+    [
+     "Nikolaj Ehlers",
+     "L"
+    ],
+    [
+     "Taylor Hall",
+     "L"
+    ],
+    [
+     "Mark Jankowski",
+     "L"
+    ],
+    [
+     "Seth Jarvis",
+     "R"
+    ],
+    [
+     "Jesperi Kotkaniemi",
+     "C"
+    ],
+    [
+     "Jordan Martinook",
+     "L"
+    ],
+    [
+     "Eric Robinson",
+     "L"
+    ],
+    [
+     "Jordan Staal",
+     "C"
+    ],
+    [
+     "Logan Stankoven",
+     "C"
+    ],
+    [
+     "Andrei Svechnikov",
+     "R"
+    ],
+    [
+     "Jalen Chatfield",
+     "D"
+    ],
+    [
+     "Shayne Gostisbehere",
+     "D"
+    ],
+    [
+     "K'Andre Miller",
+     "D"
+    ],
+    [
+     "Alexander Nikishin",
+     "D"
+    ],
+    [
+     "Jaccob Slavin",
+     "D"
+    ],
+    [
+     "Juuso Välimäki",
+     "D"
+    ],
+    [
+     "Sean Walker",
+     "D"
+    ],
+    [
+     "Brandon Bussi",
+     "G"
+    ],
+    [
+     "Pyotr Kochetkov",
+     "G"
+    ]
+   ],
    "CGY": [
     [
      "Mikael Backlund",
@@ -2617,6 +2808,116 @@
     ],
     [
      "Spencer Knight",
+     "G"
+    ]
+   ],
+   "EDM": [
+    [
+     "Colton Dach",
+     "C"
+    ],
+    [
+     "Jason Dickinson",
+     "C"
+    ],
+    [
+     "Leon Draisaitl",
+     "C"
+    ],
+    [
+     "Alex Formenton",
+     "L"
+    ],
+    [
+     "Trent Frederic",
+     "C"
+    ],
+    [
+     "Filip Hallander",
+     "C"
+    ],
+    [
+     "Zach Hyman",
+     "L"
+    ],
+    [
+     "Mattias Janmark",
+     "C"
+    ],
+    [
+     "Max Jones",
+     "L"
+    ],
+    [
+     "Mathieu Joseph",
+     "R"
+    ],
+    [
+     "Kasperi Kapanen",
+     "R"
+    ],
+    [
+     "Connor McDavid",
+     "C"
+    ],
+    [
+     "Owen Michaels",
+     "R"
+    ],
+    [
+     "Ryan Nugent-Hopkins",
+     "C"
+    ],
+    [
+     "Vasily Podkolzin",
+     "R"
+    ],
+    [
+     "Matt Savoie",
+     "C"
+    ],
+    [
+     "Evan Bouchard",
+     "D"
+    ],
+    [
+     "Mattias Ekholm",
+     "D"
+    ],
+    [
+     "Ty Emberson",
+     "D"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "D"
+    ],
+    [
+     "Connor Murphy",
+     "D"
+    ],
+    [
+     "Alec Regula",
+     "D"
+    ],
+    [
+     "Ryan Shea",
+     "D"
+    ],
+    [
+     "Jake Walman",
+     "D"
+    ],
+    [
+     "Frederik Andersen",
+     "G"
+    ],
+    [
+     "Tristan Jarry",
+     "G"
+    ],
+    [
+     "Devon Levi",
      "G"
     ]
    ],
