@@ -6,7 +6,6 @@
       "Caulfield",
       "Gauthier",
       "Granlund",
-      "Hinds",
       "Killorn",
       "Lacombe",
       "Luneau",
@@ -16,14 +15,15 @@
       "Moore",
       "Nesterenko",
       "Sennecke",
+      "Solberg",
       "Terry",
       "Vatrano",
       "Warren",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Caulfield\"], [\"Malott\", \"Granlund\", \"Sennecke\"], [\"Killorn\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Warren\"], [\"Hinds\", \"Luneau\"]], [\"Dostal\"], [\"Sennecke\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://x.com/ZachCav/status/2123484708516544852",
-    "updated_at": "2026-11-19T19:20:49.200Z"
+    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Caulfield\"], [\"Malott\", \"Granlund\", \"Sennecke\"], [\"Killorn\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Warren\"], [\"Solberg\", \"Luneau\"]], [\"Dostal\"], [\"Sennecke\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://x.com/ZachCav/status/2123591250062512227",
+    "updated_at": "2026-11-20T01:41:36.258Z"
   },
   "BOS": {
     "goalie": "Swayman",
