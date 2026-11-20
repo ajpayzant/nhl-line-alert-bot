@@ -2571,6 +2571,50 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-20T00:15:39+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Gourde",
+      "O'Reilly",
+      "Goncalves"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Viel",
+      "?Harkins",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-20T00:09:07+00:00",
+    "ref": "2123569290506907915",
+    "via": "Diandra Loux"
+   },
    "gameday": {
     "at": "2026-11-20T00:08:32+00:00",
     "defense": [

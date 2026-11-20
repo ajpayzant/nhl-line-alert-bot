@@ -650,11 +650,11 @@
       "Carlson",
       "Cernak",
       "Cirelli",
-      "Crozier",
       "D'Astous",
       "Goncalves",
       "Gourde",
       "Guentzel",
+      "Harkins",
       "Hedman",
       "Holmberg",
       "Kucherov",
@@ -666,9 +666,9 @@
       "Sabourin",
       "Viel"
     ],
-    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Viel\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"], [\"Crozier\"]]",
-    "source": "https://x.com/BenjaminJReport/status/2123092748324766082?s=20",
-    "updated_at": "2026-11-18T17:35:19.125Z"
+    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
+    "source": "https://x.com/Diandra_loux/status/2123569290506907915",
+    "updated_at": "2026-11-20T00:11:29.654Z"
   },
   "TOR": {
     "goalie": "Stolarz",
