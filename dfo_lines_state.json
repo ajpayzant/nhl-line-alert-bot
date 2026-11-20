@@ -158,12 +158,12 @@
     "goalie": "Knight",
     "players": [
       "Bertuzzi",
+      "Boucher",
       "Cole",
       "Del Mastro",
       "Donato",
       "Frondell",
       "Greene",
-      "Greenway",
       "Kaiser",
       "Kane",
       "Kantserov",
@@ -176,9 +176,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Bertuzzi\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Greenway\", \"Greene\", \"Teravainen\"], [\"Mangiapane\", \"Donato\", \"Smith\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
-    "source": "https://x.com/CRoumeliotis/status/2123102645657424203?s=20",
-    "updated_at": "2026-11-18T17:33:51.733Z"
+    "signature": "[[[\"Bertuzzi\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Smith\", \"Greene\", \"Teravainen\"], [\"Mangiapane\", \"Donato\", \"Boucher\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
+    "source": "https://x.com/BenPopeCST/status/2123576278444036430",
+    "updated_at": "2026-11-20T00:37:57.813Z"
   },
   "COL": {
     "goalie": "Wedgewood",
