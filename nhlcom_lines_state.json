@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-20T19:44:35.425Z",
+ "article_updated": "2026-11-20T19:52:39.893Z",
  "lineups": {
   "2026-11-17:ANA": {
    "article_updated": "2026-11-17T21:09:01.785Z",
@@ -2322,6 +2322,103 @@
     "Ethan Del Mastro",
     "Dillon Boucher"
    ]
+  },
+  "2026-11-20:NSH": {
+   "article_updated": "2026-11-20T19:52:39.893Z",
+   "defense": [
+    [
+     "Roman Josi",
+     "Adam Wilsby"
+    ],
+    [
+     "Brady Skjei",
+     "Nick Perbix"
+    ],
+    [
+     "Nicolas Hague",
+     "Jayden Struble"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Steven Stamkos",
+     "Ryan O'Reilly",
+     "Mavrik Bourque"
+    ],
+    [
+     "Filip Forsberg",
+     "Shane Wright",
+     "Nils Hoglander"
+    ],
+    [
+     "Reid Schaefer",
+     "Alexander Kerfoot",
+     "Jonathan Marchessault"
+    ],
+    [
+     "Ross Colton",
+     "Jack Drury",
+     "Adam Edstrom"
+    ]
+   ],
+   "goalies": [
+    "Juuse Saros",
+    "Justus Annunen"
+   ],
+   "scratched": [
+    "Daemon Hunt",
+    "Ilya Lyubushkin",
+    "Vitali Pinchuk"
+   ]
+  },
+  "2026-11-20:PIT": {
+   "article_updated": "2026-11-20T19:52:39.893Z",
+   "defense": [
+    [
+     "Erik Karlsson",
+     "Kaedan Korczak"
+    ],
+    [
+     "Samuel Girard",
+     "Trevor van Riemsdyk"
+    ],
+    [
+     "Spencer Stastney",
+     "Kris Letang"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Rickard Rakell",
+     "Sidney Crosby",
+     "Tommy Novak"
+    ],
+    [
+     "Andrei Kuzmenko",
+     "Ben Kindel",
+     "Egor Chinakhov"
+    ],
+    [
+     "Rutger McGroarty",
+     "Hendrix Lapierre",
+     "Ville Koivunen"
+    ],
+    [
+     "Connor Dewar",
+     "Blake Lizotte",
+     "Avery Hayes"
+    ]
+   ],
+   "goalies": [
+    "Sergei Murashov",
+    "Arturs Silovs"
+   ],
+   "scratched": [
+    "Justin Brazeau",
+    "Declan Carlile"
+   ]
   }
  },
  "rosters": {
@@ -2520,6 +2617,210 @@
     ],
     [
      "Spencer Knight",
+     "G"
+    ]
+   ],
+   "NSH": [
+    [
+     "Mavrik Bourque",
+     "C"
+    ],
+    [
+     "Ross Colton",
+     "C"
+    ],
+    [
+     "Jack Drury",
+     "C"
+    ],
+    [
+     "Adam Edstrom",
+     "C"
+    ],
+    [
+     "Filip Forsberg",
+     "L"
+    ],
+    [
+     "Nils Hoglander",
+     "L"
+    ],
+    [
+     "Alexander Kerfoot",
+     "C"
+    ],
+    [
+     "Jonathan Marchessault",
+     "C"
+    ],
+    [
+     "Ryan O'Reilly",
+     "C"
+    ],
+    [
+     "Vitali Pinchuk",
+     "C"
+    ],
+    [
+     "Reid Schaefer",
+     "L"
+    ],
+    [
+     "Steven Stamkos",
+     "C"
+    ],
+    [
+     "Shane Wright",
+     "C"
+    ],
+    [
+     "Nicolas Hague",
+     "D"
+    ],
+    [
+     "Daemon Hunt",
+     "D"
+    ],
+    [
+     "Roman Josi",
+     "D"
+    ],
+    [
+     "Ilya Lyubushkin",
+     "D"
+    ],
+    [
+     "Nick Perbix",
+     "D"
+    ],
+    [
+     "Brady Skjei",
+     "D"
+    ],
+    [
+     "Jayden Struble",
+     "D"
+    ],
+    [
+     "William Trudeau",
+     "D"
+    ],
+    [
+     "Adam Wilsby",
+     "D"
+    ],
+    [
+     "Justus Annunen",
+     "G"
+    ],
+    [
+     "Juuse Saros",
+     "G"
+    ]
+   ],
+   "PIT": [
+    [
+     "Justin Brazeau",
+     "R"
+    ],
+    [
+     "Egor Chinakhov",
+     "R"
+    ],
+    [
+     "Sidney Crosby",
+     "C"
+    ],
+    [
+     "Connor Dewar",
+     "C"
+    ],
+    [
+     "Avery Hayes",
+     "R"
+    ],
+    [
+     "Ben Kindel",
+     "C"
+    ],
+    [
+     "Ville Koivunen",
+     "R"
+    ],
+    [
+     "Andrei Kuzmenko",
+     "L"
+    ],
+    [
+     "Hendrix Lapierre",
+     "C"
+    ],
+    [
+     "Blake Lizotte",
+     "C"
+    ],
+    [
+     "Evgeni Malkin",
+     "C"
+    ],
+    [
+     "Rutger McGroarty",
+     "R"
+    ],
+    [
+     "Tommy Novak",
+     "C"
+    ],
+    [
+     "Rickard Rakell",
+     "R"
+    ],
+    [
+     "Nick Robertson",
+     "L"
+    ],
+    [
+     "Bryan Rust",
+     "R"
+    ],
+    [
+     "Elmer Soderblom",
+     "L"
+    ],
+    [
+     "Declan Carlile",
+     "D"
+    ],
+    [
+     "Samuel Girard",
+     "D"
+    ],
+    [
+     "Erik Karlsson",
+     "D"
+    ],
+    [
+     "Kaedan Korczak",
+     "D"
+    ],
+    [
+     "Kris Letang",
+     "D"
+    ],
+    [
+     "Spencer Stastney",
+     "D"
+    ],
+    [
+     "Trevor van Riemsdyk",
+     "D"
+    ],
+    [
+     "Sergei Murashov",
+     "G"
+    ],
+    [
+     "Arturs Silovs",
      "G"
     ]
    ]

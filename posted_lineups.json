@@ -3657,6 +3657,50 @@
     "via": "@Bob_Stauffer"
    }
   },
+  "NSH": {
+   "nhlcom": {
+    "at": "2026-11-20T19:53:23+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-20T19:52:39+00:00"
+   }
+  },
   "NYR": {
    "gameday": {
     "at": "2026-11-20T16:37:26+00:00",
@@ -3768,6 +3812,48 @@
     "info_at": "2026-11-20T17:13:08+00:00",
     "ref": "2123826991527088276",
     "via": "@PensInsideScoop"
+   },
+   "nhlcom": {
+    "at": "2026-11-20T19:53:23+00:00",
+    "defense": [
+     [
+      "Karlsson",
+      "Korczak"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Stastney",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Novak"
+     ],
+     [
+      "Kuzmenko",
+      "Kindel",
+      "Chinakhov"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "?Hayes"
+     ]
+    ],
+    "goalie": "Murashov",
+    "info_at": "2026-11-20T19:52:39+00:00"
    }
   },
   "SJS": {
