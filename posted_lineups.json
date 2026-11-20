@@ -3490,6 +3490,94 @@
     "via": "@bellefraser1"
    }
   },
+  "CGY": {
+   "nhlcom": {
+    "at": "2026-11-20T19:45:52+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Farabee",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Gridin",
+      "Pospisil",
+      "Strome"
+     ],
+     [
+      "Sharangovich",
+      "Frost",
+      "Klapka"
+     ],
+     [
+      "Tsyplakov",
+      "Castagna",
+      "Suniev"
+     ]
+    ],
+    "goalie": "Wolf",
+    "info_at": "2026-11-20T19:44:35+00:00"
+   }
+  },
+  "CHI": {
+   "nhlcom": {
+    "at": "2026-11-20T19:45:52+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Kaiser",
+      "Korchinski"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Frondell",
+      "Mangiapane"
+     ],
+     [
+      "Greene",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greenway",
+      "Smith",
+      "Teravainen"
+     ]
+    ],
+    "goalie": "Commesso",
+    "info_at": "2026-11-20T19:44:35+00:00"
+   }
+  },
   "DET": {
    "gameday": {
     "at": "2026-11-20T16:17:23+00:00",
