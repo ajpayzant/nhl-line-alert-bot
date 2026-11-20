@@ -1381,6 +1381,50 @@
    }
   },
   "COL": {
+   "gameday": {
+    "at": "2026-11-20T01:38:24+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Juulsen"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "Kelly",
+      "?Beckman",
+      "?LOC"
+     ]
+    ],
+    "goalie": "Wedgewood",
+    "info_at": "2026-11-20T01:37:36+00:00",
+    "ref": "2123591557152694392",
+    "via": "@evanrawal"
+   },
    "nhlcom": {
     "at": "2026-11-19T19:42:28+00:00",
     "defense": [
