@@ -1381,6 +1381,50 @@
    }
   },
   "COL": {
+   "dfo": {
+    "at": "2026-11-20T01:40:43+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Juulsen"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "?Beckman",
+      "Kelly",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Wedgewood",
+    "info_at": "2026-11-20T01:36:47+00:00",
+    "ref": "2123591353234075841",
+    "via": "Corey Masisak"
+   },
    "gameday": {
     "at": "2026-11-20T01:38:24+00:00",
     "defense": [

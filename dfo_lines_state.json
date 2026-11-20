@@ -185,7 +185,6 @@
     "players": [
       "Beckman",
       "Burns",
-      "Gagne",
       "Hughes",
       "Juulsen",
       "Kadri",
@@ -197,14 +196,15 @@
       "Necas",
       "Nelson",
       "O'Connor",
+      "Reilly",
       "Roy",
       "Schwartz",
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Schwartz\", \"Kadri\", \"Hughes\"], [\"Beckman\", \"Roy\", \"Landeskog\"], [\"Kelly\", \"Svechkov\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Gagne\", \"Burns\"]], [\"Wedgewood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
-    "source": "",
-    "updated_at": "2026-11-19T21:36:35.130Z"
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"Beckman\", \"Kelly\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Reilly\", \"Burns\"]], [\"Wedgewood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
+    "source": "https://x.com/cmasisak22/status/2123591353234075841",
+    "updated_at": "2026-11-20T01:39:40.726Z"
   },
   "DAL": {
     "goalie": "Oettinger",
