@@ -124,9 +124,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Lomberg\", \"Fantilli\", \"Nichushkin\"], [\"Sillinger\", \"Coyle\", \"Olivier\"], [\"Lundestrom\", \"Williams\", \"Lorentz\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Christiansen\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Del Bel Belluz\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "",
-    "updated_at": "2026-11-19T21:59:55.811Z"
+    "signature": "[[[\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Coyle\", \"Fantilli\", \"Nichushkin\"], [\"Williams\", \"Sillinger\", \"Olivier\"], [\"Lundestrom\", \"Lorentz\", \"Lomberg\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Christiansen\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020353",
+    "updated_at": "2026-11-20T17:11:13.145Z"
   },
   "CGY": {
     "goalie": "Wolf",
@@ -176,9 +176,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Bertuzzi\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Smith\", \"Greene\", \"Teravainen\"], [\"Mangiapane\", \"Donato\", \"Boucher\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
-    "source": "https://x.com/BenPopeCST/status/2123576278444036430",
-    "updated_at": "2026-11-20T00:37:57.813Z"
+    "signature": "[[[\"Bertuzzi\", \"Frondell\", \"Donato\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Smith\", \"Greene\", \"Teravainen\"], [\"Mangiapane\", \"Boucher\", \"Kantserov\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020353",
+    "updated_at": "2026-11-20T17:12:39.531Z"
   },
   "COL": {
     "goalie": "Wedgewood",
@@ -458,9 +458,9 @@
       "Schaefer",
       "Schenn"
     ],
-    "signature": "[[[\"Holmstrom\", \"Horvat\", \"Palmieri\"], [\"Palat\", \"Barzal\", \"Maccelli\"], [\"Heineman\", \"Schenn\", \"Eklund\"], [\"Cizikas\", \"Pageau\", \"Duclair\"]], [[\"Schaefer\", \"Pulock\"], [\"Pelech\", \"DeAngelo\"], [\"Hutton\", \"Kessel\"]], [\"Sorokin\"], [\"Eklund\", \"Horvat\", \"Schenn\", \"Maccelli\", \"Schaefer\"]]",
-    "source": "https://x.com/AGrossNewsday/status/2123560911797711260",
-    "updated_at": "2026-11-19T23:38:05.665Z"
+    "signature": "[[[\"Holmstrom\", \"Horvat\", \"Palmieri\"], [\"Palat\", \"Barzal\", \"Maccelli\"], [\"Heineman\", \"Schenn\", \"Eklund\"], [\"Cizikas\", \"Pageau\", \"Duclair\"]], [[\"Schaefer\", \"Pelech\"], [\"Pulock\", \"DeAngelo\"], [\"Hutton\", \"Kessel\"]], [\"Sorokin\"], [\"Eklund\", \"Horvat\", \"Schenn\", \"Maccelli\", \"Schaefer\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020354",
+    "updated_at": "2026-11-20T17:14:29.820Z"
   },
   "NYR": {
     "goalie": "Korpisalo",
@@ -775,7 +775,7 @@
     "updated_at": "2026-11-19T19:22:07.315Z"
   },
   "WPG": {
-    "goalie": "Daws",
+    "goalie": "Skinner",
     "players": [
       "Barron",
       "Bauer",
@@ -796,9 +796,9 @@
       "Yager",
       "Zhilkin"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Ferraro\"], [\"Thrun\", \"Bauer\"]], [\"Daws\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
-    "source": "https://x.com/MitchellClinton/status/2123440952375431530?s=20",
-    "updated_at": "2026-11-19T15:56:05.629Z"
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Ferraro\"], [\"Thrun\", \"Bauer\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020354",
+    "updated_at": "2026-11-20T17:15:15.816Z"
   },
   "WSH": {
     "goalie": "Thompson",
