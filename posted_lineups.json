@@ -1118,21 +1118,22 @@
   },
   "CGY": {
    "dfo": {
-    "at": "2026-11-19T18:09:38+00:00",
+    "at": "2026-11-20T00:40:42+00:00",
     "defense": [
      [
-      "Kuznetsov",
-      "Parekh"
+      "Middleton",
+      "Whitecloud"
      ],
      [
       "Hanley",
       "Nemec"
      ],
      [
-      "Middleton",
-      "Whitecloud"
+      "Kuznetsov",
+      "Parekh"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Farabee",
@@ -1156,12 +1157,12 @@
      ]
     ],
     "goalie": "Wolf",
-    "info_at": "2026-11-19T16:29:53+00:00",
-    "ref": "2123453722630205495",
-    "via": "Pat Steinberg"
+    "info_at": "2026-11-20T00:37:36+00:00",
+    "ref": "2123576457717076047",
+    "via": "Ryan Pike"
    },
    "gameday": {
-    "at": "2026-11-19T16:32:24+00:00",
+    "at": "2026-11-20T00:40:25+00:00",
     "defense": [
      [
       "Middleton",
@@ -1176,6 +1177,7 @@
       "Parekh"
      ]
     ],
+    "extra": [],
     "forwards": [
      [
       "Farabee",
@@ -1198,7 +1200,10 @@
       "Suniev"
      ]
     ],
-    "goalie": "Wolf"
+    "goalie": "Wolf",
+    "info_at": "2026-11-20T00:40:13+00:00",
+    "ref": "2123577114968703055",
+    "via": "@RyanNPike"
    },
    "nhlcom": {
     "at": "2026-11-19T18:37:24+00:00",
