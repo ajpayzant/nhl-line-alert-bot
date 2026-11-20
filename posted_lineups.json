@@ -3022,6 +3022,45 @@
    }
   },
   "VAN": {
+   "gameday": {
+    "at": "2026-11-20T02:21:27+00:00",
+    "defense": [
+     [
+      "?DPetey",
+      "Willander"
+     ],
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Pettersson",
+      "Lekkerimäki"
+     ],
+     [
+      "Cotter",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "?DOC",
+      "Sasson",
+      "Gallagher"
+     ]
+    ],
+    "goalie": "Meriläinen",
+    "info_at": "2026-11-20T02:19:42+00:00",
+    "ref": "2123602151197004261",
+    "via": "@ThomasDrance"
+   },
    "nhlcom": {
     "at": "2026-11-19T19:45:27+00:00",
     "defense": [
