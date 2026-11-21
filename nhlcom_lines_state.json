@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T18:35:02.463Z",
+ "article_updated": "2026-11-21T19:11:03.721Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -2298,6 +2298,103 @@
     "Declan Carlile"
    ]
   },
+  "2026-11-21:SEA": {
+   "article_updated": "2026-11-21T19:11:03.721Z",
+   "defense": [
+    [
+     "Vince Dunn",
+     "Adam Larsson"
+    ],
+    [
+     "Ryker Evans",
+     "Brandon Montour"
+    ],
+    [
+     "Ryan Lindgren",
+     "Ville Ottavainen"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Bobby McMann",
+     "Berkly Catton",
+     "Jordan Eberle"
+    ],
+    [
+     "Kaapo Kakko",
+     "Matty Beniers",
+     "Mackie Samoskevich"
+    ],
+    [
+     "Frederick Gaudreau",
+     "Chandler Stephenson",
+     "Ryan Winterton"
+    ],
+    [
+     "Matthew Wood",
+     "Ben Meyers",
+     "Jacob Melanson"
+    ]
+   ],
+   "goalies": [
+    "Joey Daccord",
+    "Philipp Grubauer"
+   ],
+   "scratched": [
+    "Cale Fleury",
+    "Jagger Firkus",
+    "Jani Nyman"
+   ]
+  },
+  "2026-11-21:SJS": {
+   "article_updated": "2026-11-21T19:11:03.721Z",
+   "defense": [
+    [
+     "Darnell Nurse",
+     "Eric Pohlkamp"
+    ],
+    [
+     "Dmitry Orlov",
+     "Jacob Trouba"
+    ],
+    [
+     "Nolan Allan",
+     "Sam Dickinson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Ivar Stenberg",
+     "Macklin Celebrini",
+     "Will Smith"
+    ],
+    [
+     "Michael Misa",
+     "Alexander Wennberg",
+     "Tyler Toffoli"
+    ],
+    [
+     "Mason Marchment",
+     "Ty Dellandrea",
+     "Adam Gaudette"
+    ],
+    [
+     "Barclay Goodrow",
+     "Zack Ostapchuk",
+     "Brett Leason"
+    ]
+   ],
+   "goalies": [
+    "Alex Nedeljkovic",
+    "Yaroslav Askarov"
+   ],
+   "scratched": [
+    "Michael Kesselring",
+    "Collin Graf"
+   ]
+  },
   "2026-11-21:STL": {
    "article_updated": "2026-11-21T17:22:50.353Z",
    "defense": [
@@ -4244,6 +4341,206 @@
     ],
     [
      "Arturs Silovs",
+     "G"
+    ]
+   ],
+   "SEA": [
+    [
+     "Matty Beniers",
+     "C"
+    ],
+    [
+     "Berkly Catton",
+     "C"
+    ],
+    [
+     "Curtis Douglas",
+     "C"
+    ],
+    [
+     "Jordan Eberle",
+     "R"
+    ],
+    [
+     "Frederick Gaudreau",
+     "C"
+    ],
+    [
+     "Kaapo Kakko",
+     "R"
+    ],
+    [
+     "Jared McCann",
+     "L"
+    ],
+    [
+     "Bobby McMann",
+     "C"
+    ],
+    [
+     "Jacob Melanson",
+     "R"
+    ],
+    [
+     "Ben Meyers",
+     "C"
+    ],
+    [
+     "Jake O'Brien",
+     "C"
+    ],
+    [
+     "Mackie Samoskevich",
+     "R"
+    ],
+    [
+     "Chandler Stephenson",
+     "C"
+    ],
+    [
+     "Ryan Winterton",
+     "C"
+    ],
+    [
+     "Matthew Wood",
+     "R"
+    ],
+    [
+     "Vince Dunn",
+     "D"
+    ],
+    [
+     "Ryker Evans",
+     "D"
+    ],
+    [
+     "Cale Fleury",
+     "D"
+    ],
+    [
+     "Adam Larsson",
+     "D"
+    ],
+    [
+     "Ryan Lindgren",
+     "D"
+    ],
+    [
+     "Josh Mahura",
+     "D"
+    ],
+    [
+     "Brandon Montour",
+     "D"
+    ],
+    [
+     "Ville Ottavainen",
+     "D"
+    ],
+    [
+     "Joey Daccord",
+     "G"
+    ],
+    [
+     "Philipp Grubauer",
+     "G"
+    ]
+   ],
+   "SJS": [
+    [
+     "Macklin Celebrini",
+     "C"
+    ],
+    [
+     "Igor Chernyshov",
+     "L"
+    ],
+    [
+     "Ty Dellandrea",
+     "C"
+    ],
+    [
+     "Adam Gaudette",
+     "R"
+    ],
+    [
+     "Barclay Goodrow",
+     "C"
+    ],
+    [
+     "Collin Graf",
+     "R"
+    ],
+    [
+     "Brett Leason",
+     "R"
+    ],
+    [
+     "Mason Marchment",
+     "L"
+    ],
+    [
+     "Michael Misa",
+     "C"
+    ],
+    [
+     "Zack Ostapchuk",
+     "C"
+    ],
+    [
+     "Kiefer Sherwood",
+     "L"
+    ],
+    [
+     "Will Smith",
+     "C"
+    ],
+    [
+     "Ivar Stenberg",
+     "L"
+    ],
+    [
+     "Tyler Toffoli",
+     "C"
+    ],
+    [
+     "Alexander Wennberg",
+     "C"
+    ],
+    [
+     "Nolan Allan",
+     "D"
+    ],
+    [
+     "Sam Dickinson",
+     "D"
+    ],
+    [
+     "Michael Kesselring",
+     "D"
+    ],
+    [
+     "Darnell Nurse",
+     "D"
+    ],
+    [
+     "Dmitry Orlov",
+     "D"
+    ],
+    [
+     "Eric Pohlkamp",
+     "D"
+    ],
+    [
+     "Jacob Trouba",
+     "D"
+    ],
+    [
+     "Yaroslav Askarov",
+     "G"
+    ],
+    [
+     "Alex Nedeljkovic",
      "G"
     ]
    ],

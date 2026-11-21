@@ -5262,6 +5262,94 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "SEA": {
+   "nhlcom": {
+    "at": "2026-11-21T19:13:28+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Ottavainen"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Daccord",
+    "info_at": "2026-11-21T19:11:03+00:00"
+   }
+  },
+  "SJS": {
+   "nhlcom": {
+    "at": "2026-11-21T19:13:28+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Orlov",
+      "Trouba"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Leason"
+     ]
+    ],
+    "goalie": "Nedeljkovic",
+    "info_at": "2026-11-21T19:11:03+00:00"
+   }
+  },
   "STL": {
    "dfo": {
     "at": "2026-11-21T18:05:39+00:00",
