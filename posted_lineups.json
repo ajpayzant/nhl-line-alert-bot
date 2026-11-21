@@ -4070,7 +4070,7 @@
     "via": "@WaltRuff"
    },
    "nhlcom": {
-    "at": "2026-11-21T22:02:26+00:00",
+    "at": "2026-11-21T23:00:46+00:00",
     "defense": [
      [
       "Slavin",
@@ -4109,7 +4109,7 @@
      ]
     ],
     "goalie": "Bussi",
-    "info_at": "2026-11-21T22:01:49+00:00"
+    "info_at": "2026-11-21T22:59:29+00:00"
    }
   },
   "CBJ": {
@@ -5963,7 +5963,7 @@
     "via": "St. Louis Blues"
    },
    "nhlcom": {
-    "at": "2026-11-21T17:23:29+00:00",
+    "at": "2026-11-21T23:00:46+00:00",
     "defense": [
      [
       "Broberg",
@@ -5988,12 +5988,12 @@
      [
       "Holloway",
       "McTavish",
-      "Berggren"
+      "Dvorsky"
      ],
      [
       "Kaskimaki",
-      "Dvorsky",
-      "Buchnevich"
+      "Buchnevich",
+      "Berggren"
      ],
      [
       "Toropchenko",
@@ -6001,8 +6001,8 @@
       "Johnston"
      ]
     ],
-    "goalie": "Hofer",
-    "info_at": "2026-11-21T17:22:50+00:00"
+    "goalie": "Binnington",
+    "info_at": "2026-11-21T22:59:29+00:00"
    }
   },
   "TBL": {

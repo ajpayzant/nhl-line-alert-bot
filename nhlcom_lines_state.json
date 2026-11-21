@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T22:01:49.649Z",
+ "article_updated": "2026-11-21T22:59:29.636Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1624,7 +1624,7 @@
    ]
   },
   "2026-11-21:CAR": {
-   "article_updated": "2026-11-21T22:01:49.649Z",
+   "article_updated": "2026-11-21T22:59:29.636Z",
    "defense": [
     [
      "Jaccob Slavin",
@@ -2539,7 +2539,7 @@
    ]
   },
   "2026-11-21:STL": {
-   "article_updated": "2026-11-21T17:22:50.353Z",
+   "article_updated": "2026-11-21T22:59:29.636Z",
    "defense": [
     [
      "Philip Broberg",
@@ -2564,12 +2564,12 @@
     [
      "Dylan Holloway",
      "Mason McTavish",
-     "Jonatan Berggren"
+     "Dalibor Dvorsky"
     ],
     [
      "Aleksanteri Kaskimaki",
-     "Dalibor Dvorsky",
-     "Pavel Buchnevich"
+     "Pavel Buchnevich",
+     "Jonatan Berggren"
     ],
     [
      "Alexey Toropchenko",
@@ -2578,8 +2578,8 @@
     ]
    ],
    "goalies": [
-    "Joel Hofer",
-    "Jordan Binnington"
+    "Jordan Binnington",
+    "Joel Hofer"
    ],
    "scratched": [
     "Nathan Walker",
