@@ -5214,6 +5214,50 @@
    }
   },
   "MTL": {
+   "dfo": {
+    "at": "2026-11-21T23:55:37+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Reinbacher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "Evans",
+      "Slafkovský"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Dach"
+     ],
+     [
+      "Berard",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "Fowler",
+    "info_at": "2026-11-21T23:50:29+00:00",
+    "ref": "2124289378038186302",
+    "via": "Montreal Canadiens"
+   },
    "gameday": {
     "at": "2026-11-21T23:52:25+00:00",
     "defense": [
@@ -6449,7 +6493,7 @@
   },
   "TOR": {
    "dfo": {
-    "at": "2026-11-21T16:00:50+00:00",
+    "at": "2026-11-21T23:55:37+00:00",
     "defense": [
      [
       "McCabe",
@@ -6472,9 +6516,9 @@
       "Roslovic"
      ],
      [
-      "Paul",
+      "McKenna",
       "Tavares",
-      "McKenna"
+      "Paul"
      ],
      [
       "Joshua",
@@ -6488,8 +6532,8 @@
      ]
     ],
     "goalie": "Stolarz",
-    "info_at": "2026-11-21T15:36:50+00:00",
-    "ref": "2124165146977444114",
+    "info_at": "2026-11-21T23:44:39+00:00",
+    "ref": "2124287907355877430",
     "via": "David Alter"
    },
    "gameday": {
