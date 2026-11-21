@@ -4206,6 +4206,52 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "TBL": {
+   "gameday": {
+    "at": "2026-11-21T16:14:24+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Gourde",
+      "O'Reilly",
+      "Goncalves"
+     ],
+     [
+      "Viel",
+      "Harkins",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T16:13:33+00:00",
+    "ref": "2124174384428396742",
+    "via": "@EddieInTheYard"
+   }
+  },
   "TOR": {
    "dfo": {
     "at": "2026-11-21T16:00:50+00:00",
