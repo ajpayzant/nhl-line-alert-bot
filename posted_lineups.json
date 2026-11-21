@@ -5214,6 +5214,49 @@
    }
   },
   "MTL": {
+   "gameday": {
+    "at": "2026-11-21T23:52:25+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Reinbacher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "Evans",
+      "Slafkovský"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Dach"
+     ],
+     [
+      "Berard",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T23:49:18+00:00",
+    "ref": "2124289079848419469"
+   },
    "nhlcom": {
     "at": "2026-11-21T18:35:47+00:00",
     "defense": [
