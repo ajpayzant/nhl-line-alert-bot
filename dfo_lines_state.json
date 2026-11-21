@@ -777,11 +777,11 @@
     "goalie": "Skinner",
     "players": [
       "Barron",
+      "Bauer",
       "Bj\u00f6rck",
       "Connor",
       "Ferraro",
       "Iafallo",
-      "Koepke",
       "Lowry",
       "Mercer",
       "Morrissey",
@@ -795,9 +795,9 @@
       "Yager",
       "Zhilkin"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Salomonsson\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Bauer\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Salomonsson\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
     "source": "https://x.com/ConnorHrabchak1/status/2124164726720729274",
-    "updated_at": "2026-11-21T15:48:29.569Z"
+    "updated_at": "2026-11-21T16:42:14.721Z"
   },
   "WSH": {
     "goalie": "Thompson",
