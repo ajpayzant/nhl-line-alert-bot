@@ -4068,6 +4068,52 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "DAL": {
+   "dfo": {
+    "at": "2026-11-21T18:00:47+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Taylor",
+      "Burroughs"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benn",
+      "Johnston",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Hintz",
+      "Hyry"
+     ],
+     [
+      "Steel",
+      "Hryckowian",
+      "Seguin"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-21T17:18:10+00:00",
+    "ref": "2124190648559370246",
+    "via": "Robert Tiffin"
+   }
+  },
   "DET": {
    "nhlcom": {
     "at": "2026-11-21T17:02:22+00:00",
@@ -5182,6 +5228,50 @@
    }
   },
   "VAN": {
+   "dfo": {
+    "at": "2026-11-21T18:00:47+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "?Pettersson",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Lekkerimäki"
+     ],
+     [
+      "O'Connor",
+      "?Mueller",
+      "Karlsson"
+     ],
+     [
+      "Cotter",
+      "Quillan",
+      "Bains"
+     ]
+    ],
+    "goalie": "Meriläinen",
+    "info_at": "2026-11-21T17:33:56+00:00",
+    "ref": "2124194616522244522",
+    "via": "Brendan Batchelor"
+   },
    "gameday": {
     "at": "2026-11-21T17:40:31+00:00",
     "defense": [

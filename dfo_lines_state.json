@@ -228,9 +228,9 @@
       "Steel",
       "Taylor"
     ],
-    "signature": "[[[\"Robertson\", \"Johnston\", \"Rantanen\"], [\"Benn\", \"Hintz\", \"Hyry\"], [\"Steel\", \"Hryckowian\", \"Seguin\"], [\"Kiviranta\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Taylor\", \"Burroughs\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020358",
-    "updated_at": "2026-11-20T17:20:17.226Z"
+    "signature": "[[[\"Benn\", \"Johnston\", \"Rantanen\"], [\"Robertson\", \"Hintz\", \"Hyry\"], [\"Steel\", \"Hryckowian\", \"Seguin\"], [\"Kiviranta\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Taylor\", \"Burroughs\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
+    "source": "https://x.com/RobertTiffin/status/2124190648559370246",
+    "updated_at": "2026-11-21T17:57:55.805Z"
   },
   "DET": {
     "goalie": "Gibson",
@@ -724,28 +724,28 @@
   "VAN": {
     "goalie": "Merilainen",
     "players": [
+      "Bains",
       "Boeser",
       "Buium",
       "Chytil",
       "Cotter",
       "Crotty",
       "DeBrusk",
-      "Gallagher",
       "Hronek",
       "Karlsson",
       "Lekkerimaki",
+      "Mueller",
       "Nils Pettersson",
       "O'Connor",
       "Ohgren",
       "Oleksiak",
-      "Pettersson",
+      "Quillan",
       "Rossi",
-      "Sasson",
       "Willander"
     ],
-    "signature": "[[[\"DeBrusk\", \"Pettersson\", \"Lekkerimaki\"], [\"Cotter\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Karlsson\"], [\"O'Connor\", \"Sasson\", \"Gallagher\"]], [[\"Buium\", \"Hronek\"], [\"Nils Pettersson\", \"Willander\"], [\"Oleksiak\", \"Crotty\"]], [\"Merilainen\"], [\"DeBrusk\", \"Pettersson\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020357",
-    "updated_at": "2026-11-20T17:18:58.990Z"
+    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Nils Pettersson\", \"Willander\"], [\"Oleksiak\", \"Crotty\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
+    "source": "https://x.com/BatchHockey/status/2124194616522244522",
+    "updated_at": "2026-11-21T17:57:19.747Z"
   },
   "VGK": {
     "goalie": "Hart",
