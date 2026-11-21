@@ -5038,6 +5038,50 @@
     "info_at": "2026-11-21T18:04:24+00:00",
     "via": "Zach Dooley"
    },
+   "gameday": {
+    "at": "2026-11-21T23:47:31+00:00",
+    "defense": [
+     [
+      "Gustafsson",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Doughty"
+     ],
+     [
+      "Anderson",
+      "Dumoulin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lee",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Turcotte",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Laughton",
+      "Helenius",
+      "Perry"
+     ]
+    ],
+    "goalie": "Forsberg",
+    "info_at": "2026-11-21T23:45:42+00:00",
+    "ref": "2124288172079362363",
+    "via": "@DooleyLAK"
+   },
    "nhlcom": {
     "at": "2026-11-21T18:27:26+00:00",
     "defense": [
@@ -5788,11 +5832,11 @@
     "via": "Jackie Spiegel"
    },
    "gameday": {
-    "at": "2026-11-21T16:48:29+00:00",
+    "at": "2026-11-21T23:47:28+00:00",
     "defense": [
      [
       "Sanheim",
-      "?Risto"
+      "Ristolainen"
      ],
      [
       "York",
@@ -5811,9 +5855,9 @@
       "Konecny"
      ],
      [
-      "Martone",
+      "Tippett",
       "Barkey",
-      "Tippett"
+      "Martone"
      ],
      [
       "Knuble",
@@ -5827,9 +5871,9 @@
      ]
     ],
     "goalie": "",
-    "info_at": "2026-11-21T16:38:58+00:00",
-    "ref": "2124180783154004025",
-    "via": "@jackiespiegel93"
+    "info_at": "2026-11-21T23:43:14+00:00",
+    "ref": "2124287550957457566",
+    "via": "@charlieo_conn"
    },
    "nhlcom": {
     "at": "2026-11-21T18:35:47+00:00",
@@ -6318,7 +6362,7 @@
     "via": "David Alter"
    },
    "gameday": {
-    "at": "2026-11-21T15:39:19+00:00",
+    "at": "2026-11-21T23:47:30+00:00",
     "defense": [
      [
       "McCabe",
@@ -6341,9 +6385,9 @@
       "Roslovic"
      ],
      [
-      "Paul",
+      "McKenna",
       "Tavares",
-      "McKenna"
+      "Paul"
      ],
      [
       "Joshua",
@@ -6357,9 +6401,9 @@
      ]
     ],
     "goalie": "Stolarz",
-    "info_at": "2026-11-21T15:38:12+00:00",
-    "ref": "2124165489416892883",
-    "via": "@davidalter"
+    "info_at": "2026-11-21T23:45:18+00:00",
+    "ref": "2124288073496490068",
+    "via": "@koshtorontosun"
    },
    "nhlcom": {
     "at": "2026-11-21T18:09:24+00:00",
@@ -6707,6 +6751,50 @@
     "info_at": "2026-11-21T23:42:19+00:00",
     "ref": "2124287323739500714",
     "via": "Mitchell Clinton"
+   },
+   "gameday": {
+    "at": "2026-11-21T23:47:29+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Pionk"
+     ],
+     [
+      "Samberg",
+      "?Salomonsson"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Iafallo",
+      "Zhilkin",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-21T23:43:53+00:00",
+    "ref": "2124287716036849714",
+    "via": "@MitchellClinton"
    },
    "nhlcom": {
     "at": "2026-11-21T18:17:29+00:00",
