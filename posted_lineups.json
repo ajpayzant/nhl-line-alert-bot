@@ -4157,6 +4157,50 @@
     "ref": "2124194660495380929",
     "via": "Jack Michaels"
    },
+   "gameday": {
+    "at": "2026-11-21T17:43:27+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Kapanen",
+      "Dach",
+      "Hyman"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Levi",
+    "info_at": "2026-11-21T17:41:54+00:00",
+    "ref": "2124196620422242776",
+    "via": "@Bob_Stauffer"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
