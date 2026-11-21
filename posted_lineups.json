@@ -4685,6 +4685,50 @@
     "info_at": "2026-11-21T18:26:39+00:00"
    }
   },
+  "MIN": {
+   "nhlcom": {
+    "at": "2026-11-21T20:04:23+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-21T20:03:50+00:00"
+   }
+  },
   "MTL": {
    "nhlcom": {
     "at": "2026-11-21T18:35:47+00:00",
@@ -5960,6 +6004,48 @@
     "info_at": "2026-11-21T17:39:14+00:00",
     "ref": "2124195948197020050",
     "via": "@ThomasDrance"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T20:04:23+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Pettersson",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Lekkerimäki"
+     ],
+     [
+      "O'Connor",
+      "?Mueller",
+      "Karlsson"
+     ],
+     [
+      "Bains",
+      "Quillan",
+      "Cotter"
+     ]
+    ],
+    "goalie": "Meriläinen",
+    "info_at": "2026-11-21T20:03:50+00:00"
    }
   },
   "VGK": {

@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T19:38:27.004Z",
+ "article_updated": "2026-11-21T20:03:50.882Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -2009,6 +2009,53 @@
     "Artemi Panarin"
    ]
   },
+  "2026-11-21:MIN": {
+   "article_updated": "2026-11-21T20:03:50.882Z",
+   "defense": [
+    [
+     "Jonas Brodin",
+     "Brock Faber"
+    ],
+    [
+     "Matt Kiersted",
+     "Jared Spurgeon"
+    ],
+    [
+     "Zach Bogosian",
+     "David Spacek"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Kirill Kaprizov",
+     "Joel Eriksson Ek",
+     "Matt Boldy"
+    ],
+    [
+     "Maxim Shabanov",
+     "Danila Yurov",
+     "Yakov Trenin"
+    ],
+    [
+     "Blake Coleman",
+     "Michael McCarron",
+     "Bobby Brink"
+    ],
+    [
+     "Marcus Foligno",
+     "Ryan Hartman",
+     "Nick Foligno"
+    ]
+   ],
+   "goalies": [
+    "Jesper Wallstedt",
+    "Calvin Pickard"
+   ],
+   "scratched": [
+    "Nico Sturm"
+   ]
+  },
   "2026-11-21:MTL": {
    "article_updated": "2026-11-21T18:35:02.463Z",
    "defense": [
@@ -2588,6 +2635,54 @@
     "Ben McCartney",
     "Gregor Biber",
     "Artem Duda"
+   ]
+  },
+  "2026-11-21:VAN": {
+   "article_updated": "2026-11-21T20:03:50.882Z",
+   "defense": [
+    [
+     "Zeev Buium",
+     "Filip Hronek"
+    ],
+    [
+     "Elias Pettersson",
+     "Tom Willander"
+    ],
+    [
+     "Jamie Oleksiak",
+     "Cameron Crotty"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake DeBrusk",
+     "Filip Chytil",
+     "Brock Boeser"
+    ],
+    [
+     "Liam Ohgren",
+     "Marco Rossi",
+     "Jonathan Lekkerimäki"
+    ],
+    [
+     "Drew O'Connor",
+     "Ty Mueller",
+     "Linus Karlsson"
+    ],
+    [
+     "Arshdeep Bains",
+     "Jacob Quillan",
+     "Paul Cotter"
+    ]
+   ],
+   "goalies": [
+    "Leevi Meriläinen",
+    "Kevin Lankinen"
+   ],
+   "scratched": [
+    "Luke Schenn",
+    "Nikita Tolopilo"
    ]
   },
   "2026-11-21:VGK": {
@@ -3846,6 +3941,104 @@
      "G"
     ]
    ],
+   "MIN": [
+    [
+     "Matt Boldy",
+     "L"
+    ],
+    [
+     "Bobby Brink",
+     "R"
+    ],
+    [
+     "Blake Coleman",
+     "L"
+    ],
+    [
+     "Joel Eriksson Ek",
+     "C"
+    ],
+    [
+     "Marcus Foligno",
+     "L"
+    ],
+    [
+     "Nick Foligno",
+     "L"
+    ],
+    [
+     "Ryan Hartman",
+     "R"
+    ],
+    [
+     "Kirill Kaprizov",
+     "L"
+    ],
+    [
+     "Michael McCarron",
+     "C"
+    ],
+    [
+     "Maxim Shabanov",
+     "R"
+    ],
+    [
+     "Nico Sturm",
+     "C"
+    ],
+    [
+     "Yakov Trenin",
+     "C"
+    ],
+    [
+     "Danila Yurov",
+     "R"
+    ],
+    [
+     "Zach Bogosian",
+     "D"
+    ],
+    [
+     "Jonas Brodin",
+     "D"
+    ],
+    [
+     "Brock Faber",
+     "D"
+    ],
+    [
+     "Quinn Hughes",
+     "D"
+    ],
+    [
+     "Matt Kiersted",
+     "D"
+    ],
+    [
+     "Olli Maatta",
+     "D"
+    ],
+    [
+     "David Spacek",
+     "D"
+    ],
+    [
+     "Jared Spurgeon",
+     "D"
+    ],
+    [
+     "Filip Gustavsson",
+     "G"
+    ],
+    [
+     "Calvin Pickard",
+     "G"
+    ],
+    [
+     "Jesper Wallstedt",
+     "G"
+    ]
+   ],
    "MTL": [
     [
      "Josh Anderson",
@@ -5091,6 +5284,112 @@
     ],
     [
      "Karel Vejmelka",
+     "G"
+    ]
+   ],
+   "VAN": [
+    [
+     "Arshdeep Bains",
+     "L"
+    ],
+    [
+     "Brock Boeser",
+     "R"
+    ],
+    [
+     "Filip Chytil",
+     "C"
+    ],
+    [
+     "Paul Cotter",
+     "L"
+    ],
+    [
+     "Jake DeBrusk",
+     "L"
+    ],
+    [
+     "Brendan Gallagher",
+     "R"
+    ],
+    [
+     "Linus Karlsson",
+     "C"
+    ],
+    [
+     "Jonathan Lekkerimäki",
+     "R"
+    ],
+    [
+     "Ty Mueller",
+     "C"
+    ],
+    [
+     "Drew O'Connor",
+     "L"
+    ],
+    [
+     "Liam Ohgren",
+     "L"
+    ],
+    [
+     "Elias Pettersson",
+     "C"
+    ],
+    [
+     "Jacob Quillan",
+     "C"
+    ],
+    [
+     "Marco Rossi",
+     "C"
+    ],
+    [
+     "Guillaume Brisebois",
+     "D"
+    ],
+    [
+     "Zeev Buium",
+     "D"
+    ],
+    [
+     "Cameron Crotty",
+     "D"
+    ],
+    [
+     "Filip Hronek",
+     "D"
+    ],
+    [
+     "Jamie Oleksiak",
+     "D"
+    ],
+    [
+     "Elias Pettersson",
+     "D"
+    ],
+    [
+     "Luke Schenn",
+     "D"
+    ],
+    [
+     "Tom Willander",
+     "D"
+    ],
+    [
+     "Thatcher Demko",
+     "G"
+    ],
+    [
+     "Kevin Lankinen",
+     "G"
+    ],
+    [
+     "Leevi Meriläinen",
+     "G"
+    ],
+    [
+     "Nikita Tolopilo",
      "G"
     ]
    ],
