@@ -4381,6 +4381,50 @@
    }
   },
   "PHI": {
+   "dfo": {
+    "at": "2026-11-21T17:20:37+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Martone",
+      "Barkey",
+      "Tippett"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Vladar",
+    "info_at": "2026-11-21T16:36:39+00:00",
+    "ref": "2124180200414236678",
+    "via": "Jackie Spiegel"
+   },
    "gameday": {
     "at": "2026-11-21T16:48:29+00:00",
     "defense": [
