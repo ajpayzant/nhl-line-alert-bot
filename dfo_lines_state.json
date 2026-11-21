@@ -253,9 +253,9 @@
       "Raymond",
       "Seider"
     ],
-    "signature": "[[[\"DeBrincat\", \"Finnie\", \"Raymond\"], [\"Kasper\", \"Copp\", \"Arvidsson\"], [\"Mazur\", \"Compher\", \"Brandsegg-Nyg\\u00e5rd\"], [\"Rasmussen\", \"Dries\", \"Kolesar\"]], [[\"Johansson\", \"Seider\"], [\"Chiarot\", \"Faulk\"], [\"Englund\", \"Johansson\"]], [\"Gibson\"], [\"Arvidsson\", \"Finnie\", \"Raymond\", \"DeBrincat\", \"Seider\"]]",
-    "source": "https://x.com/ansarkhanmlive/status/2123812488135291020?s=46",
-    "updated_at": "2026-11-21T04:04:50.229Z"
+    "signature": "[[[\"DeBrincat\", \"Copp\", \"Raymond\"], [\"Kasper\", \"Finnie\", \"Arvidsson\"], [\"Mazur\", \"Compher\", \"Brandsegg-Nyg\\u00e5rd\"], [\"Rasmussen\", \"Dries\", \"Kolesar\"]], [[\"Chiarot\", \"Seider\"], [\"Johansson\", \"Faulk\"], [\"Englund\", \"Johansson\"]], [\"Gibson\"], [\"Arvidsson\", \"Finnie\", \"Raymond\", \"DeBrincat\", \"Seider\"]]",
+    "source": "https://x.com/AnsarKhanMLive/status/2124286460668821818",
+    "updated_at": "2026-11-21T23:47:05.704Z"
   },
   "EDM": {
     "goalie": "Jarry",
@@ -406,8 +406,8 @@
       "Siegenthaler"
     ],
     "signature": "[[[\"Gritsyuk\", \"Hughes\", \"Bratt\"], [\"Meier\", \"Hischier\", \"Evangelista\"], [\"Rodrigues\", \"Lombardi\", \"Brown\"], [\"Boqvist\", \"Glass\", \"Hameenaho\"]], [[\"Hughes\", \"Pesce\"], [\"Siegenthaler\", \"Hamilton\"], [\"Chisholm\", \"Dillon\"]], [\"Hellebuyck\"], [\"Gritsyuk\", \"Hischier\", \"Brown\", \"Hughes\", \"Hughes\"]]",
-    "source": "https://x.com/amandacstein/status/2123811894427328948/photo/1",
-    "updated_at": "2026-11-21T04:08:07.187Z"
+    "source": "https://x.com/NJDevils/status/2124286398094340457",
+    "updated_at": "2026-11-21T23:47:50.586Z"
   },
   "NSH": {
     "goalie": "Saros",
@@ -536,8 +536,8 @@
       "Zegras"
     ],
     "signature": "[[[\"Foerster\", \"Dvorak\", \"Konecny\"], [\"Martone\", \"Barkey\", \"Tippett\"], [\"Knuble\", \"Cates\", \"Michkov\"], [\"Zegras\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Ristolainen\"], [\"York\", \"Drysdale\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
-    "source": "https://x.com/jackiespiegel93/status/2124180200414236678",
-    "updated_at": "2026-11-21T17:17:23.324Z"
+    "source": "https://x.com/charlieo_conn/status/2124287427472962036",
+    "updated_at": "2026-11-21T23:48:23.357Z"
   },
   "PIT": {
     "goalie": "Murashov",
@@ -800,9 +800,8 @@
     "updated_at": "2026-11-21T23:44:27.759Z"
   },
   "WSH": {
-    "goalie": "Thompson",
+    "goalie": "Lindgren",
     "players": [
-      "Beauvillier",
       "Chychrun",
       "Dubois",
       "Fehervary",
@@ -811,6 +810,7 @@
       "Jenner",
       "Kyrou",
       "Leonard",
+      "Miroshnichenko",
       "Ovechkin",
       "Protas",
       "Roy",
@@ -820,8 +820,8 @@
       "Tuch",
       "Wilson"
     ],
-    "signature": "[[[\"Protas\", \"Dubois\", \"Tuch\"], [\"Leonard\", \"Jenner\", \"Wilson\"], [\"Ovechkin\", \"Strome\", \"Beauvillier\"], [\"Sourdif\", \"Protas\", \"Kyrou\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Holl\"], [\"Hutson\", \"St. Ivany\"]], [\"Thompson\"], [\"Wilson\", \"Strome\", \"Kyrou\", \"Ovechkin\", \"Chychrun\"]]",
-    "source": "https://x.com/sammisilber/status/2123814074588795182?s=20",
-    "updated_at": "2026-11-21T04:06:52.599Z"
+    "signature": "[[[\"Protas\", \"Dubois\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Leonard\"], [\"Kyrou\", \"Protas\", \"Sourdif\"], [\"Miroshnichenko\", \"Jenner\", \"Wilson\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Holl\"], [\"Hutson\", \"St. Ivany\"]], [\"Lindgren\"], [\"Wilson\", \"Strome\", \"Kyrou\", \"Ovechkin\", \"Chychrun\"]]",
+    "source": "https://x.com/VogsCaps/status/2124286626733989991",
+    "updated_at": "2026-11-21T23:45:50.011Z"
   }
 }

@@ -4643,6 +4643,50 @@
    }
   },
   "DET": {
+   "dfo": {
+    "at": "2026-11-21T23:50:45+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Gibson",
+    "info_at": "2026-11-21T23:38:54+00:00",
+    "ref": "2124286460668821818",
+    "via": "Ansar Khan"
+   },
    "gameday": {
     "at": "2026-11-21T23:41:33+00:00",
     "defense": [
@@ -5214,6 +5258,50 @@
    }
   },
   "NJD": {
+   "dfo": {
+    "at": "2026-11-21T23:50:45+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gritsyuk",
+      "Hughes",
+      "Bratt"
+     ],
+     [
+      "Meier",
+      "Hischier",
+      "Evangelista"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Brown"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Hameenaho"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-21T23:38:39+00:00",
+    "ref": "2124286398094340457",
+    "via": "New Jersey Devils"
+   },
    "nhlcom": {
     "at": "2026-11-21T17:23:29+00:00",
     "defense": [
@@ -5788,7 +5876,7 @@
   },
   "PHI": {
    "dfo": {
-    "at": "2026-11-21T17:20:37+00:00",
+    "at": "2026-11-21T23:50:45+00:00",
     "defense": [
      [
       "Sanheim",
@@ -5827,9 +5915,9 @@
      ]
     ],
     "goalie": "Vladar",
-    "info_at": "2026-11-21T16:36:39+00:00",
-    "ref": "2124180200414236678",
-    "via": "Jackie Spiegel"
+    "info_at": "2026-11-21T23:42:44+00:00",
+    "ref": "2124287427472962036",
+    "via": "Charlie O'Connor"
    },
    "gameday": {
     "at": "2026-11-21T23:47:28+00:00",
@@ -6841,6 +6929,50 @@
    }
   },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-21T23:50:45+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Holl"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Leonard"
+     ],
+     [
+      "Kyrou",
+      "Protas",
+      "Sourdif"
+     ],
+     [
+      "Miroshnichenko",
+      "Jenner",
+      "Wilson"
+     ]
+    ],
+    "goalie": "Lindgren",
+    "info_at": "2026-11-21T23:39:33+00:00",
+    "ref": "2124286626733989991",
+    "via": "Mike Vogel"
+   },
    "nhlcom": {
     "at": "2026-11-21T17:35:35+00:00",
     "defense": [
