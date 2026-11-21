@@ -346,18 +346,18 @@
       "Faber",
       "Foligno",
       "Hartman",
-      "Hughes",
       "Kaprizov",
       "Kiersted",
       "McCarron",
       "Shabanov",
+      "Spacek",
       "Spurgeon",
-      "Sturm",
+      "Trenin",
       "Yurov"
     ],
-    "signature": "[[[\"Kaprizov\", \"Eriksson Ek\", \"Boldy\"], [\"Coleman\", \"McCarron\", \"Brink\"], [\"Sturm\", \"Yurov\", \"Shabanov\"], [\"Foligno\", \"Hartman\", \"Foligno\"]], [[\"Hughes\", \"Spurgeon\"], [\"Brodin\", \"Faber\"], [\"Kiersted\", \"Bogosian\"]], [\"Wallstedt\"], [\"Shabanov\", \"Eriksson Ek\", \"Kaprizov\", \"Hughes\", \"Boldy\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020355",
-    "updated_at": "2026-11-20T17:15:56.680Z"
+    "signature": "[[[\"Kaprizov\", \"Eriksson Ek\", \"Boldy\"], [\"Coleman\", \"McCarron\", \"Brink\"], [\"Trenin\", \"Yurov\", \"Shabanov\"], [\"Foligno\", \"Hartman\", \"Foligno\"]], [[\"Brodin\", \"Spurgeon\"], [\"Kiersted\", \"Faber\"], [\"Bogosian\", \"Spacek\"]], [\"Wallstedt\"], [\"Shabanov\", \"Eriksson Ek\", \"Kaprizov\", \"Faber\", \"Boldy\"]]",
+    "source": "",
+    "updated_at": "2026-11-21T19:43:08.843Z"
   },
   "MTL": {
     "goalie": "Dobes",
