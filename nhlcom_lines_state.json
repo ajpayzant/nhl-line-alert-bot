@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T16:25:02.878Z",
+ "article_updated": "2026-11-21T17:01:23.985Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1670,6 +1670,55 @@
     "Dillon Boucher"
    ]
   },
+  "2026-11-21:DET": {
+   "article_updated": "2026-11-21T17:01:23.985Z",
+   "defense": [
+    [
+     "Anton Johansson",
+     "Moritz Seider"
+    ],
+    [
+     "Ben Chiarot",
+     "Justin Faulk"
+    ],
+    [
+     "Andreas Englund",
+     "Albert Johansson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Alex DeBrincat",
+     "Emmitt Finnie",
+     "Viktor Arvidsson"
+    ],
+    [
+     "Michael Brandsegg-Nygård",
+     "Andrew Copp",
+     "Lucas Raymond"
+    ],
+    [
+     "Carter Mazur",
+     "Nate Danielson",
+     "J.T. Compher"
+    ],
+    [
+     "Michael Rasmussen",
+     "Sheldon Dries",
+     "Keegan Kolesar"
+    ]
+   ],
+   "goalies": [
+    "John Gibson",
+    "Daniil Tarasov"
+   ],
+   "scratched": [
+    "Axel Sandin-Pellikka",
+    "John Leonard",
+    "Jacob Bernard-Docker"
+   ]
+  },
   "2026-11-21:EDM": {
    "article_updated": "2026-11-21T05:07:44.915Z",
    "defense": [
@@ -1813,6 +1862,54 @@
     "Daemon Hunt",
     "Ilya Lyubushkin",
     "Vitali Pinchuk"
+   ]
+  },
+  "2026-11-21:NYI": {
+   "article_updated": "2026-11-21T17:01:23.985Z",
+   "defense": [
+    [
+     "Matthew Schaefer",
+     "Logan Stanley"
+    ],
+    [
+     "Adam Pelech",
+     "Tony DeAngelo"
+    ],
+    [
+     "Ben Hutton",
+     "Matthew Kessel"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Simon Holmstrom",
+     "Bo Horvat",
+     "Kyle Palmieri"
+    ],
+    [
+     "Ondrej Palat",
+     "Mathew Barzal",
+     "Matias Maccelli"
+    ],
+    [
+     "Emil Heineman",
+     "Brayden Schenn",
+     "Victor Eklund"
+    ],
+    [
+     "Anthony Duclair",
+     "Jean-Gabriel Pageau",
+     "Casey Cizikas"
+    ]
+   ],
+   "goalies": [
+    "Ilya Sorokin",
+    "Semyon Varlamov"
+   ],
+   "scratched": [
+    "Scott Mayfield",
+    "Mitchell Chaffee"
    ]
   },
   "2026-11-21:PIT": {
@@ -2263,6 +2360,100 @@
      "G"
     ]
    ],
+   "DET": [
+    [
+     "Mason Appleton",
+     "C"
+    ],
+    [
+     "Viktor Arvidsson",
+     "L"
+    ],
+    [
+     "Michael Brandsegg-Nygård",
+     "R"
+    ],
+    [
+     "J.T. Compher",
+     "L"
+    ],
+    [
+     "Andrew Copp",
+     "C"
+    ],
+    [
+     "Alex DeBrincat",
+     "R"
+    ],
+    [
+     "Sheldon Dries",
+     "C"
+    ],
+    [
+     "Emmitt Finnie",
+     "C"
+    ],
+    [
+     "Marco Kasper",
+     "C"
+    ],
+    [
+     "Keegan Kolesar",
+     "R"
+    ],
+    [
+     "Carter Mazur",
+     "L"
+    ],
+    [
+     "Michael Rasmussen",
+     "C"
+    ],
+    [
+     "Lucas Raymond",
+     "L"
+    ],
+    [
+     "Jacob Bernard-Docker",
+     "D"
+    ],
+    [
+     "Ben Chiarot",
+     "D"
+    ],
+    [
+     "Andreas Englund",
+     "D"
+    ],
+    [
+     "Justin Faulk",
+     "D"
+    ],
+    [
+     "Albert Johansson",
+     "D"
+    ],
+    [
+     "Anton Johansson",
+     "D"
+    ],
+    [
+     "Moritz Seider",
+     "D"
+    ],
+    [
+     "William Wallinder",
+     "D"
+    ],
+    [
+     "John Gibson",
+     "G"
+    ],
+    [
+     "Daniil Tarasov",
+     "G"
+    ]
+   ],
    "EDM": [
     [
      "Colton Dach",
@@ -2570,6 +2761,104 @@
     ],
     [
      "Juuse Saros",
+     "G"
+    ]
+   ],
+   "NYI": [
+    [
+     "Mathew Barzal",
+     "C"
+    ],
+    [
+     "Mitchell Chaffee",
+     "R"
+    ],
+    [
+     "Casey Cizikas",
+     "C"
+    ],
+    [
+     "Anthony Duclair",
+     "L"
+    ],
+    [
+     "Victor Eklund",
+     "R"
+    ],
+    [
+     "Emil Heineman",
+     "L"
+    ],
+    [
+     "Simon Holmstrom",
+     "R"
+    ],
+    [
+     "Bo Horvat",
+     "C"
+    ],
+    [
+     "Matias Maccelli",
+     "L"
+    ],
+    [
+     "Jean-Gabriel Pageau",
+     "C"
+    ],
+    [
+     "Ondrej Palat",
+     "L"
+    ],
+    [
+     "Kyle Palmieri",
+     "C"
+    ],
+    [
+     "Brayden Schenn",
+     "C"
+    ],
+    [
+     "Tony DeAngelo",
+     "D"
+    ],
+    [
+     "Ben Hutton",
+     "D"
+    ],
+    [
+     "Matthew Kessel",
+     "D"
+    ],
+    [
+     "Scott Mayfield",
+     "D"
+    ],
+    [
+     "Adam Pelech",
+     "D"
+    ],
+    [
+     "Ryan Pulock",
+     "D"
+    ],
+    [
+     "Alexander Romanov",
+     "D"
+    ],
+    [
+     "Matthew Schaefer",
+     "D"
+    ],
+    [
+     "Logan Stanley",
+     "D"
+    ],
+    [
+     "Ilya Sorokin",
+     "G"
+    ],
+    [
+     "Semyon Varlamov",
      "G"
     ]
    ],

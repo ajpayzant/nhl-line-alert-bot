@@ -3936,6 +3936,50 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "DET": {
+   "nhlcom": {
+    "at": "2026-11-21T17:02:22+00:00",
+    "defense": [
+     [
+      "Johansson",
+      "Seider"
+     ],
+     [
+      "Chiarot",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Mazur",
+      "?Danielson",
+      "Compher"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Gibson",
+    "info_at": "2026-11-21T17:01:23+00:00"
+   }
+  },
   "EDM": {
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
@@ -4156,6 +4200,48 @@
     "info_at": "2026-11-21T16:47:39+00:00",
     "ref": "2124182966264033659",
     "via": "@ethan_sears"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T17:02:22+00:00",
+    "defense": [
+     [
+      "Schaefer",
+      "Stanley"
+     ],
+     [
+      "Pelech",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Palmieri"
+     ],
+     [
+      "Palat",
+      "Barzal",
+      "Maccelli"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau",
+      "Cizikas"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-21T17:01:23+00:00"
    }
   },
   "NYR": {
