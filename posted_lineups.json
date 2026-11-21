@@ -3673,6 +3673,50 @@
  },
  "2026-11-21": {
   "BUF": {
+   "dfo": {
+    "at": "2026-11-21T16:00:50+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Metsa"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Lyon",
+    "info_at": "2026-11-21T15:44:10+00:00",
+    "ref": "2124166990986346848",
+    "via": "Rachel Lenzi"
+   },
    "gameday": {
     "at": "2026-11-21T15:52:20+00:00",
     "defense": [
@@ -4163,6 +4207,50 @@
    }
   },
   "TOR": {
+   "dfo": {
+    "at": "2026-11-21T16:00:50+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Rielly",
+      "Tanev"
+     ],
+     [
+      "Mermis",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Roslovic"
+     ],
+     [
+      "Paul",
+      "Tavares",
+      "McKenna"
+     ],
+     [
+      "Joshua",
+      "Tverberg",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-21T15:36:50+00:00",
+    "ref": "2124165146977444114",
+    "via": "David Alter"
+   },
    "gameday": {
     "at": "2026-11-21T15:39:19+00:00",
     "defense": [

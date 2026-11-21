@@ -51,7 +51,7 @@
     "updated_at": "2026-11-21T04:07:18.900Z"
   },
   "BUF": {
-    "goalie": "Luukkonen",
+    "goalie": "Lyon",
     "players": [
       "Benson",
       "Carrick",
@@ -72,9 +72,9 @@
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020351",
-    "updated_at": "2026-11-20T17:04:03.137Z"
+    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Lyon\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
+    "source": "https://x.com/rachelmlenzi/status/2124166990986346848",
+    "updated_at": "2026-11-21T15:57:52.631Z"
   },
   "CAR": {
     "goalie": "Kochetkov",
@@ -675,12 +675,12 @@
       "Blueger",
       "Cowan",
       "Duhaime",
-      "Ekman-Larsson",
       "Joshua",
       "MacEwen",
       "Matthews",
       "McCabe",
       "McKenna",
+      "Mermis",
       "Nylander",
       "Paul",
       "Raddysh",
@@ -691,9 +691,9 @@
       "Tavares",
       "Tverberg"
     ],
-    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"Paul\", \"Tavares\", \"McKenna\"], [\"Joshua\", \"Tverberg\", \"Nylander\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Rielly\", \"Tanev\"], [\"Ekman-Larsson\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020347",
-    "updated_at": "2026-11-20T16:58:24.744Z"
+    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"Paul\", \"Tavares\", \"McKenna\"], [\"Joshua\", \"Tverberg\", \"Nylander\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Rielly\", \"Tanev\"], [\"Mermis\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
+    "source": "https://x.com/davidalter/status/2124165146977444114",
+    "updated_at": "2026-11-21T15:55:40.396Z"
   },
   "UTA": {
     "goalie": "Cossa",
