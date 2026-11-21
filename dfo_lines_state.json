@@ -309,7 +309,7 @@
     "updated_at": "2026-11-21T15:47:03.596Z"
   },
   "LAK": {
-    "goalie": "Kuemper",
+    "goalie": "Forsberg",
     "players": [
       "Anderson",
       "Armia",
@@ -330,9 +330,9 @@
       "Turcotte",
       "Zuccarello"
     ],
-    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020347",
-    "updated_at": "2026-11-20T16:57:46.799Z"
+    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Forsberg\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
+    "source": "https://www.nhl.com/news/tune-in-kings-versus-senators-november-21",
+    "updated_at": "2026-11-21T18:04:24.397Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
