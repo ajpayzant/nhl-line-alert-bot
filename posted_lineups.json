@@ -4509,6 +4509,50 @@
     "info_at": "2026-11-21T18:26:39+00:00"
    }
   },
+  "MTL": {
+   "nhlcom": {
+    "at": "2026-11-21T18:35:47+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Reinbacher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Dach"
+     ],
+     [
+      "Newhook",
+      "Evans",
+      "Slafkovský"
+     ],
+     [
+      "Berard",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "Fowler",
+    "info_at": "2026-11-21T18:35:02+00:00"
+   }
+  },
   "NJD": {
    "nhlcom": {
     "at": "2026-11-21T17:23:29+00:00",
@@ -5040,6 +5084,48 @@
     "info_at": "2026-11-21T16:38:58+00:00",
     "ref": "2124180783154004025",
     "via": "@jackiespiegel93"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T18:35:47+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Vladar",
+    "info_at": "2026-11-21T18:35:02+00:00"
    }
   },
   "PIT": {

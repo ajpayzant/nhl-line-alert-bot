@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T18:26:39.246Z",
+ "article_updated": "2026-11-21T18:35:02.463Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1960,6 +1960,54 @@
     "Artemi Panarin"
    ]
   },
+  "2026-11-21:MTL": {
+   "article_updated": "2026-11-21T18:35:02.463Z",
+   "defense": [
+    [
+     "Kaiden Guhle",
+     "Noah Dobson"
+    ],
+    [
+     "Lane Hutson",
+     "Alexandre Carrier"
+    ],
+    [
+     "Arber Xhekaj",
+     "David Reinbacher"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Cole Caufield",
+     "Nick Suzuki",
+     "Alexandre Texier"
+    ],
+    [
+     "Zachary Bolduc",
+     "Phillip Danault",
+     "Kirby Dach"
+    ],
+    [
+     "Alex Newhook",
+     "Jake Evans",
+     "Juraj Slafkovský"
+    ],
+    [
+     "Brett Berard",
+     "Oliver Kapanen",
+     "Owen Beck"
+    ]
+   ],
+   "goalies": [
+    "Jacob Fowler",
+    "Jakub Dobes"
+   ],
+   "scratched": [
+    "Florian Xhekaj",
+    "Adam Engstrom"
+   ]
+  },
   "2026-11-21:NJD": {
    "article_updated": "2026-11-21T17:22:50.353Z",
    "defense": [
@@ -2151,6 +2199,55 @@
    "scratched": [
     "Carter Yakemchuk",
     "Tyler Boucher"
+   ]
+  },
+  "2026-11-21:PHI": {
+   "article_updated": "2026-11-21T18:35:02.463Z",
+   "defense": [
+    [
+     "Travis Sanheim",
+     "Rasmus Ristolainen"
+    ],
+    [
+     "Cam York",
+     "Jamie Drysdale"
+    ],
+    [
+     "Nick Seeler",
+     "Oliver Bonk"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Tyson Foerster",
+     "Christian Dvorak",
+     "Travis Konecny"
+    ],
+    [
+     "Owen Tippett",
+     "Denver Barkey",
+     "Porter Martone"
+    ],
+    [
+     "Cole Knuble",
+     "Noah Cates",
+     "Matvei Michkov"
+    ],
+    [
+     "Trevor Zegras",
+     "Sean Couturier",
+     "Noel Acciari"
+    ]
+   ],
+   "goalies": [
+    "Dan Vladar",
+    "Joseph Woll"
+   ],
+   "scratched": [
+    "David Jiricek",
+    "Simon Benoit",
+    "Michael Bunting"
    ]
   },
   "2026-11-21:PIT": {
@@ -3440,6 +3537,116 @@
      "G"
     ]
    ],
+   "MTL": [
+    [
+     "Josh Anderson",
+     "R"
+    ],
+    [
+     "Owen Beck",
+     "C"
+    ],
+    [
+     "Brett Berard",
+     "L"
+    ],
+    [
+     "Zachary Bolduc",
+     "R"
+    ],
+    [
+     "Cole Caufield",
+     "R"
+    ],
+    [
+     "Kirby Dach",
+     "C"
+    ],
+    [
+     "Phillip Danault",
+     "C"
+    ],
+    [
+     "Ivan Demidov",
+     "R"
+    ],
+    [
+     "Jake Evans",
+     "C"
+    ],
+    [
+     "Oliver Kapanen",
+     "C"
+    ],
+    [
+     "Chris Kreider",
+     "L"
+    ],
+    [
+     "Alex Newhook",
+     "C"
+    ],
+    [
+     "Juraj Slafkovský",
+     "L"
+    ],
+    [
+     "Nick Suzuki",
+     "C"
+    ],
+    [
+     "Alexandre Texier",
+     "L"
+    ],
+    [
+     "Florian Xhekaj",
+     "L"
+    ],
+    [
+     "Alexandre Carrier",
+     "D"
+    ],
+    [
+     "Noah Dobson",
+     "D"
+    ],
+    [
+     "Adam Engstrom",
+     "D"
+    ],
+    [
+     "Kaiden Guhle",
+     "D"
+    ],
+    [
+     "Lane Hutson",
+     "D"
+    ],
+    [
+     "Mike Matheson",
+     "D"
+    ],
+    [
+     "David Reinbacher",
+     "D"
+    ],
+    [
+     "Arber Xhekaj",
+     "D"
+    ],
+    [
+     "Jakub Dobes",
+     "G"
+    ],
+    [
+     "Jacob Fowler",
+     "G"
+    ],
+    [
+     "Samuel Montembeault",
+     "G"
+    ]
+   ],
    "NJD": [
     [
      "Jesper Boqvist",
@@ -3833,6 +4040,104 @@
     ],
     [
      "Linus Ullmark",
+     "G"
+    ]
+   ],
+   "PHI": [
+    [
+     "Noel Acciari",
+     "C"
+    ],
+    [
+     "Denver Barkey",
+     "C"
+    ],
+    [
+     "Michael Bunting",
+     "L"
+    ],
+    [
+     "Noah Cates",
+     "L"
+    ],
+    [
+     "Sean Couturier",
+     "C"
+    ],
+    [
+     "Christian Dvorak",
+     "C"
+    ],
+    [
+     "Tyson Foerster",
+     "R"
+    ],
+    [
+     "Nikita Grebenkin",
+     "R"
+    ],
+    [
+     "Cole Knuble",
+     "R"
+    ],
+    [
+     "Travis Konecny",
+     "R"
+    ],
+    [
+     "Porter Martone",
+     "R"
+    ],
+    [
+     "Matvei Michkov",
+     "R"
+    ],
+    [
+     "Owen Tippett",
+     "R"
+    ],
+    [
+     "Trevor Zegras",
+     "C"
+    ],
+    [
+     "Simon Benoit",
+     "D"
+    ],
+    [
+     "Oliver Bonk",
+     "D"
+    ],
+    [
+     "Jamie Drysdale",
+     "D"
+    ],
+    [
+     "David Jiricek",
+     "D"
+    ],
+    [
+     "Rasmus Ristolainen",
+     "D"
+    ],
+    [
+     "Travis Sanheim",
+     "D"
+    ],
+    [
+     "Nick Seeler",
+     "D"
+    ],
+    [
+     "Cam York",
+     "D"
+    ],
+    [
+     "Dan Vladar",
+     "G"
+    ],
+    [
+     "Joseph Woll",
      "G"
     ]
    ],
