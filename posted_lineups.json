@@ -3849,6 +3849,94 @@
    }
   },
   "CAR": {
+   "dfo": {
+    "at": "2026-11-21T17:40:44+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Ehlers",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Hall",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-21T17:32:19+00:00",
+    "ref": "2124194206625182187",
+    "via": "Walt Ruff"
+   },
+   "gameday": {
+    "at": "2026-11-21T17:40:30+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Ehlers",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Hall",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-21T17:34:21+00:00",
+    "ref": "2124194719605641662",
+    "via": "@WaltRuff"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
@@ -4025,6 +4113,50 @@
    }
   },
   "EDM": {
+   "dfo": {
+    "at": "2026-11-21T17:40:44+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Kapanen",
+      "Dach",
+      "Hyman"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-21T17:34:07+00:00",
+    "ref": "2124194660495380929",
+    "via": "Jack Michaels"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
@@ -4959,6 +5091,47 @@
     "info_at": "2026-11-20T18:50:06+00:00",
     "ref": "2123851393123615055",
     "via": "Brogan Houston"
+   }
+  },
+  "VAN": {
+   "gameday": {
+    "at": "2026-11-21T17:40:31+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "?DPetey",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "?DOC",
+      "?Mueller",
+      "Karlsson"
+     ],
+     [
+      "Bains",
+      "Quillan",
+      "Cotter"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T17:39:14+00:00",
+    "ref": "2124195948197020050",
+    "via": "@ThomasDrance"
    }
   },
   "WPG": {
