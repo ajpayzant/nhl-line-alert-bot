@@ -3672,6 +3672,52 @@
   }
  },
  "2026-11-21": {
+  "ANA": {
+   "dfo": {
+    "at": "2026-11-21T18:55:41+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ],
+     [
+      "Hinds",
+      "Warren"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gauthier",
+      "Carlsson",
+      "Colangelo"
+     ],
+     [
+      "Killorn",
+      "Granlund",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Terry"
+     ],
+     [
+      "Nesterenko",
+      "McQueen",
+      "Vatrano"
+     ]
+    ],
+    "goalie": "Husso",
+    "info_at": "2026-11-21T18:14:00+00:00",
+    "ref": "2124204696621748315",
+    "via": "Zach Cavanagh"
+   }
+  },
   "BOS": {
    "nhlcom": {
     "at": "2026-11-21T17:35:35+00:00",

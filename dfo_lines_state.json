@@ -1,29 +1,29 @@
 {
   "ANA": {
-    "goalie": "Dostal",
+    "goalie": "Husso",
     "players": [
       "Carlsson",
       "Caulfield",
+      "Colangelo",
       "Gauthier",
       "Granlund",
+      "Helleson",
+      "Hinds",
       "Killorn",
       "Lacombe",
-      "Luneau",
       "Malott",
       "McQueen",
       "Mintyukov",
       "Moore",
       "Nesterenko",
-      "Sennecke",
-      "Solberg",
       "Terry",
       "Vatrano",
       "Warren",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Caulfield\"], [\"Malott\", \"Granlund\", \"Sennecke\"], [\"Killorn\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Warren\"], [\"Solberg\", \"Luneau\"]], [\"Dostal\"], [\"Sennecke\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020356",
-    "updated_at": "2026-11-20T17:17:26.139Z"
+    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Colangelo\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Hinds\", \"Warren\"]], [\"Husso\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://x.com/ZachCav/status/2124204696621748315",
+    "updated_at": "2026-11-21T18:50:36.768Z"
   },
   "BOS": {
     "goalie": "Swayman",
