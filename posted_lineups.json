@@ -3806,7 +3806,7 @@
   },
   "BOS": {
    "dfo": {
-    "at": "2026-11-21T23:40:37+00:00",
+    "at": "2026-11-21T23:45:38+00:00",
     "defense": [
      [
       "Lindholm",
@@ -3845,9 +3845,9 @@
      ]
     ],
     "goalie": "Swayman",
-    "info_at": "2026-11-21T18:33:56+00:00",
-    "ref": "2124209715940880615",
-    "via": "Jim McBride"
+    "info_at": "2026-11-21T23:35:35+00:00",
+    "ref": "2124285628976402577",
+    "via": "Jack Studley"
    },
    "gameday": {
     "at": "2026-11-21T23:41:31+00:00",
@@ -6052,7 +6052,7 @@
   },
   "STL": {
    "dfo": {
-    "at": "2026-11-21T18:05:39+00:00",
+    "at": "2026-11-21T23:45:38+00:00",
     "defense": [
      [
       "Broberg",
@@ -6077,12 +6077,12 @@
      [
       "Holloway",
       "McTavish",
-      "Berggren"
+      "Dvorsky"
      ],
      [
       "Kaskimaki",
-      "Dvorsky",
-      "Buchnevich"
+      "Buchnevich",
+      "Berggren"
      ],
      [
       "Toropchenko",
@@ -6090,9 +6090,10 @@
       "Johnston"
      ]
     ],
-    "goalie": "Hofer",
-    "info_at": "2026-11-21T18:01:51+00:00",
-    "via": "St. Louis Blues"
+    "goalie": "Binnington",
+    "info_at": "2026-11-21T23:35:11+00:00",
+    "ref": "2124285525041582381",
+    "via": "Matthew DeFranks"
    },
    "gameday": {
     "at": "2026-11-21T23:41:29+00:00",
@@ -6664,7 +6665,7 @@
   },
   "WPG": {
    "dfo": {
-    "at": "2026-11-21T16:45:44+00:00",
+    "at": "2026-11-21T23:45:38+00:00",
     "defense": [
      [
       "Morrissey",
@@ -6697,15 +6698,15 @@
       "Björck"
      ],
      [
-      "Bauer",
+      "Iafallo",
       "Zhilkin",
-      "Iafallo"
+      "Bauer"
      ]
     ],
     "goalie": "Skinner",
-    "info_at": "2026-11-21T15:35:10+00:00",
-    "ref": "2124164726720729274",
-    "via": "Connor Hrabchak"
+    "info_at": "2026-11-21T23:42:19+00:00",
+    "ref": "2124287323739500714",
+    "via": "Mitchell Clinton"
    },
    "nhlcom": {
     "at": "2026-11-21T18:17:29+00:00",
