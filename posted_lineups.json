@@ -3760,6 +3760,48 @@
     "info_at": "2026-11-21T15:51:29+00:00",
     "ref": "2124168833967837231",
     "via": "@rachelmlenzi"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T16:25:37+00:00",
+    "defense": [
+     [
+      "Dahlin",
+      "Samuelsson"
+     ],
+     [
+      "Timmins",
+      "Power"
+     ],
+     [
+      "Zellweger",
+      "Metsa"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Lyon",
+    "info_at": "2026-11-21T16:25:02+00:00"
    }
   },
   "CAR": {
@@ -3982,6 +4024,48 @@
     "info_at": "2026-11-19T16:18:08+00:00",
     "ref": "2123450762999013829",
     "via": "Jameson Olive"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T16:25:37+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Tkachuk",
+      "Bennett",
+      "Tkachuk"
+     ],
+     [
+      "Verhaeghe",
+      "Eller",
+      "Reinhart"
+     ],
+     [
+      "Luostarinen",
+      "Lundell",
+      "Vilmanis"
+     ],
+     [
+      "Imama",
+      "Schwindt",
+      "Hathaway"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-21T16:25:02+00:00"
    }
   },
   "NSH": {

@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T05:07:44.915Z",
+ "article_updated": "2026-11-21T16:25:02.878Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1476,6 +1476,55 @@
     "Declan Carlile"
    ]
   },
+  "2026-11-21:BUF": {
+   "article_updated": "2026-11-21T16:25:02.878Z",
+   "defense": [
+    [
+     "Rasmus Dahlin",
+     "Mattias Samuelsson"
+    ],
+    [
+     "Conor Timmins",
+     "Owen Power"
+    ],
+    [
+     "Olen Zellweger",
+     "Zach Metsa"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Zach Benson",
+     "Jiri Kulich",
+     "Tage Thompson"
+    ],
+    [
+     "Peyton Krebs",
+     "Noah Ostlund",
+     "Jack Quinn"
+    ],
+    [
+     "Jason Zucker",
+     "Josh Norris",
+     "Josh Doan"
+    ],
+    [
+     "Beck Malenstyn",
+     "Tyson Kozak",
+     "Sam Carrick"
+    ]
+   ],
+   "goalies": [
+    "Alex Lyon",
+    "Ukko-Pekka Luukkonen"
+   ],
+   "scratched": [
+    "Louis Crevier",
+    "Ryan McLeod",
+    "Colten Ellis"
+   ]
+  },
   "2026-11-21:CAR": {
    "article_updated": "2026-11-21T05:07:44.915Z",
    "defense": [
@@ -1669,6 +1718,54 @@
     "Jake Walman"
    ]
   },
+  "2026-11-21:FLA": {
+   "article_updated": "2026-11-21T16:25:02.878Z",
+   "defense": [
+    [
+     "Gustav Forsling",
+     "Aaron Ekblad"
+    ],
+    [
+     "Niko Mikkola",
+     "Seth Jones"
+    ],
+    [
+     "Dmitry Kulikov",
+     "Radko Gudas"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Brady Tkachuk",
+     "Sam Bennett",
+     "Matthew Tkachuk"
+    ],
+    [
+     "Carter Verhaeghe",
+     "Lars Eller",
+     "Sam Reinhart"
+    ],
+    [
+     "Eetu Luostarinen",
+     "Anton Lundell",
+     "Sandis Vilmanis"
+    ],
+    [
+     "Bokondji Imama",
+     "Cole Schwindt",
+     "Garnet Hathaway"
+    ]
+   ],
+   "goalies": [
+    "Jacob Markstrom",
+    "Akira Schmid"
+   ],
+   "scratched": [
+    "Uvis Balinskis",
+    "Cole Reinhardt"
+   ]
+  },
   "2026-11-21:NSH": {
    "article_updated": "2026-11-21T05:07:44.915Z",
    "defense": [
@@ -1770,6 +1867,112 @@
  "rosters": {
   "date": "2026-11-21",
   "teams": {
+   "BUF": [
+    [
+     "Zach Benson",
+     "L"
+    ],
+    [
+     "Sam Carrick",
+     "C"
+    ],
+    [
+     "Justin Danforth",
+     "R"
+    ],
+    [
+     "Josh Doan",
+     "R"
+    ],
+    [
+     "Konsta Helenius",
+     "C"
+    ],
+    [
+     "Tyson Kozak",
+     "C"
+    ],
+    [
+     "Peyton Krebs",
+     "C"
+    ],
+    [
+     "Jiri Kulich",
+     "C"
+    ],
+    [
+     "Beck Malenstyn",
+     "L"
+    ],
+    [
+     "Ryan McLeod",
+     "C"
+    ],
+    [
+     "Josh Norris",
+     "C"
+    ],
+    [
+     "Noah Ostlund",
+     "C"
+    ],
+    [
+     "Jack Quinn",
+     "R"
+    ],
+    [
+     "Tage Thompson",
+     "C"
+    ],
+    [
+     "Jason Zucker",
+     "L"
+    ],
+    [
+     "Louis Crevier",
+     "D"
+    ],
+    [
+     "Rasmus Dahlin",
+     "D"
+    ],
+    [
+     "Matt Grzelcyk",
+     "D"
+    ],
+    [
+     "Zach Metsa",
+     "D"
+    ],
+    [
+     "Owen Power",
+     "D"
+    ],
+    [
+     "Mattias Samuelsson",
+     "D"
+    ],
+    [
+     "Conor Timmins",
+     "D"
+    ],
+    [
+     "Olen Zellweger",
+     "D"
+    ],
+    [
+     "Colten Ellis",
+     "G"
+    ],
+    [
+     "Ukko-Pekka Luukkonen",
+     "G"
+    ],
+    [
+     "Alex Lyon",
+     "G"
+    ]
+   ],
    "CAR": [
     [
      "Sebastian Aho",
@@ -2167,6 +2370,108 @@
     ],
     [
      "Devon Levi",
+     "G"
+    ]
+   ],
+   "FLA": [
+    [
+     "Aleksander Barkov",
+     "C"
+    ],
+    [
+     "Sam Bennett",
+     "C"
+    ],
+    [
+     "Lars Eller",
+     "C"
+    ],
+    [
+     "Jonah Gadjovich",
+     "L"
+    ],
+    [
+     "Garnet Hathaway",
+     "R"
+    ],
+    [
+     "Bokondji Imama",
+     "L"
+    ],
+    [
+     "Anton Lundell",
+     "C"
+    ],
+    [
+     "Eetu Luostarinen",
+     "C"
+    ],
+    [
+     "Brad Marchand",
+     "L"
+    ],
+    [
+     "Cole Reinhardt",
+     "L"
+    ],
+    [
+     "Sam Reinhart",
+     "C"
+    ],
+    [
+     "Cole Schwindt",
+     "R"
+    ],
+    [
+     "Brady Tkachuk",
+     "L"
+    ],
+    [
+     "Matthew Tkachuk",
+     "L"
+    ],
+    [
+     "Carter Verhaeghe",
+     "C"
+    ],
+    [
+     "Sandis Vilmanis",
+     "L"
+    ],
+    [
+     "Uvis Balinskis",
+     "D"
+    ],
+    [
+     "Aaron Ekblad",
+     "D"
+    ],
+    [
+     "Gustav Forsling",
+     "D"
+    ],
+    [
+     "Radko Gudas",
+     "D"
+    ],
+    [
+     "Seth Jones",
+     "D"
+    ],
+    [
+     "Dmitry Kulikov",
+     "D"
+    ],
+    [
+     "Niko Mikkola",
+     "D"
+    ],
+    [
+     "Jacob Markstrom",
+     "G"
+    ],
+    [
+     "Akira Schmid",
      "G"
     ]
    ],
