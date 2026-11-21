@@ -3848,6 +3848,52 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "FLA": {
+   "dfo": {
+    "at": "2026-11-21T12:30:48+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Balinskis",
+      "Kulikov"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Bennett",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Lundell",
+      "Marchand"
+     ],
+     [
+      "Imama",
+      "Eller",
+      "Hathaway"
+     ]
+    ],
+    "goalie": "Schmid",
+    "info_at": "2026-11-19T16:18:08+00:00",
+    "ref": "2123450762999013829",
+    "via": "Jameson Olive"
+   }
+  },
   "NSH": {
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
@@ -3893,6 +3939,50 @@
    }
   },
   "PIT": {
+   "dfo": {
+    "at": "2026-11-21T12:30:50+00:00",
+    "defense": [
+     [
+      "Karlsson",
+      "Korczak"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Stastney",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Novak",
+      "Crosby",
+      "Rakell"
+     ],
+     [
+      "Kuzmenko",
+      "Kindel",
+      "Chinakhov"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "Murashov",
+    "info_at": "2026-11-20T17:12:19+00:00",
+    "ref": "2123826788996390983",
+    "via": "Pens Inside Scoop"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [

@@ -284,7 +284,7 @@
     "updated_at": "2026-11-21T04:05:56.868Z"
   },
   "FLA": {
-    "goalie": "Markstrom",
+    "goalie": "Schmid",
     "players": [
       "Balinskis",
       "Barkov",
@@ -304,7 +304,7 @@
       "Tkachuk",
       "Verhaeghe"
     ],
-    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Marchand\"], [\"Imama\", \"Eller\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Balinskis\", \"Kulikov\"]], [\"Markstrom\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
+    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Marchand\"], [\"Imama\", \"Eller\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Balinskis\", \"Kulikov\"]], [\"Schmid\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
     "source": "https://x.com/JamesonCoop/status/2123450762999013829?s=20",
     "updated_at": "2026-11-19T17:53:03.756Z"
   },
@@ -540,7 +540,7 @@
     "updated_at": "2026-11-20T16:59:11.614Z"
   },
   "PIT": {
-    "goalie": "Silovs",
+    "goalie": "Murashov",
     "players": [
       "Chinakhov",
       "Crosby",
@@ -561,7 +561,7 @@
       "Stastney",
       "van Riemsdyk"
     ],
-    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Kuzmenko\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Karlsson\", \"Korczak\"], [\"Girard\", \"van Riemsdyk\"], [\"Stastney\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Kuzmenko\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Karlsson\", \"Korczak\"], [\"Girard\", \"van Riemsdyk\"], [\"Stastney\", \"Letang\"]], [\"Murashov\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
     "source": "https://x.com/pensinsidescoop/status/2123826788996390983?s=46",
     "updated_at": "2026-11-21T04:02:00.675Z"
   },
