@@ -3672,6 +3672,52 @@
   }
  },
  "2026-11-21": {
+  "BUF": {
+   "gameday": {
+    "at": "2026-11-21T15:52:20+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Timmins",
+      "Power"
+     ],
+     [
+      "Zellweger",
+      "Metsa"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Lyon",
+    "info_at": "2026-11-21T15:51:29+00:00",
+    "ref": "2124168833967837231",
+    "via": "@rachelmlenzi"
+   }
+  },
   "CAR": {
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
