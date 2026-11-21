@@ -4112,6 +4112,52 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "NYI": {
+   "gameday": {
+    "at": "2026-11-21T16:48:30+00:00",
+    "defense": [
+     [
+      "Stanley",
+      "Schaefer"
+     ],
+     [
+      "Pelech",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Palmieri"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Palat",
+      "Barzal",
+      "Maccelli"
+     ],
+     [
+      "Cizikas",
+      "Pageau",
+      "Duclair"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T16:47:39+00:00",
+    "ref": "2124182966264033659",
+    "via": "@ethan_sears"
+   }
+  },
   "NYR": {
    "gameday": {
     "at": "2026-11-21T16:32:31+00:00",
@@ -4246,6 +4292,52 @@
     "info_at": "2026-11-21T15:31:09+00:00",
     "ref": "2124163716820201873",
     "via": "@TSN1200"
+   }
+  },
+  "PHI": {
+   "gameday": {
+    "at": "2026-11-21T16:48:29+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "?Risto"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Martone",
+      "Barkey",
+      "Tippett"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T16:38:58+00:00",
+    "ref": "2124180783154004025",
+    "via": "@jackiespiegel93"
    }
   },
   "PIT": {
