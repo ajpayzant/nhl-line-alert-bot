@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T17:34:52.579Z",
+ "article_updated": "2026-11-21T18:07:05.54Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1623,6 +1623,54 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-21:CBJ": {
+   "article_updated": "2026-11-21T18:07:05.54Z",
+   "defense": [
+    [
+     "Zach Werenski",
+     "Damon Severson"
+    ],
+    [
+     "Ivan Provorov",
+     "Dante Fabbro"
+    ],
+    [
+     "Jake Christiansen",
+     "Erik Gudbranson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Matthew Knies",
+     "Luca Del Bel Belluz",
+     "Kent Johnson"
+    ],
+    [
+     "Charlie Coyle",
+     "Adam Fantilli",
+     "Valeri Nichushkin"
+    ],
+    [
+     "Jack Williams",
+     "Cole Sillinger",
+     "Mathieu Olivier"
+    ],
+    [
+     "Dmitri Voronkov",
+     "Steven Lorentz",
+     "Isac Lundeström"
+    ]
+   ],
+   "goalies": [
+    "Cam Talbot",
+    "Jet Greaves"
+   ],
+   "scratched": [
+    "Ryan Lomberg",
+    "Denton Mateychuk"
+   ]
+  },
   "2026-11-21:CGY": {
    "article_updated": "2026-11-21T05:07:44.915Z",
    "defense": [
@@ -2105,6 +2153,55 @@
     "Calle Rosen"
    ]
   },
+  "2026-11-21:TOR": {
+   "article_updated": "2026-11-21T18:07:05.54Z",
+   "defense": [
+    [
+     "Jake McCabe",
+     "Darren Raddysh"
+    ],
+    [
+     "Morgan Rielly",
+     "Chris Tanev"
+    ],
+    [
+     "Dakota Mermis",
+     "Troy Stecher"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Easton Cowan",
+     "Auston Matthews",
+     "Jack Roslovic"
+    ],
+    [
+     "Nick Paul",
+     "John Tavares",
+     "Gavin McKenna"
+    ],
+    [
+     "Dakota Joshua",
+     "Ryan Tverberg",
+     "William Nylander"
+    ],
+    [
+     "Brandon Duhaime",
+     "Teddy Blueger",
+     "Zack MacEwen"
+    ]
+   ],
+   "goalies": [
+    "Anthony Stolarz",
+    "Sergei Bobrovsky"
+   ],
+   "scratched": [
+    "Cole McWard",
+    "Brendan Brisson",
+    "Oliver Ekman-Larsson"
+   ]
+  },
   "2026-11-21:WSH": {
    "article_updated": "2026-11-21T17:34:52.579Z",
    "defense": [
@@ -2453,6 +2550,104 @@
     ],
     [
      "Pyotr Kochetkov",
+     "G"
+    ]
+   ],
+   "CBJ": [
+    [
+     "Charlie Coyle",
+     "C"
+    ],
+    [
+     "Luca Del Bel Belluz",
+     "C"
+    ],
+    [
+     "Adam Fantilli",
+     "C"
+    ],
+    [
+     "Conor Garland",
+     "R"
+    ],
+    [
+     "Kent Johnson",
+     "C"
+    ],
+    [
+     "Matthew Knies",
+     "L"
+    ],
+    [
+     "Ryan Lomberg",
+     "L"
+    ],
+    [
+     "Steven Lorentz",
+     "C"
+    ],
+    [
+     "Isac Lundeström",
+     "C"
+    ],
+    [
+     "Sean Monahan",
+     "C"
+    ],
+    [
+     "Valeri Nichushkin",
+     "R"
+    ],
+    [
+     "Mathieu Olivier",
+     "R"
+    ],
+    [
+     "Cole Sillinger",
+     "C"
+    ],
+    [
+     "Dmitri Voronkov",
+     "L"
+    ],
+    [
+     "Jack Williams",
+     "C"
+    ],
+    [
+     "Jake Christiansen",
+     "D"
+    ],
+    [
+     "Dante Fabbro",
+     "D"
+    ],
+    [
+     "Erik Gudbranson",
+     "D"
+    ],
+    [
+     "Denton Mateychuk",
+     "D"
+    ],
+    [
+     "Ivan Provorov",
+     "D"
+    ],
+    [
+     "Damon Severson",
+     "D"
+    ],
+    [
+     "Zach Werenski",
+     "D"
+    ],
+    [
+     "Jet Greaves",
+     "G"
+    ],
+    [
+     "Cam Talbot",
      "G"
     ]
    ],
@@ -3453,6 +3648,128 @@
     ],
     [
      "Joel Hofer",
+     "G"
+    ]
+   ],
+   "TOR": [
+    [
+     "Teddy Blueger",
+     "C"
+    ],
+    [
+     "Brendan Brisson",
+     "C"
+    ],
+    [
+     "Easton Cowan",
+     "R"
+    ],
+    [
+     "Brandon Duhaime",
+     "L"
+    ],
+    [
+     "Bo Groulx",
+     "C"
+    ],
+    [
+     "Dakota Joshua",
+     "C"
+    ],
+    [
+     "Zack MacEwen",
+     "R"
+    ],
+    [
+     "Kirill Marchenko",
+     "R"
+    ],
+    [
+     "Auston Matthews",
+     "C"
+    ],
+    [
+     "Gavin McKenna",
+     "L"
+    ],
+    [
+     "William Nylander",
+     "R"
+    ],
+    [
+     "Nick Paul",
+     "L"
+    ],
+    [
+     "Jack Roslovic",
+     "C"
+    ],
+    [
+     "Colton Sissons",
+     "C"
+    ],
+    [
+     "John Tavares",
+     "C"
+    ],
+    [
+     "Ryan Tverberg",
+     "C"
+    ],
+    [
+     "Miles Wood",
+     "L"
+    ],
+    [
+     "Nick Blankenburg",
+     "D"
+    ],
+    [
+     "Oliver Ekman-Larsson",
+     "D"
+    ],
+    [
+     "Jake McCabe",
+     "D"
+    ],
+    [
+     "Cole McWard",
+     "D"
+    ],
+    [
+     "Dakota Mermis",
+     "D"
+    ],
+    [
+     "Darren Raddysh",
+     "D"
+    ],
+    [
+     "Morgan Rielly",
+     "D"
+    ],
+    [
+     "Marshall Rifai",
+     "D"
+    ],
+    [
+     "Troy Stecher",
+     "D"
+    ],
+    [
+     "Chris Tanev",
+     "D"
+    ],
+    [
+     "Artur Akhtyamov",
+     "G"
+    ],
+    [
+     "Sergei Bobrovsky",
+     "G"
+    ],
+    [
+     "Anthony Stolarz",
      "G"
     ]
    ],

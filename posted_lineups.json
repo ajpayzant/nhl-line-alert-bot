@@ -3980,6 +3980,50 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "CBJ": {
+   "nhlcom": {
+    "at": "2026-11-21T18:09:24+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Fabbro"
+     ],
+     [
+      "Christiansen",
+      "Gudbranson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Coyle",
+      "Fantilli",
+      "Nichushkin"
+     ],
+     [
+      "Williams",
+      "Sillinger",
+      "Olivier"
+     ],
+     [
+      "Voronkov",
+      "Lorentz",
+      "Lundeström"
+     ]
+    ],
+    "goalie": "Talbot",
+    "info_at": "2026-11-21T18:07:05+00:00"
+   }
+  },
   "CGY": {
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
@@ -5222,6 +5266,48 @@
     "info_at": "2026-11-21T15:38:12+00:00",
     "ref": "2124165489416892883",
     "via": "@davidalter"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T18:09:24+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Rielly",
+      "Tanev"
+     ],
+     [
+      "Mermis",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Roslovic"
+     ],
+     [
+      "Paul",
+      "Tavares",
+      "McKenna"
+     ],
+     [
+      "Joshua",
+      "Tverberg",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-21T18:07:05+00:00"
    }
   },
   "UTA": {
