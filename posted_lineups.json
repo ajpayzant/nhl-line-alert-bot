@@ -3805,6 +3805,50 @@
    }
   },
   "BOS": {
+   "dfo": {
+    "at": "2026-11-21T23:40:37+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-21T18:33:56+00:00",
+    "ref": "2124209715940880615",
+    "via": "Jim McBride"
+   },
    "nhlcom": {
     "at": "2026-11-21T17:35:35+00:00",
     "defense": [
@@ -5215,7 +5259,7 @@
   },
   "NYI": {
    "dfo": {
-    "at": "2026-11-21T17:50:41+00:00",
+    "at": "2026-11-21T23:40:37+00:00",
     "defense": [
      [
       "Stanley",
@@ -5254,8 +5298,8 @@
      ]
     ],
     "goalie": "Sorokin",
-    "info_at": "2026-11-21T16:50:07+00:00",
-    "ref": "2124183589520642311",
+    "info_at": "2026-11-21T23:35:43+00:00",
+    "ref": "2124285659229950239",
     "via": "Andrew Gross"
    },
    "gameday": {
