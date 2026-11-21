@@ -3672,6 +3672,50 @@
   }
  },
  "2026-11-21": {
+  "BOS": {
+   "nhlcom": {
+    "at": "2026-11-21T17:35:35+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-21T17:34:52+00:00"
+   }
+  },
   "BUF": {
    "dfo": {
     "at": "2026-11-21T16:00:50+00:00",
@@ -4961,6 +5005,50 @@
     "info_at": "2026-11-21T15:35:10+00:00",
     "ref": "2124164726720729274",
     "via": "Connor Hrabchak"
+   }
+  },
+  "WSH": {
+   "nhlcom": {
+    "at": "2026-11-21T17:35:35+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Leonard",
+      "Jenner",
+      "Wilson"
+     ],
+     [
+      "Kyrou",
+      "Protas",
+      "Sourdif"
+     ]
+    ],
+    "goalie": "Lindgren",
+    "info_at": "2026-11-21T17:34:52+00:00"
    }
   }
  }
