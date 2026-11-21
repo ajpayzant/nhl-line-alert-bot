@@ -628,6 +628,7 @@
       "Dvorsky",
       "Fowler",
       "Holloway",
+      "Johnston",
       "Kaskimaki",
       "Mailloux",
       "McTavish",
@@ -636,12 +637,11 @@
       "Snuggerud",
       "Suter",
       "Thomas",
-      "Toropchenko",
-      "Walker"
+      "Toropchenko"
     ],
-    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Berggren\"], [\"Kaskimaki\", \"Buchnevich\", \"Dvorsky\"], [\"Walker\", \"Suter\", \"Toropchenko\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"Buchnevich\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "",
-    "updated_at": "2026-11-20T18:26:10.085Z"
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Berggren\"], [\"Kaskimaki\", \"Dvorsky\", \"Buchnevich\"], [\"Toropchenko\", \"Suter\", \"Johnston\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"Buchnevich\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "source": "https://thehockeynews.com/nhl/st-louis-blues/game-day/11-21-26-devils-blues-gameday-lineup",
+    "updated_at": "2026-11-21T18:01:51.166Z"
   },
   "TBL": {
     "goalie": "Vasilevskiy",
