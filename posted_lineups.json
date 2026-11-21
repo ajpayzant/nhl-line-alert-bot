@@ -3623,6 +3623,50 @@
    }
   },
   "DET": {
+   "dfo": {
+    "at": "2026-11-21T04:05:56+00:00",
+    "defense": [
+     [
+      "Johansson",
+      "Seider"
+     ],
+     [
+      "Chiarot",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Finnie",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Copp",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Rasmussen",
+      "Dries",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Gibson",
+    "info_at": "2026-11-20T16:15:30+00:00",
+    "ref": "2123812488135291020",
+    "via": "Ansar Khan"
+   },
    "gameday": {
     "at": "2026-11-20T16:17:23+00:00",
     "defense": [],
@@ -3835,7 +3879,7 @@
   },
   "PIT": {
    "dfo": {
-    "at": "2026-11-20T19:25:51+00:00",
+    "at": "2026-11-21T04:05:56+00:00",
     "defense": [
      [
       "Karlsson",
@@ -3870,7 +3914,7 @@
      [
       "Dewar",
       "Lizotte",
-      "?Hayes"
+      "Brazeau"
      ]
     ],
     "goalie": "Silovs",
@@ -4033,6 +4077,50 @@
    }
   },
   "SJS": {
+   "dfo": {
+    "at": "2026-11-21T04:05:56+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Trouba"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Leason"
+     ]
+    ],
+    "goalie": "Nedeljkovic",
+    "info_at": "2026-11-20T19:28:53+00:00",
+    "ref": "2123861157262070089",
+    "via": "Sheng Peng"
+   },
    "gameday": {
     "at": "2026-11-20T19:29:28+00:00",
     "defense": [
@@ -4079,6 +4167,50 @@
    }
   },
   "UTA": {
+   "dfo": {
+    "at": "2026-11-21T04:05:56+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cooley",
+      "Trocheck",
+      "Keller"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "Carcone",
+      "McBain",
+      "Crouse"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Vejmelka",
+    "info_at": "2026-11-20T18:50:06+00:00",
+    "ref": "2123851393123615055",
+    "via": "Brogan Houston"
+   },
    "gameday": {
     "at": "2026-11-20T19:07:27+00:00",
     "defense": [],
