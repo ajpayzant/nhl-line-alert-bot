@@ -4288,6 +4288,50 @@
     "info_at": "2026-11-21T17:18:10+00:00",
     "ref": "2124190648559370246",
     "via": "Robert Tiffin"
+   },
+   "gameday": {
+    "at": "2026-11-21T19:52:31+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Myers",
+      "Lundkvist"
+     ],
+     [
+      "Taylor",
+      "Burroughs"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benn",
+      "Johnston",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Hintz",
+      "Hyry"
+     ],
+     [
+      "Steel",
+      "Hryckowian",
+      "Seguin"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-21T19:48:40+00:00",
+    "ref": "2124228522013081851",
+    "via": "@RobertTiffin"
    }
   },
   "DET": {
