@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T20:03:50.882Z",
+ "article_updated": "2026-11-21T22:01:49.649Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1624,7 +1624,7 @@
    ]
   },
   "2026-11-21:CAR": {
-   "article_updated": "2026-11-21T05:07:44.915Z",
+   "article_updated": "2026-11-21T22:01:49.649Z",
    "defense": [
     [
      "Jaccob Slavin",
@@ -1647,7 +1647,7 @@
      "Andrei Svechnikov"
     ],
     [
-     "Nikolaj Ehlers",
+     "Taylor Hall",
      "Logan Stankoven",
      "Jackson Blake"
     ],
@@ -1657,18 +1657,17 @@
      "Seth Jarvis"
     ],
     [
-     "Taylor Hall",
+     "Jesperi Kotkaniemi",
      "Mark Jankowski",
      "Eric Robinson"
     ]
    ],
    "goalies": [
-    "Pyotr Kochetkov",
-    "Brandon Bussi"
+    "Brandon Bussi",
+    "Pyotr Kochetkov"
    ],
    "scratched": [
     "Juuso Välimäki",
-    "Jesperi Kotkaniemi",
     "Nicolas Deslauriers"
    ]
   },
@@ -2247,6 +2246,54 @@
    "scratched": [
     "Scott Mayfield",
     "Mitchell Chaffee"
+   ]
+  },
+  "2026-11-21:NYR": {
+   "article_updated": "2026-11-21T22:01:49.649Z",
+   "defense": [
+    [
+     "Vladislav Gavrikov",
+     "Adam Fox"
+    ],
+    [
+     "Marcus Pettersson",
+     "Sean Durzi"
+    ],
+    [
+     "Braden Schneider",
+     "Scott Morrow"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Gabe Perreault",
+     "Mika Zibanejad",
+     "Alexis Lafrenière"
+    ],
+    [
+     "Will Cuylle",
+     "J.T. Miller",
+     "Tye Kartye"
+    ],
+    [
+     "Jaroslav Chmelar",
+     "Noah Laba",
+     "Eeli Tolvanen"
+    ],
+    [
+     "Max Sasson",
+     "Glenn Gawdin",
+     "Taylor Raddysh"
+    ]
+   ],
+   "goalies": [
+    "Dylan Garand",
+    "Joonas Korpisalo"
+   ],
+   "scratched": [
+    "Matt Rempe",
+    "Matthew Robertson"
    ]
   },
   "2026-11-21:OTT": {
@@ -4436,6 +4483,124 @@
     ],
     [
      "Semyon Varlamov",
+     "G"
+    ]
+   ],
+   "NYR": [
+    [
+     "Oliver Bjorkstrand",
+     "R"
+    ],
+    [
+     "Jaroslav Chmelar",
+     "R"
+    ],
+    [
+     "Will Cuylle",
+     "L"
+    ],
+    [
+     "Pavel Dorofeyev",
+     "R"
+    ],
+    [
+     "Glenn Gawdin",
+     "C"
+    ],
+    [
+     "Luke Glendening",
+     "C"
+    ],
+    [
+     "Tye Kartye",
+     "L"
+    ],
+    [
+     "Noah Laba",
+     "C"
+    ],
+    [
+     "Alexis Lafrenière",
+     "L"
+    ],
+    [
+     "J.T. Miller",
+     "C"
+    ],
+    [
+     "Gabe Perreault",
+     "R"
+    ],
+    [
+     "Taylor Raddysh",
+     "R"
+    ],
+    [
+     "Matt Rempe",
+     "C"
+    ],
+    [
+     "Max Sasson",
+     "C"
+    ],
+    [
+     "Adam Sykora",
+     "L"
+    ],
+    [
+     "Eeli Tolvanen",
+     "R"
+    ],
+    [
+     "Joseph Veleno",
+     "C"
+    ],
+    [
+     "Mika Zibanejad",
+     "C"
+    ],
+    [
+     "Sean Durzi",
+     "D"
+    ],
+    [
+     "Adam Fox",
+     "D"
+    ],
+    [
+     "Vladislav Gavrikov",
+     "D"
+    ],
+    [
+     "Scott Morrow",
+     "D"
+    ],
+    [
+     "Marcus Pettersson",
+     "D"
+    ],
+    [
+     "Matthew Robertson",
+     "D"
+    ],
+    [
+     "Braden Schneider",
+     "D"
+    ],
+    [
+     "Alberts Smits",
+     "D"
+    ],
+    [
+     "Dylan Garand",
+     "G"
+    ],
+    [
+     "Joonas Korpisalo",
+     "G"
+    ],
+    [
+     "Igor Shesterkin",
      "G"
     ]
    ],

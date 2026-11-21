@@ -4070,7 +4070,7 @@
     "via": "@WaltRuff"
    },
    "nhlcom": {
-    "at": "2026-11-21T05:10:42+00:00",
+    "at": "2026-11-21T22:02:26+00:00",
     "defense": [
      [
       "Slavin",
@@ -4093,7 +4093,7 @@
       "Svechnikov"
      ],
      [
-      "Ehlers",
+      "Hall",
       "Stankoven",
       "Blake"
      ],
@@ -4103,13 +4103,13 @@
       "Jarvis"
      ],
      [
-      "Hall",
+      "Kotkaniemi",
       "Jankowski",
       "Robinson"
      ]
     ],
-    "goalie": "Kochetkov",
-    "info_at": "2026-11-21T05:07:44+00:00"
+    "goalie": "Bussi",
+    "info_at": "2026-11-21T22:01:49+00:00"
    }
   },
   "CBJ": {
@@ -5302,6 +5302,48 @@
     "info_at": "2026-11-21T16:31:00+00:00",
     "ref": "2124178775235764668",
     "via": "@Peter_Baugh"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T22:02:26+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Perreault",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Cuylle",
+      "Miller",
+      "Kartye"
+     ],
+     [
+      "Chmelar",
+      "Laba",
+      "Tolvanen"
+     ],
+     [
+      "?Sasson",
+      "Gawdin",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Garand",
+    "info_at": "2026-11-21T22:01:49+00:00"
    }
   },
   "OTT": {
