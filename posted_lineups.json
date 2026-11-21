@@ -3939,6 +3939,50 @@
    }
   },
   "OTT": {
+   "dfo": {
+    "at": "2026-11-21T15:50:41+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-21T15:29:43+00:00",
+    "ref": "2124163354466144362",
+    "via": "Andrew Wilimek"
+   },
    "gameday": {
     "at": "2026-11-21T15:39:18+00:00",
     "defense": [
@@ -4162,6 +4206,52 @@
     "info_at": "2026-11-20T18:50:06+00:00",
     "ref": "2123851393123615055",
     "via": "Brogan Houston"
+   }
+  },
+  "WPG": {
+   "dfo": {
+    "at": "2026-11-21T15:50:41+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Pionk"
+     ],
+     [
+      "Samberg",
+      "?Salomonsson"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Zhilkin",
+      "Iafallo"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-21T15:35:10+00:00",
+    "ref": "2124164726720729274",
+    "via": "Connor Hrabchak"
    }
   }
  }

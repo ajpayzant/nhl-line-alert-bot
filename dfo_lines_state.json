@@ -284,29 +284,29 @@
     "updated_at": "2026-11-21T04:05:56.868Z"
   },
   "FLA": {
-    "goalie": "Schmid",
+    "goalie": "Markstrom",
     "players": [
-      "Balinskis",
-      "Barkov",
       "Bennett",
       "Ekblad",
       "Eller",
       "Forsling",
+      "Gudas",
       "Hathaway",
       "Imama",
       "Jones",
       "Kulikov",
       "Lundell",
       "Luostarinen",
-      "Marchand",
       "Mikkola",
       "Reinhart",
+      "Schwindt",
       "Tkachuk",
-      "Verhaeghe"
+      "Verhaeghe",
+      "Vilmanis"
     ],
-    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Marchand\"], [\"Imama\", \"Eller\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Balinskis\", \"Kulikov\"]], [\"Schmid\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
-    "source": "https://x.com/JamesonCoop/status/2123450762999013829?s=20",
-    "updated_at": "2026-11-19T17:53:03.756Z"
+    "signature": "[[[\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Reinhart\"], [\"Verhaeghe\", \"Eller\", \"Vilmanis\"], [\"Imama\", \"Schwindt\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Kulikov\", \"Gudas\"]], [\"Markstrom\"], [\"Tkachuk\", \"Reinhart\", \"Tkachuk\", \"Verhaeghe\", \"Jones\"]]",
+    "source": "",
+    "updated_at": "2026-11-21T15:47:03.596Z"
   },
   "LAK": {
     "goalie": "Kuemper",
@@ -488,13 +488,13 @@
     "updated_at": "2026-11-19T18:06:24.919Z"
   },
   "OTT": {
-    "goalie": "Ersson",
+    "goalie": "Ullmark",
     "players": [
       "Amadio",
       "Batherson",
       "Blais",
-      "Boucher",
       "Chabot",
+      "Cousins",
       "Cozens",
       "Giroux",
       "Greig",
@@ -509,9 +509,9 @@
       "Zetterlund",
       "Zub"
     ],
-    "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Boucher\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ersson\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020348",
-    "updated_at": "2026-11-20T16:59:45.897Z"
+    "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
+    "source": "https://x.com/AndrewWilimek/status/2124163354466144362",
+    "updated_at": "2026-11-21T15:47:34.970Z"
   },
   "PHI": {
     "goalie": "Vladar",
@@ -777,7 +777,6 @@
     "goalie": "Skinner",
     "players": [
       "Barron",
-      "Bauer",
       "Bj\u00f6rck",
       "Connor",
       "Ferraro",
@@ -788,6 +787,7 @@
       "Morrissey",
       "Perfetti",
       "Pionk",
+      "Salomonsson",
       "Samberg",
       "Scheifele",
       "Thrun",
@@ -795,9 +795,9 @@
       "Yager",
       "Zhilkin"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Ferraro\"], [\"Thrun\", \"Bauer\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020354",
-    "updated_at": "2026-11-20T17:15:15.816Z"
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Zhilkin\", \"Iafallo\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Salomonsson\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "source": "https://x.com/ConnorHrabchak1/status/2124164726720729274",
+    "updated_at": "2026-11-21T15:48:29.569Z"
   },
   "WSH": {
     "goalie": "Thompson",
