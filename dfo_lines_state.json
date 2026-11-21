@@ -462,14 +462,14 @@
     "updated_at": "2026-11-20T17:14:29.820Z"
   },
   "NYR": {
-    "goalie": "Korpisalo",
+    "goalie": "Garand",
     "players": [
-      "Bjorkstrand",
       "Chmelar",
       "Cuylle",
+      "Durzi",
       "Fox",
       "Gavrikov",
-      "Glendening",
+      "Gawdin",
       "Kartye",
       "Laba",
       "Lafreni\u00e8re",
@@ -477,15 +477,15 @@
       "Morrow",
       "Perreault",
       "Pettersson",
-      "Rempe",
+      "Raddysh",
       "Robertson",
       "Schneider",
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Bjorkstrand\"], [\"Chmelar\", \"Glendening\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Schneider\"], [\"Robertson\", \"Morrow\"]], [\"Korpisalo\"], [\"Lafreni\\u00e8re\", \"Perreault\", \"Miller\", \"Zibanejad\", \"Fox\"]]",
-    "source": "https://x.com/MollieeWalkerr/status/2123450787313451249?s=20",
-    "updated_at": "2026-11-19T18:06:24.919Z"
+    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Raddysh\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Robertson\", \"Schneider\"]], [\"Garand\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"], [\"Morrow\"]]",
+    "source": "https://x.com/CraneAndrew/status/2124178644524306568",
+    "updated_at": "2026-11-21T17:24:05.460Z"
   },
   "OTT": {
     "goalie": "Ullmark",
@@ -666,8 +666,8 @@
       "Viel"
     ],
     "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020349",
-    "updated_at": "2026-11-20T17:01:18.173Z"
+    "source": "https://x.com/BenjaminJReport/status/2124172267202470057",
+    "updated_at": "2026-11-21T17:25:14.113Z"
   },
   "TOR": {
     "goalie": "Stolarz",

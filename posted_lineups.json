@@ -4289,6 +4289,51 @@
    }
   },
   "NYR": {
+   "dfo": {
+    "at": "2026-11-21T17:25:34+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Robertson",
+      "Schneider"
+     ]
+    ],
+    "extra": [
+     "Morrow"
+    ],
+    "forwards": [
+     [
+      "Perreault",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Cuylle",
+      "Miller",
+      "Kartye"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Garand",
+    "info_at": "2026-11-21T16:30:28+00:00",
+    "ref": "2124178644524306568",
+    "via": "Andrew Crane"
+   },
    "gameday": {
     "at": "2026-11-21T16:32:31+00:00",
     "defense": [
@@ -4647,6 +4692,50 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-21T17:25:34+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Gourde",
+      "O'Reilly",
+      "Goncalves"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Viel",
+      "Harkins",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-21T16:05:08+00:00",
+    "ref": "2124172267202470057",
+    "via": "Benjamin Pierce"
+   },
    "gameday": {
     "at": "2026-11-21T16:14:24+00:00",
     "defense": [
