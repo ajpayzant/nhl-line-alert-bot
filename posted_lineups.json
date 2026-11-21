@@ -3943,6 +3943,50 @@
    }
   },
   "SEA": {
+   "dfo": {
+    "at": "2026-11-21T04:00:44+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Grubauer",
+    "info_at": "2026-11-20T19:43:58+00:00",
+    "ref": "2123864949080637843",
+    "via": "@sound_hockey"
+   },
    "gameday": {
     "at": "2026-11-20T20:49:23+00:00",
     "defense": [
