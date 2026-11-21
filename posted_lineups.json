@@ -4025,6 +4025,52 @@
     "goalie": "Murashov",
     "info_at": "2026-11-21T05:07:44+00:00"
    }
+  },
+  "UTA": {
+   "dfo": {
+    "at": "2026-11-21T12:40:42+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cooley",
+      "Trocheck",
+      "Keller"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "Carcone",
+      "McBain",
+      "Crouse"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Cossa",
+    "info_at": "2026-11-20T18:50:06+00:00",
+    "ref": "2123851393123615055",
+    "via": "Brogan Houston"
+   }
   }
  }
 }
