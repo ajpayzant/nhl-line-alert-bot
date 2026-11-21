@@ -3760,6 +3760,48 @@
     "info_at": "2026-11-21T19:30:35+00:00",
     "ref": "2124223969436057839",
     "via": "@ZachCav"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T19:36:30+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ],
+     [
+      "Luneau",
+      "Solberg"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gauthier",
+      "Carlsson",
+      "Colangelo"
+     ],
+     [
+      "Killorn",
+      "Granlund",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Terry"
+     ],
+     [
+      "Nesterenko",
+      "McQueen",
+      "Vatrano"
+     ]
+    ],
+    "goalie": "Husso",
+    "info_at": "2026-11-21T19:33:20+00:00"
    }
   },
   "BOS": {
@@ -5747,6 +5789,48 @@
     "info_at": "2026-11-20T18:50:06+00:00",
     "ref": "2123851393123615055",
     "via": "Brogan Houston"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T19:36:30+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cooley",
+      "Trocheck",
+      "Keller"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "Carcone",
+      "McBain",
+      "Crouse"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Cossa",
+    "info_at": "2026-11-21T19:33:20+00:00"
    }
   },
   "VAN": {
