@@ -3938,6 +3938,52 @@
     "info_at": "2026-11-21T05:07:44+00:00"
    }
   },
+  "OTT": {
+   "gameday": {
+    "at": "2026-11-21T15:39:18+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-21T15:31:09+00:00",
+    "ref": "2124163716820201873",
+    "via": "@TSN1200"
+   }
+  },
   "PIT": {
    "dfo": {
     "at": "2026-11-21T12:30:50+00:00",
@@ -4024,6 +4070,52 @@
     ],
     "goalie": "Murashov",
     "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "TOR": {
+   "gameday": {
+    "at": "2026-11-21T15:39:19+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Rielly",
+      "Tanev"
+     ],
+     [
+      "Mermis",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Roslovic"
+     ],
+     [
+      "Paul",
+      "Tavares",
+      "McKenna"
+     ],
+     [
+      "Joshua",
+      "Tverberg",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-21T15:38:12+00:00",
+    "ref": "2124165489416892883",
+    "via": "@davidalter"
    }
   },
   "UTA": {
