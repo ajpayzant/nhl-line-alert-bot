@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T18:07:05.54Z",
+ "article_updated": "2026-11-21T18:17:04.307Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -2202,6 +2202,103 @@
     "Oliver Ekman-Larsson"
    ]
   },
+  "2026-11-21:VGK": {
+   "article_updated": "2026-11-21T18:17:04.307Z",
+   "defense": [
+    [
+     "Shea Theodore",
+     "Brayden McNabb"
+    ],
+    [
+     "Jeremy Lauzon",
+     "Rasmus Andersson"
+    ],
+    [
+     "Parker Wotherspoon",
+     "Dylan Coghlan"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Brett Howden",
+     "Jack Eichel",
+     "Mark Stone"
+    ],
+    [
+     "Trevor Connelly",
+     "William Karlsson",
+     "Mitch Marner"
+    ],
+    [
+     "Ivan Barbashev",
+     "Tomas Hertl",
+     "Victor Olofsson"
+    ],
+    [
+     "Marc Gatcomb",
+     "Nic Dowd",
+     "Braeden Bowman"
+    ]
+   ],
+   "goalies": [
+    "Carter Hart",
+    "Adin Hill"
+   ],
+   "scratched": [
+    "Raphael Lavoie"
+   ]
+  },
+  "2026-11-21:WPG": {
+   "article_updated": "2026-11-21T18:17:04.307Z",
+   "defense": [
+    [
+     "Josh Morrissey",
+     "Neal Pionk"
+    ],
+    [
+     "Dylan Samberg",
+     "Elias Salomonsson"
+    ],
+    [
+     "Henry Thrun",
+     "Mario Ferraro"
+    ]
+   ],
+   "extra": [
+    "Tyrel Bauer"
+   ],
+   "forwards": [
+    [
+     "Kyle Connor",
+     "Mark Scheifele",
+     "Gabriel Vilardi"
+    ],
+    [
+     "Cole Perfetti",
+     "Brayden Yager",
+     "Dawson Mercer"
+    ],
+    [
+     "Morgan Barron",
+     "Adam Lowry",
+     "Viggo Björck"
+    ],
+    [
+     "Danil Zhilkin",
+     "Alex Iafallo"
+    ]
+   ],
+   "goalies": [
+    "Stuart Skinner",
+    "Nico Daws"
+   ],
+   "scratched": [
+    "Haydn Fleury",
+    "Nino Niederreiter",
+    "Cole Koepke"
+   ]
+  },
   "2026-11-21:WSH": {
    "article_updated": "2026-11-21T17:34:52.579Z",
    "defense": [
@@ -3770,6 +3867,206 @@
     ],
     [
      "Anthony Stolarz",
+     "G"
+    ]
+   ],
+   "VGK": [
+    [
+     "Ivan Barbashev",
+     "L"
+    ],
+    [
+     "Braeden Bowman",
+     "R"
+    ],
+    [
+     "Trevor Connelly",
+     "L"
+    ],
+    [
+     "Nic Dowd",
+     "C"
+    ],
+    [
+     "Jack Eichel",
+     "C"
+    ],
+    [
+     "Marc Gatcomb",
+     "C"
+    ],
+    [
+     "Tomas Hertl",
+     "C"
+    ],
+    [
+     "Brett Howden",
+     "C"
+    ],
+    [
+     "William Karlsson",
+     "C"
+    ],
+    [
+     "Raphael Lavoie",
+     "C"
+    ],
+    [
+     "Mitch Marner",
+     "R"
+    ],
+    [
+     "Victor Olofsson",
+     "L"
+    ],
+    [
+     "Mark Stone",
+     "R"
+    ],
+    [
+     "Rasmus Andersson",
+     "D"
+    ],
+    [
+     "Dylan Coghlan",
+     "D"
+    ],
+    [
+     "Lukas Cormier",
+     "D"
+    ],
+    [
+     "Noah Hanifin",
+     "D"
+    ],
+    [
+     "Jeremy Lauzon",
+     "D"
+    ],
+    [
+     "Brayden McNabb",
+     "D"
+    ],
+    [
+     "Shea Theodore",
+     "D"
+    ],
+    [
+     "Parker Wotherspoon",
+     "D"
+    ],
+    [
+     "Carter Hart",
+     "G"
+    ],
+    [
+     "Adin Hill",
+     "G"
+    ]
+   ],
+   "WPG": [
+    [
+     "Morgan Barron",
+     "C"
+    ],
+    [
+     "Viggo Björck",
+     "C"
+    ],
+    [
+     "Kyle Connor",
+     "L"
+    ],
+    [
+     "Alex Iafallo",
+     "L"
+    ],
+    [
+     "Cole Koepke",
+     "L"
+    ],
+    [
+     "Adam Lowry",
+     "C"
+    ],
+    [
+     "Dawson Mercer",
+     "C"
+    ],
+    [
+     "Vladislav Namestnikov",
+     "C"
+    ],
+    [
+     "Nino Niederreiter",
+     "R"
+    ],
+    [
+     "Cole Perfetti",
+     "C"
+    ],
+    [
+     "Isak Rosen",
+     "R"
+    ],
+    [
+     "Mark Scheifele",
+     "C"
+    ],
+    [
+     "Gabriel Vilardi",
+     "C"
+    ],
+    [
+     "Brayden Yager",
+     "C"
+    ],
+    [
+     "Danil Zhilkin",
+     "C"
+    ],
+    [
+     "Tyrel Bauer",
+     "D"
+    ],
+    [
+     "Dylan DeMelo",
+     "D"
+    ],
+    [
+     "Mario Ferraro",
+     "D"
+    ],
+    [
+     "Haydn Fleury",
+     "D"
+    ],
+    [
+     "Josh Morrissey",
+     "D"
+    ],
+    [
+     "Neal Pionk",
+     "D"
+    ],
+    [
+     "Dylan Samberg",
+     "D"
+    ],
+    [
+     "Henry Thrun",
+     "D"
+    ],
+    [
+     "Nico Daws",
+     "G"
+    ],
+    [
+     "Stuart Skinner",
+     "G"
+    ],
+    [
+     "Clay Stevenson",
      "G"
     ]
    ],

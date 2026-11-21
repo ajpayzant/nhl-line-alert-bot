@@ -5486,6 +5486,50 @@
     "via": "@ThomasDrance"
    }
   },
+  "VGK": {
+   "nhlcom": {
+    "at": "2026-11-21T18:17:29+00:00",
+    "defense": [
+     [
+      "Theodore",
+      "McNabb"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Gatcomb",
+      "Dowd",
+      "Bowman"
+     ]
+    ],
+    "goalie": "Hart",
+    "info_at": "2026-11-21T18:17:04+00:00"
+   }
+  },
   "WPG": {
    "dfo": {
     "at": "2026-11-21T16:45:44+00:00",
@@ -5530,6 +5574,49 @@
     "info_at": "2026-11-21T15:35:10+00:00",
     "ref": "2124164726720729274",
     "via": "Connor Hrabchak"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T18:17:29+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Pionk"
+     ],
+     [
+      "Samberg",
+      "?Salomonsson"
+     ],
+     [
+      "Thrun",
+      "Ferraro"
+     ]
+    ],
+    "extra": [
+     "Bauer"
+    ],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Zhilkin",
+      "Iafallo"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-21T18:17:04+00:00"
    }
   },
   "WSH": {
