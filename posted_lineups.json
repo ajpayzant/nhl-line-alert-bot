@@ -4465,6 +4465,48 @@
     "goalie": "Forsberg",
     "info_at": "2026-11-21T18:04:24+00:00",
     "via": "Zach Dooley"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T18:27:26+00:00",
+    "defense": [
+     [
+      "Gustafsson",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Doughty"
+     ],
+     [
+      "Anderson",
+      "Dumoulin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lee",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Turcotte",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Laughton",
+      "Helenius",
+      "Perry"
+     ]
+    ],
+    "goalie": "Forsberg",
+    "info_at": "2026-11-21T18:26:39+00:00"
    }
   },
   "NJD": {
@@ -4866,6 +4908,48 @@
     "info_at": "2026-11-21T15:31:09+00:00",
     "ref": "2124163716820201873",
     "via": "@TSN1200"
+   },
+   "nhlcom": {
+    "at": "2026-11-21T18:27:26+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-21T18:26:39+00:00"
    }
   },
   "PHI": {
