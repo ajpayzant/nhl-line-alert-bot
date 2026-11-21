@@ -3445,6 +3445,50 @@
  },
  "2026-11-20": {
   "BOS": {
+   "dfo": {
+    "at": "2026-11-21T04:10:47+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-20T16:22:29+00:00",
+    "ref": "2123814244357636572",
+    "via": "Belle Fraser"
+   },
    "gameday": {
     "at": "2026-11-20T16:28:25+00:00",
     "defense": [
@@ -3700,6 +3744,50 @@
    }
   },
   "EDM": {
+   "dfo": {
+    "at": "2026-11-21T04:10:47+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hallander",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Dach",
+      "Dickinson",
+      "Hyman"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-20T18:42:14+00:00",
+    "ref": "2123849414636937565",
+    "via": "Bob Stauffer"
+   },
    "gameday": {
     "at": "2026-11-20T19:08:36+00:00",
     "defense": [
@@ -3785,6 +3873,52 @@
     ],
     "goalie": "Jarry",
     "info_at": "2026-11-20T20:13:33+00:00"
+   }
+  },
+  "NJD": {
+   "dfo": {
+    "at": "2026-11-21T04:10:47+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gritsyuk",
+      "Hughes",
+      "Bratt"
+     ],
+     [
+      "Meier",
+      "Hischier",
+      "Evangelista"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Brown"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Hameenaho"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-20T16:13:08+00:00",
+    "ref": "2123811894427328948",
+    "via": "Amanda Stein"
    }
   },
   "NSH": {
@@ -4244,6 +4378,50 @@
    }
   },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-21T04:10:47+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Holl"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Tuch"
+     ],
+     [
+      "Leonard",
+      "Jenner",
+      "Wilson"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Sourdif",
+      "Protas",
+      "Kyrou"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-20T16:21:48+00:00",
+    "ref": "2123814074588795182",
+    "via": "Sammi Silber"
+   },
    "gameday": {
     "at": "2026-11-20T16:28:25+00:00",
     "defense": [
