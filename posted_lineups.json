@@ -1,801 +1,4 @@
 {
- "2026-11-18": {
-  "BOS": {
-   "dfo": {
-    "at": "2026-11-19T00:09:36+00:00",
-    "defense": [
-     [
-      "Lindholm",
-      "McAvoy"
-     ],
-     [
-      "Zadorov",
-      "Borgen"
-     ],
-     [
-      "Lohrei",
-      "Clifton"
-     ]
-    ],
-    "forwards": [
-     [
-      "Geekie",
-      "Lindholm",
-      "Pastrnak"
-     ],
-     [
-      "Mittelstadt",
-      "Zacha",
-      "Peterka"
-     ],
-     [
-      "Khusnutdinov",
-      "Minten",
-      "Poitras"
-     ],
-     [
-      "Jeannot",
-      "Kuraly",
-      "Kastelic"
-     ]
-    ],
-    "goalie": "Swayman"
-   },
-   "gameday": {
-    "at": "2026-11-18T23:57:19+00:00",
-    "defense": [
-     [
-      "Lindholm",
-      "McAvoy"
-     ],
-     [
-      "Zadorov",
-      "Borgen"
-     ],
-     [
-      "Lohrei",
-      "Clifton"
-     ]
-    ],
-    "forwards": [
-     [
-      "Geekie",
-      "Lindholm",
-      "Pastrnak"
-     ],
-     [
-      "Mittelstadt",
-      "Zacha",
-      "Peterka"
-     ],
-     [
-      "Khusnutdinov",
-      "Minten",
-      "Poitras"
-     ],
-     [
-      "Jeannot",
-      "Kuraly",
-      "Kastelic"
-     ]
-    ],
-    "goalie": "Swayman"
-   },
-   "nhlcom": {
-    "at": "2026-11-18T19:58:26+00:00",
-    "defense": [
-     [
-      "Lindholm",
-      "McAvoy"
-     ],
-     [
-      "Zadorov",
-      "Borgen"
-     ],
-     [
-      "Lohrei",
-      "Clifton"
-     ]
-    ],
-    "forwards": [
-     [
-      "Peterka",
-      "Zacha",
-      "Pastrnak"
-     ],
-     [
-      "Eyssimont",
-      "Minten",
-      "Geekie"
-     ],
-     [
-      "Mittelstadt",
-      "Lindholm",
-      "Khusnutdinov"
-     ],
-     [
-      "Jeannot",
-      "Kuraly",
-      "Kastelic"
-     ]
-    ],
-    "goalie": "Swayman"
-   }
-  },
-  "BUF": {
-   "dfo": {
-    "at": "2026-11-19T00:59:33+00:00",
-    "defense": [
-     [
-      "Samuelsson",
-      "Dahlin"
-     ],
-     [
-      "Power",
-      "Timmins"
-     ],
-     [
-      "Zellweger",
-      "Metsa"
-     ]
-    ],
-    "forwards": [
-     [
-      "Benson",
-      "Kulich",
-      "Thompson"
-     ],
-     [
-      "Krebs",
-      "Ostlund",
-      "Quinn"
-     ],
-     [
-      "Zucker",
-      "Norris",
-      "Doan"
-     ],
-     [
-      "Malenstyn",
-      "Kozak",
-      "Carrick"
-     ]
-    ],
-    "goalie": "Luukkonen"
-   }
-  },
-  "CAR": {
-   "dfo": {
-    "at": "2026-11-19T00:59:33+00:00",
-    "defense": [
-     [
-      "Slavin",
-      "Chatfield"
-     ],
-     [
-      "Miller",
-      "Walker"
-     ],
-     [
-      "Gostisbehere",
-      "Nikishin"
-     ]
-    ],
-    "forwards": [
-     [
-      "Carrier",
-      "Aho",
-      "Svechnikov"
-     ],
-     [
-      "Ehlers",
-      "Stankoven",
-      "Blake"
-     ],
-     [
-      "Martinook",
-      "Staal",
-      "Jarvis"
-     ],
-     [
-      "Hall",
-      "Jankowski",
-      "Robinson"
-     ]
-    ],
-    "goalie": "Kochetkov"
-   }
-  },
-  "COL": {
-   "dfo": {
-    "at": "2026-11-19T02:59:32+00:00",
-    "defense": [
-     [
-      "Toews",
-      "Malinski"
-     ],
-     [
-      "Kulak",
-      "Juulsen"
-     ],
-     [
-      "Gagne",
-      "Burns"
-     ]
-    ],
-    "forwards": [
-     [
-      "Lehkonen",
-      "Nelson",
-      "Necas"
-     ],
-     [
-      "Schwartz",
-      "Kadri",
-      "Hughes"
-     ],
-     [
-      "Landeskog",
-      "Roy",
-      "Brindley"
-     ],
-     [
-      "Kelly",
-      "Svechkov",
-      "O'Connor"
-     ]
-    ],
-    "goalie": "Blackwood"
-   },
-   "nhlcom": {
-    "at": "2026-11-18T19:53:26+00:00",
-    "defense": [
-     [
-      "Toews",
-      "Malinski"
-     ],
-     [
-      "Kulak",
-      "Juulsen"
-     ],
-     [
-      "Gagne",
-      "Burns"
-     ]
-    ],
-    "forwards": [
-     [
-      "Lehkonen",
-      "Nelson",
-      "Necas"
-     ],
-     [
-      "Schwartz",
-      "Kadri",
-      "Hughes"
-     ],
-     [
-      "Landeskog",
-      "Roy",
-      "Brindley"
-     ],
-     [
-      "Kelly",
-      "Svechkov",
-      "O'Connor"
-     ]
-    ],
-    "goalie": "Blackwood"
-   }
-  },
-  "DET": {
-   "dfo": {
-    "at": "2026-11-19T00:09:36+00:00",
-    "defense": [
-     [
-      "Johansson",
-      "Seider"
-     ],
-     [
-      "Chiarot",
-      "Faulk"
-     ],
-     [
-      "Englund",
-      "Bernard-Docker"
-     ]
-    ],
-    "forwards": [
-     [
-      "DeBrincat",
-      "Finnie",
-      "Kasper"
-     ],
-     [
-      "Brandsegg-Nygård",
-      "Copp",
-      "Raymond"
-     ],
-     [
-      "Mazur",
-      "Compher",
-      "Arvidsson"
-     ],
-     [
-      "Rasmussen",
-      "Dries",
-      "Kolesar"
-     ]
-    ],
-    "goalie": "Tarasov"
-   },
-   "gameday": {
-    "at": "2026-11-19T00:06:29+00:00",
-    "defense": [
-     [
-      "Johansson",
-      "Seider"
-     ],
-     [
-      "Chiarot",
-      "Faulk"
-     ],
-     [
-      "Englund",
-      "?JBD"
-     ]
-    ],
-    "forwards": [
-     [
-      "DeBrincat",
-      "Finnie",
-      "Kasper"
-     ],
-     [
-      "Brandsegg-Nygård",
-      "Copp",
-      "Raymond"
-     ],
-     [
-      "Mazur",
-      "Compher",
-      "Arvidsson"
-     ],
-     [
-      "Rasmussen",
-      "Dries",
-      "Kolesar"
-     ]
-    ],
-    "goalie": ""
-   },
-   "nhlcom": {
-    "at": "2026-11-18T19:58:26+00:00",
-    "defense": [
-     [
-      "Johansson",
-      "Seider"
-     ],
-     [
-      "Chiarot",
-      "Faulk"
-     ],
-     [
-      "Englund",
-      "Bernard-Docker"
-     ]
-    ],
-    "forwards": [
-     [
-      "DeBrincat",
-      "Finnie",
-      "Arvidsson"
-     ],
-     [
-      "Brandsegg-Nygård",
-      "Copp",
-      "Raymond"
-     ],
-     [
-      "Mazur",
-      "?Danielson",
-      "Compher"
-     ],
-     [
-      "Rasmussen",
-      "Dries",
-      "Kolesar"
-     ]
-    ],
-    "goalie": "Tarasov"
-   }
-  },
-  "MTL": {
-   "dfo": {
-    "at": "2026-11-19T00:19:37+00:00",
-    "defense": [
-     [
-      "Guhle",
-      "Dobson"
-     ],
-     [
-      "Hutson",
-      "Carrier"
-     ],
-     [
-      "Xhekaj",
-      "Engstrom"
-     ]
-    ],
-    "forwards": [
-     [
-      "Caufield",
-      "Suzuki",
-      "Texier"
-     ],
-     [
-      "Slafkovský",
-      "Evans",
-      "Newhook"
-     ],
-     [
-      "Bolduc",
-      "Danault",
-      "Dach"
-     ],
-     [
-      "Berard",
-      "Kapanen",
-      "Beck"
-     ]
-    ],
-    "goalie": "Fowler"
-   },
-   "gameday": {
-    "at": "2026-11-19T00:15:27+00:00",
-    "defense": [
-     [
-      "Guhle",
-      "Dobson"
-     ],
-     [
-      "Hutson",
-      "Carrier"
-     ],
-     [
-      "Xhekaj",
-      "Engstrom"
-     ]
-    ],
-    "forwards": [
-     [
-      "Caufield",
-      "Suzuki",
-      "Texier"
-     ],
-     [
-      "Slafkovský",
-      "Evans",
-      "Newhook"
-     ],
-     [
-      "Bolduc",
-      "Danault",
-      "Dach"
-     ],
-     [
-      "Berard",
-      "Kapanen",
-      "Beck"
-     ]
-    ],
-    "goalie": "Fowler"
-   }
-  },
-  "SEA": {
-   "gameday": {
-    "at": "2026-11-18T18:52:27+00:00",
-    "defense": [
-     [
-      "Dunn",
-      "Larsson"
-     ],
-     [
-      "Evans",
-      "Montour"
-     ],
-     [
-      "Lindgren",
-      "Mahura"
-     ]
-    ],
-    "forwards": [
-     [
-      "McMann",
-      "Catton",
-      "Eberle"
-     ],
-     [
-      "Kakko",
-      "Beniers",
-      "Samoskevich"
-     ],
-     [
-      "Gaudreau",
-      "Stephenson",
-      "Winterton"
-     ],
-     [
-      "Wood",
-      "Meyers",
-      "Melanson"
-     ]
-    ],
-    "goalie": ""
-   }
-  },
-  "SJS": {
-   "dfo": {
-    "at": "2026-11-19T00:54:37+00:00",
-    "defense": [
-     [
-      "Nurse",
-      "Pohlkamp"
-     ],
-     [
-      "Allan",
-      "Dickinson"
-     ],
-     [
-      "Orlov",
-      "Trouba"
-     ]
-    ],
-    "forwards": [
-     [
-      "Stenberg",
-      "Celebrini",
-      "Gaudette"
-     ],
-     [
-      "Goodrow",
-      "Wennberg",
-      "Smith"
-     ],
-     [
-      "Marchment",
-      "Dellandrea",
-      "Leason"
-     ],
-     [
-      "Misa",
-      "Ostapchuk",
-      "Toffoli"
-     ]
-    ],
-    "goalie": "Askarov"
-   },
-   "gameday": {
-    "at": "2026-11-18T19:41:35+00:00",
-    "defense": [],
-    "forwards": [
-     [
-      "Stenberg",
-      "Celebrini",
-      "Gaudette"
-     ],
-     [
-      "Goodrow",
-      "Wennberg",
-      "Smith"
-     ],
-     [
-      "Misa",
-      "Ostapchuk",
-      "Toffoli"
-     ]
-    ],
-    "goalie": ""
-   }
-  },
-  "STL": {
-   "dfo": {
-    "at": "2026-11-18T20:34:35+00:00",
-    "defense": [
-     [
-      "Broberg",
-      "Mailloux"
-     ],
-     [
-      "Barron",
-      "Parayko"
-     ],
-     [
-      "Fowler",
-      "Carlo"
-     ]
-    ],
-    "forwards": [
-     [
-      "Neighbours",
-      "Thomas",
-      "Snuggerud"
-     ],
-     [
-      "Holloway",
-      "McTavish",
-      "McMichael"
-     ],
-     [
-      "Kaskimaki",
-      "Buchnevich",
-      "Berggren"
-     ],
-     [
-      "Dvorsky",
-      "Suter",
-      "Toropchenko"
-     ]
-    ],
-    "goalie": "Hofer"
-   },
-   "gameday": {
-    "at": "2026-11-18T18:52:37+00:00",
-    "defense": [
-     [
-      "Broberg",
-      "Mailloux"
-     ],
-     [
-      "Barron",
-      "Parayko"
-     ],
-     [
-      "Fowler",
-      "Carlo"
-     ]
-    ],
-    "forwards": [
-     [
-      "Neighbours",
-      "Thomas",
-      "Snuggerud"
-     ],
-     [
-      "Holloway",
-      "McTavish",
-      "McMichael"
-     ],
-     [
-      "Kaskimaki",
-      "Buchnevich",
-      "Berggren"
-     ],
-     [
-      "Dvorsky",
-      "Suter",
-      "Toropchenko"
-     ]
-    ],
-    "goalie": "Hofer"
-   }
-  },
-  "UTA": {
-   "nhlcom": {
-    "at": "2026-11-18T19:53:26+00:00",
-    "defense": [
-     [
-      "Sergachev",
-      "Peeke"
-     ],
-     [
-      "Simashev",
-      "Weegar"
-     ],
-     [
-      "Jones",
-      "DeSimone"
-     ]
-    ],
-    "forwards": [
-     [
-      "Cooley",
-      "Trocheck",
-      "Keller"
-     ],
-     [
-      "Lee",
-      "Hayton",
-      "Yamamoto"
-     ],
-     [
-      "Carcone",
-      "McBain",
-      "Crouse"
-     ],
-     [
-      "O'Brien",
-      "Stenlund",
-      "But"
-     ]
-    ],
-    "goalie": "Cossa"
-   }
-  },
-  "VAN": {
-   "dfo": {
-    "at": "2026-11-19T01:04:41+00:00",
-    "defense": [
-     [
-      "Buium",
-      "Hronek"
-     ],
-     [
-      "?Pettersson",
-      "Willander"
-     ],
-     [
-      "Oleksiak",
-      "Crotty"
-     ]
-    ],
-    "forwards": [
-     [
-      "DeBrusk",
-      "Pettersson",
-      "Lekkerimäki"
-     ],
-     [
-      "Cotter",
-      "Chytil",
-      "Boeser"
-     ],
-     [
-      "Ohgren",
-      "Rossi",
-      "Karlsson"
-     ],
-     [
-      "O'Connor",
-      "Sasson",
-      "Gallagher"
-     ]
-    ],
-    "goalie": "Meriläinen"
-   },
-   "gameday": {
-    "at": "2026-11-18T21:11:25+00:00",
-    "defense": [
-     [
-      "Buium",
-      "Hronek"
-     ],
-     [
-      "Oleksiak",
-      "Cotter"
-     ]
-    ],
-    "forwards": [
-     [
-      "Cotter",
-      "Chytil",
-      "Boeser"
-     ],
-     [
-      "Bains",
-      "Pettersson",
-      "Lekkerimäki"
-     ],
-     [
-      "?DOC",
-      "?Saddon",
-      "Gallagher"
-     ]
-    ],
-    "goalie": ""
-   }
-  }
- },
  "2026-11-19": {
   "ANA": {
    "dfo": {
@@ -4465,6 +3668,272 @@
     "info_at": "2026-11-20T16:27:58+00:00",
     "ref": "2123815625122512940",
     "via": "@sammisilber"
+   }
+  }
+ },
+ "2026-11-21": {
+  "CAR": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Ehlers",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Hall",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "CGY": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Farabee",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Gridin",
+      "Pospisil",
+      "Strome"
+     ],
+     [
+      "Sharangovich",
+      "Frost",
+      "Klapka"
+     ],
+     [
+      "Tsyplakov",
+      "Castagna",
+      "Suniev"
+     ]
+    ],
+    "goalie": "Wolf",
+    "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "CHI": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Kaiser",
+      "Korchinski"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Frondell",
+      "Mangiapane"
+     ],
+     [
+      "Greene",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greenway",
+      "Smith",
+      "Teravainen"
+     ]
+    ],
+    "goalie": "Commesso",
+    "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "EDM": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hallander",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Dach",
+      "Dickinson",
+      "Hyman"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "NSH": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "PIT": {
+   "nhlcom": {
+    "at": "2026-11-21T05:10:42+00:00",
+    "defense": [
+     [
+      "Karlsson",
+      "Korczak"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Stastney",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Novak"
+     ],
+     [
+      "Kuzmenko",
+      "Kindel",
+      "Chinakhov"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "Murashov",
+    "info_at": "2026-11-21T05:07:44+00:00"
    }
   }
  }
