@@ -3894,15 +3894,15 @@
     "via": "Rachel Lenzi"
    },
    "gameday": {
-    "at": "2026-11-21T15:52:20+00:00",
+    "at": "2026-11-21T22:41:25+00:00",
     "defense": [
      [
       "Samuelsson",
       "Dahlin"
      ],
      [
-      "Timmins",
-      "Power"
+      "Power",
+      "Timmins"
      ],
      [
       "Zellweger",
@@ -3933,8 +3933,8 @@
      ]
     ],
     "goalie": "Lyon",
-    "info_at": "2026-11-21T15:51:29+00:00",
-    "ref": "2124168833967837231",
+    "info_at": "2026-11-21T22:38:21+00:00",
+    "ref": "2124271224318800101",
     "via": "@rachelmlenzi"
    },
    "nhlcom": {
@@ -4775,6 +4775,50 @@
     "ref": "2124270601485357401",
     "via": "Jameson Olive"
    },
+   "gameday": {
+    "at": "2026-11-21T22:41:24+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Tkachuk",
+      "Lundell",
+      "Tkachuk"
+     ],
+     [
+      "Verhaeghe",
+      "Reinhart",
+      "Eller"
+     ],
+     [
+      "Luostarinen",
+      "Bennett",
+      "Vilmanis"
+     ],
+     [
+      "Imama",
+      "Schwindt",
+      "Hathaway"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-21T22:37:15+00:00",
+    "ref": "2124270946920104379",
+    "via": "@JamesonCoop"
+   },
    "nhlcom": {
     "at": "2026-11-21T16:25:37+00:00",
     "defense": [
@@ -5081,6 +5125,50 @@
     "info_at": "2026-11-21T22:35:38+00:00",
     "ref": "2124270541158670747",
     "via": "Nick Kieser"
+   },
+   "gameday": {
+    "at": "2026-11-21T22:41:23+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-21T22:35:47+00:00",
+    "ref": "2124270578488234224",
+    "via": "@brooksbratten"
    },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
