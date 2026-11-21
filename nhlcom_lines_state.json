@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-21T17:01:23.985Z",
+ "article_updated": "2026-11-21T17:22:50.353Z",
  "lineups": {
   "2026-11-18:BOS": {
    "article_updated": "2026-11-18T19:57:51.997Z",
@@ -1815,6 +1815,54 @@
     "Cole Reinhardt"
    ]
   },
+  "2026-11-21:NJD": {
+   "article_updated": "2026-11-21T17:22:50.353Z",
+   "defense": [
+    [
+     "Luke Hughes",
+     "Brett Pesce"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "Dougie Hamilton"
+    ],
+    [
+     "Declan Chisholm",
+     "Brenden Dillon"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Arseny Gritsyuk",
+     "Jack Hughes",
+     "Jesper Bratt"
+    ],
+    [
+     "Timo Meier",
+     "Nico Hischier",
+     "Luke Evangelista"
+    ],
+    [
+     "Evan Rodrigues",
+     "Amadeus Lombardi",
+     "Connor Brown"
+    ],
+    [
+     "Jesper Boqvist",
+     "Cody Glass",
+     "Lenni Hameenaho"
+    ]
+   ],
+   "goalies": [
+    "Connor Hellebuyck",
+    "Jake Allen"
+   ],
+   "scratched": [
+    "Stefan Noesen",
+    "Vladislav Kolyachonok"
+   ]
+  },
   "2026-11-21:NSH": {
    "article_updated": "2026-11-21T05:07:44.915Z",
    "defense": [
@@ -1958,6 +2006,54 @@
    "scratched": [
     "Justin Brazeau",
     "Declan Carlile"
+   ]
+  },
+  "2026-11-21:STL": {
+   "article_updated": "2026-11-21T17:22:50.353Z",
+   "defense": [
+    [
+     "Philip Broberg",
+     "Logan Mailloux"
+    ],
+    [
+     "Justin Barron",
+     "Colton Parayko"
+    ],
+    [
+     "Cam Fowler",
+     "Brandon Carlo"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake Neighbours",
+     "Robert Thomas",
+     "Jimmy Snuggerud"
+    ],
+    [
+     "Dylan Holloway",
+     "Mason McTavish",
+     "Jonatan Berggren"
+    ],
+    [
+     "Aleksanteri Kaskimaki",
+     "Dalibor Dvorsky",
+     "Pavel Buchnevich"
+    ],
+    [
+     "Alexey Toropchenko",
+     "Pius Suter",
+     "Ross Johnston"
+    ]
+   ],
+   "goalies": [
+    "Joel Hofer",
+    "Jordan Binnington"
+   ],
+   "scratched": [
+    "Nathan Walker",
+    "Calle Rosen"
    ]
   }
  },
@@ -2666,6 +2762,100 @@
      "G"
     ]
    ],
+   "NJD": [
+    [
+     "Jesper Boqvist",
+     "C"
+    ],
+    [
+     "Jesper Bratt",
+     "L"
+    ],
+    [
+     "Connor Brown",
+     "R"
+    ],
+    [
+     "Luke Evangelista",
+     "R"
+    ],
+    [
+     "Cody Glass",
+     "C"
+    ],
+    [
+     "Arseny Gritsyuk",
+     "R"
+    ],
+    [
+     "Lenni Hameenaho",
+     "R"
+    ],
+    [
+     "Nico Hischier",
+     "C"
+    ],
+    [
+     "Jack Hughes",
+     "C"
+    ],
+    [
+     "Amadeus Lombardi",
+     "C"
+    ],
+    [
+     "Anthony Mantha",
+     "R"
+    ],
+    [
+     "Timo Meier",
+     "R"
+    ],
+    [
+     "Stefan Noesen",
+     "R"
+    ],
+    [
+     "Evan Rodrigues",
+     "C"
+    ],
+    [
+     "Declan Chisholm",
+     "D"
+    ],
+    [
+     "Brenden Dillon",
+     "D"
+    ],
+    [
+     "Dougie Hamilton",
+     "D"
+    ],
+    [
+     "Luke Hughes",
+     "D"
+    ],
+    [
+     "Johnathan Kovacevic",
+     "D"
+    ],
+    [
+     "Brett Pesce",
+     "D"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "D"
+    ],
+    [
+     "Jake Allen",
+     "G"
+    ],
+    [
+     "Connor Hellebuyck",
+     "G"
+    ]
+   ],
    "NSH": [
     [
      "Mavrik Bourque",
@@ -2965,6 +3155,108 @@
     ],
     [
      "Arturs Silovs",
+     "G"
+    ]
+   ],
+   "STL": [
+    [
+     "Jonatan Berggren",
+     "R"
+    ],
+    [
+     "Pavel Buchnevich",
+     "L"
+    ],
+    [
+     "Dillon Dube",
+     "C"
+    ],
+    [
+     "Dalibor Dvorsky",
+     "R"
+    ],
+    [
+     "Dylan Holloway",
+     "L"
+    ],
+    [
+     "Ross Johnston",
+     "L"
+    ],
+    [
+     "Aleksanteri Kaskimaki",
+     "C"
+    ],
+    [
+     "Connor McMichael",
+     "L"
+    ],
+    [
+     "Mason McTavish",
+     "C"
+    ],
+    [
+     "Jake Neighbours",
+     "L"
+    ],
+    [
+     "Jimmy Snuggerud",
+     "R"
+    ],
+    [
+     "Pius Suter",
+     "C"
+    ],
+    [
+     "Robert Thomas",
+     "C"
+    ],
+    [
+     "Alexey Toropchenko",
+     "R"
+    ],
+    [
+     "Nathan Walker",
+     "L"
+    ],
+    [
+     "Justin Barron",
+     "D"
+    ],
+    [
+     "Philip Broberg",
+     "D"
+    ],
+    [
+     "Brandon Carlo",
+     "D"
+    ],
+    [
+     "Cam Fowler",
+     "D"
+    ],
+    [
+     "Logan Mailloux",
+     "D"
+    ],
+    [
+     "Colton Parayko",
+     "D"
+    ],
+    [
+     "Calle Rosen",
+     "D"
+    ],
+    [
+     "Tyler Tucker",
+     "D"
+    ],
+    [
+     "Jordan Binnington",
+     "G"
+    ],
+    [
+     "Joel Hofer",
      "G"
     ]
    ]

@@ -4112,6 +4112,50 @@
     "info_at": "2026-11-21T16:25:02+00:00"
    }
   },
+  "NJD": {
+   "nhlcom": {
+    "at": "2026-11-21T17:23:29+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gritsyuk",
+      "Hughes",
+      "Bratt"
+     ],
+     [
+      "Meier",
+      "Hischier",
+      "Evangelista"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Brown"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Hameenaho"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-21T17:22:50+00:00"
+   }
+  },
   "NSH": {
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
@@ -4556,6 +4600,50 @@
     ],
     "goalie": "Murashov",
     "info_at": "2026-11-21T05:07:44+00:00"
+   }
+  },
+  "STL": {
+   "nhlcom": {
+    "at": "2026-11-21T17:23:29+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Carlo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Snuggerud"
+     ],
+     [
+      "Holloway",
+      "McTavish",
+      "Berggren"
+     ],
+     [
+      "Kaskimaki",
+      "Dvorsky",
+      "Buchnevich"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Johnston"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-21T17:22:50+00:00"
    }
   },
   "TBL": {
