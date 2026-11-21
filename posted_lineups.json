@@ -3850,7 +3850,7 @@
   },
   "BUF": {
    "dfo": {
-    "at": "2026-11-21T16:00:50+00:00",
+    "at": "2026-11-21T22:40:41+00:00",
     "defense": [
      [
       "Samuelsson",
@@ -3889,8 +3889,8 @@
      ]
     ],
     "goalie": "Lyon",
-    "info_at": "2026-11-21T15:44:10+00:00",
-    "ref": "2124166990986346848",
+    "info_at": "2026-11-21T22:37:20+00:00",
+    "ref": "2124270967824478503",
     "via": "Rachel Lenzi"
    },
    "gameday": {
@@ -4732,7 +4732,7 @@
   },
   "FLA": {
    "dfo": {
-    "at": "2026-11-21T12:30:48+00:00",
+    "at": "2026-11-21T22:40:41+00:00",
     "defense": [
      [
       "Forsling",
@@ -4743,36 +4743,36 @@
       "Jones"
      ],
      [
-      "Balinskis",
-      "Kulikov"
+      "Kulikov",
+      "Gudas"
      ]
     ],
     "extra": [],
     "forwards": [
      [
-      "Verhaeghe",
-      "Barkov",
-      "Reinhart"
-     ],
-     [
       "Tkachuk",
-      "Bennett",
+      "Lundell",
       "Tkachuk"
      ],
      [
+      "Verhaeghe",
+      "Reinhart",
+      "Eller"
+     ],
+     [
       "Luostarinen",
-      "Lundell",
-      "Marchand"
+      "Bennett",
+      "Vilmanis"
      ],
      [
       "Imama",
-      "Eller",
+      "Schwindt",
       "Hathaway"
      ]
     ],
-    "goalie": "Schmid",
-    "info_at": "2026-11-19T16:18:08+00:00",
-    "ref": "2123450762999013829",
+    "goalie": "Markstrom",
+    "info_at": "2026-11-21T22:35:53+00:00",
+    "ref": "2124270601485357401",
     "via": "Jameson Olive"
    },
    "nhlcom": {
@@ -5038,6 +5038,50 @@
    }
   },
   "NSH": {
+   "dfo": {
+    "at": "2026-11-21T22:40:40+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-21T22:35:38+00:00",
+    "ref": "2124270541158670747",
+    "via": "Nick Kieser"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
@@ -5612,7 +5656,7 @@
   },
   "PIT": {
    "dfo": {
-    "at": "2026-11-21T12:30:50+00:00",
+    "at": "2026-11-21T22:40:40+00:00",
     "defense": [
      [
       "Karlsson",
@@ -5651,9 +5695,9 @@
      ]
     ],
     "goalie": "Murashov",
-    "info_at": "2026-11-20T17:12:19+00:00",
-    "ref": "2123826788996390983",
-    "via": "Pens Inside Scoop"
+    "info_at": "2026-11-21T22:34:57+00:00",
+    "ref": "2124270368676520151",
+    "via": "@penguins"
    },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
