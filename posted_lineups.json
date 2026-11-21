@@ -4157,6 +4157,50 @@
    }
   },
   "CGY": {
+   "gameday": {
+    "at": "2026-11-21T20:11:28+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Farabee",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Gridin",
+      "Pospisil",
+      "Strome"
+     ],
+     [
+      "Sharangovich",
+      "Frost",
+      "Klapka"
+     ],
+     [
+      "Tsyplakov",
+      "Castagna",
+      "Suniev"
+     ]
+    ],
+    "goalie": "Wolf",
+    "info_at": "2026-11-21T20:07:33+00:00",
+    "ref": "2124233275254468999",
+    "via": "@RyanNPike"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
@@ -4201,6 +4245,50 @@
    }
   },
   "CHI": {
+   "gameday": {
+    "at": "2026-11-21T20:11:28+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Kaiser",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Smith",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Mangiapane",
+      "Greene",
+      "Boucher"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-21T20:08:03+00:00",
+    "ref": "2124233401066734028",
+    "via": "@BenPopeCST"
+   },
    "nhlcom": {
     "at": "2026-11-21T05:10:42+00:00",
     "defense": [
