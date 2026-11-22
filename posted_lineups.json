@@ -6214,6 +6214,50 @@
    }
   },
   "SEA": {
+   "dfo": {
+    "at": "2026-11-22T02:55:35+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Stephenson",
+      "Gaudreau",
+      "Winterton"
+     ],
+     [
+      "Meyers",
+      "Wood",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Grubauer",
+    "info_at": "2026-11-22T02:42:34+00:00",
+    "ref": "2124332682087989526",
+    "via": "Seattle Kraken"
+   },
    "nhlcom": {
     "at": "2026-11-21T19:13:28+00:00",
     "defense": [
