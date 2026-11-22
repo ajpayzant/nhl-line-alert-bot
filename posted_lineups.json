@@ -5611,48 +5611,30 @@
     "via": "Andrew Gross"
    },
    "gameday": {
-    "at": "2026-11-21T23:41:30+00:00",
-    "defense": [
-     [
-      "Stanley",
-      "Schaefer"
-     ],
-     [
-      "Pelech",
-      "DeAngelo"
-     ],
-     [
-      "Hutton",
-      "Kessel"
-     ]
-    ],
+    "at": "2026-11-22T01:06:24+00:00",
+    "defense": [],
     "extra": [],
     "forwards": [
      [
       "Holmstrom",
       "Horvat",
-      "Palmieri"
-     ],
-     [
-      "Palat",
-      "Barzal",
-      "Maccelli"
+      "Eklund"
      ],
      [
       "Heineman",
-      "Schenn",
-      "Eklund"
+      "Barzal",
+      "Palmieri"
      ],
      [
       "Cizikas",
       "Pageau",
-      "Duclair"
+      "Palat"
      ]
     ],
-    "goalie": "Sorokin",
-    "info_at": "2026-11-21T23:36:40+00:00",
-    "ref": "2124285899706142807",
-    "via": "@AGrossNewsday"
+    "goalie": "",
+    "info_at": "2026-11-22T01:05:13+00:00",
+    "ref": "2124308183783203169",
+    "via": "@stefen_rosner"
    },
    "nhlcom": {
     "at": "2026-11-21T17:02:22+00:00",
