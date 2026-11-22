@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-22T16:53:13.316Z",
+ "article_updated": "2026-11-22T17:58:34.481Z",
  "lineups": {
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
@@ -2643,6 +2643,54 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-22:CHI": {
+   "article_updated": "2026-11-22T17:58:34.481Z",
+   "defense": [
+    [
+     "Alex Vlasic",
+     "Sam Rinzel"
+    ],
+    [
+     "Ian Cole",
+     "Artyom Levshunov"
+    ],
+    [
+     "Kevin Korchinski",
+     "Ethan Del Mastro"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Ryan Donato",
+     "Roman Kantserov",
+     "Tyler Bertuzzi"
+    ],
+    [
+     "Oliver Moore",
+     "Frank Nazar",
+     "Patrick Kane"
+    ],
+    [
+     "Cole Smith",
+     "Dominic Toninato",
+     "Teuvo Teravainen"
+    ],
+    [
+     "Andrew Mangiapane",
+     "Ryan Greene",
+     "Dillon Boucher"
+    ]
+   ],
+   "goalies": [
+    "Drew Commesso",
+    "Spencer Knight"
+   ],
+   "scratched": [
+    "Jordan Greenway",
+    "Wyatt Kaiser"
+   ]
+  },
   "2026-11-22:DAL": {
    "article_updated": "2026-11-22T16:53:13.316Z",
    "defense": [
@@ -2929,6 +2977,54 @@
    "scratched": [
     "Max Crozier",
     "Emil Lilleberg"
+   ]
+  },
+  "2026-11-22:VAN": {
+   "article_updated": "2026-11-22T17:58:34.481Z",
+   "defense": [
+    [
+     "Zeev Buium",
+     "Filip Hronek"
+    ],
+    [
+     "Elias Pettersson",
+     "Tom Willander"
+    ],
+    [
+     "Jamie Oleksiak",
+     "Luke Schenn"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake DeBrusk",
+     "Filip Chytil",
+     "Brock Boeser"
+    ],
+    [
+     "Liam Ohgren",
+     "Marco Rossi",
+     "Jonathan Lekkerimäki"
+    ],
+    [
+     "Drew O'Connor",
+     "Ty Mueller",
+     "Linus Karlsson"
+    ],
+    [
+     "Arshdeep Bains",
+     "Jacob Quillan",
+     "Paul Cotter"
+    ]
+   ],
+   "goalies": [
+    "Nikita Tolopilo",
+    "Leevi Meriläinen"
+   ],
+   "scratched": [
+    "Cameron Crotty",
+    "Kevin Lankinen"
    ]
   }
  },
