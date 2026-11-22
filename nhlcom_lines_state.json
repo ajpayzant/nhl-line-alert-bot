@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-22T13:43:41.153Z",
+ "article_updated": "2026-11-22T15:23:54.838Z",
  "lineups": {
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
@@ -2546,6 +2546,55 @@
     "Justin Holl"
    ]
   },
+  "2026-11-22:BUF": {
+   "article_updated": "2026-11-22T15:23:54.838Z",
+   "defense": [
+    [
+     "Rasmus Dahlin",
+     "Mattias Samuelsson"
+    ],
+    [
+     "Conor Timmins",
+     "Owen Power"
+    ],
+    [
+     "Olen Zellweger",
+     "Zach Metsa"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Zach Benson",
+     "Jiri Kulich",
+     "Tage Thompson"
+    ],
+    [
+     "Peyton Krebs",
+     "Noah Ostlund",
+     "Jack Quinn"
+    ],
+    [
+     "Jason Zucker",
+     "Josh Norris",
+     "Josh Doan"
+    ],
+    [
+     "Beck Malenstyn",
+     "Tyson Kozak",
+     "Sam Carrick"
+    ]
+   ],
+   "goalies": [
+    "Ukko-Pekka Luukkonen",
+    "Colten Ellis"
+   ],
+   "scratched": [
+    "Louis Crevier",
+    "Ryan McLeod",
+    "Alex Lyon"
+   ]
+  },
   "2026-11-22:CAR": {
    "article_updated": "2026-11-22T13:43:41.153Z",
    "defense": [
@@ -2640,6 +2689,54 @@
    "scratched": [
     "Matt Rempe",
     "Matthew Robertson"
+   ]
+  },
+  "2026-11-22:TBL": {
+   "article_updated": "2026-11-22T15:23:54.838Z",
+   "defense": [
+    [
+     "Charle-Edouard D'Astous",
+     "John Carlson"
+    ],
+    [
+     "Ryan McDonagh",
+     "Erik Cernak"
+    ],
+    [
+     "Victor Hedman",
+     "J.J. Moser"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake Guentzel",
+     "Brayden Point",
+     "Nikita Kucherov"
+    ],
+    [
+     "Ilya Mikheyev",
+     "Anthony Cirelli",
+     "Pontus Holmberg"
+    ],
+    [
+     "Yanni Gourde",
+     "Sam O'Reilly",
+     "Gage Goncalves"
+    ],
+    [
+     "Jeffrey Viel",
+     "Jansen Harkins",
+     "Scott Sabourin"
+    ]
+   ],
+   "goalies": [
+    "Andrei Vasilevskiy",
+    "Dennis Hildeby"
+   ],
+   "scratched": [
+    "Max Crozier",
+    "Emil Lilleberg"
    ]
   }
  },
@@ -4977,6 +5074,108 @@
     ],
     [
      "Joel Hofer",
+     "G"
+    ]
+   ],
+   "TBL": [
+    [
+     "Anthony Cirelli",
+     "C"
+    ],
+    [
+     "Conor Geekie",
+     "C"
+    ],
+    [
+     "Zemgus Girgensons",
+     "C"
+    ],
+    [
+     "Gage Goncalves",
+     "C"
+    ],
+    [
+     "Yanni Gourde",
+     "C"
+    ],
+    [
+     "Jake Guentzel",
+     "C"
+    ],
+    [
+     "Brandon Hagel",
+     "L"
+    ],
+    [
+     "Jansen Harkins",
+     "C"
+    ],
+    [
+     "Pontus Holmberg",
+     "R"
+    ],
+    [
+     "Nikita Kucherov",
+     "R"
+    ],
+    [
+     "Ilya Mikheyev",
+     "R"
+    ],
+    [
+     "Sam O'Reilly",
+     "R"
+    ],
+    [
+     "Brayden Point",
+     "C"
+    ],
+    [
+     "Scott Sabourin",
+     "R"
+    ],
+    [
+     "Jeffrey Viel",
+     "L"
+    ],
+    [
+     "John Carlson",
+     "D"
+    ],
+    [
+     "Erik Cernak",
+     "D"
+    ],
+    [
+     "Max Crozier",
+     "D"
+    ],
+    [
+     "Charle-Edouard D'Astous",
+     "D"
+    ],
+    [
+     "Victor Hedman",
+     "D"
+    ],
+    [
+     "Emil Lilleberg",
+     "D"
+    ],
+    [
+     "Ryan McDonagh",
+     "D"
+    ],
+    [
+     "J.J. Moser",
+     "D"
+    ],
+    [
+     "Dennis Hildeby",
+     "G"
+    ],
+    [
+     "Andrei Vasilevskiy",
      "G"
     ]
    ],
