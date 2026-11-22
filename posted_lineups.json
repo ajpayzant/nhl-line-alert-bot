@@ -5093,6 +5093,50 @@
     "ref": "2124647947824726274",
     "via": "Robert Tiffin"
    },
+   "gameday": {
+    "at": "2026-11-22T23:41:24+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Taylor",
+      "Burroughs"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Robertson",
+      "Hintz",
+      "Hyry"
+     ],
+     [
+      "Benn",
+      "Johnston",
+      "Rantanen"
+     ],
+     [
+      "Steel",
+      "Hryckowian",
+      "Seguin"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-22T23:36:01+00:00",
+    "ref": "2124648123540865322",
+    "via": "@RobertTiffin"
+   },
    "nhlcom": {
     "at": "2026-11-22T16:53:34+00:00",
     "defense": [
@@ -5180,6 +5224,50 @@
     "info_at": "2026-11-22T23:27:14+00:00",
     "ref": "2124645914518417780",
     "via": "@EdmontonOilers"
+   },
+   "gameday": {
+    "at": "2026-11-22T23:41:24+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hallander",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Formenton",
+      "Dickinson",
+      "Dach"
+     ],
+     [
+      "Jones",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-22T23:36:18+00:00",
+    "ref": "2124648197264163279",
+    "via": "@Bob_Stauffer"
    },
    "nhlcom": {
     "at": "2026-11-22T16:05:27+00:00",
@@ -5669,6 +5757,50 @@
     "info_at": "2026-11-21T23:35:11+00:00",
     "ref": "2124285525041582381",
     "via": "Matthew DeFranks"
+   },
+   "gameday": {
+    "at": "2026-11-22T23:41:25+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Carlo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Snuggerud"
+     ],
+     [
+      "Holloway",
+      "McTavish",
+      "Dvorsky"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Walker"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-22T23:37:01+00:00",
+    "ref": "2124648376050622804",
+    "via": "@MDeFranks"
    },
    "nhlcom": {
     "at": "2026-11-22T16:05:27+00:00",
