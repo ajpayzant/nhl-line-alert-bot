@@ -355,9 +355,9 @@
       "Trenin",
       "Yurov"
     ],
-    "signature": "[[[\"Kaprizov\", \"Eriksson Ek\", \"Boldy\"], [\"Coleman\", \"McCarron\", \"Brink\"], [\"Trenin\", \"Yurov\", \"Shabanov\"], [\"Foligno\", \"Hartman\", \"Foligno\"]], [[\"Brodin\", \"Spurgeon\"], [\"Kiersted\", \"Faber\"], [\"Bogosian\", \"Spacek\"]], [\"Wallstedt\"], [\"Shabanov\", \"Eriksson Ek\", \"Kaprizov\", \"Faber\", \"Boldy\"]]",
-    "source": "",
-    "updated_at": "2026-11-21T19:43:08.843Z"
+    "signature": "[[[\"Kaprizov\", \"Eriksson Ek\", \"Boldy\"], [\"Coleman\", \"McCarron\", \"Brink\"], [\"Shabanov\", \"Yurov\", \"Trenin\"], [\"Foligno\", \"Hartman\", \"Foligno\"]], [[\"Brodin\", \"Faber\"], [\"Kiersted\", \"Spurgeon\"], [\"Bogosian\", \"Spacek\"]], [\"Wallstedt\"], [\"Shabanov\", \"Eriksson Ek\", \"Kaprizov\", \"Faber\", \"Boldy\"]]",
+    "source": "https://x.com/JoeSmithNHL/status/2124333000943190298",
+    "updated_at": "2026-11-22T02:50:00.514Z"
   },
   "MTL": {
     "goalie": "Fowler",
@@ -614,9 +614,9 @@
       "Trouba",
       "Wennberg"
     ],
-    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Gaudette\"], [\"Goodrow\", \"Ostapchuk\", \"Leason\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Allan\", \"Dickinson\"], [\"Orlov\", \"Trouba\"]], [\"Nedeljkovic\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
-    "source": "https://x.com/sheng_peng/status/2123861157262070089?s=46",
-    "updated_at": "2026-11-21T04:01:23.249Z"
+    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Gaudette\"], [\"Goodrow\", \"Ostapchuk\", \"Leason\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Orlov\", \"Trouba\"], [\"Allan\", \"Dickinson\"]], [\"Nedeljkovic\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
+    "source": "https://x.com/CurtisPashelka/status/2124331029918069199",
+    "updated_at": "2026-11-22T02:47:18.322Z"
   },
   "STL": {
     "goalie": "Binnington",
@@ -730,7 +730,6 @@
       "Buium",
       "Chytil",
       "Cotter",
-      "Crotty",
       "DeBrusk",
       "Hronek",
       "Karlsson",
@@ -742,11 +741,12 @@
       "Oleksiak",
       "Quillan",
       "Rossi",
+      "Schenn",
       "Willander"
     ],
-    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Nils Pettersson\", \"Willander\"], [\"Oleksiak\", \"Crotty\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
-    "source": "https://x.com/BatchHockey/status/2124194616522244522",
-    "updated_at": "2026-11-21T17:57:19.747Z"
+    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Nils Pettersson\", \"Willander\"], [\"Oleksiak\", \"Schenn\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
+    "source": "https://x.com/BatchHockey/status/2124331676390359094",
+    "updated_at": "2026-11-22T02:48:51.701Z"
   },
   "VGK": {
     "goalie": "Hart",

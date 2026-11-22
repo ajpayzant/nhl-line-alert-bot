@@ -5171,6 +5171,50 @@
    }
   },
   "MIN": {
+   "dfo": {
+    "at": "2026-11-22T02:50:40+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-22T02:43:50+00:00",
+    "ref": "2124333000943190298",
+    "via": "Joe Smith"
+   },
    "nhlcom": {
     "at": "2026-11-21T20:04:23+00:00",
     "defense": [
@@ -6214,6 +6258,50 @@
    }
   },
   "SJS": {
+   "dfo": {
+    "at": "2026-11-22T02:50:40+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Orlov",
+      "Trouba"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Leason"
+     ]
+    ],
+    "goalie": "Nedeljkovic",
+    "info_at": "2026-11-22T02:36:00+00:00",
+    "ref": "2124331029918069199",
+    "via": "Curtis Pashelka"
+   },
    "gameday": {
     "at": "2026-11-22T02:42:25+00:00",
     "defense": [
@@ -6745,7 +6833,7 @@
   },
   "VAN": {
    "dfo": {
-    "at": "2026-11-21T18:00:47+00:00",
+    "at": "2026-11-22T02:50:40+00:00",
     "defense": [
      [
       "Buium",
@@ -6757,7 +6845,7 @@
      ],
      [
       "Oleksiak",
-      "Crotty"
+      "Schenn"
      ]
     ],
     "extra": [],
@@ -6784,8 +6872,8 @@
      ]
     ],
     "goalie": "Meriläinen",
-    "info_at": "2026-11-21T17:33:56+00:00",
-    "ref": "2124194616522244522",
+    "info_at": "2026-11-22T02:38:34+00:00",
+    "ref": "2124331676390359094",
     "via": "Brendan Batchelor"
    },
    "gameday": {
