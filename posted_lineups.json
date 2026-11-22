@@ -6921,43 +6921,27 @@
     "via": "Brendan Batchelor"
    },
    "gameday": {
-    "at": "2026-11-22T02:42:26+00:00",
+    "at": "2026-11-22T03:52:25+00:00",
     "defense": [
      [
-      "Buium",
+      "Oleksiak",
       "Hronek"
      ],
      [
-      "?DPetey",
+      "Buium",
       "Willander"
      ],
      [
-      "Oleksiak",
+      "Pettersson",
       "Schenn"
      ]
     ],
     "extra": [],
-    "forwards": [
-     [
-      "DeBrusk",
-      "Chytil",
-      "Boeser"
-     ],
-     [
-      "?DOC",
-      "?Mueller",
-      "Karlsson"
-     ],
-     [
-      "Bains",
-      "Quillan",
-      "Cotter"
-     ]
-    ],
+    "forwards": [],
     "goalie": "",
-    "info_at": "2026-11-22T02:39:56+00:00",
-    "ref": "2124332019899629766",
-    "via": "@ThomasDrance"
+    "info_at": "2026-11-22T03:46:29+00:00",
+    "ref": "2124348767554159024",
+    "via": "@Adamkblat"
    },
    "nhlcom": {
     "at": "2026-11-21T20:04:23+00:00",
