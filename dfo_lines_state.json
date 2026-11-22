@@ -268,7 +268,7 @@
       "Formenton",
       "Frederic",
       "Hallander",
-      "Hyman",
+      "Jones",
       "Joseph",
       "Kapanen",
       "McDavid",
@@ -279,9 +279,9 @@
       "Shea",
       "Walman"
     ],
-    "signature": "[[[\"Dach\", \"McDavid\", \"Hyman\"], [\"Podkolzin\", \"Draisaitl\", \"Kapanen\"], [\"Hallander\", \"Dickinson\", \"Frederic\"], [\"Formenton\", \"Michaels\", \"Joseph\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Jarry\"], [\"Hyman\", \"Podkolzin\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
-    "source": "https://www.nhl.com/oilers/news/projected-lineup-oilers-at-blues-11-22-26",
-    "updated_at": "2026-11-22T20:25:56.843Z"
+    "signature": "[[[\"Dach\", \"McDavid\", \"Hallander\"], [\"Podkolzin\", \"Draisaitl\", \"Kapanen\"], [\"Frederic\", \"Dickinson\", \"Joseph\"], [\"Formenton\", \"Michaels\", \"Jones\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Jarry\"], [\"Kapanen\", \"Podkolzin\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
+    "source": "",
+    "updated_at": "2026-11-22T22:43:33.610Z"
   },
   "FLA": {
     "goalie": "Markstrom",
