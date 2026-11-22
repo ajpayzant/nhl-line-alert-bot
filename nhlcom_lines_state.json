@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-22T15:23:54.838Z",
+ "article_updated": "2026-11-22T16:04:32.074Z",
  "lineups": {
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
@@ -2643,6 +2643,54 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-22:EDM": {
+   "article_updated": "2026-11-22T16:04:32.074Z",
+   "defense": [
+    [
+     "Mattias Ekholm",
+     "Evan Bouchard"
+    ],
+    [
+     "Ryan Shea",
+     "Connor Murphy"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "Ty Emberson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Vasily Podkolzin",
+     "Connor McDavid",
+     "Leon Draisaitl"
+    ],
+    [
+     "Kasperi Kapanen",
+     "Colton Dach",
+     "Zach Hyman"
+    ],
+    [
+     "Filip Hallander",
+     "Jason Dickinson",
+     "Mathieu Joseph"
+    ],
+    [
+     "Alex Formenton",
+     "Owen Michaels",
+     "Trent Frederic"
+    ]
+   ],
+   "goalies": [
+    "Tristan Jarry",
+    "Devon Levi"
+   ],
+   "scratched": [
+    "Max Jones",
+    "Jake Walman"
+   ]
+  },
   "2026-11-22:NYR": {
    "article_updated": "2026-11-22T13:43:41.153Z",
    "defense": [
@@ -2689,6 +2737,54 @@
    "scratched": [
     "Matt Rempe",
     "Matthew Robertson"
+   ]
+  },
+  "2026-11-22:STL": {
+   "article_updated": "2026-11-22T16:04:32.074Z",
+   "defense": [
+    [
+     "Philip Broberg",
+     "Logan Mailloux"
+    ],
+    [
+     "Justin Barron",
+     "Colton Parayko"
+    ],
+    [
+     "Cam Fowler",
+     "Brandon Carlo"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake Neighbours",
+     "Robert Thomas",
+     "Jimmy Snuggerud"
+    ],
+    [
+     "Dylan Holloway",
+     "Mason McTavish",
+     "Dalibor Dvorsky"
+    ],
+    [
+     "Aleksanteri Kaskimaki",
+     "Pavel Buchnevich",
+     "Jonatan Berggren"
+    ],
+    [
+     "Alexey Toropchenko",
+     "Pius Suter",
+     "Ross Johnston"
+    ]
+   ],
+   "goalies": [
+    "Joel Hofer",
+    "Jordan Binnington"
+   ],
+   "scratched": [
+    "Nathan Walker",
+    "Calle Rosen"
    ]
   },
   "2026-11-22:TBL": {

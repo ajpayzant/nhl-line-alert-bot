@@ -4826,6 +4826,50 @@
     "info_at": "2026-11-22T13:43:41+00:00"
    }
   },
+  "EDM": {
+   "nhlcom": {
+    "at": "2026-11-22T16:05:27+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Kapanen",
+      "Dach",
+      "Hyman"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-22T16:04:32+00:00"
+   }
+  },
   "NYR": {
    "nhlcom": {
     "at": "2026-11-22T13:45:28+00:00",
@@ -4960,6 +5004,48 @@
     "info_at": "2026-11-21T23:35:11+00:00",
     "ref": "2124285525041582381",
     "via": "Matthew DeFranks"
+   },
+   "nhlcom": {
+    "at": "2026-11-22T16:05:27+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Carlo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Snuggerud"
+     ],
+     [
+      "Holloway",
+      "McTavish",
+      "Dvorsky"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Johnston"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-22T16:04:32+00:00"
    }
   },
   "TBL": {
