@@ -83,11 +83,11 @@
       "Blake",
       "Carrier",
       "Chatfield",
-      "Ehlers",
       "Gostisbehere",
       "Hall",
       "Jankowski",
       "Jarvis",
+      "Kotkaniemi",
       "Martinook",
       "Miller",
       "Nikishin",
@@ -98,9 +98,9 @@
       "Svechnikov",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Ehlers\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Hall\", \"Jankowski\", \"Robinson\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Ehlers\", \"Gostisbehere\"]]",
-    "source": "https://x.com/WaltRuff/status/2124194206625182187",
-    "updated_at": "2026-11-21T17:39:12.041Z"
+    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Kotkaniemi\", \"Jankowski\", \"Robinson\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
+    "source": "",
+    "updated_at": "2026-11-22T15:28:29.554Z"
   },
   "CBJ": {
     "goalie": "Talbot",
