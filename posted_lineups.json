@@ -6214,6 +6214,50 @@
    }
   },
   "SJS": {
+   "gameday": {
+    "at": "2026-11-22T02:42:25+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Orlov",
+      "Trouba"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Gaudette"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Leason"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-22T02:35:56+00:00",
+    "ref": "2124331012834640367",
+    "via": "@Real_Max_Miller"
+   },
    "nhlcom": {
     "at": "2026-11-21T19:13:28+00:00",
     "defense": [
@@ -6745,7 +6789,7 @@
     "via": "Brendan Batchelor"
    },
    "gameday": {
-    "at": "2026-11-21T17:40:31+00:00",
+    "at": "2026-11-22T02:42:26+00:00",
     "defense": [
      [
       "Buium",
@@ -6757,7 +6801,7 @@
      ],
      [
       "Oleksiak",
-      "Crotty"
+      "Schenn"
      ]
     ],
     "extra": [],
@@ -6779,8 +6823,8 @@
      ]
     ],
     "goalie": "",
-    "info_at": "2026-11-21T17:39:14+00:00",
-    "ref": "2124195948197020050",
+    "info_at": "2026-11-22T02:39:56+00:00",
+    "ref": "2124332019899629766",
     "via": "@ThomasDrance"
    },
    "nhlcom": {
