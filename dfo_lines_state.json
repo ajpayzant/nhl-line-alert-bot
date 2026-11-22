@@ -4,7 +4,6 @@
     "players": [
       "Carlsson",
       "Caulfield",
-      "Colangelo",
       "Gauthier",
       "Granlund",
       "Helleson",
@@ -15,15 +14,16 @@
       "McQueen",
       "Mintyukov",
       "Moore",
+      "Myatovic",
       "Nesterenko",
       "Solberg",
       "Terry",
       "Vatrano",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Colangelo\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Husso\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://x.com/ZachCav/status/2124204696621748315",
-    "updated_at": "2026-11-21T18:50:36.768Z"
+    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Myatovic\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Husso\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://x.com/ZachCav/status/2124316121319047221",
+    "updated_at": "2026-11-22T01:37:52.058Z"
   },
   "BOS": {
     "goalie": "Swayman",
