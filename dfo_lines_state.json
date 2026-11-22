@@ -55,13 +55,13 @@
     "players": [
       "Benson",
       "Carrick",
+      "Crevier",
       "Dahlin",
       "Doan",
-      "Kozak",
       "Krebs",
       "Kulich",
       "Malenstyn",
-      "Metsa",
+      "McLeod",
       "Norris",
       "Ostlund",
       "Power",
@@ -72,9 +72,9 @@
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020361",
-    "updated_at": "2026-11-22T18:27:06.792Z"
+    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"McLeod\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
+    "source": "https://x.com/rachelmlenzi/status/2124617934383251871",
+    "updated_at": "2026-11-22T21:38:04.316Z"
   },
   "CAR": {
     "goalie": "Bussi",
@@ -645,7 +645,7 @@
     "updated_at": "2026-11-22T18:39:52.031Z"
   },
   "TBL": {
-    "goalie": "Vasilevskiy",
+    "goalie": "Hildeby",
     "players": [
       "Carlson",
       "Cernak",
@@ -666,9 +666,9 @@
       "Sabourin",
       "Viel"
     ],
-    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://x.com/BenjaminJReport/status/2124172267202470057",
-    "updated_at": "2026-11-21T17:25:14.113Z"
+    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Hildeby\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
+    "source": "https://x.com/BenjaminJReport/status/2124617593923285048",
+    "updated_at": "2026-11-22T21:36:47.662Z"
   },
   "TOR": {
     "goalie": "Stolarz",

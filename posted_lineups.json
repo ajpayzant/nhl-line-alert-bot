@@ -4698,7 +4698,7 @@
   },
   "BUF": {
    "dfo": {
-    "at": "2026-11-22T12:58:42+00:00",
+    "at": "2026-11-22T21:38:38+00:00",
     "defense": [
      [
       "Samuelsson",
@@ -4710,7 +4710,7 @@
      ],
      [
       "Zellweger",
-      "Metsa"
+      "Crevier"
      ]
     ],
     "extra": [],
@@ -4732,13 +4732,13 @@
      ],
      [
       "Malenstyn",
-      "Kozak",
+      "McLeod",
       "Carrick"
      ]
     ],
     "goalie": "Luukkonen",
-    "info_at": "2026-11-21T22:37:20+00:00",
-    "ref": "2124270967824478503",
+    "info_at": "2026-11-22T21:36:03+00:00",
+    "ref": "2124617934383251871",
     "via": "Rachel Lenzi"
    },
    "nhlcom": {
@@ -5537,6 +5537,50 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-22T21:38:37+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Gourde",
+      "O'Reilly",
+      "Goncalves"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Viel",
+      "Harkins",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Hildeby",
+    "info_at": "2026-11-22T21:34:42+00:00",
+    "ref": "2124617593923285048",
+    "via": "Benjamin Pierce"
+   },
    "nhlcom": {
     "at": "2026-11-22T15:24:27+00:00",
     "defense": [
