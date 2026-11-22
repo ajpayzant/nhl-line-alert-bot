@@ -5627,18 +5627,18 @@
   },
   "PIT": {
    "dfo": {
-    "at": "2026-11-22T12:58:42+00:00",
+    "at": "2026-11-22T23:43:36+00:00",
     "defense": [
      [
-      "Karlsson",
-      "Korczak"
+      "Stastney",
+      "Karlsson"
      ],
      [
       "Girard",
-      "van Riemsdyk"
+      "Korczak"
      ],
      [
-      "Stastney",
+      "van Riemsdyk",
       "Letang"
      ]
     ],
@@ -5650,9 +5650,9 @@
       "Rakell"
      ],
      [
-      "Kuzmenko",
+      "Chinakhov",
       "Kindel",
-      "Chinakhov"
+      "Hayes"
      ],
      [
       "McGroarty",
@@ -5662,12 +5662,12 @@
      [
       "Dewar",
       "Lizotte",
-      "Hayes"
+      "Brazeau"
      ]
     ],
     "goalie": "Silovs",
-    "info_at": "2026-11-21T22:34:57+00:00",
-    "ref": "2124270368676520151",
+    "info_at": "2026-11-22T23:37:28+00:00",
+    "ref": "2124648488822505851",
     "via": "@penguins"
    },
    "nhlcom": {
@@ -5715,7 +5715,7 @@
   },
   "STL": {
    "dfo": {
-    "at": "2026-11-22T12:58:42+00:00",
+    "at": "2026-11-22T23:43:36+00:00",
     "defense": [
      [
       "Broberg",
@@ -5750,13 +5750,13 @@
      [
       "Toropchenko",
       "Suter",
-      "Johnston"
+      "Walker"
      ]
     ],
     "goalie": "Hofer",
-    "info_at": "2026-11-21T23:35:11+00:00",
-    "ref": "2124285525041582381",
-    "via": "Matthew DeFranks"
+    "info_at": "2026-11-22T23:37:11+00:00",
+    "ref": "2124648418723467623",
+    "via": "Jeremy Rutherford"
    },
    "gameday": {
     "at": "2026-11-22T23:41:25+00:00",

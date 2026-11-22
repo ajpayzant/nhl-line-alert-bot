@@ -543,7 +543,7 @@
   "PIT": {
     "goalie": "Silovs",
     "players": [
-      "Carlile",
+      "Brazeau",
       "Chinakhov",
       "Crosby",
       "Dewar",
@@ -553,18 +553,18 @@
       "Kindel",
       "Koivunen",
       "Korczak",
-      "Kuzmenko",
       "Lapierre",
       "Letang",
       "Lizotte",
       "McGroarty",
       "Novak",
       "Rakell",
+      "Stastney",
       "van Riemsdyk"
     ],
-    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Kuzmenko\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Karlsson\", \"Korczak\"], [\"Girard\", \"van Riemsdyk\"], [\"Carlile\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020362",
-    "updated_at": "2026-11-22T18:33:14.477Z"
+    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Chinakhov\", \"Kindel\", \"Hayes\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Brazeau\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"van Riemsdyk\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "source": "https://x.com/penguins/status/2124648488822505851/photo/1",
+    "updated_at": "2026-11-22T23:39:58.678Z"
   },
   "SEA": {
     "goalie": "Grubauer",
@@ -629,7 +629,6 @@
       "Dvorsky",
       "Fowler",
       "Holloway",
-      "Johnston",
       "Kaskimaki",
       "Mailloux",
       "McTavish",
@@ -638,11 +637,12 @@
       "Snuggerud",
       "Suter",
       "Thomas",
-      "Toropchenko"
+      "Toropchenko",
+      "Walker"
     ],
-    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Dvorsky\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Johnston\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020368",
-    "updated_at": "2026-11-22T18:39:52.031Z"
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Dvorsky\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Walker\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "source": "https://x.com/jprutherford/status/2124648418723467623",
+    "updated_at": "2026-11-22T23:41:54.302Z"
   },
   "TBL": {
     "goalie": "Hildeby",
