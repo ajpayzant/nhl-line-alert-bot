@@ -5008,6 +5008,50 @@
    }
   },
   "NYR": {
+   "dfo": {
+    "at": "2026-11-22T17:08:37+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Robertson",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Perreault",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Cuylle",
+      "Miller",
+      "Kartye"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Rempe"
+     ]
+    ],
+    "goalie": "Garand",
+    "info_at": "2026-11-22T17:05:14+00:00",
+    "ref": "2124549780067992025",
+    "via": "Jonny Lazarus"
+   },
    "nhlcom": {
     "at": "2026-11-22T13:45:28+00:00",
     "defense": [
