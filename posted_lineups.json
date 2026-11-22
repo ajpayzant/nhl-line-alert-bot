@@ -5183,6 +5183,52 @@
     "info_at": "2026-11-22T13:43:41+00:00"
    }
   },
+  "PHI": {
+   "gameday": {
+    "at": "2026-11-22T17:27:22+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-22T17:23:32+00:00",
+    "ref": "2124554385208508632",
+    "via": "@JHallNBCS"
+   }
+  },
   "PIT": {
    "dfo": {
     "at": "2026-11-22T12:58:42+00:00",
@@ -5401,6 +5447,52 @@
     ],
     "goalie": "Vasilevskiy",
     "info_at": "2026-11-22T15:23:54+00:00"
+   }
+  },
+  "TOR": {
+   "gameday": {
+    "at": "2026-11-22T17:27:23+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Brisson"
+     ],
+     [
+      "McKenna",
+      "Tavares",
+      "Tverberg"
+     ],
+     [
+      "Joshua",
+      "Blueger",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "?Raty",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Bobrovsky",
+    "info_at": "2026-11-22T17:23:37+00:00",
+    "ref": "2124554406138101882",
+    "via": "@koshtorontosun"
    }
   }
  }
