@@ -98,9 +98,9 @@
       "Svechnikov",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Kotkaniemi\", \"Jankowski\", \"Robinson\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
-    "source": "",
-    "updated_at": "2026-11-22T15:28:29.554Z"
+    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
+    "source": "https://x.com/WaltRuff/status/2124550109241450505",
+    "updated_at": "2026-11-22T17:09:24.695Z"
   },
   "CBJ": {
     "goalie": "Talbot",
@@ -479,12 +479,12 @@
       "Perreault",
       "Pettersson",
       "Rempe",
-      "Robertson",
       "Sasson",
+      "Schneider",
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Robertson\", \"Morrow\"]], [\"Garand\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
+    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
     "source": "https://x.com/JLazzy23/status/2124549780067992025",
     "updated_at": "2026-11-22T17:08:25.569Z"
   },

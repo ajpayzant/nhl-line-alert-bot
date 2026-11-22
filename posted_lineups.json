@@ -4786,7 +4786,7 @@
   },
   "CAR": {
    "dfo": {
-    "at": "2026-11-22T12:58:39+00:00",
+    "at": "2026-11-22T17:13:35+00:00",
     "defense": [
      [
       "Slavin",
@@ -4809,7 +4809,7 @@
       "Svechnikov"
      ],
      [
-      "Ehlers",
+      "Hall",
       "Stankoven",
       "Blake"
      ],
@@ -4819,14 +4819,14 @@
       "Jarvis"
      ],
      [
-      "Hall",
+      "Robinson",
       "Jankowski",
-      "Robinson"
+      "Kotkaniemi"
      ]
     ],
     "goalie": "Bussi",
-    "info_at": "2026-11-21T17:32:19+00:00",
-    "ref": "2124194206625182187",
+    "info_at": "2026-11-22T17:06:32+00:00",
+    "ref": "2124550109241450505",
     "via": "Walt Ruff"
    },
    "gameday": {
@@ -5053,7 +5053,7 @@
   },
   "NYR": {
    "dfo": {
-    "at": "2026-11-22T17:08:37+00:00",
+    "at": "2026-11-22T17:13:35+00:00",
     "defense": [
      [
       "Gavrikov",
@@ -5064,7 +5064,7 @@
       "Durzi"
      ],
      [
-      "Robertson",
+      "Schneider",
       "Morrow"
      ]
     ],
