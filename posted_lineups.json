@@ -4651,6 +4651,50 @@
  },
  "2026-11-22": {
   "BOS": {
+   "dfo": {
+    "at": "2026-11-22T23:33:33+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-22T16:32:11+00:00",
+    "ref": "2124541462532546691",
+    "via": "Belle Fraser"
+   },
    "gameday": {
     "at": "2026-11-22T16:56:21+00:00",
     "defense": [
@@ -5050,7 +5094,7 @@
   },
   "EDM": {
    "dfo": {
-    "at": "2026-11-22T20:28:34+00:00",
+    "at": "2026-11-22T23:33:34+00:00",
     "defense": [
      [
       "Ekholm",
@@ -5068,29 +5112,30 @@
     "extra": [],
     "forwards": [
      [
-      "Dach",
+      "Hallander",
       "McDavid",
-      "Hyman"
+      "Kapanen"
      ],
      [
       "Podkolzin",
       "Draisaitl",
-      "Kapanen"
-     ],
-     [
-      "Hallander",
-      "Dickinson",
-      "Frederic"
+      "Joseph"
      ],
      [
       "Formenton",
+      "Dickinson",
+      "Dach"
+     ],
+     [
+      "Jones",
       "Michaels",
-      "Joseph"
+      "Frederic"
      ]
     ],
     "goalie": "Jarry",
-    "info_at": "2026-11-22T20:25:56+00:00",
-    "via": "Edmonton Oilers"
+    "info_at": "2026-11-22T23:27:14+00:00",
+    "ref": "2124645914518417780",
+    "via": "@EdmontonOilers"
    },
    "nhlcom": {
     "at": "2026-11-22T16:05:27+00:00",
@@ -5359,6 +5404,50 @@
    }
   },
   "PHI": {
+   "dfo": {
+    "at": "2026-11-22T23:33:33+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Vladar",
+    "info_at": "2026-11-22T17:21:22+00:00",
+    "ref": "2124553841790054818",
+    "via": "Jordan Hall"
+   },
    "gameday": {
     "at": "2026-11-22T17:27:22+00:00",
     "defense": [
