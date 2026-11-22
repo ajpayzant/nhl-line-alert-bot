@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-22T06:40:58.557Z",
+ "article_updated": "2026-11-22T13:43:41.153Z",
  "lineups": {
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
@@ -2544,6 +2544,102 @@
     "Ethen Frank",
     "Ivan Miroshnichenko",
     "Justin Holl"
+   ]
+  },
+  "2026-11-22:CAR": {
+   "article_updated": "2026-11-22T13:43:41.153Z",
+   "defense": [
+    [
+     "Jaccob Slavin",
+     "Jalen Chatfield"
+    ],
+    [
+     "K'Andre Miller",
+     "Sean Walker"
+    ],
+    [
+     "Shayne Gostisbehere",
+     "Alexander Nikishin"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "William Carrier",
+     "Sebastian Aho",
+     "Andrei Svechnikov"
+    ],
+    [
+     "Taylor Hall",
+     "Logan Stankoven",
+     "Jackson Blake"
+    ],
+    [
+     "Jordan Martinook",
+     "Jordan Staal",
+     "Seth Jarvis"
+    ],
+    [
+     "Jesperi Kotkaniemi",
+     "Mark Jankowski",
+     "Eric Robinson"
+    ]
+   ],
+   "goalies": [
+    "Brandon Bussi",
+    "Pyotr Kochetkov"
+   ],
+   "scratched": [
+    "Juuso Välimäki",
+    "Nicolas Deslauriers"
+   ]
+  },
+  "2026-11-22:NYR": {
+   "article_updated": "2026-11-22T13:43:41.153Z",
+   "defense": [
+    [
+     "Vladislav Gavrikov",
+     "Adam Fox"
+    ],
+    [
+     "Marcus Pettersson",
+     "Sean Durzi"
+    ],
+    [
+     "Braden Schneider",
+     "Scott Morrow"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Gabe Perreault",
+     "Mika Zibanejad",
+     "Alexis Lafrenière"
+    ],
+    [
+     "Will Cuylle",
+     "J.T. Miller",
+     "Tye Kartye"
+    ],
+    [
+     "Jaroslav Chmelar",
+     "Noah Laba",
+     "Eeli Tolvanen"
+    ],
+    [
+     "Max Sasson",
+     "Glenn Gawdin",
+     "Taylor Raddysh"
+    ]
+   ],
+   "goalies": [
+    "Dylan Garand",
+    "Joonas Korpisalo"
+   ],
+   "scratched": [
+    "Matt Rempe",
+    "Matthew Robertson"
    ]
   }
  },
