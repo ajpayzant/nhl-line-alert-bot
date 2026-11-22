@@ -4650,7 +4650,97 @@
   }
  },
  "2026-11-22": {
+  "BUF": {
+   "dfo": {
+    "at": "2026-11-22T12:58:42+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Metsa"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "Kozak",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Luukkonen",
+    "info_at": "2026-11-21T22:37:20+00:00",
+    "ref": "2124270967824478503",
+    "via": "Rachel Lenzi"
+   }
+  },
   "CAR": {
+   "dfo": {
+    "at": "2026-11-22T12:58:39+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Ehlers",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Hall",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Bussi",
+    "info_at": "2026-11-21T17:32:19+00:00",
+    "ref": "2124194206625182187",
+    "via": "Walt Ruff"
+   },
    "nhlcom": {
     "at": "2026-11-22T06:43:31+00:00",
     "defense": [
@@ -4692,6 +4782,98 @@
     ],
     "goalie": "Bussi",
     "info_at": "2026-11-22T06:40:58+00:00"
+   }
+  },
+  "PIT": {
+   "dfo": {
+    "at": "2026-11-22T12:58:42+00:00",
+    "defense": [
+     [
+      "Karlsson",
+      "Korczak"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Stastney",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Novak",
+      "Crosby",
+      "Rakell"
+     ],
+     [
+      "Kuzmenko",
+      "Kindel",
+      "Chinakhov"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "Silovs",
+    "info_at": "2026-11-21T22:34:57+00:00",
+    "ref": "2124270368676520151",
+    "via": "@penguins"
+   }
+  },
+  "STL": {
+   "dfo": {
+    "at": "2026-11-22T12:58:42+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Carlo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Snuggerud"
+     ],
+     [
+      "Holloway",
+      "McTavish",
+      "Dvorsky"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Johnston"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-21T23:35:11+00:00",
+    "ref": "2124285525041582381",
+    "via": "Matthew DeFranks"
    }
   }
  }

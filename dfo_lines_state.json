@@ -51,7 +51,7 @@
     "updated_at": "2026-11-21T23:40:32.155Z"
   },
   "BUF": {
-    "goalie": "Lyon",
+    "goalie": "Luukkonen",
     "players": [
       "Benson",
       "Carrick",
@@ -72,12 +72,12 @@
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Lyon\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
+    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"Kozak\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Metsa\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
     "source": "https://x.com/rachelmlenzi/status/2124270967824478503",
     "updated_at": "2026-11-21T22:39:00.410Z"
   },
   "CAR": {
-    "goalie": "Kochetkov",
+    "goalie": "Bussi",
     "players": [
       "Aho",
       "Blake",
@@ -98,7 +98,7 @@
       "Svechnikov",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Ehlers\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Hall\", \"Jankowski\", \"Robinson\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Kochetkov\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Ehlers\", \"Gostisbehere\"]]",
+    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Ehlers\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Hall\", \"Jankowski\", \"Robinson\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Ehlers\", \"Gostisbehere\"]]",
     "source": "https://x.com/WaltRuff/status/2124194206625182187",
     "updated_at": "2026-11-21T17:39:12.041Z"
   },
@@ -541,7 +541,7 @@
     "updated_at": "2026-11-21T23:48:23.357Z"
   },
   "PIT": {
-    "goalie": "Murashov",
+    "goalie": "Silovs",
     "players": [
       "Chinakhov",
       "Crosby",
@@ -562,7 +562,7 @@
       "Stastney",
       "van Riemsdyk"
     ],
-    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Kuzmenko\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Karlsson\", \"Korczak\"], [\"Girard\", \"van Riemsdyk\"], [\"Stastney\", \"Letang\"]], [\"Murashov\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "signature": "[[[\"Novak\", \"Crosby\", \"Rakell\"], [\"Kuzmenko\", \"Kindel\", \"Chinakhov\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Karlsson\", \"Korczak\"], [\"Girard\", \"van Riemsdyk\"], [\"Stastney\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Kindel\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
     "source": "https://x.com/penguins/status/2124270368676520151",
     "updated_at": "2026-11-21T22:35:56.610Z"
   },
@@ -619,7 +619,7 @@
     "updated_at": "2026-11-22T02:47:18.322Z"
   },
   "STL": {
-    "goalie": "Binnington",
+    "goalie": "Hofer",
     "players": [
       "Barron",
       "Berggren",
@@ -640,7 +640,7 @@
       "Thomas",
       "Toropchenko"
     ],
-    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Dvorsky\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Johnston\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Binnington\"], [\"Snuggerud\", \"Buchnevich\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Snuggerud\"], [\"Holloway\", \"McTavish\", \"Dvorsky\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Johnston\"]], [[\"Broberg\", \"Mailloux\"], [\"Barron\", \"Parayko\"], [\"Fowler\", \"Carlo\"]], [\"Hofer\"], [\"Snuggerud\", \"Buchnevich\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
     "source": "https://x.com/MDeFranks/status/2124285525041582381",
     "updated_at": "2026-11-21T23:41:15.043Z"
   },
