@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-22T16:04:32.074Z",
+ "article_updated": "2026-11-22T16:53:13.316Z",
  "lineups": {
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
@@ -2643,6 +2643,54 @@
     "Nicolas Deslauriers"
    ]
   },
+  "2026-11-22:DAL": {
+   "article_updated": "2026-11-22T16:53:13.316Z",
+   "defense": [
+    [
+     "Esa Lindell",
+     "Miro Heiskanen"
+    ],
+    [
+     "Thomas Harley",
+     "Nils Lundkvist"
+    ],
+    [
+     "Trey Taylor",
+     "Kyle Burroughs"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jamie Benn",
+     "Wyatt Johnston",
+     "Mikko Rantanen"
+    ],
+    [
+     "Jason Robertson",
+     "Roope Hintz",
+     "Arttu Hyry"
+    ],
+    [
+     "Sam Steel",
+     "Justin Hryckowian",
+     "Tyler Seguin"
+    ],
+    [
+     "Joel Kiviranta",
+     "Radek Faksa",
+     "David Perron"
+    ]
+   ],
+   "goalies": [
+    "Jake Oettinger",
+    "Casey DeSmith"
+   ],
+   "scratched": [
+    "Colin Blackwell",
+    "Rémi Poirier"
+   ]
+  },
   "2026-11-22:EDM": {
    "article_updated": "2026-11-22T16:04:32.074Z",
    "defense": [
@@ -2737,6 +2785,54 @@
    "scratched": [
     "Matt Rempe",
     "Matthew Robertson"
+   ]
+  },
+  "2026-11-22:PIT": {
+   "article_updated": "2026-11-22T16:53:13.316Z",
+   "defense": [
+    [
+     "Erik Karlsson",
+     "Kaedan Korczak"
+    ],
+    [
+     "Samuel Girard",
+     "Trevor van Riemsdyk"
+    ],
+    [
+     "Spencer Stastney",
+     "Kris Letang"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Rickard Rakell",
+     "Sidney Crosby",
+     "Tommy Novak"
+    ],
+    [
+     "Andrei Kuzmenko",
+     "Ben Kindel",
+     "Egor Chinakhov"
+    ],
+    [
+     "Rutger McGroarty",
+     "Hendrix Lapierre",
+     "Ville Koivunen"
+    ],
+    [
+     "Connor Dewar",
+     "Blake Lizotte",
+     "Avery Hayes"
+    ]
+   ],
+   "goalies": [
+    "Arturs Silovs",
+    "Sergei Murashov"
+   ],
+   "scratched": [
+    "Justin Brazeau",
+    "Declan Carlile"
    ]
   },
   "2026-11-22:STL": {
@@ -3542,6 +3638,112 @@
     ],
     [
      "Spencer Knight",
+     "G"
+    ]
+   ],
+   "DAL": [
+    [
+     "Jamie Benn",
+     "L"
+    ],
+    [
+     "Colin Blackwell",
+     "C"
+    ],
+    [
+     "Oskar Bäck",
+     "C"
+    ],
+    [
+     "Matt Duchene",
+     "C"
+    ],
+    [
+     "Radek Faksa",
+     "C"
+    ],
+    [
+     "Roope Hintz",
+     "C"
+    ],
+    [
+     "Justin Hryckowian",
+     "C"
+    ],
+    [
+     "Arttu Hyry",
+     "R"
+    ],
+    [
+     "Wyatt Johnston",
+     "C"
+    ],
+    [
+     "Joel Kiviranta",
+     "L"
+    ],
+    [
+     "David Perron",
+     "L"
+    ],
+    [
+     "Mikko Rantanen",
+     "R"
+    ],
+    [
+     "Jason Robertson",
+     "L"
+    ],
+    [
+     "Tyler Seguin",
+     "C"
+    ],
+    [
+     "Sam Steel",
+     "C"
+    ],
+    [
+     "Lian Bichsel",
+     "D"
+    ],
+    [
+     "Kyle Burroughs",
+     "D"
+    ],
+    [
+     "Kyle Capobianco",
+     "D"
+    ],
+    [
+     "Thomas Harley",
+     "D"
+    ],
+    [
+     "Miro Heiskanen",
+     "D"
+    ],
+    [
+     "Esa Lindell",
+     "D"
+    ],
+    [
+     "Nils Lundkvist",
+     "D"
+    ],
+    [
+     "Tyler Myers",
+     "D"
+    ],
+    [
+     "Trey Taylor",
+     "D"
+    ],
+    [
+     "Casey DeSmith",
+     "G"
+    ],
+    [
+     "Jake Oettinger",
      "G"
     ]
    ],

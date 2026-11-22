@@ -4826,6 +4826,50 @@
     "info_at": "2026-11-22T13:43:41+00:00"
    }
   },
+  "DAL": {
+   "nhlcom": {
+    "at": "2026-11-22T16:53:34+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Taylor",
+      "Burroughs"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benn",
+      "Johnston",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Hintz",
+      "Hyry"
+     ],
+     [
+      "Steel",
+      "Hryckowian",
+      "Seguin"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-22T16:53:13+00:00"
+   }
+  },
   "EDM": {
    "nhlcom": {
     "at": "2026-11-22T16:05:27+00:00",
@@ -5005,6 +5049,48 @@
     "info_at": "2026-11-21T22:34:57+00:00",
     "ref": "2124270368676520151",
     "via": "@penguins"
+   },
+   "nhlcom": {
+    "at": "2026-11-22T16:53:34+00:00",
+    "defense": [
+     [
+      "Karlsson",
+      "Korczak"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Stastney",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Novak"
+     ],
+     [
+      "Kuzmenko",
+      "Kindel",
+      "Chinakhov"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "Silovs",
+    "info_at": "2026-11-22T16:53:13+00:00"
    }
   },
   "STL": {
