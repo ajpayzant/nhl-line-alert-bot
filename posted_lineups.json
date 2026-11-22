@@ -5611,13 +5611,18 @@
     "via": "Andrew Gross"
    },
    "gameday": {
-    "at": "2026-11-22T01:06:24+00:00",
+    "at": "2026-11-22T01:32:26+00:00",
     "defense": [],
     "extra": [],
     "forwards": [
      [
       "Holmstrom",
       "Horvat",
+      "Maccelli"
+     ],
+     [
+      "Duclair",
+      "Schenn",
       "Eklund"
      ],
      [
@@ -5632,8 +5637,8 @@
      ]
     ],
     "goalie": "",
-    "info_at": "2026-11-22T01:05:13+00:00",
-    "ref": "2124308183783203169",
+    "info_at": "2026-11-22T01:25:50+00:00",
+    "ref": "2124313370841210880",
     "via": "@stefen_rosner"
    },
    "nhlcom": {
