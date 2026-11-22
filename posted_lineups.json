@@ -4741,6 +4741,50 @@
     "ref": "2124617934383251871",
     "via": "Rachel Lenzi"
    },
+   "gameday": {
+    "at": "2026-11-22T21:42:27+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Timmins",
+      "Power"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "McLeod",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Ellis",
+    "info_at": "2026-11-22T21:37:49+00:00",
+    "ref": "2124618376647737819",
+    "via": "@rachelmlenzi"
+   },
    "nhlcom": {
     "at": "2026-11-22T15:24:27+00:00",
     "defense": [
@@ -5580,6 +5624,50 @@
     "info_at": "2026-11-22T21:34:42+00:00",
     "ref": "2124617593923285048",
     "via": "Benjamin Pierce"
+   },
+   "gameday": {
+    "at": "2026-11-22T21:42:26+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guentzel",
+      "Point",
+      "Kucherov"
+     ],
+     [
+      "Mikheyev",
+      "Cirelli",
+      "Holmberg"
+     ],
+     [
+      "Goncalves",
+      "O'Reilly",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "Harkins",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-22T21:35:55+00:00",
+    "ref": "2124617898996216030",
+    "via": "@Gabby_Shirley_"
    },
    "nhlcom": {
     "at": "2026-11-22T15:24:27+00:00",
