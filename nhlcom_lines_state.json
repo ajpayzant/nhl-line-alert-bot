@@ -1,338 +1,6 @@
 {
- "article_updated": "2026-11-21T22:59:29.636Z",
+ "article_updated": "2026-11-22T06:40:58.557Z",
  "lineups": {
-  "2026-11-18:BOS": {
-   "article_updated": "2026-11-18T19:57:51.997Z",
-   "defense": [
-    [
-     "Hampus Lindholm",
-     "Charlie McAvoy"
-    ],
-    [
-     "Nikita Zadorov",
-     "Will Borgen"
-    ],
-    [
-     "Mason Lohrei",
-     "Connor Clifton"
-    ]
-   ],
-   "forwards": [
-    [
-     "JJ Peterka",
-     "Pavel Zacha",
-     "David Pastrnak"
-    ],
-    [
-     "Michael Eyssimont",
-     "Fraser Minten",
-     "Morgan Geekie"
-    ],
-    [
-     "Casey Mittelstadt",
-     "Elias Lindholm",
-     "Marat Khusnutdinov"
-    ],
-    [
-     "Tanner Jeannot",
-     "Sean Kuraly",
-     "Mark Kastelic"
-    ]
-   ],
-   "goalies": [
-    "Jeremy Swayman",
-    "Michael DiPietro"
-   ],
-   "scratched": [
-    "Matthew Poitras",
-    "Frederic Brunet",
-    "Jonathan Aspirot"
-   ]
-  },
-  "2026-11-18:CAR": {
-   "article_updated": "2026-11-19T14:31:06.287Z",
-   "defense": [
-    [
-     "Jaccob Slavin",
-     "Jalen Chatfield"
-    ],
-    [
-     "K'Andre Miller",
-     "Sean Walker"
-    ],
-    [
-     "Shayne Gostisbehere",
-     "Alexander Nikishin"
-    ]
-   ],
-   "forwards": [
-    [
-     "William Carrier",
-     "Sebastian Aho",
-     "Andrei Svechnikov"
-    ],
-    [
-     "Nikolaj Ehlers",
-     "Logan Stankoven",
-     "Jackson Blake"
-    ],
-    [
-     "Jordan Martinook",
-     "Jordan Staal",
-     "Seth Jarvis"
-    ],
-    [
-     "Taylor Hall",
-     "Mark Jankowski",
-     "Eric Robinson"
-    ]
-   ],
-   "goalies": [
-    "Pyotr Kochetkov",
-    "Brandon Bussi"
-   ],
-   "scratched": [
-    "Juuso Välimäki",
-    "Jesperi Kotkaniemi",
-    "Nicolas Deslauriers"
-   ]
-  },
-  "2026-11-18:COL": {
-   "article_updated": "2026-11-18T19:53:14.882Z",
-   "defense": [
-    [
-     "Devon Toews",
-     "Sam Malinski"
-    ],
-    [
-     "Brett Kulak",
-     "Noah Juulsen"
-    ],
-    [
-     "Alex Gagne",
-     "Brent Burns"
-    ]
-   ],
-   "forwards": [
-    [
-     "Artturi Lehkonen",
-     "Brock Nelson",
-     "Martin Necas"
-    ],
-    [
-     "Jaden Schwartz",
-     "Nazem Kadri",
-     "T.J. Hughes"
-    ],
-    [
-     "Gabriel Landeskog",
-     "Nicolas Roy",
-     "Gavin Brindley"
-    ],
-    [
-     "Parker Kelly",
-     "Fedor Svechkov",
-     "Logan O'Connor"
-    ]
-   ],
-   "goalies": [
-    "Mackenzie Blackwood",
-    "Scott Wedgewood"
-   ],
-   "scratched": [
-    "Mike Reilly"
-   ]
-  },
-  "2026-11-18:DET": {
-   "article_updated": "2026-11-18T19:57:51.997Z",
-   "defense": [
-    [
-     "Anton Johansson",
-     "Moritz Seider"
-    ],
-    [
-     "Ben Chiarot",
-     "Justin Faulk"
-    ],
-    [
-     "Andreas Englund",
-     "Jacob Bernard-Docker"
-    ]
-   ],
-   "forwards": [
-    [
-     "Alex DeBrincat",
-     "Emmitt Finnie",
-     "Viktor Arvidsson"
-    ],
-    [
-     "Michael Brandsegg-Nygård",
-     "Andrew Copp",
-     "Lucas Raymond"
-    ],
-    [
-     "Carter Mazur",
-     "Nate Danielson",
-     "J.T. Compher"
-    ],
-    [
-     "Michael Rasmussen",
-     "Sheldon Dries",
-     "Keegan Kolesar"
-    ]
-   ],
-   "goalies": [
-    "Daniil Tarasov",
-    "John Gibson"
-   ],
-   "scratched": [
-    "Axel Sandin-Pellikka",
-    "John Leonard"
-   ]
-  },
-  "2026-11-18:MTL": {
-   "article_updated": "2026-11-19T14:31:06.287Z",
-   "defense": [
-    [
-     "Lane Hutson",
-     "Noah Dobson"
-    ],
-    [
-     "Kaiden Guhle",
-     "Alexandre Carrier"
-    ],
-    [
-     "Arber Xhekaj",
-     "Adam Engstrom"
-    ]
-   ],
-   "forwards": [
-    [
-     "Cole Caufield",
-     "Nick Suzuki",
-     "Alexandre Texier"
-    ],
-    [
-     "Zachary Bolduc",
-     "Phillip Danault",
-     "Kirby Dach"
-    ],
-    [
-     "Alex Newhook",
-     "Jake Evans",
-     "Juraj Slafkovský"
-    ],
-    [
-     "Brett Berard",
-     "Oliver Kapanen",
-     "Owen Beck"
-    ]
-   ],
-   "goalies": [
-    "Jakub Dobes",
-    "Jacob Fowler"
-   ],
-   "scratched": [
-    "David Reinbacher",
-    "Florian Xhekaj",
-    "Mike Matheson"
-   ]
-  },
-  "2026-11-18:NJD": {
-   "article_updated": "2026-11-18T17:35:40.652Z",
-   "defense": [
-    [
-     "Luke Hughes",
-     "Brett Pesce"
-    ],
-    [
-     "Jonas Siegenthaler",
-     "Dougie Hamilton"
-    ],
-    [
-     "Declan Chisholm",
-     "Brenden Dillon"
-    ]
-   ],
-   "forwards": [
-    [
-     "Arseny Gritsyuk",
-     "Jack Hughes",
-     "Jesper Bratt"
-    ],
-    [
-     "Timo Meier",
-     "Nico Hischier",
-     "Luke Evangelista"
-    ],
-    [
-     "Stefan Noesen",
-     "Evan Rodrigues",
-     "Connor Brown"
-    ],
-    [
-     "Jesper Boqvist",
-     "Cody Glass",
-     "Lenni Hameenaho"
-    ]
-   ],
-   "goalies": [
-    "Connor Hellebuyck",
-    "Jake Allen"
-   ],
-   "scratched": [
-    "Amadeus Lombardi",
-    "Anton Silaev",
-    "Vladislav Kolyachonok"
-   ]
-  },
-  "2026-11-18:UTA": {
-   "article_updated": "2026-11-18T19:53:14.882Z",
-   "defense": [
-    [
-     "Mikhail Sergachev",
-     "Andrew Peeke"
-    ],
-    [
-     "Dmitri Simashev",
-     "MacKenzie Weegar"
-    ],
-    [
-     "Zac Jones",
-     "Nick DeSimone"
-    ]
-   ],
-   "forwards": [
-    [
-     "Logan Cooley",
-     "Vincent Trocheck",
-     "Clayton Keller"
-    ],
-    [
-     "Anders Lee",
-     "Barrett Hayton",
-     "Kailer Yamamoto"
-    ],
-    [
-     "Michael Carcone",
-     "Jack McBain",
-     "Lawson Crouse"
-    ],
-    [
-     "Liam O'Brien",
-     "Kevin Stenlund",
-     "Daniil But"
-    ]
-   ],
-   "goalies": [
-    "Sebastian Cossa",
-    "Karel Vejmelka"
-   ],
-   "scratched": [
-    "Ben McCartney",
-    "Gregor Biber"
-   ]
-  },
   "2026-11-19:ANA": {
    "article_updated": "2026-11-19T20:26:56.546Z",
    "defense": [
@@ -1624,7 +1292,7 @@
    ]
   },
   "2026-11-21:CAR": {
-   "article_updated": "2026-11-21T22:59:29.636Z",
+   "article_updated": "2026-11-22T06:40:58.557Z",
    "defense": [
     [
      "Jaccob Slavin",
@@ -2880,7 +2548,7 @@
   }
  },
  "rosters": {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "teams": {
    "ANA": [
     [
@@ -5738,6 +5406,10 @@
      "D"
     ],
     [
+     "Elias Salomonsson",
+     "D"
+    ],
+    [
      "Dylan Samberg",
      "D"
     ],
@@ -5751,10 +5423,6 @@
     ],
     [
      "Stuart Skinner",
-     "G"
-    ],
-    [
-     "Clay Stevenson",
      "G"
     ]
    ],
