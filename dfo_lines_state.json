@@ -676,25 +676,25 @@
       "Blueger",
       "Cowan",
       "Duhaime",
+      "Ekman-Larsson",
       "Joshua",
       "MacEwen",
       "Matthews",
       "McCabe",
       "McKenna",
-      "Mermis",
       "Nylander",
       "Paul",
       "Raddysh",
+      "Raty",
       "Rielly",
       "Roslovic",
       "Stecher",
       "Tanev",
-      "Tavares",
-      "Tverberg"
+      "Tavares"
     ],
-    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"McKenna\", \"Tavares\", \"Paul\"], [\"Joshua\", \"Tverberg\", \"Nylander\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Rielly\", \"Tanev\"], [\"Mermis\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
-    "source": "https://x.com/davidalter/status/2124287907355877430",
-    "updated_at": "2026-11-21T23:51:00.682Z"
+    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"McKenna\", \"Tavares\", \"Paul\"], [\"Joshua\", \"Blueger\", \"Nylander\"], [\"Duhaime\", \"Raty\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Ekman-Larsson\", \"Tanev\"], [\"Rielly\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
+    "source": "https://x.com/koshtorontosun/status/2124554027497132333",
+    "updated_at": "2026-11-22T19:16:47.352Z"
   },
   "UTA": {
     "goalie": "Cossa",
