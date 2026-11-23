@@ -5634,6 +5634,48 @@
     "info_at": "2026-11-23T15:31:33+00:00",
     "ref": "2124888590064742470",
     "via": "@stefen_rosner"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T17:45:00+00:00",
+    "defense": [
+     [
+      "Pelech",
+      "Schaefer"
+     ],
+     [
+      "Stanley",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Palmieri"
+     ],
+     [
+      "Schenn",
+      "Barzal",
+      "Eklund"
+     ],
+     [
+      "Maccelli",
+      "Pageau",
+      "Heineman"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Duclair"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-23T17:43:23+00:00"
    }
   },
   "OTT": {
@@ -5770,6 +5812,50 @@
     "info_at": "2026-11-22T02:36:00+00:00",
     "ref": "2124331029918069199",
     "via": "Curtis Pashelka"
+   }
+  },
+  "TOR": {
+   "nhlcom": {
+    "at": "2026-11-23T17:45:00+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cowan",
+      "Matthews",
+      "Roslovic"
+     ],
+     [
+      "Paul",
+      "Tavares",
+      "McKenna"
+     ],
+     [
+      "Joshua",
+      "Blueger",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Räty",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-23T17:43:23+00:00"
    }
   },
   "WPG": {

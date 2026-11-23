@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-23T17:37:51.355Z",
+ "article_updated": "2026-11-23T17:43:23.663Z",
  "lineups": {
   "2026-11-20:CAR": {
    "article_updated": "2026-11-20T20:13:33.032Z",
@@ -2269,6 +2269,103 @@
     "Lenni Hameenaho",
     "Vladislav Kolyachonok"
    ]
+  },
+  "2026-11-23:NYI": {
+   "article_updated": "2026-11-23T17:43:23.663Z",
+   "defense": [
+    [
+     "Adam Pelech",
+     "Matthew Schaefer"
+    ],
+    [
+     "Logan Stanley",
+     "Tony DeAngelo"
+    ],
+    [
+     "Ben Hutton",
+     "Matthew Kessel"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Simon Holmstrom",
+     "Bo Horvat",
+     "Kyle Palmieri"
+    ],
+    [
+     "Brayden Schenn",
+     "Mathew Barzal",
+     "Victor Eklund"
+    ],
+    [
+     "Matias Maccelli",
+     "Jean-Gabriel Pageau",
+     "Emil Heineman"
+    ],
+    [
+     "Ondrej Palat",
+     "Casey Cizikas",
+     "Anthony Duclair"
+    ]
+   ],
+   "goalies": [
+    "Ilya Sorokin",
+    "Semyon Varlamov"
+   ],
+   "scratched": [
+    "Mitchell Chaffee",
+    "Scott Mayfield"
+   ]
+  },
+  "2026-11-23:TOR": {
+   "article_updated": "2026-11-23T17:43:23.663Z",
+   "defense": [
+    [
+     "Jake McCabe",
+     "Darren Raddysh"
+    ],
+    [
+     "Oliver Ekman-Larsson",
+     "Chris Tanev"
+    ],
+    [
+     "Morgan Rielly",
+     "Troy Stecher"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Easton Cowan",
+     "Auston Matthews",
+     "Jack Roslovic"
+    ],
+    [
+     "Nick Paul",
+     "John Tavares",
+     "Gavin McKenna"
+    ],
+    [
+     "Dakota Joshua",
+     "Teddy Blueger",
+     "William Nylander"
+    ],
+    [
+     "Brandon Duhaime",
+     "Aatu Räty",
+     "Zack MacEwen"
+    ]
+   ],
+   "goalies": [
+    "Anthony Stolarz",
+    "Sergei Bobrovsky"
+   ],
+   "scratched": [
+    "Cole McWard",
+    "Brendan Brisson",
+    "Ryan Tverberg"
+   ]
   }
  },
  "rosters": {
@@ -2463,6 +2560,230 @@
     ],
     [
      "Connor Hellebuyck",
+     "G"
+    ]
+   ],
+   "NYI": [
+    [
+     "Mathew Barzal",
+     "C"
+    ],
+    [
+     "Mitchell Chaffee",
+     "R"
+    ],
+    [
+     "Casey Cizikas",
+     "C"
+    ],
+    [
+     "Anthony Duclair",
+     "L"
+    ],
+    [
+     "Victor Eklund",
+     "R"
+    ],
+    [
+     "Emil Heineman",
+     "L"
+    ],
+    [
+     "Simon Holmstrom",
+     "R"
+    ],
+    [
+     "Bo Horvat",
+     "C"
+    ],
+    [
+     "Matias Maccelli",
+     "L"
+    ],
+    [
+     "Jean-Gabriel Pageau",
+     "C"
+    ],
+    [
+     "Ondrej Palat",
+     "L"
+    ],
+    [
+     "Kyle Palmieri",
+     "C"
+    ],
+    [
+     "Brayden Schenn",
+     "C"
+    ],
+    [
+     "Tony DeAngelo",
+     "D"
+    ],
+    [
+     "Ben Hutton",
+     "D"
+    ],
+    [
+     "Matthew Kessel",
+     "D"
+    ],
+    [
+     "Scott Mayfield",
+     "D"
+    ],
+    [
+     "Adam Pelech",
+     "D"
+    ],
+    [
+     "Ryan Pulock",
+     "D"
+    ],
+    [
+     "Alexander Romanov",
+     "D"
+    ],
+    [
+     "Matthew Schaefer",
+     "D"
+    ],
+    [
+     "Logan Stanley",
+     "D"
+    ],
+    [
+     "Ilya Sorokin",
+     "G"
+    ],
+    [
+     "Semyon Varlamov",
+     "G"
+    ]
+   ],
+   "TOR": [
+    [
+     "Teddy Blueger",
+     "C"
+    ],
+    [
+     "Brendan Brisson",
+     "C"
+    ],
+    [
+     "Easton Cowan",
+     "R"
+    ],
+    [
+     "Brandon Duhaime",
+     "L"
+    ],
+    [
+     "Bo Groulx",
+     "C"
+    ],
+    [
+     "Dakota Joshua",
+     "C"
+    ],
+    [
+     "Zack MacEwen",
+     "R"
+    ],
+    [
+     "Kirill Marchenko",
+     "R"
+    ],
+    [
+     "Auston Matthews",
+     "C"
+    ],
+    [
+     "Gavin McKenna",
+     "L"
+    ],
+    [
+     "William Nylander",
+     "R"
+    ],
+    [
+     "Nick Paul",
+     "L"
+    ],
+    [
+     "Aatu Räty",
+     "C"
+    ],
+    [
+     "Jack Roslovic",
+     "C"
+    ],
+    [
+     "Colton Sissons",
+     "C"
+    ],
+    [
+     "John Tavares",
+     "C"
+    ],
+    [
+     "Ryan Tverberg",
+     "C"
+    ],
+    [
+     "Miles Wood",
+     "L"
+    ],
+    [
+     "Nick Blankenburg",
+     "D"
+    ],
+    [
+     "Oliver Ekman-Larsson",
+     "D"
+    ],
+    [
+     "Jake McCabe",
+     "D"
+    ],
+    [
+     "Cole McWard",
+     "D"
+    ],
+    [
+     "Dakota Mermis",
+     "D"
+    ],
+    [
+     "Darren Raddysh",
+     "D"
+    ],
+    [
+     "Morgan Rielly",
+     "D"
+    ],
+    [
+     "Marshall Rifai",
+     "D"
+    ],
+    [
+     "Troy Stecher",
+     "D"
+    ],
+    [
+     "Chris Tanev",
+     "D"
+    ],
+    [
+     "Artur Akhtyamov",
+     "G"
+    ],
+    [
+     "Sergei Bobrovsky",
+     "G"
+    ],
+    [
+     "Anthony Stolarz",
      "G"
     ]
    ]
