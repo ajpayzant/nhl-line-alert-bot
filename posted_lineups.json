@@ -5851,7 +5851,7 @@
     "via": "TSN1200"
    },
    "gameday": {
-    "at": "2026-11-23T15:42:34+00:00",
+    "at": "2026-11-23T19:11:23+00:00",
     "defense": [
      [
       "Sanderson",
@@ -5879,20 +5879,15 @@
       "Batherson"
      ],
      [
-      "Amadio",
-      "Greig",
-      "Giroux"
-     ],
-     [
       "Blais",
       "Halliday",
       "Cousins"
      ]
     ],
-    "goalie": "",
-    "info_at": "2026-11-23T15:34:56+00:00",
-    "ref": "2124889441562972253",
-    "via": "@TSN1200"
+    "goalie": "Ullmark",
+    "info_at": "2026-11-23T19:07:10+00:00",
+    "ref": "2124942854401491413",
+    "via": "@SunGarrioch"
    },
    "nhlcom": {
     "at": "2026-11-23T18:20:33+00:00",
