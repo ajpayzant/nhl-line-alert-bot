@@ -367,13 +367,13 @@
       "Bolduc",
       "Carrier",
       "Caufield",
-      "Dach",
       "Danault",
       "Dobson",
       "Evans",
       "Guhle",
       "Hutson",
       "Kapanen",
+      "Larkin",
       "Newhook",
       "Reinbacher",
       "Slafkovsky",
@@ -381,9 +381,9 @@
       "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Newhook\", \"Evans\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Dach\"], [\"Berard\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Bolduc\", \"Caufield\", \"Hutson\"]]",
-    "source": "https://x.com/CanadiensMTL/status/2124289378038186302",
-    "updated_at": "2026-11-21T23:54:41.721Z"
+    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Newhook\", \"Larkin\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Kapanen\"], [\"Berard\", \"Evans\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Larkin\", \"Caufield\", \"Hutson\"]]",
+    "source": "",
+    "updated_at": "2026-11-23T02:21:19.723Z"
   },
   "NJD": {
     "goalie": "Hellebuyck",
