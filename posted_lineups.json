@@ -5371,6 +5371,50 @@
    }
   },
   "NJD": {
+   "dfo": {
+    "at": "2026-11-23T16:22:53+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Noesen"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-23T15:40:43+00:00",
+    "ref": "2124890900786528280",
+    "via": "Amanda Stein"
+   },
    "gameday": {
     "at": "2026-11-23T15:56:32+00:00",
     "defense": [
@@ -5463,6 +5507,50 @@
    }
   },
   "OTT": {
+   "dfo": {
+    "at": "2026-11-23T16:22:53+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-23T16:15:34+00:00",
+    "ref": "2124899670782591240",
+    "via": "TSN1200"
+   },
    "gameday": {
     "at": "2026-11-23T15:42:34+00:00",
     "defense": [
@@ -5554,7 +5642,97 @@
     "via": "Curtis Pashelka"
    }
   },
+  "WPG": {
+   "dfo": {
+    "at": "2026-11-23T16:22:53+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Iafallo",
+      "Zhilkin",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-23T15:42:30+00:00",
+    "ref": "2124891348688048620",
+    "via": "Mike McIntyre"
+   }
+  },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-23T16:22:54+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Desharnais"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Sourdif",
+      "Jenner",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Lindgren",
+    "info_at": "2026-11-23T15:51:20+00:00",
+    "ref": "2124893571723714887",
+    "via": "Sammi Silber"
+   },
    "gameday": {
     "at": "2026-11-23T16:06:26+00:00",
     "defense": [

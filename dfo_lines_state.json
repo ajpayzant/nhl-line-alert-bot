@@ -395,19 +395,19 @@
       "Evangelista",
       "Glass",
       "Gritsyuk",
-      "Hameenaho",
       "Hamilton",
       "Hischier",
       "Hughes",
       "Lombardi",
       "Meier",
+      "Noesen",
       "Pesce",
       "Rodrigues",
       "Siegenthaler"
     ],
-    "signature": "[[[\"Gritsyuk\", \"Hughes\", \"Bratt\"], [\"Meier\", \"Hischier\", \"Evangelista\"], [\"Rodrigues\", \"Lombardi\", \"Brown\"], [\"Boqvist\", \"Glass\", \"Hameenaho\"]], [[\"Hughes\", \"Pesce\"], [\"Siegenthaler\", \"Hamilton\"], [\"Chisholm\", \"Dillon\"]], [\"Hellebuyck\"], [\"Gritsyuk\", \"Hischier\", \"Brown\", \"Hughes\", \"Hughes\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020368",
-    "updated_at": "2026-11-22T18:41:15.483Z"
+    "signature": "[[[\"Meier\", \"Hughes\", \"Brown\"], [\"Gritsyuk\", \"Hischier\", \"Bratt\"], [\"Rodrigues\", \"Lombardi\", \"Evangelista\"], [\"Boqvist\", \"Glass\", \"Noesen\"]], [[\"Hughes\", \"Pesce\"], [\"Siegenthaler\", \"Hamilton\"], [\"Chisholm\", \"Dillon\"]], [\"Hellebuyck\"], [\"Gritsyuk\", \"Hischier\", \"Brown\", \"Hughes\", \"Hughes\"]]",
+    "source": "https://x.com/amandacstein/status/2124890900786528280?s=20",
+    "updated_at": "2026-11-23T16:20:53.225Z"
   },
   "NSH": {
     "goalie": "Saros",
@@ -510,8 +510,8 @@
       "Zub"
     ],
     "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020360",
-    "updated_at": "2026-11-23T15:10:16.892Z"
+    "source": "https://x.com/TSN1200/status/2124899670782591240?s=20",
+    "updated_at": "2026-11-23T16:20:19.922Z"
   },
   "PHI": {
     "goalie": "Vladar",
@@ -795,20 +795,20 @@
       "Yager",
       "Zhilkin"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Iafallo\", \"Zhilkin\"]], [[\"Morrissey\", \"Pionk\"], [\"Samberg\", \"Salomonsson\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"], [\"Bauer\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020360",
-    "updated_at": "2026-11-23T15:07:32.226Z"
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Iafallo\", \"Zhilkin\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "source": "https://x.com/mikemcintyrewpg/status/2124891348688048620?s=20",
+    "updated_at": "2026-11-23T16:19:20.531Z"
   },
   "WSH": {
     "goalie": "Lindgren",
     "players": [
+      "Beauvillier",
       "Chychrun",
+      "Desharnais",
       "Dubois",
       "Fehervary",
-      "Holl",
       "Hutson",
       "Jenner",
-      "Kyrou",
       "Leonard",
       "Miroshnichenko",
       "Ovechkin",
@@ -820,8 +820,8 @@
       "Tuch",
       "Wilson"
     ],
-    "signature": "[[[\"Protas\", \"Dubois\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Leonard\"], [\"Kyrou\", \"Protas\", \"Sourdif\"], [\"Miroshnichenko\", \"Jenner\", \"Wilson\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Holl\"], [\"Hutson\", \"St. Ivany\"]], [\"Lindgren\"], [\"Wilson\", \"Strome\", \"Kyrou\", \"Ovechkin\", \"Chychrun\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020360",
-    "updated_at": "2026-11-23T15:06:14.910Z"
+    "signature": "[[[\"Protas\", \"Dubois\", \"Wilson\"], [\"Ovechkin\", \"Strome\", \"Beauvillier\"], [\"Leonard\", \"Protas\", \"Tuch\"], [\"Sourdif\", \"Jenner\", \"Miroshnichenko\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Desharnais\"], [\"Hutson\", \"St. Ivany\"]], [\"Lindgren\"], [\"Wilson\", \"Strome\", \"Tuch\", \"Ovechkin\", \"Chychrun\"]]",
+    "source": "https://x.com/sammisilber/status/2124893571723714887?s=20",
+    "updated_at": "2026-11-23T16:22:23.167Z"
   }
 }
