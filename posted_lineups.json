@@ -5985,19 +5985,19 @@
   },
   "SJS": {
    "dfo": {
-    "at": "2026-11-23T13:54:38+00:00",
+    "at": "2026-11-23T18:42:38+00:00",
     "defense": [
      [
       "Nurse",
-      "Pohlkamp"
-     ],
-     [
-      "Orlov",
-      "Trouba"
+      "Kesselring"
      ],
      [
       "Allan",
       "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Pohlkamp"
      ]
     ],
     "extra": [],
@@ -6024,8 +6024,8 @@
      ]
     ],
     "goalie": "Askarov",
-    "info_at": "2026-11-22T02:36:00+00:00",
-    "ref": "2124331029918069199",
+    "info_at": "2026-11-23T18:35:52+00:00",
+    "ref": "2124934977502790102",
     "via": "Curtis Pashelka"
    },
    "gameday": {
