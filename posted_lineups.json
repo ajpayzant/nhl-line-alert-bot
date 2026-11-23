@@ -5553,6 +5553,52 @@
     "ref": "2124331029918069199",
     "via": "Curtis Pashelka"
    }
+  },
+  "WSH": {
+   "gameday": {
+    "at": "2026-11-23T16:06:26+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Desharnais"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Sourdif",
+      "Jenner",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-23T16:05:02+00:00",
+    "ref": "2124897019294527591",
+    "via": "@sammisilber"
+   }
   }
  }
 }
