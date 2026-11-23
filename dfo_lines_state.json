@@ -566,7 +566,7 @@
     "updated_at": "2026-11-23T15:48:30.755Z"
   },
   "SEA": {
-    "goalie": "Grubauer",
+    "goalie": "Daccord",
     "players": [
       "Beniers",
       "Catton",
@@ -587,9 +587,9 @@
       "Winterton",
       "Wood"
     ],
-    "signature": "[[[\"McMann\", \"Catton\", \"Eberle\"], [\"Kakko\", \"Beniers\", \"Samoskevich\"], [\"Stephenson\", \"Gaudreau\", \"Winterton\"], [\"Meyers\", \"Wood\", \"Melanson\"]], [[\"Dunn\", \"Larsson\"], [\"Evans\", \"Montour\"], [\"Lindgren\", \"Mahura\"]], [\"Grubauer\"], [\"Eberle\", \"Beniers\", \"McMann\", \"Stephenson\", \"Dunn\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020372",
-    "updated_at": "2026-11-23T15:19:07.554Z"
+    "signature": "[[[\"McMann\", \"Catton\", \"Eberle\"], [\"Kakko\", \"Beniers\", \"Samoskevich\"], [\"Winterton\", \"Stephenson\", \"Gaudreau\"], [\"Wood\", \"Meyers\", \"Melanson\"]], [[\"Dunn\", \"Larsson\"], [\"Evans\", \"Montour\"], [\"Lindgren\", \"Mahura\"]], [\"Daccord\"], [\"Eberle\", \"Beniers\", \"McMann\", \"Stephenson\", \"Dunn\"]]",
+    "source": "https://x.com/Benton_Mike/status/2124924458851000475",
+    "updated_at": "2026-11-23T17:58:40.916Z"
   },
   "SJS": {
     "goalie": "Askarov",

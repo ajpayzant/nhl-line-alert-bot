@@ -5767,6 +5767,52 @@
     "via": "@TSN1200"
    }
   },
+  "SEA": {
+   "dfo": {
+    "at": "2026-11-23T18:02:39+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Winterton",
+      "Stephenson",
+      "Gaudreau"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Daccord",
+    "info_at": "2026-11-23T17:54:04+00:00",
+    "ref": "2124924458851000475",
+    "via": "Mike Benton"
+   }
+  },
   "SJS": {
    "dfo": {
     "at": "2026-11-23T13:54:38+00:00",
