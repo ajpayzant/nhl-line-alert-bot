@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-23T18:47:46.31Z",
+ "article_updated": "2026-11-23T18:50:03.15Z",
  "lineups": {
   "2026-11-20:CAR": {
    "article_updated": "2026-11-20T20:13:33.032Z",
@@ -2174,7 +2174,7 @@
    ]
   },
   "2026-11-23:CBJ": {
-   "article_updated": "2026-11-23T17:37:51.355Z",
+   "article_updated": "2026-11-23T18:50:03.15Z",
    "defense": [
     [
      "Zach Werenski",
@@ -2207,9 +2207,9 @@
      "Mathieu Olivier"
     ],
     [
-     "Mikael Pyyhtia",
-     "Steven Lorentz",
-     "Isac Lundeström"
+     "Ryan Lomberg",
+     "Isac Lundeström",
+     "Mikael Pyyhtia"
     ]
    ],
    "goalies": [
@@ -2218,8 +2218,7 @@
    ],
    "scratched": [
     "Erik Gudbranson",
-    "Dmitri Voronkov",
-    "Ryan Lomberg"
+    "Dmitri Voronkov"
    ]
   },
   "2026-11-23:CGY": {

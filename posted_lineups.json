@@ -5280,7 +5280,7 @@
   },
   "CBJ": {
    "nhlcom": {
-    "at": "2026-11-23T17:40:31+00:00",
+    "at": "2026-11-23T18:50:29+00:00",
     "defense": [
      [
       "Werenski",
@@ -5313,13 +5313,13 @@
       "Olivier"
      ],
      [
-      "?Pyyhtia",
-      "?Lorentz",
-      "Lundeström"
+      "Lomberg",
+      "Lundeström",
+      "?Pyyhtia"
      ]
     ],
     "goalie": "Talbot",
-    "info_at": "2026-11-23T17:37:51+00:00"
+    "info_at": "2026-11-23T18:50:03+00:00"
    }
   },
   "CGY": {
