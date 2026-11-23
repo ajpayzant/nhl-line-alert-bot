@@ -5454,6 +5454,52 @@
     "info_at": "2026-11-23T18:19:49+00:00"
    }
   },
+  "DET": {
+   "gameday": {
+    "at": "2026-11-23T20:31:25+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Mazur",
+      "Compher",
+      "Brandsegg-Nygård"
+     ],
+     [
+      "Appleton",
+      "Rasmussen",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-23T20:27:02+00:00",
+    "ref": "2124962951165857998",
+    "via": "@AnsarKhanMLive"
+   }
+  },
   "LAK": {
    "dfo": {
     "at": "2026-11-23T17:47:35+00:00",
