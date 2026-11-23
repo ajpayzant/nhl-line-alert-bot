@@ -5278,6 +5278,50 @@
     "via": "Zach Cavanagh"
    }
   },
+  "CBJ": {
+   "nhlcom": {
+    "at": "2026-11-23T17:40:31+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Fabbro"
+     ],
+     [
+      "Christiansen",
+      "Mateychuk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Coyle",
+      "Fantilli",
+      "Nichushkin"
+     ],
+     [
+      "Williams",
+      "Sillinger",
+      "Olivier"
+     ],
+     [
+      "?Pyyhtia",
+      "?Lorentz",
+      "Lundeström"
+     ]
+    ],
+    "goalie": "Talbot",
+    "info_at": "2026-11-23T17:37:51+00:00"
+   }
+  },
   "CGY": {
    "dfo": {
     "at": "2026-11-23T13:54:34+00:00",
@@ -5458,6 +5502,48 @@
     "info_at": "2026-11-23T15:51:10+00:00",
     "ref": "2124893528320835740",
     "via": "@InStilettos_NHL"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T17:40:31+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Noesen"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-23T17:37:51+00:00"
    }
   },
   "NYI": {
