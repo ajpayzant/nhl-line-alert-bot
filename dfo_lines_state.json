@@ -1,6 +1,6 @@
 {
   "ANA": {
-    "goalie": "Husso",
+    "goalie": "Dostal",
     "players": [
       "Carlsson",
       "Caulfield",
@@ -21,7 +21,7 @@
       "Vatrano",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Myatovic\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Husso\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
+    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Myatovic\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Dostal\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
     "source": "https://x.com/ZachCav/status/2124316121319047221",
     "updated_at": "2026-11-22T20:21:01.909Z"
   },
@@ -129,7 +129,7 @@
     "updated_at": "2026-11-21T20:47:02.481Z"
   },
   "CGY": {
-    "goalie": "Wolf",
+    "goalie": "Cooley",
     "players": [
       "Backlund",
       "Castagna",
@@ -150,7 +150,7 @@
       "Tsyplakov",
       "Whitecloud"
     ],
-    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Pospisil\", \"Strome\"], [\"Sharangovich\", \"Frost\", \"Klapka\"], [\"Tsyplakov\", \"Castagna\", \"Suniev\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Wolf\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
+    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Pospisil\", \"Strome\"], [\"Sharangovich\", \"Frost\", \"Klapka\"], [\"Tsyplakov\", \"Castagna\", \"Suniev\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
     "source": "https://x.com/NHLFlames/status/2124234547600736718",
     "updated_at": "2026-11-21T20:43:53.962Z"
   },
@@ -309,7 +309,7 @@
     "updated_at": "2026-11-22T18:30:08.441Z"
   },
   "LAK": {
-    "goalie": "Forsberg",
+    "goalie": "Kuemper",
     "players": [
       "Anderson",
       "Armia",
@@ -330,7 +330,7 @@
       "Turcotte",
       "Zuccarello"
     ],
-    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Forsberg\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
+    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
     "source": "https://x.com/DooleyLAK/status/2124287813034082660",
     "updated_at": "2026-11-22T20:21:41.732Z"
   },
@@ -593,7 +593,7 @@
     "updated_at": "2026-11-22T02:52:31.803Z"
   },
   "SJS": {
-    "goalie": "Nedeljkovic",
+    "goalie": "Askarov",
     "players": [
       "Allan",
       "Celebrini",
@@ -614,7 +614,7 @@
       "Trouba",
       "Wennberg"
     ],
-    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Gaudette\"], [\"Goodrow\", \"Ostapchuk\", \"Leason\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Orlov\", \"Trouba\"], [\"Allan\", \"Dickinson\"]], [\"Nedeljkovic\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
+    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Gaudette\"], [\"Goodrow\", \"Ostapchuk\", \"Leason\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Orlov\", \"Trouba\"], [\"Allan\", \"Dickinson\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
     "source": "https://x.com/CurtisPashelka/status/2124331029918069199",
     "updated_at": "2026-11-22T02:47:18.322Z"
   },
