@@ -5370,6 +5370,98 @@
     "via": "Zach Dooley"
    }
   },
+  "NYI": {
+   "gameday": {
+    "at": "2026-11-23T15:42:31+00:00",
+    "defense": [
+     [
+      "Stanley",
+      "Schaefer"
+     ],
+     [
+      "Pelech",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Palmieri"
+     ],
+     [
+      "Schenn",
+      "Barzal",
+      "Eklund"
+     ],
+     [
+      "Maccelli",
+      "Pageau",
+      "Heineman"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Duclair"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-23T15:31:33+00:00",
+    "ref": "2124888590064742470",
+    "via": "@stefen_rosner"
+   }
+  },
+  "OTT": {
+   "gameday": {
+    "at": "2026-11-23T15:42:34+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Yakemchuk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-23T15:34:56+00:00",
+    "ref": "2124889441562972253",
+    "via": "@TSN1200"
+   }
+  },
   "SJS": {
    "dfo": {
     "at": "2026-11-23T13:54:38+00:00",
