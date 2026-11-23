@@ -5370,25 +5370,25 @@
   },
   "LAK": {
    "dfo": {
-    "at": "2026-11-23T13:54:39+00:00",
+    "at": "2026-11-23T17:47:35+00:00",
     "defense": [
      [
-      "Gustafsson",
+      "Edmundson",
       "Clarke"
      ],
      [
-      "Edmundson",
+      "Anderson",
       "Doughty"
      ],
      [
-      "Anderson",
-      "Dumoulin"
+      "Dumoulin",
+      "Ceci"
      ]
     ],
     "extra": [],
     "forwards": [
      [
-      "Lee",
+      "Panarin",
       "Laferriere",
       "Kempe"
      ],
@@ -5398,20 +5398,19 @@
       "Zuccarello"
      ],
      [
-      "Turcotte",
+      "Moore",
       "Haula",
       "Armia"
      ],
      [
+      "Lee",
       "Laughton",
-      "Helenius",
       "Perry"
      ]
     ],
     "goalie": "Kuemper",
-    "info_at": "2026-11-21T23:44:16+00:00",
-    "ref": "2124287813034082660",
-    "via": "Zach Dooley"
+    "info_at": "2026-11-23T17:42:45+00:00",
+    "via": "Projected"
    }
   },
   "NJD": {
