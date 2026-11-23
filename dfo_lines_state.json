@@ -699,12 +699,12 @@
     "goalie": "Cossa",
     "players": [
       "But",
-      "Carcone",
       "Cooley",
       "Crouse",
       "DeSimone",
       "Hayton",
       "Jones",
+      "Keller",
       "Lee",
       "McBain",
       "McCartney",
@@ -717,9 +717,9 @@
       "Weegar",
       "Yamamoto"
     ],
-    "signature": "[[[\"Cooley\", \"Trocheck\", \"But\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"Carcone\", \"McBain\", \"Crouse\"], [\"McCartney\", \"Stenlund\", \"O'Brien\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Yamamoto\", \"Trocheck\", \"Hayton\", \"Sergachev\", \"Cooley\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020370",
-    "updated_at": "2026-11-23T15:17:16.092Z"
+    "signature": "[[[\"Cooley\", \"Trocheck\", \"Keller\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"Crouse\", \"McBain\", \"But\"], [\"McCartney\", \"Stenlund\", \"O'Brien\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Yamamoto\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Cooley\"]]",
+    "source": "",
+    "updated_at": "2026-11-23T17:53:32.614Z"
   },
   "VAN": {
     "goalie": "Merilainen",
