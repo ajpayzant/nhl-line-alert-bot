@@ -5279,6 +5279,50 @@
    }
   },
   "CBJ": {
+   "dfo": {
+    "at": "2026-11-23T19:47:37+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Fabbro"
+     ],
+     [
+      "Christiansen",
+      "Mateychuk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Nichushkin",
+      "Fantilli",
+      "Coyle"
+     ],
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Sillinger",
+      "Williams",
+      "Olivier"
+     ],
+     [
+      "Lomberg",
+      "Lundeström",
+      "?Pyyhtia"
+     ]
+    ],
+    "goalie": "Talbot",
+    "info_at": "2026-11-23T19:19:58+00:00",
+    "ref": "2124946073940861314",
+    "via": "@BlueJacketsNHL"
+   },
    "nhlcom": {
     "at": "2026-11-23T18:50:29+00:00",
     "defense": [
