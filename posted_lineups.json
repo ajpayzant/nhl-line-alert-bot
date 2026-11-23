@@ -5049,6 +5049,50 @@
     "ref": "2124663359765426179",
     "via": "Ben Pope"
    },
+   "gameday": {
+    "at": "2026-11-23T00:46:24+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Mangiapane",
+      "Greene",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "?Toninato",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Commesso",
+    "info_at": "2026-11-23T00:42:48+00:00",
+    "ref": "2124664930536509897",
+    "via": "@BenPopeCST"
+   },
    "nhlcom": {
     "at": "2026-11-22T18:00:33+00:00",
     "defense": [
@@ -6155,6 +6199,41 @@
     "info_at": "2026-11-23T00:39:14+00:00",
     "ref": "2124664031760019595",
     "via": "Ben Kuzma"
+   },
+   "gameday": {
+    "at": "2026-11-23T00:46:25+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Willander"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "O'Connor",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Cotter",
+      "Quillan",
+      "Bains"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-23T00:43:18+00:00",
+    "ref": "2124665057263095872",
+    "via": "@BatchHockey"
    },
    "nhlcom": {
     "at": "2026-11-22T18:00:33+00:00",
