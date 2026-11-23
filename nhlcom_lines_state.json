@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-23T18:19:49.341Z",
+ "article_updated": "2026-11-23T18:33:44.965Z",
  "lineups": {
   "2026-11-20:CAR": {
    "article_updated": "2026-11-20T20:13:33.032Z",
@@ -2270,6 +2270,99 @@
     "Brayden Pachal"
    ]
   },
+  "2026-11-23:LAK": {
+   "article_updated": "2026-11-23T18:33:44.965Z",
+   "defense": [
+    [
+     "Mikey Anderson",
+     "Drew Doughty"
+    ],
+    [
+     "Brandt Clarke",
+     "Brian Dumoulin"
+    ],
+    [
+     "Joel Edmundson",
+     "Cody Ceci"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Artemi Panarin",
+     "Alex Laferriere",
+     "Adrian Kempe"
+    ],
+    [
+     "Kevin Fiala",
+     "Quinton Byfield",
+     "Mats Zuccarello"
+    ],
+    [
+     "Trevor Moore",
+     "Erik Haula",
+     "Joel Armia"
+    ],
+    [
+     "Andre Lee",
+     "Scott Laughton",
+     "Corey Perry"
+    ]
+   ],
+   "goalies": [
+    "Darcy Kuemper",
+    "Anton Forsberg"
+   ],
+   "scratched": [
+    "Samuel Helenius",
+    "Alex Turcotte"
+   ]
+  },
+  "2026-11-23:MTL": {
+   "article_updated": "2026-11-23T18:33:44.965Z",
+   "defense": [
+    [
+     "Kaiden Guhle",
+     "Noah Dobson"
+    ],
+    [
+     "Lane Hutson",
+     "Alexandre Carrier"
+    ],
+    [
+     "Arber Xhekaj",
+     "Adam Engstrom"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Cole Caufield",
+     "Nick Suzuki",
+     "Alexandre Texier"
+    ],
+    [
+     "Alex Newhook",
+     "Dylan Larkin",
+     "Juraj Slafkovský"
+    ],
+    [
+     "Zachary Bolduc",
+     "Phillip Danault",
+     "Oliver Kapanen"
+    ],
+    [
+     "Florian Xhekaj",
+     "Jake Evans",
+     "Owen Beck"
+    ]
+   ],
+   "goalies": [
+    "Jakub Dobes",
+    "Jacob Fowler"
+   ],
+   "scratched": []
+  },
   "2026-11-23:NJD": {
    "article_updated": "2026-11-23T17:37:51.355Z",
    "defense": [
@@ -2761,6 +2854,198 @@
     ],
     [
      "Dustin Wolf",
+     "G"
+    ]
+   ],
+   "LAK": [
+    [
+     "Joel Armia",
+     "R"
+    ],
+    [
+     "Quinton Byfield",
+     "R"
+    ],
+    [
+     "Kevin Fiala",
+     "L"
+    ],
+    [
+     "Erik Haula",
+     "L"
+    ],
+    [
+     "Samuel Helenius",
+     "C"
+    ],
+    [
+     "Adrian Kempe",
+     "R"
+    ],
+    [
+     "Alex Laferriere",
+     "R"
+    ],
+    [
+     "Scott Laughton",
+     "C"
+    ],
+    [
+     "Andre Lee",
+     "L"
+    ],
+    [
+     "Trevor Moore",
+     "L"
+    ],
+    [
+     "Artemi Panarin",
+     "L"
+    ],
+    [
+     "Corey Perry",
+     "R"
+    ],
+    [
+     "Alex Turcotte",
+     "C"
+    ],
+    [
+     "Mats Zuccarello",
+     "R"
+    ],
+    [
+     "Mikey Anderson",
+     "D"
+    ],
+    [
+     "Cody Ceci",
+     "D"
+    ],
+    [
+     "Brandt Clarke",
+     "D"
+    ],
+    [
+     "Drew Doughty",
+     "D"
+    ],
+    [
+     "Brian Dumoulin",
+     "D"
+    ],
+    [
+     "Joel Edmundson",
+     "D"
+    ],
+    [
+     "Erik Gustafsson",
+     "D"
+    ],
+    [
+     "Anton Forsberg",
+     "G"
+    ],
+    [
+     "Darcy Kuemper",
+     "G"
+    ]
+   ],
+   "MTL": [
+    [
+     "Josh Anderson",
+     "R"
+    ],
+    [
+     "Owen Beck",
+     "C"
+    ],
+    [
+     "Zachary Bolduc",
+     "R"
+    ],
+    [
+     "Cole Caufield",
+     "R"
+    ],
+    [
+     "Phillip Danault",
+     "C"
+    ],
+    [
+     "Ivan Demidov",
+     "R"
+    ],
+    [
+     "Jake Evans",
+     "C"
+    ],
+    [
+     "Oliver Kapanen",
+     "C"
+    ],
+    [
+     "Chris Kreider",
+     "L"
+    ],
+    [
+     "Dylan Larkin",
+     "C"
+    ],
+    [
+     "Alex Newhook",
+     "C"
+    ],
+    [
+     "Juraj Slafkovský",
+     "L"
+    ],
+    [
+     "Nick Suzuki",
+     "C"
+    ],
+    [
+     "Alexandre Texier",
+     "L"
+    ],
+    [
+     "Florian Xhekaj",
+     "L"
+    ],
+    [
+     "Alexandre Carrier",
+     "D"
+    ],
+    [
+     "Noah Dobson",
+     "D"
+    ],
+    [
+     "Adam Engstrom",
+     "D"
+    ],
+    [
+     "Kaiden Guhle",
+     "D"
+    ],
+    [
+     "Lane Hutson",
+     "D"
+    ],
+    [
+     "Mike Matheson",
+     "D"
+    ],
+    [
+     "Arber Xhekaj",
+     "D"
+    ],
+    [
+     "Jakub Dobes",
+     "G"
+    ],
+    [
+     "Jacob Fowler",
      "G"
     ]
    ],

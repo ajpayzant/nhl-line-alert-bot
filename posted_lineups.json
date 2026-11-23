@@ -5453,6 +5453,92 @@
     "goalie": "Kuemper",
     "info_at": "2026-11-23T17:42:45+00:00",
     "via": "Projected"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T18:36:22+00:00",
+    "defense": [
+     [
+      "Anderson",
+      "Doughty"
+     ],
+     [
+      "Clarke",
+      "Dumoulin"
+     ],
+     [
+      "Edmundson",
+      "Ceci"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Panarin",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Moore",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Lee",
+      "Laughton",
+      "Perry"
+     ]
+    ],
+    "goalie": "Kuemper",
+    "info_at": "2026-11-23T18:33:44+00:00"
+   }
+  },
+  "MTL": {
+   "nhlcom": {
+    "at": "2026-11-23T18:36:22+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Engstrom"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "?Larkin",
+      "Slafkovský"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Kapanen"
+     ],
+     [
+      "Xhekaj",
+      "Evans",
+      "Beck"
+     ]
+    ],
+    "goalie": "Dobes",
+    "info_at": "2026-11-23T18:33:44+00:00"
    }
   },
   "NJD": {
