@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-23T20:29:39.682Z",
+ "article_updated": "2026-11-23T20:43:44.275Z",
  "lineups": {
   "2026-11-20:CAR": {
    "article_updated": "2026-11-20T20:13:33.032Z",
@@ -2173,6 +2173,54 @@
     "Kevin Lankinen"
    ]
   },
+  "2026-11-23:ANA": {
+   "article_updated": "2026-11-23T20:43:44.275Z",
+   "defense": [
+    [
+     "Jackson LaCombe",
+     "Ian Moore"
+    ],
+    [
+     "Pavel Mintyukov",
+     "Drew Helleson"
+    ],
+    [
+     "Tristan Luneau",
+     "Stian Solberg"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Cutter Gauthier",
+     "Mikael Granlund",
+     "Troy Terry"
+    ],
+    [
+     "Alex Killorn",
+     "Roger McQueen",
+     "Judd Caulfield"
+    ],
+    [
+     "Jeff Malott",
+     "Tim Washe",
+     "Sam Colangelo"
+    ],
+    [
+     "Nico Myatovic",
+     "Nikita Nesterenko",
+     "Frank Vatrano"
+    ]
+   ],
+   "goalies": [
+    "Lukas Dostal",
+    "Ville Husso"
+   ],
+   "scratched": [
+    "Tyson Hinds",
+    "Noah Warren"
+   ]
+  },
   "2026-11-23:CBJ": {
    "article_updated": "2026-11-23T18:50:03.15Z",
    "defense": [
@@ -2554,6 +2602,53 @@
     "Tyler Boucher"
    ]
   },
+  "2026-11-23:SEA": {
+   "article_updated": "2026-11-23T20:43:44.275Z",
+   "defense": [
+    [
+     "Vince Dunn",
+     "Adam Larsson"
+    ],
+    [
+     "Ryker Evans",
+     "Brandon Montour"
+    ],
+    [
+     "Ryan Lindgren",
+     "Ville Ottavainen"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Bobby McMann",
+     "Berkly Catton",
+     "Jordan Eberle"
+    ],
+    [
+     "Kaapo Kakko",
+     "Matty Beniers",
+     "Mackie Samoskevich"
+    ],
+    [
+     "Frederick Gaudreau",
+     "Chandler Stephenson",
+     "Ryan Winterton"
+    ],
+    [
+     "Matthew Wood",
+     "Ben Meyers",
+     "Jacob Melanson"
+    ]
+   ],
+   "goalies": [
+    "Joey Daccord",
+    "Philipp Grubauer"
+   ],
+   "scratched": [
+    "Cale Fleury"
+   ]
+  },
   "2026-11-23:SJS": {
    "article_updated": "2026-11-23T19:57:09.976Z",
    "defense": [
@@ -2752,6 +2847,120 @@
  "rosters": {
   "date": "2026-11-23",
   "teams": {
+   "ANA": [
+    [
+     "Leo Carlsson",
+     "C"
+    ],
+    [
+     "Judd Caulfield",
+     "R"
+    ],
+    [
+     "Sam Colangelo",
+     "R"
+    ],
+    [
+     "Cutter Gauthier",
+     "L"
+    ],
+    [
+     "Mikael Granlund",
+     "C"
+    ],
+    [
+     "A.J. Greer",
+     "L"
+    ],
+    [
+     "Alex Killorn",
+     "L"
+    ],
+    [
+     "Jeff Malott",
+     "L"
+    ],
+    [
+     "Roger McQueen",
+     "C"
+    ],
+    [
+     "Nico Myatovic",
+     "L"
+    ],
+    [
+     "Nikita Nesterenko",
+     "C"
+    ],
+    [
+     "Ryan Poehling",
+     "C"
+    ],
+    [
+     "Beckett Sennecke",
+     "R"
+    ],
+    [
+     "Troy Terry",
+     "R"
+    ],
+    [
+     "Frank Vatrano",
+     "R"
+    ],
+    [
+     "Tim Washe",
+     "C"
+    ],
+    [
+     "Drew Helleson",
+     "D"
+    ],
+    [
+     "Tyson Hinds",
+     "D"
+    ],
+    [
+     "Jackson LaCombe",
+     "D"
+    ],
+    [
+     "Tristan Luneau",
+     "D"
+    ],
+    [
+     "Pavel Mintyukov",
+     "D"
+    ],
+    [
+     "Travis Mitchell",
+     "D"
+    ],
+    [
+     "Ian Moore",
+     "D"
+    ],
+    [
+     "Stian Solberg",
+     "D"
+    ],
+    [
+     "Noah Warren",
+     "D"
+    ],
+    [
+     "Laurent Brossoit",
+     "G"
+    ],
+    [
+     "Lukas Dostal",
+     "G"
+    ],
+    [
+     "Ville Husso",
+     "G"
+    ]
+   ],
    "CBJ": [
     [
      "Charlie Coyle",
@@ -3537,6 +3746,108 @@
     ],
     [
      "Linus Ullmark",
+     "G"
+    ]
+   ],
+   "SEA": [
+    [
+     "Matty Beniers",
+     "C"
+    ],
+    [
+     "Berkly Catton",
+     "C"
+    ],
+    [
+     "Curtis Douglas",
+     "C"
+    ],
+    [
+     "Jordan Eberle",
+     "R"
+    ],
+    [
+     "Frederick Gaudreau",
+     "C"
+    ],
+    [
+     "Kaapo Kakko",
+     "R"
+    ],
+    [
+     "Jared McCann",
+     "L"
+    ],
+    [
+     "Bobby McMann",
+     "C"
+    ],
+    [
+     "Jacob Melanson",
+     "R"
+    ],
+    [
+     "Ben Meyers",
+     "C"
+    ],
+    [
+     "Jake O'Brien",
+     "C"
+    ],
+    [
+     "Mackie Samoskevich",
+     "R"
+    ],
+    [
+     "Chandler Stephenson",
+     "C"
+    ],
+    [
+     "Ryan Winterton",
+     "C"
+    ],
+    [
+     "Matthew Wood",
+     "R"
+    ],
+    [
+     "Vince Dunn",
+     "D"
+    ],
+    [
+     "Ryker Evans",
+     "D"
+    ],
+    [
+     "Cale Fleury",
+     "D"
+    ],
+    [
+     "Adam Larsson",
+     "D"
+    ],
+    [
+     "Ryan Lindgren",
+     "D"
+    ],
+    [
+     "Josh Mahura",
+     "D"
+    ],
+    [
+     "Brandon Montour",
+     "D"
+    ],
+    [
+     "Ville Ottavainen",
+     "D"
+    ],
+    [
+     "Joey Daccord",
+     "G"
+    ],
+    [
+     "Philipp Grubauer",
      "G"
     ]
    ],

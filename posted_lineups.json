@@ -5276,6 +5276,48 @@
     "info_at": "2026-11-22T01:36:45+00:00",
     "ref": "2124316121319047221",
     "via": "Zach Cavanagh"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T20:44:27+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ],
+     [
+      "Luneau",
+      "Solberg"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Gauthier",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Killorn",
+      "McQueen",
+      "Caulfield"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Colangelo"
+     ],
+     [
+      "Myatovic",
+      "Nesterenko",
+      "Vatrano"
+     ]
+    ],
+    "goalie": "Dostal",
+    "info_at": "2026-11-23T20:43:44+00:00"
    }
   },
   "CBJ": {
@@ -6110,6 +6152,48 @@
     "info_at": "2026-11-23T17:54:04+00:00",
     "ref": "2124924458851000475",
     "via": "Mike Benton"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T20:44:27+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Ottavainen"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Daccord",
+    "info_at": "2026-11-23T20:43:44+00:00"
    }
   },
   "SJS": {
