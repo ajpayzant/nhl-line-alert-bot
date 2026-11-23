@@ -155,18 +155,17 @@
     "updated_at": "2026-11-21T20:43:53.962Z"
   },
   "CHI": {
-    "goalie": "Knight",
+    "goalie": "Commesso",
     "players": [
       "Bertuzzi",
-      "Boucher",
       "Cole",
       "Del Mastro",
       "Donato",
-      "Frondell",
       "Greene",
-      "Kaiser",
+      "Greenway",
       "Kane",
       "Kantserov",
+      "Korchinski",
       "Levshunov",
       "Mangiapane",
       "Moore",
@@ -174,11 +173,12 @@
       "Rinzel",
       "Smith",
       "Teravainen",
+      "Toninato",
       "Vlasic"
     ],
-    "signature": "[[[\"Donato\", \"Kantserov\", \"Bertuzzi\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Smith\", \"Frondell\", \"Teravainen\"], [\"Mangiapane\", \"Greene\", \"Boucher\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Kaiser\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
-    "source": "https://x.com/CHGO_Blackhawks/status/2124233894702592191",
-    "updated_at": "2026-11-21T20:44:43.109Z"
+    "signature": "[[[\"Donato\", \"Kantserov\", \"Bertuzzi\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Greene\", \"Teravainen\"], [\"Smith\", \"Toninato\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Commesso\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
+    "source": "https://x.com/BenPopeCST/status/2124663359765426179",
+    "updated_at": "2026-11-23T00:39:06.297Z"
   },
   "COL": {
     "goalie": "Blackwood",
@@ -744,9 +744,9 @@
       "Schenn",
       "Willander"
     ],
-    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Nils Pettersson\", \"Willander\"], [\"Oleksiak\", \"Schenn\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
-    "source": "https://x.com/BatchHockey/status/2124331676390359094",
-    "updated_at": "2026-11-22T02:48:51.701Z"
+    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Oleksiak\", \"Willander\"], [\"Nils Pettersson\", \"Schenn\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
+    "source": "https://x.com/benkuzma/status/2124664031760019595",
+    "updated_at": "2026-11-23T00:42:10.854Z"
   },
   "VGK": {
     "goalie": "Hart",
