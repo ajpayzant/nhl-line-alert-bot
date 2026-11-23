@@ -5370,6 +5370,52 @@
     "via": "Zach Dooley"
    }
   },
+  "NJD": {
+   "gameday": {
+    "at": "2026-11-23T15:56:32+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Noesen"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-23T15:51:10+00:00",
+    "ref": "2124893528320835740",
+    "via": "@InStilettos_NHL"
+   }
+  },
   "NYI": {
    "gameday": {
     "at": "2026-11-23T15:42:31+00:00",
