@@ -73,11 +73,11 @@
       "Zucker"
     ],
     "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"McLeod\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://x.com/rachelmlenzi/status/2124617934383251871",
-    "updated_at": "2026-11-22T21:38:04.316Z"
+    "source": "https://www.nhl.com/gamecenter/2026020374",
+    "updated_at": "2026-11-23T15:44:55.052Z"
   },
   "CAR": {
-    "goalie": "Bussi",
+    "goalie": "Kochetkov",
     "players": [
       "Aho",
       "Blake",
@@ -98,9 +98,9 @@
       "Svechnikov",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
-    "source": "https://x.com/WaltRuff/status/2124550109241450505",
-    "updated_at": "2026-11-22T17:09:24.695Z"
+    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Kochetkov\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020373",
+    "updated_at": "2026-11-23T15:43:23.013Z"
   },
   "CBJ": {
     "goalie": "Talbot",
@@ -257,7 +257,7 @@
     "updated_at": "2026-11-23T02:36:56.308Z"
   },
   "EDM": {
-    "goalie": "Jarry",
+    "goalie": "Levi",
     "players": [
       "Bouchard",
       "Dach",
@@ -278,9 +278,9 @@
       "Shea",
       "Walman"
     ],
-    "signature": "[[[\"Hallander\", \"McDavid\", \"Kapanen\"], [\"Podkolzin\", \"Draisaitl\", \"Joseph\"], [\"Formenton\", \"Dickinson\", \"Dach\"], [\"Jones\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Jarry\"], [\"Kapanen\", \"Podkolzin\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
-    "source": "https://x.com/EdmontonOilers/status/2124645914518417780",
-    "updated_at": "2026-11-22T23:28:39.097Z"
+    "signature": "[[[\"Hallander\", \"McDavid\", \"Kapanen\"], [\"Podkolzin\", \"Draisaitl\", \"Joseph\"], [\"Formenton\", \"Dickinson\", \"Dach\"], [\"Jones\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Levi\"], [\"Kapanen\", \"Podkolzin\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020375",
+    "updated_at": "2026-11-23T15:46:25.444Z"
   },
   "FLA": {
     "goalie": "Markstrom",
@@ -462,7 +462,7 @@
     "updated_at": "2026-11-23T15:13:34.355Z"
   },
   "NYR": {
-    "goalie": "Garand",
+    "goalie": "Korpisalo",
     "players": [
       "Chmelar",
       "Cuylle",
@@ -483,9 +483,9 @@
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
-    "source": "https://x.com/JLazzy23/status/2124549780067992025",
-    "updated_at": "2026-11-22T17:08:25.569Z"
+    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Korpisalo\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020373",
+    "updated_at": "2026-11-23T15:44:12.630Z"
   },
   "OTT": {
     "goalie": "Ullmark",
@@ -644,7 +644,7 @@
     "updated_at": "2026-11-22T23:41:54.302Z"
   },
   "TBL": {
-    "goalie": "Hildeby",
+    "goalie": "Vasilevskiy",
     "players": [
       "Carlson",
       "Cernak",
@@ -665,9 +665,9 @@
       "Sabourin",
       "Viel"
     ],
-    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Hildeby\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://x.com/BenjaminJReport/status/2124617593923285048",
-    "updated_at": "2026-11-22T21:36:47.662Z"
+    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020374",
+    "updated_at": "2026-11-23T15:45:37.269Z"
   },
   "TOR": {
     "goalie": "Stolarz",
