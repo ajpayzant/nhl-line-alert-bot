@@ -113,7 +113,6 @@
       "Gudbranson",
       "Johnson",
       "Knies",
-      "Lorentz",
       "Lundestrom",
       "Nichushkin",
       "Olivier",
@@ -124,9 +123,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Coyle\", \"Fantilli\", \"Nichushkin\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Olivier\"], [\"Lorentz\", \"Lundestrom\", \"Voronkov\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "https://x.com/BlueJacketsNHL/status/2124220303824105720",
-    "updated_at": "2026-11-21T20:47:02.481Z"
+    "signature": "[[[\"Coyle\", \"Fantilli\", \"Nichushkin\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Olivier\"], [\"Lundestrom\", \"Voronkov\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Gudbranson\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020360",
+    "updated_at": "2026-11-23T15:12:08.395Z"
   },
   "CGY": {
     "goalie": "Cooley",
@@ -330,9 +329,9 @@
       "Turcotte",
       "Zuccarello"
     ],
-    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Fiala\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
-    "source": "https://x.com/DooleyLAK/status/2124287813034082660",
-    "updated_at": "2026-11-22T20:21:41.732Z"
+    "signature": "[[[\"Lee\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Turcotte\", \"Haula\", \"Armia\"], [\"Laughton\", \"Helenius\", \"Perry\"]], [[\"Gustafsson\", \"Clarke\"], [\"Edmundson\", \"Doughty\"], [\"Anderson\", \"Dumoulin\"]], [\"Kuemper\"], [\"Zuccarello\", \"Byfield\", \"Laferriere\", \"Kempe\", \"Gustafsson\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020360",
+    "updated_at": "2026-11-23T15:09:44.385Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
@@ -511,8 +510,8 @@
       "Zub"
     ],
     "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
-    "source": "https://x.com/AndrewWilimek/status/2124163354466144362",
-    "updated_at": "2026-11-21T17:03:26.436Z"
+    "source": "https://www.nhl.com/gamecenter/2026020360",
+    "updated_at": "2026-11-23T15:10:16.892Z"
   },
   "PHI": {
     "goalie": "Vladar",
@@ -770,9 +769,9 @@
       "Theodore",
       "Wotherspoon"
     ],
-    "signature": "[[[\"Howden\", \"Eichel\", \"Stone\"], [\"Connelly\", \"Karlsson\", \"Marner\"], [\"Barbashev\", \"Hertl\", \"Olofsson\"], [\"Bowman\", \"Dowd\", \"Gatcomb\"]], [[\"McNabb\", \"Theodore\"], [\"Wotherspoon\", \"Andersson\"], [\"Lauzon\", \"Coghlan\"]], [\"Hart\"], [\"Stone\", \"Hertl\", \"Olofsson\", \"Eichel\", \"Marner\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020358",
-    "updated_at": "2026-11-20T17:21:00.632Z"
+    "signature": "[[[\"Howden\", \"Eichel\", \"Stone\"], [\"Connelly\", \"Karlsson\", \"Marner\"], [\"Barbashev\", \"Hertl\", \"Olofsson\"], [\"Bowman\", \"Dowd\", \"Gatcomb\"]], [[\"McNabb\", \"Theodore\"], [\"Lauzon\", \"Andersson\"], [\"Wotherspoon\", \"Coghlan\"]], [\"Hart\"], [\"Stone\", \"Hertl\", \"Olofsson\", \"Eichel\", \"Marner\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020360",
+    "updated_at": "2026-11-23T15:08:28.783Z"
   },
   "WPG": {
     "goalie": "Skinner",
