@@ -2,8 +2,8 @@
   "ANA": {
     "goalie": "Dostal",
     "players": [
-      "Carlsson",
       "Caulfield",
+      "Colangelo",
       "Gauthier",
       "Granlund",
       "Helleson",
@@ -21,9 +21,9 @@
       "Vatrano",
       "Washe"
     ],
-    "signature": "[[[\"Gauthier\", \"Carlsson\", \"Myatovic\"], [\"Killorn\", \"Granlund\", \"Caulfield\"], [\"Malott\", \"Washe\", \"Terry\"], [\"Nesterenko\", \"McQueen\", \"Vatrano\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Dostal\"], [\"Caulfield\", \"Carlsson\", \"Granlund\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020370",
-    "updated_at": "2026-11-23T15:16:37.916Z"
+    "signature": "[[[\"Gauthier\", \"Granlund\", \"Myatovic\"], [\"Killorn\", \"Washe\", \"Caulfield\"], [\"Malott\", \"McQueen\", \"Terry\"], [\"Vatrano\", \"Nesterenko\", \"Colangelo\"]], [[\"Lacombe\", \"Moore\"], [\"Mintyukov\", \"Helleson\"], [\"Solberg\", \"Luneau\"]], [\"Dostal\"], [\"Caulfield\", \"Granlund\", \"Terry\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "",
+    "updated_at": "2026-11-23T19:49:18.638Z"
   },
   "BOS": {
     "goalie": "Swayman",
