@@ -140,18 +140,18 @@
       "Klapka",
       "Kuznetsov",
       "Middleton",
+      "Morton",
       "Nemec",
       "Parekh",
-      "Pospisil",
       "Sharangovich",
       "Strome",
       "Suniev",
       "Tsyplakov",
       "Whitecloud"
     ],
-    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Pospisil\", \"Strome\"], [\"Sharangovich\", \"Frost\", \"Klapka\"], [\"Tsyplakov\", \"Castagna\", \"Suniev\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020360",
-    "updated_at": "2026-11-23T15:15:22.689Z"
+    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Strome\", \"Suniev\"], [\"Sharangovich\", \"Frost\", \"Klapka\"], [\"Tsyplakov\", \"Castagna\", \"Morton\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
+    "source": "",
+    "updated_at": "2026-11-23T17:37:22.351Z"
   },
   "CHI": {
     "goalie": "Knight",
