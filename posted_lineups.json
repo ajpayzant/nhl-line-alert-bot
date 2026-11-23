@@ -5847,48 +5847,25 @@
     "via": "Jeremy Rutherford"
    },
    "gameday": {
-    "at": "2026-11-22T23:41:25+00:00",
-    "defense": [
-     [
-      "Broberg",
-      "Mailloux"
-     ],
-     [
-      "Barron",
-      "Parayko"
-     ],
-     [
-      "Fowler",
-      "Carlo"
-     ]
-    ],
+    "at": "2026-11-23T02:32:33+00:00",
+    "defense": [],
     "extra": [],
     "forwards": [
      [
-      "Neighbours",
-      "Thomas",
-      "Snuggerud"
-     ],
-     [
-      "Holloway",
+      "Kaskimaki",
       "McTavish",
       "Dvorsky"
      ],
      [
-      "Kaskimaki",
+      "Holloway",
       "Buchnevich",
       "Berggren"
-     ],
-     [
-      "Toropchenko",
-      "Suter",
-      "Walker"
      ]
     ],
-    "goalie": "Hofer",
-    "info_at": "2026-11-22T23:37:01+00:00",
-    "ref": "2124648376050622804",
-    "via": "@MDeFranks"
+    "goalie": "",
+    "info_at": "2026-11-23T02:28:14+00:00",
+    "ref": "2124691465884532857",
+    "via": "@jprutherford"
    },
    "nhlcom": {
     "at": "2026-11-22T16:05:27+00:00",
