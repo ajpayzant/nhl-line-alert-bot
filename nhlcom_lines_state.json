@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-23T18:15:07.307Z",
+ "article_updated": "2026-11-23T18:19:49.341Z",
  "lineups": {
   "2026-11-20:CAR": {
    "article_updated": "2026-11-20T20:13:33.032Z",
@@ -2222,6 +2222,54 @@
     "Ryan Lomberg"
    ]
   },
+  "2026-11-23:CGY": {
+   "article_updated": "2026-11-23T18:19:49.341Z",
+   "defense": [
+    [
+     "Jake Middleton",
+     "Zach Whitecloud"
+    ],
+    [
+     "Joel Hanley",
+     "Simon Nemec"
+    ],
+    [
+     "Yan Kuznetsov",
+     "Zayne Parekh"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Joel Farabee",
+     "Mikael Backlund",
+     "Matt Coronato"
+    ],
+    [
+     "Matvei Gridin",
+     "Ryan Strome",
+     "Aydar Suniev"
+    ],
+    [
+     "Yegor Sharangovich",
+     "Morgan Frost",
+     "Adam Klapka"
+    ],
+    [
+     "Maxim Tsyplakov",
+     "Jonathan Castagna",
+     "Sam Morton"
+    ]
+   ],
+   "goalies": [
+    "Devin Cooley",
+    "Dustin Wolf"
+   ],
+   "scratched": [
+    "Brennan Othmann",
+    "Brayden Pachal"
+   ]
+  },
   "2026-11-23:NJD": {
    "article_updated": "2026-11-23T17:37:51.355Z",
    "defense": [
@@ -2318,6 +2366,54 @@
     "Scott Mayfield"
    ]
   },
+  "2026-11-23:OTT": {
+   "article_updated": "2026-11-23T18:19:49.341Z",
+   "defense": [
+    [
+     "Jake Sanderson",
+     "Artem Zub"
+    ],
+    [
+     "Thomas Chabot",
+     "Jordan Spence"
+    ],
+    [
+     "Tyler Kleven",
+     "Nikolas Matinpalo"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Fabian Zetterlund",
+     "Tim Stützle",
+     "Dylan Cozens"
+    ],
+    [
+     "Philip Tomasino",
+     "Shane Pinto",
+     "Drake Batherson"
+    ],
+    [
+     "Michael Amadio",
+     "Ridly Greig",
+     "Claude Giroux"
+    ],
+    [
+     "Sammy Blais",
+     "Stephen Halliday",
+     "Nick Cousins"
+    ]
+   ],
+   "goalies": [
+    "Linus Ullmark",
+    "Samuel Ersson"
+   ],
+   "scratched": [
+    "Carter Yakemchuk",
+    "Tyler Boucher"
+   ]
+  },
   "2026-11-23:TOR": {
    "article_updated": "2026-11-23T17:43:23.663Z",
    "defense": [
@@ -2365,6 +2461,103 @@
     "Cole McWard",
     "Brendan Brisson",
     "Ryan Tverberg"
+   ]
+  },
+  "2026-11-23:UTA": {
+   "article_updated": "2026-11-23T18:19:49.341Z",
+   "defense": [
+    [
+     "Mikhail Sergachev",
+     "Andrew Peeke"
+    ],
+    [
+     "Dmitri Simashev",
+     "MacKenzie Weegar"
+    ],
+    [
+     "Zac Jones",
+     "Nick DeSimone"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Logan Cooley",
+     "Vincent Trocheck",
+     "Clayton Keller"
+    ],
+    [
+     "Anders Lee",
+     "Barrett Hayton",
+     "Kailer Yamamoto"
+    ],
+    [
+     "Ben McCartney",
+     "Jack McBain",
+     "Lawson Crouse"
+    ],
+    [
+     "Liam O'Brien",
+     "Kevin Stenlund",
+     "Daniil But"
+    ]
+   ],
+   "goalies": [
+    "Sebastian Cossa",
+    "Karel Vejmelka"
+   ],
+   "scratched": [
+    "Ben McCartney",
+    "Gregor Biber"
+   ]
+  },
+  "2026-11-23:WPG": {
+   "article_updated": "2026-11-23T18:19:49.341Z",
+   "defense": [
+    [
+     "Josh Morrissey",
+     "Elias Salomonsson"
+    ],
+    [
+     "Dylan Samberg",
+     "Neal Pionk"
+    ],
+    [
+     "Mario Ferraro",
+     "Henry Thrun"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Kyle Connor",
+     "Mark Scheifele",
+     "Gabriel Vilardi"
+    ],
+    [
+     "Cole Perfetti",
+     "Brayden Yager",
+     "Dawson Mercer"
+    ],
+    [
+     "Morgan Barron",
+     "Adam Lowry",
+     "Viggo Björck"
+    ],
+    [
+     "Alex Iafallo",
+     "Danil Zhilkin",
+     "Tyrel Bauer"
+    ]
+   ],
+   "goalies": [
+    "Stuart Skinner",
+    "Nico Daws"
+   ],
+   "scratched": [
+    "Haydn Fleury",
+    "Nino Niederreiter",
+    "Cole Koepke"
    ]
   }
  },
@@ -2466,6 +2659,108 @@
     ],
     [
      "Cam Talbot",
+     "G"
+    ]
+   ],
+   "CGY": [
+    [
+     "Mikael Backlund",
+     "C"
+    ],
+    [
+     "Jonathan Castagna",
+     "C"
+    ],
+    [
+     "Matt Coronato",
+     "R"
+    ],
+    [
+     "Joel Farabee",
+     "L"
+    ],
+    [
+     "Morgan Frost",
+     "C"
+    ],
+    [
+     "Matvei Gridin",
+     "R"
+    ],
+    [
+     "Jonathan Huberdeau",
+     "L"
+    ],
+    [
+     "Adam Klapka",
+     "R"
+    ],
+    [
+     "Sam Morton",
+     "C"
+    ],
+    [
+     "Brennan Othmann",
+     "L"
+    ],
+    [
+     "Martin Pospisil",
+     "C"
+    ],
+    [
+     "Yegor Sharangovich",
+     "C"
+    ],
+    [
+     "Ryan Strome",
+     "C"
+    ],
+    [
+     "Aydar Suniev",
+     "L"
+    ],
+    [
+     "Maxim Tsyplakov",
+     "R"
+    ],
+    [
+     "Kevin Bahl",
+     "D"
+    ],
+    [
+     "Joel Hanley",
+     "D"
+    ],
+    [
+     "Yan Kuznetsov",
+     "D"
+    ],
+    [
+     "Jake Middleton",
+     "D"
+    ],
+    [
+     "Simon Nemec",
+     "D"
+    ],
+    [
+     "Brayden Pachal",
+     "D"
+    ],
+    [
+     "Zayne Parekh",
+     "D"
+    ],
+    [
+     "Zach Whitecloud",
+     "D"
+    ],
+    [
+     "Devin Cooley",
+     "G"
+    ],
+    [
+     "Dustin Wolf",
      "G"
     ]
    ],
@@ -2661,6 +2956,112 @@
      "G"
     ]
    ],
+   "OTT": [
+    [
+     "Michael Amadio",
+     "R"
+    ],
+    [
+     "Drake Batherson",
+     "R"
+    ],
+    [
+     "Sammy Blais",
+     "L"
+    ],
+    [
+     "Tyler Boucher",
+     "R"
+    ],
+    [
+     "Andre Burakovsky",
+     "L"
+    ],
+    [
+     "Nick Cousins",
+     "C"
+    ],
+    [
+     "Dylan Cozens",
+     "C"
+    ],
+    [
+     "William Eklund",
+     "L"
+    ],
+    [
+     "Warren Foegele",
+     "L"
+    ],
+    [
+     "Claude Giroux",
+     "R"
+    ],
+    [
+     "Ridly Greig",
+     "C"
+    ],
+    [
+     "Stephen Halliday",
+     "C"
+    ],
+    [
+     "Hayden Hodgson",
+     "R"
+    ],
+    [
+     "Shane Pinto",
+     "C"
+    ],
+    [
+     "Tim Stützle",
+     "C"
+    ],
+    [
+     "Philip Tomasino",
+     "R"
+    ],
+    [
+     "Fabian Zetterlund",
+     "L"
+    ],
+    [
+     "Thomas Chabot",
+     "D"
+    ],
+    [
+     "Tyler Kleven",
+     "D"
+    ],
+    [
+     "Nikolas Matinpalo",
+     "D"
+    ],
+    [
+     "Jake Sanderson",
+     "D"
+    ],
+    [
+     "Jordan Spence",
+     "D"
+    ],
+    [
+     "Carter Yakemchuk",
+     "D"
+    ],
+    [
+     "Artem Zub",
+     "D"
+    ],
+    [
+     "Samuel Ersson",
+     "G"
+    ],
+    [
+     "Linus Ullmark",
+     "G"
+    ]
+   ],
    "TOR": [
     [
      "Teddy Blueger",
@@ -2784,6 +3185,226 @@
     ],
     [
      "Anthony Stolarz",
+     "G"
+    ]
+   ],
+   "UTA": [
+    [
+     "Daniil But",
+     "L"
+    ],
+    [
+     "Michael Carcone",
+     "L"
+    ],
+    [
+     "Logan Cooley",
+     "C"
+    ],
+    [
+     "Lawson Crouse",
+     "L"
+    ],
+    [
+     "Dylan Guenther",
+     "R"
+    ],
+    [
+     "Barrett Hayton",
+     "C"
+    ],
+    [
+     "Clayton Keller",
+     "R"
+    ],
+    [
+     "Anders Lee",
+     "L"
+    ],
+    [
+     "Jack McBain",
+     "C"
+    ],
+    [
+     "Ben McCartney",
+     "L"
+    ],
+    [
+     "Liam O'Brien",
+     "C"
+    ],
+    [
+     "Nick Schmaltz",
+     "C"
+    ],
+    [
+     "Kevin Stenlund",
+     "C"
+    ],
+    [
+     "Vincent Trocheck",
+     "C"
+    ],
+    [
+     "Kailer Yamamoto",
+     "R"
+    ],
+    [
+     "Gregor Biber",
+     "D"
+    ],
+    [
+     "Nick DeSimone",
+     "D"
+    ],
+    [
+     "Artem Duda",
+     "D"
+    ],
+    [
+     "Zac Jones",
+     "D"
+    ],
+    [
+     "Maveric Lamoureux",
+     "D"
+    ],
+    [
+     "John Marino",
+     "D"
+    ],
+    [
+     "Andrew Peeke",
+     "D"
+    ],
+    [
+     "Nate Schmidt",
+     "D"
+    ],
+    [
+     "Mikhail Sergachev",
+     "D"
+    ],
+    [
+     "Dmitri Simashev",
+     "D"
+    ],
+    [
+     "MacKenzie Weegar",
+     "D"
+    ],
+    [
+     "Sebastian Cossa",
+     "G"
+    ],
+    [
+     "Karel Vejmelka",
+     "G"
+    ]
+   ],
+   "WPG": [
+    [
+     "Morgan Barron",
+     "C"
+    ],
+    [
+     "Viggo Björck",
+     "C"
+    ],
+    [
+     "Kyle Connor",
+     "L"
+    ],
+    [
+     "Alex Iafallo",
+     "L"
+    ],
+    [
+     "Cole Koepke",
+     "L"
+    ],
+    [
+     "Adam Lowry",
+     "C"
+    ],
+    [
+     "Dawson Mercer",
+     "C"
+    ],
+    [
+     "Vladislav Namestnikov",
+     "C"
+    ],
+    [
+     "Nino Niederreiter",
+     "R"
+    ],
+    [
+     "Cole Perfetti",
+     "C"
+    ],
+    [
+     "Isak Rosen",
+     "R"
+    ],
+    [
+     "Mark Scheifele",
+     "C"
+    ],
+    [
+     "Gabriel Vilardi",
+     "C"
+    ],
+    [
+     "Brayden Yager",
+     "C"
+    ],
+    [
+     "Danil Zhilkin",
+     "C"
+    ],
+    [
+     "Tyrel Bauer",
+     "D"
+    ],
+    [
+     "Dylan DeMelo",
+     "D"
+    ],
+    [
+     "Mario Ferraro",
+     "D"
+    ],
+    [
+     "Haydn Fleury",
+     "D"
+    ],
+    [
+     "Josh Morrissey",
+     "D"
+    ],
+    [
+     "Neal Pionk",
+     "D"
+    ],
+    [
+     "Elias Salomonsson",
+     "D"
+    ],
+    [
+     "Dylan Samberg",
+     "D"
+    ],
+    [
+     "Henry Thrun",
+     "D"
+    ],
+    [
+     "Nico Daws",
+     "G"
+    ],
+    [
+     "Stuart Skinner",
      "G"
     ]
    ]

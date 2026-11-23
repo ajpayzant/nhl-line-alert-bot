@@ -5366,6 +5366,48 @@
     "info_at": "2026-11-21T20:12:37+00:00",
     "ref": "2124234547600736718",
     "via": "@NHLFlames"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T18:20:33+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Farabee",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Gridin",
+      "Strome",
+      "Suniev"
+     ],
+     [
+      "Sharangovich",
+      "Frost",
+      "Klapka"
+     ],
+     [
+      "Tsyplakov",
+      "Castagna",
+      "?Morton"
+     ]
+    ],
+    "goalie": "Cooley",
+    "info_at": "2026-11-23T18:19:49+00:00"
    }
   },
   "LAK": {
@@ -5765,6 +5807,48 @@
     "info_at": "2026-11-23T15:34:56+00:00",
     "ref": "2124889441562972253",
     "via": "@TSN1200"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T18:20:33+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-23T18:19:49+00:00"
    }
   },
   "SEA": {
@@ -5903,6 +5987,50 @@
     "info_at": "2026-11-23T17:43:23+00:00"
    }
   },
+  "UTA": {
+   "nhlcom": {
+    "at": "2026-11-23T18:20:33+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cooley",
+      "Trocheck",
+      "Keller"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "McCartney",
+      "McBain",
+      "Crouse"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Cossa",
+    "info_at": "2026-11-23T18:19:49+00:00"
+   }
+  },
   "WPG": {
    "dfo": {
     "at": "2026-11-23T16:22:53+00:00",
@@ -5947,6 +6075,48 @@
     "info_at": "2026-11-23T15:42:30+00:00",
     "ref": "2124891348688048620",
     "via": "Mike McIntyre"
+   },
+   "nhlcom": {
+    "at": "2026-11-23T18:20:33+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Barron",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Iafallo",
+      "Zhilkin",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-23T18:19:49+00:00"
    }
   },
   "WSH": {
