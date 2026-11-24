@@ -3368,6 +3368,52 @@
   }
  },
  "2026-11-24": {
+  "BOS": {
+   "gameday": {
+    "at": "2026-11-24T15:42:26+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T15:40:21+00:00",
+    "ref": "2125253195089969198",
+    "via": "@bellefraser1"
+   }
+  },
   "DET": {
    "dfo": {
     "at": "2026-11-24T13:26:34+00:00",
