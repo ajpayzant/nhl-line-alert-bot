@@ -3458,6 +3458,91 @@
     "info_at": "2026-11-23T20:19:35+00:00",
     "ref": "2124961078367101009",
     "via": "Ansar Khan"
+   },
+   "gameday": {
+    "at": "2026-11-24T16:17:30+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:14:06+00:00",
+    "ref": "2125261689021137050",
+    "via": "@AnsarKhanMLive"
+   }
+  },
+  "PIT": {
+   "gameday": {
+    "at": "2026-11-24T16:17:28+00:00",
+    "defense": [
+     [
+      "Stastney",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "Korczak"
+     ],
+     [
+      "van Riemsdyk",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Malkin"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Brazeau"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:12:28+00:00",
+    "ref": "2125261278268760348",
+    "via": "@king_jemison"
    }
   },
   "WSH": {
