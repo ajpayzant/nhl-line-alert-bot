@@ -3542,6 +3542,52 @@
     "ref": "2125262310969413838"
    }
   },
+  "DAL": {
+   "gameday": {
+    "at": "2026-11-24T16:57:29+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Taylor",
+      "Burroughs"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Steel",
+      "Hintz",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Johnston",
+      "Hyry"
+     ],
+     [
+      "Hryckowian",
+      "Seguin",
+      "Benn"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:54:03+00:00",
+    "ref": "2125271743665446974",
+    "via": "@RobertTiffin"
+   }
+  },
   "DET": {
    "dfo": {
     "at": "2026-11-24T16:21:42+00:00",
@@ -3742,6 +3788,52 @@
     "info_at": "2026-11-24T16:20:27+00:00",
     "ref": "2125263287164223688",
     "via": "@vzmercogliano"
+   }
+  },
+  "PHI": {
+   "gameday": {
+    "at": "2026-11-24T16:57:27+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:51:03+00:00",
+    "ref": "2125270985817698456",
+    "via": "@JHallNBCS"
    }
   },
   "PIT": {
