@@ -5234,7 +5234,7 @@
  "2026-11-23": {
   "ANA": {
    "dfo": {
-    "at": "2026-11-23T13:54:39+00:00",
+    "at": "2026-11-24T02:42:40+00:00",
     "defense": [
      [
       "LaCombe",
@@ -5252,30 +5252,30 @@
     "extra": [],
     "forwards": [
      [
-      "Gauthier",
-      "Carlsson",
-      "Myatovic"
-     ],
-     [
       "Killorn",
       "Granlund",
-      "Caulfield"
+      "Gauthier"
+     ],
+     [
+      "Myatovic",
+      "McQueen",
+      "Terry"
      ],
      [
       "Malott",
       "Washe",
-      "Terry"
+      "Caulfield"
      ],
      [
+      "Vatrano",
       "Nesterenko",
-      "McQueen",
-      "Vatrano"
+      "Colangelo"
      ]
     ],
     "goalie": "Dostal",
-    "info_at": "2026-11-22T01:36:45+00:00",
-    "ref": "2124316121319047221",
-    "via": "Zach Cavanagh"
+    "info_at": "2026-11-24T02:35:00+00:00",
+    "ref": "2125055553487679618",
+    "via": "Anaheim Ducks"
    },
    "nhlcom": {
     "at": "2026-11-23T20:44:27+00:00",
@@ -5719,6 +5719,50 @@
    }
   },
   "MIN": {
+   "dfo": {
+    "at": "2026-11-24T02:42:40+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Gustavsson",
+    "info_at": "2026-11-24T02:37:49+00:00",
+    "ref": "2125056262077645310",
+    "via": "Minnesota Wild"
+   },
    "nhlcom": {
     "at": "2026-11-23T19:58:26+00:00",
     "defense": [
@@ -6375,7 +6419,7 @@
   },
   "SJS": {
    "dfo": {
-    "at": "2026-11-23T18:42:38+00:00",
+    "at": "2026-11-24T02:42:40+00:00",
     "defense": [
      [
       "Nurse",
@@ -6414,9 +6458,9 @@
      ]
     ],
     "goalie": "Askarov",
-    "info_at": "2026-11-23T18:35:52+00:00",
-    "ref": "2124934977502790102",
-    "via": "Curtis Pashelka"
+    "info_at": "2026-11-24T02:35:38+00:00",
+    "ref": "2125055713043251552",
+    "via": "Sheng Peng"
    },
    "gameday": {
     "at": "2026-11-23T18:41:25+00:00",
