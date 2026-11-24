@@ -5763,6 +5763,50 @@
     "ref": "2125056262077645310",
     "via": "Minnesota Wild"
    },
+   "gameday": {
+    "at": "2026-11-24T02:51:28+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Gustavsson",
+    "info_at": "2026-11-24T02:50:57+00:00",
+    "ref": "2125059567931531752",
+    "via": "@JoeSmithNHL"
+   },
    "nhlcom": {
     "at": "2026-11-23T19:58:26+00:00",
     "defense": [
