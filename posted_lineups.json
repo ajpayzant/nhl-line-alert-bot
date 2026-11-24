@@ -3627,6 +3627,52 @@
     "via": "@AnsarKhanMLive"
    }
   },
+  "NYR": {
+   "gameday": {
+    "at": "2026-11-24T16:26:29+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Perreault"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Rempe"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:20:27+00:00",
+    "ref": "2125263287164223688",
+    "via": "@vzmercogliano"
+   }
+  },
   "PIT": {
    "gameday": {
     "at": "2026-11-24T16:17:28+00:00",
