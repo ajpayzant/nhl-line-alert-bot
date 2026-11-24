@@ -4488,6 +4488,47 @@
     "via": "@BenjaminJReport"
    }
   },
+  "VAN": {
+   "gameday": {
+    "at": "2026-11-24T18:26:24+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Crotty"
+     ],
+     [
+      "?DPetey",
+      "Schenn"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "?DOC",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Reinhardt",
+      "Quillan",
+      "Cotter"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T18:22:06+00:00",
+    "ref": "2125293900302881273",
+    "via": "@ThomasDrance"
+   }
+  },
   "WSH": {
    "dfo": {
     "at": "2026-11-24T17:01:49+00:00",
