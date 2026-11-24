@@ -5588,18 +5588,18 @@
   },
   "LAK": {
    "dfo": {
-    "at": "2026-11-23T17:47:35+00:00",
+    "at": "2026-11-24T00:22:34+00:00",
     "defense": [
-     [
-      "Edmundson",
-      "Clarke"
-     ],
      [
       "Anderson",
       "Doughty"
      ],
      [
       "Dumoulin",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
       "Ceci"
      ]
     ],
@@ -5622,13 +5622,14 @@
      ],
      [
       "Lee",
-      "Laughton",
+      "Turcotte",
       "Perry"
      ]
     ],
     "goalie": "Kuemper",
-    "info_at": "2026-11-23T17:42:45+00:00",
-    "via": "Projected"
+    "info_at": "2026-11-24T00:10:12+00:00",
+    "ref": "2125019115442340026",
+    "via": "Zach Dooley"
    },
    "gameday": {
     "at": "2026-11-24T00:17:34+00:00",
