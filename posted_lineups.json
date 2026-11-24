@@ -3971,6 +3971,50 @@
    }
   },
   "NYR": {
+   "dfo": {
+    "at": "2026-11-24T17:21:45+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Perreault"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Rempe"
+     ]
+    ],
+    "goalie": "Korpisalo",
+    "info_at": "2026-11-24T16:19:10+00:00",
+    "ref": "2125262960952004792",
+    "via": "Remy Mastey"
+   },
    "gameday": {
     "at": "2026-11-24T16:26:29+00:00",
     "defense": [
@@ -4017,6 +4061,50 @@
    }
   },
   "PHI": {
+   "dfo": {
+    "at": "2026-11-24T17:21:45+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Vladar",
+    "info_at": "2026-11-24T16:50:14+00:00",
+    "ref": "2125270782029001149",
+    "via": "Jordan Hall"
+   },
    "gameday": {
     "at": "2026-11-24T16:57:27+00:00",
     "defense": [
@@ -4153,6 +4241,50 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-24T17:21:45+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Holmberg"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "O'Reilly",
+      "Sabourin"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-24T16:34:00+00:00",
+    "ref": "2125266694952345678",
+    "via": "Diandra Loux"
+   },
    "gameday": {
     "at": "2026-11-24T16:21:28+00:00",
     "defense": [],

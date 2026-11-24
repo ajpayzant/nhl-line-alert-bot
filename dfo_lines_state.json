@@ -483,9 +483,9 @@
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Perreault\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Cuylle\", \"Miller\", \"Kartye\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Korpisalo\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020373",
-    "updated_at": "2026-11-23T15:44:12.630Z"
+    "signature": "[[[\"Cuylle\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Kartye\", \"Miller\", \"Perreault\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Rempe\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Korpisalo\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
+    "source": "https://x.com/MasteyRemy/status/2125262960952004792",
+    "updated_at": "2026-11-24T17:16:52.259Z"
   },
   "OTT": {
     "goalie": "Ullmark",
@@ -536,8 +536,8 @@
       "Zegras"
     ],
     "signature": "[[[\"Foerster\", \"Dvorak\", \"Konecny\"], [\"Tippett\", \"Barkey\", \"Martone\"], [\"Knuble\", \"Cates\", \"Michkov\"], [\"Zegras\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Ristolainen\"], [\"York\", \"Drysdale\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
-    "source": "https://x.com/JHallNBCS/status/2124553841790054818",
-    "updated_at": "2026-11-22T23:25:38.281Z"
+    "source": "https://x.com/JHallNBCS/status/2125270782029001149?s=20",
+    "updated_at": "2026-11-24T17:21:21.804Z"
   },
   "PIT": {
     "goalie": "Silovs",
@@ -650,10 +650,10 @@
       "Cernak",
       "Cirelli",
       "D'Astous",
-      "Goncalves",
+      "Girgensons",
       "Gourde",
       "Guentzel",
-      "Harkins",
+      "Hagel",
       "Hedman",
       "Holmberg",
       "Kucherov",
@@ -665,9 +665,9 @@
       "Sabourin",
       "Viel"
     ],
-    "signature": "[[[\"Guentzel\", \"Point\", \"Kucherov\"], [\"Gourde\", \"O'Reilly\", \"Goncalves\"], [\"Mikheyev\", \"Cirelli\", \"Holmberg\"], [\"Viel\", \"Harkins\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020374",
-    "updated_at": "2026-11-23T15:45:37.269Z"
+    "signature": "[[[\"Hagel\", \"Cirelli\", \"Kucherov\"], [\"Guentzel\", \"Point\", \"Holmberg\"], [\"Mikheyev\", \"Girgensons\", \"Gourde\"], [\"Viel\", \"O'Reilly\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
+    "source": "https://x.com/Diandra_loux/status/2125266694952345678",
+    "updated_at": "2026-11-24T17:18:50.518Z"
   },
   "TOR": {
     "goalie": "Stolarz",
