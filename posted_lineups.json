@@ -3542,6 +3542,52 @@
     "ref": "2125262310969413838"
    }
   },
+  "CGY": {
+   "gameday": {
+    "at": "2026-11-24T17:17:24+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Sharangovich",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Farabee",
+      "Strome",
+      "Klapka"
+     ],
+     [
+      "Gridin",
+      "Castagna",
+      "Suniev"
+     ],
+     [
+      "Othmann",
+      "Morton",
+      "Tsyplakov"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T17:14:12+00:00",
+    "ref": "2125276810770542934",
+    "via": "@dwillsnhl"
+   }
+  },
   "DAL": {
    "gameday": {
     "at": "2026-11-24T16:57:29+00:00",
