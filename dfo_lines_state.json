@@ -268,20 +268,20 @@
       "Formenton",
       "Frederic",
       "Hallander",
-      "Jones",
       "Joseph",
       "Kapanen",
       "McDavid",
       "Michaels",
       "Mukhamadullin",
       "Murphy",
+      "Nugent-Hopkins",
       "Podkolzin",
       "Shea",
       "Walman"
     ],
-    "signature": "[[[\"Hallander\", \"McDavid\", \"Kapanen\"], [\"Podkolzin\", \"Draisaitl\", \"Joseph\"], [\"Formenton\", \"Dickinson\", \"Dach\"], [\"Jones\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Levi\"], [\"Kapanen\", \"Podkolzin\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020375",
-    "updated_at": "2026-11-23T15:46:25.444Z"
+    "signature": "[[[\"Podkolzin\", \"McDavid\", \"Draisaitl\"], [\"Dach\", \"Nugent-Hopkins\", \"Kapanen\"], [\"Hallander\", \"Dickinson\", \"Joseph\"], [\"Formenton\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Levi\"], [\"Kapanen\", \"Nugent-Hopkins\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
+    "source": "",
+    "updated_at": "2026-11-24T13:12:32.298Z"
   },
   "FLA": {
     "goalie": "Markstrom",
