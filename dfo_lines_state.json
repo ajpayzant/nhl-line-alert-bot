@@ -439,6 +439,7 @@
     "goalie": "Sorokin",
     "players": [
       "Barzal",
+      "Chaffee",
       "Cizikas",
       "DeAngelo",
       "Duclair",
@@ -449,17 +450,16 @@
       "Hutton",
       "Kessel",
       "Maccelli",
+      "Mayfield",
       "Pageau",
       "Palat",
-      "Palmieri",
       "Pelech",
       "Schaefer",
-      "Schenn",
-      "Stanley"
+      "Schenn"
     ],
-    "signature": "[[[\"Holmstrom\", \"Horvat\", \"Palmieri\"], [\"Schenn\", \"Barzal\", \"Eklund\"], [\"Maccelli\", \"Pageau\", \"Heineman\"], [\"Palat\", \"Cizikas\", \"Duclair\"]], [[\"Stanley\", \"Schaefer\"], [\"Pelech\", \"DeAngelo\"], [\"Hutton\", \"Kessel\"]], [\"Sorokin\"], [\"Eklund\", \"Horvat\", \"Schenn\", \"Barzal\", \"Schaefer\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020381",
-    "updated_at": "2026-11-24T16:33:46.101Z"
+    "signature": "[[[\"Holmstrom\", \"Horvat\", \"Barzal\"], [\"Heineman\", \"Schenn\", \"Eklund\"], [\"Duclair\", \"Pageau\", \"Chaffee\"], [\"Palat\", \"Cizikas\", \"Maccelli\"]], [[\"Pelech\", \"Schaefer\"], [\"Hutton\", \"DeAngelo\"], [\"Mayfield\", \"Kessel\"]], [\"Sorokin\"], [\"Eklund\", \"Barzal\", \"Schenn\", \"Schaefer\", \"Horvat\"]]",
+    "source": "https://x.com/stefen_rosner/status/2125267994922156443",
+    "updated_at": "2026-11-24T17:13:31.851Z"
   },
   "NYR": {
     "goalie": "Korpisalo",
