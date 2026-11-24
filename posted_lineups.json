@@ -3745,6 +3745,50 @@
    }
   },
   "PIT": {
+   "dfo": {
+    "at": "2026-11-24T16:56:35+00:00",
+    "defense": [
+     [
+      "Stastney",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "Korczak"
+     ],
+     [
+      "van Riemsdyk",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Malkin",
+      "Crosby",
+      "Rakell"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Brazeau"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Hayes"
+     ]
+    ],
+    "goalie": "Silovs",
+    "info_at": "2026-11-24T16:06:28+00:00",
+    "ref": "2125259765714682076",
+    "via": "@PensInsideScoop"
+   },
    "gameday": {
     "at": "2026-11-24T16:17:28+00:00",
     "defense": [
