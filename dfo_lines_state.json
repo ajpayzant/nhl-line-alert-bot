@@ -150,9 +150,9 @@
       "Tsyplakov",
       "Whitecloud"
     ],
-    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Strome\", \"Suniev\"], [\"Sharangovich\", \"Frost\", \"Klapka\"], [\"Tsyplakov\", \"Castagna\", \"Morton\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
-    "source": "",
-    "updated_at": "2026-11-23T17:37:22.351Z"
+    "signature": "[[[\"Farabee\", \"Frost\", \"Coronato\"], [\"Gridin\", \"Strome\", \"Klapka\"], [\"Morton\", \"Backlund\", \"Sharangovich\"], [\"Tsyplakov\", \"Castagna\", \"Suniev\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
+    "source": "https://x.com/dwillsnhl/status/2125019521660723446",
+    "updated_at": "2026-11-24T00:15:59.636Z"
   },
   "CHI": {
     "goalie": "Knight",
@@ -360,30 +360,29 @@
     "updated_at": "2026-11-23T15:18:13.262Z"
   },
   "MTL": {
-    "goalie": "Fowler",
+    "goalie": "Dobes",
     "players": [
       "Beck",
-      "Berard",
       "Bolduc",
       "Carrier",
       "Caufield",
       "Danault",
       "Dobson",
+      "Engstrom",
       "Evans",
       "Guhle",
       "Hutson",
       "Kapanen",
       "Larkin",
       "Newhook",
-      "Reinbacher",
       "Slafkovsky",
       "Suzuki",
       "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Caufield\", \"Suzuki\", \"Texier\"], [\"Newhook\", \"Larkin\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Kapanen\"], [\"Berard\", \"Evans\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Larkin\", \"Caufield\", \"Hutson\"]]",
-    "source": "",
-    "updated_at": "2026-11-23T02:21:19.723Z"
+    "signature": "[[[\"Caufield\", \"Suzuki\", \"Slafkovsky\"], [\"Newhook\", \"Larkin\", \"Texier\"], [\"Bolduc\", \"Danault\", \"Evans\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Dobes\"], [\"Slafkovsky\", \"Suzuki\", \"Larkin\", \"Caufield\", \"Hutson\"]]",
+    "source": "https://x.com/mndamico/status/2125019383567135058",
+    "updated_at": "2026-11-24T00:12:51.549Z"
   },
   "NJD": {
     "goalie": "Hellebuyck",
@@ -687,14 +686,14 @@
       "Raddysh",
       "Raty",
       "Rielly",
-      "Roslovic",
       "Stecher",
       "Tanev",
-      "Tavares"
+      "Tavares",
+      "Tverberg"
     ],
-    "signature": "[[[\"Cowan\", \"Matthews\", \"Roslovic\"], [\"McKenna\", \"Tavares\", \"Paul\"], [\"Joshua\", \"Blueger\", \"Nylander\"], [\"Duhaime\", \"Raty\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Ekman-Larsson\", \"Tanev\"], [\"Rielly\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
-    "source": "https://x.com/koshtorontosun/status/2124554027497132333",
-    "updated_at": "2026-11-22T19:16:47.352Z"
+    "signature": "[[[\"Paul\", \"Matthews\", \"Cowan\"], [\"McKenna\", \"Tavares\", \"Tverberg\"], [\"Joshua\", \"Raty\", \"Nylander\"], [\"Duhaime\", \"Blueger\", \"MacEwen\"]], [[\"McCabe\", \"Raddysh\"], [\"Ekman-Larsson\", \"Tanev\"], [\"Rielly\", \"Stecher\"]], [\"Stolarz\"], [\"McKenna\", \"Tavares\", \"Nylander\", \"Raddysh\", \"Matthews\"]]",
+    "source": "https://x.com/markhmasters/status/2125019224175419782",
+    "updated_at": "2026-11-24T00:16:38.410Z"
   },
   "UTA": {
     "goalie": "Cossa",
@@ -703,12 +702,12 @@
       "Cooley",
       "Crouse",
       "DeSimone",
+      "Guenther",
       "Hayton",
       "Jones",
       "Keller",
       "Lee",
       "McBain",
-      "McCartney",
       "O'Brien",
       "Peeke",
       "Sergachev",
@@ -718,9 +717,9 @@
       "Weegar",
       "Yamamoto"
     ],
-    "signature": "[[[\"Cooley\", \"Trocheck\", \"Keller\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"Crouse\", \"McBain\", \"But\"], [\"McCartney\", \"Stenlund\", \"O'Brien\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Yamamoto\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Cooley\"]]",
-    "source": "",
-    "updated_at": "2026-11-23T17:53:32.614Z"
+    "signature": "[[[\"Keller\", \"McBain\", \"Guenther\"], [\"Cooley\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
+    "source": "https://x.com/utahmammoth/status/2125017669351174586/photo/1",
+    "updated_at": "2026-11-24T00:09:49.751Z"
   },
   "VAN": {
     "goalie": "Merilainen",
