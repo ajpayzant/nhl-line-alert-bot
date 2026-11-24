@@ -3369,6 +3369,50 @@
  },
  "2026-11-24": {
   "BOS": {
+   "dfo": {
+    "at": "2026-11-24T16:21:42+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-24T15:41:35+00:00",
+    "ref": "2125253503819935845",
+    "via": "Jim McBride"
+   },
    "gameday": {
     "at": "2026-11-24T15:42:26+00:00",
     "defense": [
@@ -3414,9 +3458,93 @@
     "via": "@bellefraser1"
    }
   },
+  "CAR": {
+   "dfo": {
+    "at": "2026-11-24T16:21:42+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Kotkaniemi"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-24T16:01:31+00:00",
+    "ref": "2125258522505945184",
+    "via": "Walt Ruff"
+   },
+   "gameday": {
+    "at": "2026-11-24T16:21:27+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Kotkaniemi"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T16:16:35+00:00",
+    "ref": "2125262310969413838"
+   }
+  },
   "DET": {
    "dfo": {
-    "at": "2026-11-24T13:26:34+00:00",
+    "at": "2026-11-24T16:21:42+00:00",
     "defense": [
      [
       "Chiarot",
@@ -3444,19 +3572,19 @@
       "Arvidsson"
      ],
      [
-      "Mazur",
-      "Compher",
-      "Brandsegg-Nygård"
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
      ],
      [
-      "Dach",
+      "Mazur",
       "Rasmussen",
       "Kolesar"
      ]
     ],
-    "goalie": "Gibson",
-    "info_at": "2026-11-23T20:19:35+00:00",
-    "ref": "2124961078367101009",
+    "goalie": "Tarasov",
+    "info_at": "2026-11-24T16:03:30+00:00",
+    "ref": "2125259020889948606",
     "via": "Ansar Khan"
    },
    "gameday": {
@@ -3543,6 +3671,34 @@
     "info_at": "2026-11-24T16:12:28+00:00",
     "ref": "2125261278268760348",
     "via": "@king_jemison"
+   }
+  },
+  "TBL": {
+   "gameday": {
+    "at": "2026-11-24T16:21:28+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Holmberg"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-24T16:19:36+00:00",
+    "ref": "2125263072499744915",
+    "via": "@BenjaminJReport"
    }
   },
   "WSH": {
