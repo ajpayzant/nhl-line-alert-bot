@@ -458,8 +458,8 @@
       "Stanley"
     ],
     "signature": "[[[\"Holmstrom\", \"Horvat\", \"Palmieri\"], [\"Schenn\", \"Barzal\", \"Eklund\"], [\"Maccelli\", \"Pageau\", \"Heineman\"], [\"Palat\", \"Cizikas\", \"Duclair\"]], [[\"Stanley\", \"Schaefer\"], [\"Pelech\", \"DeAngelo\"], [\"Hutton\", \"Kessel\"]], [\"Sorokin\"], [\"Eklund\", \"Horvat\", \"Schenn\", \"Barzal\", \"Schaefer\"]]",
-    "source": "https://x.com/stefen_rosner/status/2124888290889269303",
-    "updated_at": "2026-11-24T02:43:22.487Z"
+    "source": "https://www.nhl.com/gamecenter/2026020381",
+    "updated_at": "2026-11-24T16:33:46.101Z"
   },
   "NYR": {
     "goalie": "Korpisalo",
@@ -718,8 +718,8 @@
       "Yamamoto"
     ],
     "signature": "[[[\"Keller\", \"McBain\", \"Guenther\"], [\"Cooley\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
-    "source": "https://x.com/utahmammoth/status/2125017669351174586/photo/1",
-    "updated_at": "2026-11-24T00:09:49.751Z"
+    "source": "https://www.nhl.com/gamecenter/2026020382",
+    "updated_at": "2026-11-24T16:34:27.107Z"
   },
   "VAN": {
     "goalie": "Merilainen",
@@ -792,12 +792,11 @@
       "Scheifele",
       "Thrun",
       "Vilardi",
-      "Yager",
-      "Zhilkin"
+      "Yager"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Iafallo\", \"Zhilkin\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
-    "source": "https://x.com/mikemcintyrewpg/status/2124891348688048620?s=20",
-    "updated_at": "2026-11-23T16:19:20.531Z"
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Iafallo\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "source": "https://www.nhl.com/gamecenter/2026020382",
+    "updated_at": "2026-11-24T16:35:11.419Z"
   },
   "WSH": {
     "goalie": "Lindgren",
