@@ -3588,6 +3588,48 @@
     "via": "@dwillsnhl"
    }
   },
+  "COL": {
+   "gameday": {
+    "at": "2026-11-24T18:17:36+00:00",
+    "defense": [
+     [
+      "Kulak",
+      "Malinski"
+     ],
+     [
+      "Juulsen",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Roy",
+      "Kadri"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "Kelly",
+      "Brindley",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-24T18:10:40+00:00",
+    "ref": "2125291021751996523",
+    "via": "@HockeyMtnHighCO"
+   }
+  },
   "DAL": {
    "dfo": {
     "at": "2026-11-24T17:36:53+00:00",
