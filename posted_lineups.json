@@ -3893,6 +3893,48 @@
     "info_at": "2026-11-24T16:30:01+00:00",
     "ref": "2125265694090792989",
     "via": "@Bob_Stauffer"
+   },
+   "nhlcom": {
+    "at": "2026-11-24T18:32:25+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Nugent-Hopkins",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Dach"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Levi",
+    "info_at": "2026-11-24T18:32:16+00:00"
    }
   },
   "FLA": {
@@ -4527,6 +4569,50 @@
     "info_at": "2026-11-24T18:22:06+00:00",
     "ref": "2125293900302881273",
     "via": "@ThomasDrance"
+   }
+  },
+  "VGK": {
+   "nhlcom": {
+    "at": "2026-11-24T18:32:25+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "Hart",
+    "info_at": "2026-11-24T18:32:16+00:00"
    }
   },
   "WSH": {
