@@ -3588,6 +3588,52 @@
     "via": "@dwillsnhl"
    }
   },
+  "CHI": {
+   "gameday": {
+    "at": "2026-11-24T21:32:22+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greene",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T21:30:08+00:00",
+    "ref": "2125341218704077026",
+    "via": "@BenPopeCST"
+   }
+  },
   "COL": {
    "dfo": {
     "at": "2026-11-24T19:41:35+00:00",
