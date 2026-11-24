@@ -3589,6 +3589,50 @@
    }
   },
   "COL": {
+   "dfo": {
+    "at": "2026-11-24T19:41:35+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Makar"
+     ],
+     [
+      "Kulak",
+      "Malinski"
+     ],
+     [
+      "Juulsen",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "O'Connor",
+      "Kelly",
+      "Brindley"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-24T18:09:27+00:00",
+    "ref": "2125290718440661407",
+    "via": "@HockeyMtnHighCO"
+   },
    "gameday": {
     "at": "2026-11-24T18:17:36+00:00",
     "defense": [
@@ -4577,6 +4621,50 @@
    }
   },
   "VAN": {
+   "dfo": {
+    "at": "2026-11-24T19:41:35+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Willander"
+     ],
+     [
+      "?Pettersson",
+      "Schenn"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Lekkerimäki"
+     ],
+     [
+      "O'Connor",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Reinhardt",
+      "Quillan",
+      "Cotter"
+     ]
+    ],
+    "goalie": "Meriläinen",
+    "info_at": "2026-11-24T18:21:35+00:00",
+    "ref": "2125293771365744982",
+    "via": "Thomas Drance"
+   },
    "gameday": {
     "at": "2026-11-24T18:26:24+00:00",
     "defense": [

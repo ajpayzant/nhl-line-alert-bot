@@ -183,7 +183,7 @@
   "COL": {
     "goalie": "Blackwood",
     "players": [
-      "Beckman",
+      "Brindley",
       "Burns",
       "Hughes",
       "Juulsen",
@@ -192,19 +192,19 @@
       "Kulak",
       "Landeskog",
       "Lehkonen",
+      "Makar",
       "Malinski",
       "Necas",
       "Nelson",
       "O'Connor",
-      "Reilly",
       "Roy",
       "Schwartz",
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"Beckman\", \"Kelly\", \"O'Connor\"]], [[\"Toews\", \"Malinski\"], [\"Kulak\", \"Juulsen\"], [\"Reilly\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Toews\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020356",
-    "updated_at": "2026-11-20T17:18:11.963Z"
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"O'Connor\", \"Kelly\", \"Brindley\"]], [[\"Toews\", \"Makar\"], [\"Kulak\", \"Malinski\"], [\"Juulsen\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Makar\"]]",
+    "source": "https://x.com/HockeyMtnHighCO/status/2125290718440661407?s=20",
+    "updated_at": "2026-11-24T19:39:28.826Z"
   },
   "DAL": {
     "goalie": "Oettinger",
@@ -724,7 +724,6 @@
   "VAN": {
     "goalie": "Merilainen",
     "players": [
-      "Bains",
       "Boeser",
       "Buium",
       "Chytil",
@@ -739,13 +738,14 @@
       "Ohgren",
       "Oleksiak",
       "Quillan",
+      "Reinhardt",
       "Rossi",
       "Schenn",
       "Willander"
     ],
-    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Cotter\", \"Quillan\", \"Bains\"]], [[\"Buium\", \"Hronek\"], [\"Oleksiak\", \"Willander\"], [\"Nils Pettersson\", \"Schenn\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020377",
-    "updated_at": "2026-11-23T15:50:51.549Z"
+    "signature": "[[[\"DeBrusk\", \"Chytil\", \"Boeser\"], [\"Ohgren\", \"Rossi\", \"Lekkerimaki\"], [\"O'Connor\", \"Mueller\", \"Karlsson\"], [\"Reinhardt\", \"Quillan\", \"Cotter\"]], [[\"Buium\", \"Hronek\"], [\"Oleksiak\", \"Willander\"], [\"Nils Pettersson\", \"Schenn\"]], [\"Merilainen\"], [\"DeBrusk\", \"Rossi\", \"Boeser\", \"Lekkerimaki\", \"Hronek\"]]",
+    "source": "https://x.com/ThomasDrance/status/2125293771365744982?s=20",
+    "updated_at": "2026-11-24T19:37:57.568Z"
   },
   "VGK": {
     "goalie": "Hart",
