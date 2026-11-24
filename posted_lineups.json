@@ -3675,34 +3675,26 @@
   },
   "NYI": {
    "gameday": {
-    "at": "2026-11-24T16:32:42+00:00",
-    "defense": [],
-    "extra": [],
-    "forwards": [
+    "at": "2026-11-24T16:47:27+00:00",
+    "defense": [
      [
-      "Holmstrom",
-      "Horvat",
-      "Barzal"
+      "Pelech",
+      "Schaefer"
      ],
      [
-      "Heineman",
-      "Schenn",
-      "Eklund"
+      "Hutton",
+      "DeAngelo"
      ],
      [
-      "Palat",
-      "Cizikas",
-      "Maccelli"
-     ],
-     [
-      "Duclair",
-      "Pageau",
-      "Chaffee"
+      "Mayfield",
+      "Kessel"
      ]
     ],
-    "goalie": "",
-    "info_at": "2026-11-24T16:28:36+00:00",
-    "ref": "2125265337721700433",
+    "extra": [],
+    "forwards": [],
+    "goalie": "Varlamov",
+    "info_at": "2026-11-24T16:42:49+00:00",
+    "ref": "2125268915433652730",
     "via": "@AGrossNewsday"
    }
   },
