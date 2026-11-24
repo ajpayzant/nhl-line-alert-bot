@@ -3674,6 +3674,50 @@
    }
   },
   "EDM": {
+   "dfo": {
+    "at": "2026-11-24T17:11:34+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Nugent-Hopkins",
+      "McDavid",
+      "Kapanen"
+     ],
+     [
+      "Podkolzin",
+      "Draisaitl",
+      "Joseph"
+     ],
+     [
+      "Hallander",
+      "Dickinson",
+      "Dach"
+     ],
+     [
+      "Formenton",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Levi",
+    "info_at": "2026-11-24T16:29:11+00:00",
+    "ref": "2125265484136464417",
+    "via": "Bob Stauffer"
+   },
    "gameday": {
     "at": "2026-11-24T16:32:42+00:00",
     "defense": [
@@ -3763,6 +3807,52 @@
     "info_at": "2026-11-24T16:12:33+00:00",
     "ref": "2125261297507770839",
     "via": "George Richards"
+   }
+  },
+  "NSH": {
+   "gameday": {
+    "at": "2026-11-24T17:11:20+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T17:08:29+00:00",
+    "ref": "2125275373718077519",
+    "via": "@MaxHerzTalks"
    }
   },
   "NYI": {
