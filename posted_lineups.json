@@ -3899,6 +3899,52 @@
     "via": "George Richards"
    }
   },
+  "NJD": {
+   "dfo": {
+    "at": "2026-11-24T17:51:37+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Noesen"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-24T17:07:32+00:00",
+    "ref": "2125275136160903618",
+    "via": "Amanda Stein"
+   }
+  },
   "NSH": {
    "dfo": {
     "at": "2026-11-24T17:36:53+00:00",
