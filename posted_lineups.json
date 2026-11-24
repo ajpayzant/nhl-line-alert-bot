@@ -3719,6 +3719,52 @@
     "via": "@Bob_Stauffer"
    }
   },
+  "FLA": {
+   "dfo": {
+    "at": "2026-11-24T17:01:49+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Lundell",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Bennett",
+      "Marchand"
+     ],
+     [
+      "Vilmanis",
+      "Eller",
+      "Hathaway"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-24T16:12:33+00:00",
+    "ref": "2125261297507770839",
+    "via": "George Richards"
+   }
+  },
   "NYI": {
    "gameday": {
     "at": "2026-11-24T16:47:27+00:00",
@@ -3955,6 +4001,50 @@
    }
   },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-24T17:01:49+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Desharnais"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Frank"
+     ],
+     [
+      "Jenner",
+      "Sourdif",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Lindgren",
+    "info_at": "2026-11-24T16:06:26+00:00",
+    "ref": "2125259757082882357",
+    "via": "Tom Gulitti"
+   },
    "gameday": {
     "at": "2026-11-24T16:02:25+00:00",
     "defense": [
