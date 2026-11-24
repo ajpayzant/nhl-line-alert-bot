@@ -4548,6 +4548,47 @@
     "via": "@sound_hockey"
    }
   },
+  "SJS": {
+   "gameday": {
+    "at": "2026-11-24T19:42:25+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Kesselring"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Gaudette"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-24T19:36:12+00:00",
+    "ref": "2125312549960986863",
+    "via": "@Real_Max_Miller"
+   }
+  },
   "TBL": {
    "dfo": {
     "at": "2026-11-24T17:21:45+00:00",
