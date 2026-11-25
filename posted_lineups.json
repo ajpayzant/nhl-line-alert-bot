@@ -3454,6 +3454,50 @@
  },
  "2026-11-25": {
   "BOS": {
+   "dfo": {
+    "at": "2026-11-25T16:25:51+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-25T15:33:45+00:00",
+    "ref": "2125613922287759473",
+    "via": "Jack Studley"
+   },
    "gameday": {
     "at": "2026-11-25T16:20:38+00:00",
     "defense": [
