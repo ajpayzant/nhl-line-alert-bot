@@ -3453,6 +3453,52 @@
   }
  },
  "2026-11-25": {
+  "ANA": {
+   "dfo": {
+    "at": "2026-11-25T18:20:40+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Myatovic",
+      "McQueen",
+      "Gauthier"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Colangelo"
+     ]
+    ],
+    "goalie": "Dostal",
+    "info_at": "2026-11-25T18:15:14+00:00",
+    "ref": "2125654559918064028",
+    "via": "Patrick Present"
+   }
+  },
   "BOS": {
    "dfo": {
     "at": "2026-11-25T16:25:51+00:00",
