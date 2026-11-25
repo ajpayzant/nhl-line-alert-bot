@@ -3497,6 +3497,37 @@
     "info_at": "2026-11-25T18:15:14+00:00",
     "ref": "2125654559918064028",
     "via": "Patrick Present"
+   },
+   "gameday": {
+    "at": "2026-11-25T18:26:37+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "Myatovic",
+      "McQueen",
+      "Gauthier"
+     ],
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Colangelo"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-25T18:17:14+00:00",
+    "ref": "2125655062563234154",
+    "via": "@ZachCav"
    }
   },
   "BOS": {
