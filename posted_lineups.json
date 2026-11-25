@@ -4595,6 +4595,50 @@
    }
   },
   "SJS": {
+   "dfo": {
+    "at": "2026-11-25T00:42:37+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Kesselring"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Gaudette"
+     ]
+    ],
+    "goalie": "Nedeljkovic",
+    "info_at": "2026-11-24T19:34:31+00:00",
+    "ref": "2125312123676795264",
+    "via": "Max Miller"
+   },
    "gameday": {
     "at": "2026-11-24T19:42:25+00:00",
     "defense": [

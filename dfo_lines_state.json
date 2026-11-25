@@ -592,7 +592,7 @@
     "updated_at": "2026-11-24T19:32:54.114Z"
   },
   "SJS": {
-    "goalie": "Askarov",
+    "goalie": "Nedeljkovic",
     "players": [
       "Allan",
       "Celebrini",
@@ -600,8 +600,8 @@
       "Dickinson",
       "Gaudette",
       "Goodrow",
+      "Graf",
       "Kesselring",
-      "Leason",
       "Marchment",
       "Misa",
       "Nurse",
@@ -613,9 +613,9 @@
       "Toffoli",
       "Wennberg"
     ],
-    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Gaudette\"], [\"Goodrow\", \"Ostapchuk\", \"Leason\"]], [[\"Nurse\", \"Kesselring\"], [\"Allan\", \"Dickinson\"], [\"Orlov\", \"Pohlkamp\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020384",
-    "updated_at": "2026-11-24T16:39:08.924Z"
+    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Graf\"], [\"Goodrow\", \"Ostapchuk\", \"Gaudette\"]], [[\"Nurse\", \"Pohlkamp\"], [\"Allan\", \"Dickinson\"], [\"Orlov\", \"Kesselring\"]], [\"Nedeljkovic\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
+    "source": "https://x.com/Real_Max_Miller/status/2125312123676795264?s=20",
+    "updated_at": "2026-11-25T00:40:33.643Z"
   },
   "STL": {
     "goalie": "Hofer",
