@@ -3455,7 +3455,7 @@
  "2026-11-25": {
   "BOS": {
    "gameday": {
-    "at": "2026-11-25T15:42:24+00:00",
+    "at": "2026-11-25T16:20:38+00:00",
     "defense": [
      [
       "Lindholm",
@@ -3493,10 +3493,102 @@
       "Kastelic"
      ]
     ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-25T16:07:29+00:00",
+    "ref": "2125622409453515111",
+    "via": "@jackstudley13"
+   }
+  },
+  "DET": {
+   "gameday": {
+    "at": "2026-11-25T16:20:39+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
+     ],
+     [
+      "Appleton",
+      "Rasmussen",
+      "Kolesar"
+     ]
+    ],
     "goalie": "",
-    "info_at": "2026-11-25T15:37:46+00:00",
-    "ref": "2125614930640650567",
-    "via": "@bellefraser1"
+    "info_at": "2026-11-25T16:07:57+00:00",
+    "ref": "2125622526315237491",
+    "via": "@AnsarKhanMLive"
+   }
+  },
+  "FLA": {
+   "gameday": {
+    "at": "2026-11-25T16:20:34+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Lundell",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Bennett",
+      "Marchand"
+     ],
+     [
+      "Hathaway",
+      "Eller",
+      "Vilmanis"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-25T16:04:56+00:00",
+    "ref": "2125621769771917793",
+    "via": "@JamesonCoop"
    }
   }
  }
