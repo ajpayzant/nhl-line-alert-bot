@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T17:05:40.858Z",
+ "article_updated": "2026-11-25T17:06:48.375Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1249,6 +1249,102 @@
     "Raphael Lavoie"
    ]
   },
+  "2026-11-25:CBJ": {
+   "article_updated": "2026-11-25T17:06:48.375Z",
+   "defense": [
+    [
+     "Zach Werenski",
+     "Damon Severson"
+    ],
+    [
+     "Ivan Provorov",
+     "Denton Mateychuk"
+    ],
+    [
+     "Jake Christiansen",
+     "Dante Fabbro"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Valeri Nichushkin",
+     "Adam Fantilli",
+     "Charlie Coyle"
+    ],
+    [
+     "Matthew Knies",
+     "Luca Del Bel Belluz",
+     "Kent Johnson"
+    ],
+    [
+     "Jack Williams",
+     "Cole Sillinger",
+     "Sean Monahan"
+    ],
+    [
+     "Mikael Pyyhtia",
+     "Isac Lundeström",
+     "Ryan Lomberg"
+    ]
+   ],
+   "goalies": [
+    "Cam Talbot",
+    "Jet Greaves"
+   ],
+   "scratched": [
+    "Erik Gudbranson",
+    "Dmitri Voronkov"
+   ]
+  },
+  "2026-11-25:NJD": {
+   "article_updated": "2026-11-25T17:06:48.375Z",
+   "defense": [
+    [
+     "Luke Hughes",
+     "Brett Pesce"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "Dougie Hamilton"
+    ],
+    [
+     "Declan Chisholm",
+     "Brenden Dillon"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Timo Meier",
+     "Jack Hughes",
+     "Connor Brown"
+    ],
+    [
+     "Arseny Gritsyuk",
+     "Nico Hischier",
+     "Jesper Bratt"
+    ],
+    [
+     "Evan Rodrigues",
+     "Amadeus Lombardi",
+     "Luke Evangelista"
+    ],
+    [
+     "Jesper Boqvist",
+     "Cody Glass",
+     "Stefan Noesen"
+    ]
+   ],
+   "goalies": [
+    "Connor Hellebuyck",
+    "Jake Allen"
+   ],
+   "scratched": [
+    "Lenni Hameenaho",
+    "Vladislav Kolyachonok"
+   ]
+  },
   "2026-11-25:NYI": {
    "article_updated": "2026-11-25T16:45:37.687Z",
    "defense": [
@@ -1445,6 +1541,104 @@
  "rosters": {
   "date": "2026-11-25",
   "teams": {
+   "CBJ": [
+    [
+     "Charlie Coyle",
+     "C"
+    ],
+    [
+     "Luca Del Bel Belluz",
+     "C"
+    ],
+    [
+     "Adam Fantilli",
+     "C"
+    ],
+    [
+     "Conor Garland",
+     "R"
+    ],
+    [
+     "Kent Johnson",
+     "C"
+    ],
+    [
+     "Matthew Knies",
+     "L"
+    ],
+    [
+     "Ryan Lomberg",
+     "L"
+    ],
+    [
+     "Isac Lundeström",
+     "C"
+    ],
+    [
+     "Sean Monahan",
+     "C"
+    ],
+    [
+     "Valeri Nichushkin",
+     "R"
+    ],
+    [
+     "Mathieu Olivier",
+     "R"
+    ],
+    [
+     "Mikael Pyyhtia",
+     "L"
+    ],
+    [
+     "Cole Sillinger",
+     "C"
+    ],
+    [
+     "Dmitri Voronkov",
+     "L"
+    ],
+    [
+     "Jack Williams",
+     "C"
+    ],
+    [
+     "Jake Christiansen",
+     "D"
+    ],
+    [
+     "Dante Fabbro",
+     "D"
+    ],
+    [
+     "Erik Gudbranson",
+     "D"
+    ],
+    [
+     "Denton Mateychuk",
+     "D"
+    ],
+    [
+     "Ivan Provorov",
+     "D"
+    ],
+    [
+     "Damon Severson",
+     "D"
+    ],
+    [
+     "Zach Werenski",
+     "D"
+    ],
+    [
+     "Jet Greaves",
+     "G"
+    ],
+    [
+     "Cam Talbot",
+     "G"
+    ]
+   ],
    "EDM": [
     [
      "Colton Dach",
@@ -1552,6 +1746,100 @@
     ],
     [
      "Devon Levi",
+     "G"
+    ]
+   ],
+   "NJD": [
+    [
+     "Jesper Boqvist",
+     "C"
+    ],
+    [
+     "Jesper Bratt",
+     "L"
+    ],
+    [
+     "Connor Brown",
+     "R"
+    ],
+    [
+     "Luke Evangelista",
+     "R"
+    ],
+    [
+     "Cody Glass",
+     "C"
+    ],
+    [
+     "Arseny Gritsyuk",
+     "R"
+    ],
+    [
+     "Lenni Hameenaho",
+     "R"
+    ],
+    [
+     "Nico Hischier",
+     "C"
+    ],
+    [
+     "Jack Hughes",
+     "C"
+    ],
+    [
+     "Amadeus Lombardi",
+     "C"
+    ],
+    [
+     "Anthony Mantha",
+     "R"
+    ],
+    [
+     "Timo Meier",
+     "R"
+    ],
+    [
+     "Stefan Noesen",
+     "R"
+    ],
+    [
+     "Evan Rodrigues",
+     "C"
+    ],
+    [
+     "Declan Chisholm",
+     "D"
+    ],
+    [
+     "Brenden Dillon",
+     "D"
+    ],
+    [
+     "Dougie Hamilton",
+     "D"
+    ],
+    [
+     "Luke Hughes",
+     "D"
+    ],
+    [
+     "Johnathan Kovacevic",
+     "D"
+    ],
+    [
+     "Brett Pesce",
+     "D"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "D"
+    ],
+    [
+     "Jake Allen",
+     "G"
+    ],
+    [
+     "Connor Hellebuyck",
      "G"
     ]
    ],
