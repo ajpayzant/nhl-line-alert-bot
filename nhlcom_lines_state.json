@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T19:24:05.205Z",
+ "article_updated": "2026-11-25T19:28:29.516Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1538,6 +1538,53 @@
     "Dominic Toninato"
    ]
   },
+  "2026-11-25:COL": {
+   "article_updated": "2026-11-25T19:28:29.516Z",
+   "defense": [
+    [
+     "Devon Toews",
+     "Sam Malinski"
+    ],
+    [
+     "Brett Kulak",
+     "Cale Makar"
+    ],
+    [
+     "Mike Reilly",
+     "Brent Burns"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Artturi Lehkonen",
+     "Brock Nelson",
+     "Martin Necas"
+    ],
+    [
+     "Gabriel Landeskog",
+     "Nazem Kadri",
+     "Nicolas Roy"
+    ],
+    [
+     "Jaden Schwartz",
+     "Fedor Svechkov",
+     "T.J. Hughes"
+    ],
+    [
+     "Adam Beckman",
+     "Parker Kelly",
+     "Logan O'Connor"
+    ]
+   ],
+   "goalies": [
+    "Mackenzie Blackwood",
+    "Scott Wedgewood"
+   ],
+   "scratched": [
+    "Noah Juulsen"
+   ]
+  },
   "2026-11-25:DAL": {
    "article_updated": "2026-11-25T18:10:13.833Z",
    "defense": [
@@ -1727,6 +1774,54 @@
    "scratched": [
     "Nico Sturm",
     "Viking Gustafsson Nyberg"
+   ]
+  },
+  "2026-11-25:MTL": {
+   "article_updated": "2026-11-25T19:28:29.516Z",
+   "defense": [
+    [
+     "Kaiden Guhle",
+     "Noah Dobson"
+    ],
+    [
+     "Lane Hutson",
+     "Alexandre Carrier"
+    ],
+    [
+     "Arber Xhekaj",
+     "Adam Engstrom"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Cole Caufield",
+     "Nick Suzuki",
+     "Alexandre Texier"
+    ],
+    [
+     "Alex Newhook",
+     "Dylan Larkin",
+     "Juraj Slafkovský"
+    ],
+    [
+     "Zachary Bolduc",
+     "Phillip Danault",
+     "Oliver Kapanen"
+    ],
+    [
+     "Florian Xhekaj",
+     "Jake Evans",
+     "Owen Beck"
+    ]
+   ],
+   "goalies": [
+    "Jacob Fowler",
+    "Jakub Dobes"
+   ],
+   "scratched": [
+    "Brett Berard",
+    "David Reinbacher"
    ]
   },
   "2026-11-25:NJD": {
@@ -3015,6 +3110,108 @@
      "G"
     ]
    ],
+   "COL": [
+    [
+     "Adam Beckman",
+     "L"
+    ],
+    [
+     "Gavin Brindley",
+     "C"
+    ],
+    [
+     "T.J. Hughes",
+     "R"
+    ],
+    [
+     "Nazem Kadri",
+     "C"
+    ],
+    [
+     "Parker Kelly",
+     "C"
+    ],
+    [
+     "Zachary L'Heureux",
+     "L"
+    ],
+    [
+     "Gabriel Landeskog",
+     "L"
+    ],
+    [
+     "Artturi Lehkonen",
+     "L"
+    ],
+    [
+     "Nathan MacKinnon",
+     "C"
+    ],
+    [
+     "Martin Necas",
+     "C"
+    ],
+    [
+     "Brock Nelson",
+     "C"
+    ],
+    [
+     "Logan O'Connor",
+     "R"
+    ],
+    [
+     "Nicolas Roy",
+     "C"
+    ],
+    [
+     "Jaden Schwartz",
+     "L"
+    ],
+    [
+     "Fedor Svechkov",
+     "C"
+    ],
+    [
+     "Brent Burns",
+     "D"
+    ],
+    [
+     "Noah Juulsen",
+     "D"
+    ],
+    [
+     "Brett Kulak",
+     "D"
+    ],
+    [
+     "Cale Makar",
+     "D"
+    ],
+    [
+     "Sam Malinski",
+     "D"
+    ],
+    [
+     "Josh Manson",
+     "D"
+    ],
+    [
+     "Mike Reilly",
+     "D"
+    ],
+    [
+     "Devon Toews",
+     "D"
+    ],
+    [
+     "Mackenzie Blackwood",
+     "G"
+    ],
+    [
+     "Scott Wedgewood",
+     "G"
+    ]
+   ],
    "DAL": [
     [
      "Jamie Benn",
@@ -3522,6 +3719,112 @@
     ],
     [
      "Jesper Wallstedt",
+     "G"
+    ]
+   ],
+   "MTL": [
+    [
+     "Josh Anderson",
+     "R"
+    ],
+    [
+     "Owen Beck",
+     "C"
+    ],
+    [
+     "Brett Berard",
+     "L"
+    ],
+    [
+     "Zachary Bolduc",
+     "R"
+    ],
+    [
+     "Cole Caufield",
+     "R"
+    ],
+    [
+     "Phillip Danault",
+     "C"
+    ],
+    [
+     "Ivan Demidov",
+     "R"
+    ],
+    [
+     "Jake Evans",
+     "C"
+    ],
+    [
+     "Oliver Kapanen",
+     "C"
+    ],
+    [
+     "Chris Kreider",
+     "L"
+    ],
+    [
+     "Dylan Larkin",
+     "C"
+    ],
+    [
+     "Alex Newhook",
+     "C"
+    ],
+    [
+     "Juraj Slafkovský",
+     "L"
+    ],
+    [
+     "Nick Suzuki",
+     "C"
+    ],
+    [
+     "Alexandre Texier",
+     "L"
+    ],
+    [
+     "Florian Xhekaj",
+     "L"
+    ],
+    [
+     "Alexandre Carrier",
+     "D"
+    ],
+    [
+     "Noah Dobson",
+     "D"
+    ],
+    [
+     "Adam Engstrom",
+     "D"
+    ],
+    [
+     "Kaiden Guhle",
+     "D"
+    ],
+    [
+     "Lane Hutson",
+     "D"
+    ],
+    [
+     "Mike Matheson",
+     "D"
+    ],
+    [
+     "David Reinbacher",
+     "D"
+    ],
+    [
+     "Arber Xhekaj",
+     "D"
+    ],
+    [
+     "Jakub Dobes",
+     "G"
+    ],
+    [
+     "Jacob Fowler",
      "G"
     ]
    ],

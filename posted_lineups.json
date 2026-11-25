@@ -4055,6 +4055,48 @@
     "info_at": "2026-11-24T18:09:27+00:00",
     "ref": "2125290718440661407",
     "via": "@HockeyMtnHighCO"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T19:29:23+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Makar"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "?Beckman",
+      "Kelly",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-25T19:28:29+00:00"
    }
   },
   "DAL": {
@@ -4497,6 +4539,50 @@
     ],
     "goalie": "Wallstedt",
     "info_at": "2026-11-25T18:51:21+00:00"
+   }
+  },
+  "MTL": {
+   "nhlcom": {
+    "at": "2026-11-25T19:29:23+00:00",
+    "defense": [
+     [
+      "Guhle",
+      "Dobson"
+     ],
+     [
+      "Hutson",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Engstrom"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Caufield",
+      "Suzuki",
+      "Texier"
+     ],
+     [
+      "Newhook",
+      "Larkin",
+      "Slafkovský"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Kapanen"
+     ],
+     [
+      "Xhekaj",
+      "Evans",
+      "Beck"
+     ]
+    ],
+    "goalie": "Fowler",
+    "info_at": "2026-11-25T19:28:29+00:00"
    }
   },
   "NJD": {
