@@ -3455,19 +3455,19 @@
  "2026-11-25": {
   "ANA": {
    "dfo": {
-    "at": "2026-11-25T18:20:40+00:00",
+    "at": "2026-11-25T18:45:42+00:00",
     "defense": [
      [
       "LaCombe",
-      "Moore"
-     ],
-     [
-      "Mintyukov",
       "Helleson"
      ],
      [
       "Solberg",
       "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Moore"
      ]
     ],
     "extra": [],
