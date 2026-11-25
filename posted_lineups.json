@@ -3589,6 +3589,50 @@
    }
   },
   "CHI": {
+   "dfo": {
+    "at": "2026-11-25T00:47:30+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Greene",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-24T21:24:08+00:00",
+    "ref": "2125339710214299959",
+    "via": "Mark Lazerus"
+   },
    "gameday": {
     "at": "2026-11-24T21:32:22+00:00",
     "defense": [
