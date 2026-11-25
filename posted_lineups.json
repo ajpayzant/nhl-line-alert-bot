@@ -3716,6 +3716,48 @@
     "goalie": "",
     "info_at": "2026-11-25T16:40:49+00:00",
     "ref": "2125630800511045826"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:48:29+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Kotkaniemi",
+      "Jankowski",
+      "Robinson"
+     ]
+    ],
+    "goalie": "Bussi",
+    "info_at": "2026-11-25T17:47:38+00:00"
    }
   },
   "CBJ": {
@@ -4416,6 +4458,50 @@
     ],
     "goalie": "Hofer",
     "info_at": "2026-11-25T16:45:37+00:00"
+   }
+  },
+  "TBL": {
+   "nhlcom": {
+    "at": "2026-11-25T17:48:29+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "McDonagh",
+      "Cernak"
+     ],
+     [
+      "Hedman",
+      "Moser"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Holmberg"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "O'Reilly",
+      "Goncalves"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-25T17:47:38+00:00"
    }
   },
   "WPG": {
