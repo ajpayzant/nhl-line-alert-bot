@@ -304,9 +304,9 @@
       "Verhaeghe",
       "Vilmanis"
     ],
-    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Lundell\", \"Tkachuk\"], [\"Luostarinen\", \"Bennett\", \"Marchand\"], [\"Vilmanis\", \"Eller\", \"Hathaway\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Kulikov\", \"Gudas\"]], [\"Markstrom\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
-    "source": "https://x.com/GeorgeRichards/status/2125261297507770839",
-    "updated_at": "2026-11-24T16:58:00.391Z"
+    "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Lundell\", \"Tkachuk\"], [\"Luostarinen\", \"Bennett\", \"Marchand\"], [\"Hathaway\", \"Eller\", \"Vilmanis\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Kulikov\", \"Gudas\"]], [\"Markstrom\"], [\"Tkachuk\", \"Barkov\", \"Reinhart\", \"Jones\", \"Tkachuk\"]]",
+    "source": "https://x.com/JamesonCoop/status/2125616675655491960",
+    "updated_at": "2026-11-25T16:40:24.947Z"
   },
   "LAK": {
     "goalie": "Kuemper",
@@ -510,8 +510,8 @@
       "Zub"
     ],
     "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020380",
-    "updated_at": "2026-11-24T16:26:08.974Z"
+    "source": "https://x.com/Jackson_Starr_/status/2125628355810861427",
+    "updated_at": "2026-11-25T16:38:26.935Z"
   },
   "PHI": {
     "goalie": "Vladar",
@@ -802,7 +802,6 @@
     "goalie": "Thompson",
     "players": [
       "Chychrun",
-      "Desharnais",
       "Dubois",
       "Fehervary",
       "Frank",
@@ -815,11 +814,12 @@
       "Protas",
       "Roy",
       "Sourdif",
+      "St. Ivany",
       "Strome",
       "Tuch",
       "Wilson"
     ],
-    "signature": "[[[\"Protas\", \"Dubois\", \"Wilson\"], [\"Leonard\", \"Protas\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Frank\"], [\"Jenner\", \"Sourdif\", \"Miroshnichenko\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Desharnais\"], [\"Hutson\", \"Liljegren\"]], [\"Thompson\"], [\"Wilson\", \"Sourdif\", \"Strome\", \"Ovechkin\", \"Chychrun\"]]",
+    "signature": "[[[\"Protas\", \"Dubois\", \"Wilson\"], [\"Leonard\", \"Protas\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Frank\"], [\"Jenner\", \"Sourdif\", \"Miroshnichenko\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Liljegren\"], [\"Hutson\", \"St. Ivany\"]], [\"Thompson\"], [\"Wilson\", \"Sourdif\", \"Strome\", \"Ovechkin\", \"Chychrun\"]]",
     "source": "https://x.com/TomGulittiNHL/status/2125259757082882357",
     "updated_at": "2026-11-25T16:28:34.051Z"
   }
