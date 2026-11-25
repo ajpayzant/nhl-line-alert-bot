@@ -3618,7 +3618,7 @@
     "via": "Jack Studley"
    },
    "gameday": {
-    "at": "2026-11-25T16:20:38+00:00",
+    "at": "2026-11-25T23:46:30+00:00",
     "defense": [
      [
       "Lindholm",
@@ -3657,9 +3657,9 @@
      ]
     ],
     "goalie": "Swayman",
-    "info_at": "2026-11-25T16:07:29+00:00",
-    "ref": "2125622409453515111",
-    "via": "@jackstudley13"
+    "info_at": "2026-11-25T23:39:23+00:00",
+    "ref": "2125736135238574085",
+    "via": "@bellefraser1"
    },
    "nhlcom": {
     "at": "2026-11-25T17:45:39+00:00",
@@ -3705,6 +3705,50 @@
    }
   },
   "BUF": {
+   "gameday": {
+    "at": "2026-11-25T23:46:28+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "McLeod",
+      "Carrick"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-25T23:38:37+00:00",
+    "ref": "2125735942661226686",
+    "via": "@MatthewFairburn"
+   },
    "nhlcom": {
     "at": "2026-11-25T17:10:41+00:00",
     "defense": [
@@ -3794,7 +3838,7 @@
     "via": "Walt Ruff"
    },
    "gameday": {
-    "at": "2026-11-25T16:47:29+00:00",
+    "at": "2026-11-25T23:46:29+00:00",
     "defense": [
      [
       "Slavin",
@@ -3832,9 +3876,10 @@
       "Kotkaniemi"
      ]
     ],
-    "goalie": "",
-    "info_at": "2026-11-25T16:40:49+00:00",
-    "ref": "2125630800511045826"
+    "goalie": "Bussi",
+    "info_at": "2026-11-25T23:39:02+00:00",
+    "ref": "2125736048789786843",
+    "via": "@WaltRuff"
    },
    "nhlcom": {
     "at": "2026-11-25T17:48:29+00:00",
@@ -4411,7 +4456,7 @@
     "via": "Jameson Olive"
    },
    "gameday": {
-    "at": "2026-11-25T16:20:34+00:00",
+    "at": "2026-11-25T23:46:31+00:00",
     "defense": [
      [
       "Forsling",
@@ -4429,29 +4474,19 @@
     "extra": [],
     "forwards": [
      [
-      "Verhaeghe",
-      "Barkov",
-      "Reinhart"
-     ],
-     [
       "Tkachuk",
       "Lundell",
       "Tkachuk"
      ],
      [
-      "Luostarinen",
-      "Bennett",
-      "Marchand"
-     ],
-     [
-      "Hathaway",
+      "Vilmanis",
       "Eller",
-      "Vilmanis"
+      "Hathaway"
      ]
     ],
     "goalie": "Markstrom",
-    "info_at": "2026-11-25T16:04:56+00:00",
-    "ref": "2125621769771917793",
+    "info_at": "2026-11-25T23:39:53+00:00",
+    "ref": "2125736258936897772",
     "via": "@JamesonCoop"
    },
    "nhlcom": {
@@ -4717,6 +4752,50 @@
     "ref": "2125736183833764151",
     "via": "Stefen Rosner"
    },
+   "gameday": {
+    "at": "2026-11-25T23:46:27+00:00",
+    "defense": [
+     [
+      "Stanley",
+      "Schaefer"
+     ],
+     [
+      "Pelech",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Barzal"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau",
+      "Ritchie"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Maccelli"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-25T23:37:44+00:00",
+    "ref": "2125735719901774188",
+    "via": "@stefen_rosner"
+   },
    "nhlcom": {
     "at": "2026-11-25T16:46:31+00:00",
     "defense": [
@@ -4804,6 +4883,50 @@
     "info_at": "2026-11-24T16:19:10+00:00",
     "ref": "2125262960952004792",
     "via": "Remy Mastey"
+   },
+   "gameday": {
+    "at": "2026-11-25T23:46:25+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Perreault"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Korpisalo",
+    "info_at": "2026-11-25T23:36:33+00:00",
+    "ref": "2125735420965372086",
+    "via": "@MollieeWalkerr"
    },
    "nhlcom": {
     "at": "2026-11-25T17:10:41+00:00",
@@ -5589,6 +5712,50 @@
     "info_at": "2026-11-24T16:06:26+00:00",
     "ref": "2125259757082882357",
     "via": "Tom Gulitti"
+   },
+   "gameday": {
+    "at": "2026-11-25T23:46:26+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Sourdif",
+      "Jenner",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-25T23:37:15+00:00",
+    "ref": "2125735597826576752",
+    "via": "@sammisilber"
    },
    "nhlcom": {
     "at": "2026-11-25T16:55:45+00:00",
