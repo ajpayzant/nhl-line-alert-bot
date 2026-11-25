@@ -4114,6 +4114,52 @@
     "info_at": "2026-11-25T17:54:45+00:00"
    }
   },
+  "EDM": {
+   "gameday": {
+    "at": "2026-11-25T18:21:27+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Dach",
+      "Nugent-Hopkins",
+      "Kapanen"
+     ],
+     [
+      "Formenton",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Jones",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Levi",
+    "info_at": "2026-11-25T18:15:58+00:00",
+    "ref": "2125654742697492928",
+    "via": "@Bob_Stauffer"
+   }
+  },
   "FLA": {
    "dfo": {
     "at": "2026-11-25T16:40:42+00:00",
