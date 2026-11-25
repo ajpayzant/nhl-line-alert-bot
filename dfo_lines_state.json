@@ -77,7 +77,7 @@
     "updated_at": "2026-11-25T16:16:23.958Z"
   },
   "CAR": {
-    "goalie": "Kochetkov",
+    "goalie": "Bussi",
     "players": [
       "Aho",
       "Blake",
@@ -98,9 +98,9 @@
       "Svechnikov",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Kochetkov\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
+    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Bussi\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
     "source": "https://x.com/WaltRuff/status/2125629388901282302",
-    "updated_at": "2026-11-25T16:55:17.732Z"
+    "updated_at": "2026-11-25T17:28:04.150Z"
   },
   "CBJ": {
     "goalie": "Talbot",
