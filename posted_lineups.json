@@ -5149,6 +5149,50 @@
    }
   },
   "TBL": {
+   "gameday": {
+    "at": "2026-11-25T23:41:27+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Moser",
+      "Crozier"
+     ],
+     [
+      "McDonagh",
+      "Lilleberg"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Holmberg"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "O'Reilly",
+      "Goncalves"
+     ]
+    ],
+    "goalie": "Hildeby",
+    "info_at": "2026-11-25T23:35:27+00:00",
+    "ref": "2125735147102511450",
+    "via": "@Gabby_Shirley_"
+   },
    "nhlcom": {
     "at": "2026-11-25T17:48:29+00:00",
     "defense": [
