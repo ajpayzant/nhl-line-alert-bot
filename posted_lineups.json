@@ -3634,6 +3634,52 @@
     "ref": "2125621769771917793",
     "via": "@JamesonCoop"
    }
+  },
+  "WSH": {
+   "dfo": {
+    "at": "2026-11-25T16:30:42+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Desharnais"
+     ],
+     [
+      "Hutson",
+      "Liljegren"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Frank"
+     ],
+     [
+      "Jenner",
+      "Sourdif",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-24T16:06:26+00:00",
+    "ref": "2125259757082882357",
+    "via": "Tom Gulitti"
+   }
   }
  }
 }
