@@ -4369,6 +4369,50 @@
     "info_at": "2026-11-25T17:14:50+00:00"
    }
   },
+  "MIN": {
+   "nhlcom": {
+    "at": "2026-11-25T18:53:32+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-25T18:51:21+00:00"
+   }
+  },
   "NJD": {
    "nhlcom": {
     "at": "2026-11-25T17:07:24+00:00",
@@ -4799,6 +4843,50 @@
     ],
     "goalie": "Vasilevskiy",
     "info_at": "2026-11-25T17:47:38+00:00"
+   }
+  },
+  "UTA": {
+   "nhlcom": {
+    "at": "2026-11-25T18:53:32+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Guenther",
+      "McBain",
+      "Keller"
+     ],
+     [
+      "Cooley",
+      "Trocheck",
+      "Crouse"
+     ],
+     [
+      "Lee",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Vejmelka",
+    "info_at": "2026-11-25T18:51:21+00:00"
    }
   },
   "VAN": {
