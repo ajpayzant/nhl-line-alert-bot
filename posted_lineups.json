@@ -4012,6 +4012,52 @@
     "info_at": "2026-11-25T17:06:48+00:00"
    }
   },
+  "CGY": {
+   "dfo": {
+    "at": "2026-11-25T23:50:42+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Sharangovich",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Farabee",
+      "Strome",
+      "Klapka"
+     ],
+     [
+      "Gridin",
+      "Castagna",
+      "Suniev"
+     ],
+     [
+      "Othmann",
+      "?Jones",
+      "Tsyplakov"
+     ]
+    ],
+    "goalie": "Wolf",
+    "info_at": "2026-11-25T23:43:23+00:00",
+    "ref": "2125737143054287352",
+    "via": "Calgary Flames"
+   }
+  },
   "CHI": {
    "nhlcom": {
     "at": "2026-11-25T19:17:22+00:00",
@@ -5139,6 +5185,52 @@
     "info_at": "2026-11-25T16:54:43+00:00"
    }
   },
+  "PIT": {
+   "dfo": {
+    "at": "2026-11-25T23:50:42+00:00",
+    "defense": [
+     [
+      "Stastney",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "Korczak"
+     ],
+     [
+      "van Riemsdyk",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Malkin",
+      "Crosby",
+      "Rakell"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Hayes"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "Brazeau"
+     ]
+    ],
+    "goalie": "Silovs",
+    "info_at": "2026-11-25T23:37:46+00:00",
+    "ref": "2125735726398714243",
+    "via": "@penguins"
+   }
+  },
   "SEA": {
    "nhlcom": {
     "at": "2026-11-25T19:20:46+00:00",
@@ -5315,6 +5407,50 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-25T23:50:42+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "Moser",
+      "Crozier"
+     ],
+     [
+      "McDonagh",
+      "Lilleberg"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Holmberg"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "O'Reilly",
+      "Goncalves"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-25T23:34:48+00:00",
+    "ref": "2125734980924145889",
+    "via": "Diandra Loux"
+   },
    "gameday": {
     "at": "2026-11-25T23:41:27+00:00",
     "defense": [

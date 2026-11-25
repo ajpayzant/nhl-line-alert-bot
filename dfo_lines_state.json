@@ -129,7 +129,7 @@
     "updated_at": "2026-11-25T18:23:02.448Z"
   },
   "CGY": {
-    "goalie": "Cooley",
+    "goalie": "Wolf",
     "players": [
       "Backlund",
       "Castagna",
@@ -150,9 +150,9 @@
       "Tsyplakov",
       "Whitecloud"
     ],
-    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Castagna\", \"Suniev\"], [\"Sharangovich\", \"Strome\", \"Klapka\"], [\"Othmann\", \"Jones\", \"Tsyplakov\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Strome\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
-    "source": "",
-    "updated_at": "2026-11-25T16:47:37.171Z"
+    "signature": "[[[\"Sharangovich\", \"Backlund\", \"Coronato\"], [\"Farabee\", \"Strome\", \"Klapka\"], [\"Gridin\", \"Castagna\", \"Suniev\"], [\"Othmann\", \"Jones\", \"Tsyplakov\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Wolf\"], [\"Farabee\", \"Strome\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
+    "source": "https://x.com/NHLFlames/status/2125737143054287352",
+    "updated_at": "2026-11-25T23:45:42.220Z"
   },
   "CHI": {
     "goalie": "Knight",
@@ -560,9 +560,9 @@
       "Stastney",
       "van Riemsdyk"
     ],
-    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Brazeau\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Hayes\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"van Riemsdyk\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Malkin\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
-    "source": "https://x.com/PensInsideScoop/status/2125259765714682076",
-    "updated_at": "2026-11-24T16:55:46.006Z"
+    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Hayes\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Brazeau\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"van Riemsdyk\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Malkin\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "source": "https://x.com/penguins/status/2125735726398714243",
+    "updated_at": "2026-11-25T23:47:52.571Z"
   },
   "SEA": {
     "goalie": "Daccord",
@@ -646,27 +646,27 @@
     "goalie": "Vasilevskiy",
     "players": [
       "Carlson",
-      "Cernak",
       "Cirelli",
+      "Crozier",
       "D'Astous",
       "Girgensons",
+      "Goncalves",
       "Gourde",
       "Guentzel",
       "Hagel",
-      "Hedman",
       "Holmberg",
       "Kucherov",
+      "Lilleberg",
       "McDonagh",
       "Mikheyev",
       "Moser",
       "O'Reilly",
       "Point",
-      "Sabourin",
       "Viel"
     ],
-    "signature": "[[[\"Hagel\", \"Cirelli\", \"Kucherov\"], [\"Guentzel\", \"Point\", \"Holmberg\"], [\"Mikheyev\", \"Girgensons\", \"Gourde\"], [\"Viel\", \"O'Reilly\", \"Sabourin\"]], [[\"D'Astous\", \"Carlson\"], [\"Hedman\", \"Moser\"], [\"McDonagh\", \"Cernak\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://x.com/Diandra_loux/status/2125266694952345678",
-    "updated_at": "2026-11-24T17:18:50.518Z"
+    "signature": "[[[\"Hagel\", \"Cirelli\", \"Kucherov\"], [\"Guentzel\", \"Point\", \"Holmberg\"], [\"Mikheyev\", \"Girgensons\", \"Gourde\"], [\"Viel\", \"O'Reilly\", \"Goncalves\"]], [[\"D'Astous\", \"Carlson\"], [\"Moser\", \"Crozier\"], [\"McDonagh\", \"Lilleberg\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
+    "source": "https://x.com/Gabby_Shirley_/status/2125734980924145889",
+    "updated_at": "2026-11-25T23:49:07.000Z"
   },
   "TOR": {
     "goalie": "Stolarz",
