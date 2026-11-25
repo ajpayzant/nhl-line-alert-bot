@@ -135,7 +135,6 @@
       "Castagna",
       "Coronato",
       "Farabee",
-      "Frost",
       "Gridin",
       "Hanley",
       "Jones",
@@ -143,6 +142,7 @@
       "Kuznetsov",
       "Middleton",
       "Nemec",
+      "Othmann",
       "Parekh",
       "Sharangovich",
       "Strome",
@@ -150,9 +150,9 @@
       "Tsyplakov",
       "Whitecloud"
     ],
-    "signature": "[[[\"Farabee\", \"Frost\", \"Coronato\"], [\"Gridin\", \"Strome\", \"Klapka\"], [\"Jones\", \"Backlund\", \"Sharangovich\"], [\"Tsyplakov\", \"Castagna\", \"Suniev\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Frost\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
+    "signature": "[[[\"Farabee\", \"Backlund\", \"Coronato\"], [\"Gridin\", \"Castagna\", \"Suniev\"], [\"Sharangovich\", \"Strome\", \"Klapka\"], [\"Othmann\", \"Jones\", \"Tsyplakov\"]], [[\"Middleton\", \"Whitecloud\"], [\"Hanley\", \"Nemec\"], [\"Kuznetsov\", \"Parekh\"]], [\"Cooley\"], [\"Farabee\", \"Strome\", \"Coronato\", \"Gridin\", \"Parekh\"]]",
     "source": "",
-    "updated_at": "2026-11-25T15:15:59.631Z"
+    "updated_at": "2026-11-25T16:47:37.171Z"
   },
   "CHI": {
     "goalie": "Knight",
@@ -235,6 +235,7 @@
   "DET": {
     "goalie": "Tarasov",
     "players": [
+      "Appleton",
       "Arvidsson",
       "Brandsegg-Nyg\u00e5rd",
       "Chiarot",
@@ -248,14 +249,13 @@
       "Johansson",
       "Kasper",
       "Kolesar",
-      "Mazur",
       "Rasmussen",
       "Raymond",
       "Seider"
     ],
-    "signature": "[[[\"DeBrincat\", \"Copp\", \"Raymond\"], [\"Kasper\", \"Finnie\", \"Arvidsson\"], [\"Brandsegg-Nyg\\u00e5rd\", \"Dach\", \"Compher\"], [\"Mazur\", \"Rasmussen\", \"Kolesar\"]], [[\"Chiarot\", \"Seider\"], [\"Johansson\", \"Faulk\"], [\"Englund\", \"Johansson\"]], [\"Tarasov\"], [\"Arvidsson\", \"Finnie\", \"Raymond\", \"DeBrincat\", \"Seider\"]]",
-    "source": "https://x.com/AnsarKhanMLive/status/2125259020889948606",
-    "updated_at": "2026-11-24T16:21:01.176Z"
+    "signature": "[[[\"DeBrincat\", \"Copp\", \"Raymond\"], [\"Kasper\", \"Finnie\", \"Arvidsson\"], [\"Brandsegg-Nyg\\u00e5rd\", \"Dach\", \"Compher\"], [\"Appleton\", \"Rasmussen\", \"Kolesar\"]], [[\"Chiarot\", \"Seider\"], [\"Johansson\", \"Faulk\"], [\"Englund\", \"Johansson\"]], [\"Tarasov\"], [\"Arvidsson\", \"Finnie\", \"Raymond\", \"DeBrincat\", \"Seider\"]]",
+    "source": "https://x.com/AnsarKhanMLive/status/2125614614050128376",
+    "updated_at": "2026-11-25T16:50:09.999Z"
   },
   "EDM": {
     "goalie": "Levi",
@@ -782,6 +782,7 @@
       "Connor",
       "Ferraro",
       "Iafallo",
+      "Koepke",
       "Lowry",
       "Mercer",
       "Morrissey",
@@ -794,9 +795,9 @@
       "Vilardi",
       "Yager"
     ],
-    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Barron\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Iafallo\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020382",
-    "updated_at": "2026-11-24T16:35:11.419Z"
+    "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Iafallo\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Barron\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
+    "source": "https://x.com/WiebesWorld/status/2125630923031069097",
+    "updated_at": "2026-11-25T16:49:44.309Z"
   },
   "WSH": {
     "goalie": "Thompson",

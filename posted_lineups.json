@@ -3681,6 +3681,50 @@
    }
   },
   "DET": {
+   "dfo": {
+    "at": "2026-11-25T16:50:43+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
+     ],
+     [
+      "Appleton",
+      "Rasmussen",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Tarasov",
+    "info_at": "2026-11-25T15:36:30+00:00",
+    "ref": "2125614614050128376",
+    "via": "Ansar Khan"
+   },
    "gameday": {
     "at": "2026-11-25T16:20:39+00:00",
     "defense": [
@@ -3987,6 +4031,50 @@
    }
   },
   "WPG": {
+   "dfo": {
+    "at": "2026-11-25T16:50:43+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-25T16:41:19+00:00",
+    "ref": "2125630923031069097",
+    "via": "Ken Wiebe"
+   },
    "gameday": {
     "at": "2026-11-25T16:47:28+00:00",
     "defense": [
