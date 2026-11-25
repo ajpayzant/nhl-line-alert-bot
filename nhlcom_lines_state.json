@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T19:03:46.302Z",
+ "article_updated": "2026-11-25T19:16:21.241Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1442,6 +1442,54 @@
     "Dmitri Voronkov"
    ]
   },
+  "2026-11-25:CHI": {
+   "article_updated": "2026-11-25T19:16:21.241Z",
+   "defense": [
+    [
+     "Alex Vlasic",
+     "Sam Rinzel"
+    ],
+    [
+     "Ian Cole",
+     "Artyom Levshunov"
+    ],
+    [
+     "Kevin Korchinski",
+     "Ethan Del Mastro"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Oliver Moore",
+     "Frank Nazar",
+     "Patrick Kane"
+    ],
+    [
+     "Ryan Donato",
+     "Roman Kantserov",
+     "Tyler Bertuzzi"
+    ],
+    [
+     "Ryan Greene",
+     "Anton Frondell",
+     "Teuvo Teravainen"
+    ],
+    [
+     "Cole Smith",
+     "Luke Glendening",
+     "Jordan Greenway"
+    ]
+   ],
+   "goalies": [
+    "Spencer Knight",
+    "Drew Commesso"
+   ],
+   "scratched": [
+    "Andrew Mangiapane",
+    "Dominic Toninato"
+   ]
+  },
   "2026-11-25:DAL": {
    "article_updated": "2026-11-25T18:10:13.833Z",
    "defense": [
@@ -1921,6 +1969,55 @@
     "David Jiricek",
     "Simon Benoit",
     "Michael Bunting"
+   ]
+  },
+  "2026-11-25:SEA": {
+   "article_updated": "2026-11-25T19:16:21.241Z",
+   "defense": [
+    [
+     "Vince Dunn",
+     "Adam Larsson"
+    ],
+    [
+     "Ryker Evans",
+     "Brandon Montour"
+    ],
+    [
+     "Ryan Lindgren",
+     "Ville Ottavainen"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Bobby McMann",
+     "Berkly Catton",
+     "Jordan Eberle"
+    ],
+    [
+     "Kaapo Kakko",
+     "Matty Beniers",
+     "Mackie Samoskevich"
+    ],
+    [
+     "Frederick Gaudreau",
+     "Chandler Stephenson",
+     "Ryan Winterton"
+    ],
+    [
+     "Matthew Wood",
+     "Ben Meyers",
+     "Jacob Melanson"
+    ]
+   ],
+   "goalies": [
+    "Philipp Grubauer",
+    "Joey Daccord"
+   ],
+   "scratched": [
+    "Cale Fleury",
+    "Ville Ottavainen",
+    "Curtis Douglas"
    ]
   },
   "2026-11-25:STL": {
@@ -2607,6 +2704,108 @@
     ],
     [
      "Cam Talbot",
+     "G"
+    ]
+   ],
+   "CHI": [
+    [
+     "Connor Bedard",
+     "C"
+    ],
+    [
+     "Tyler Bertuzzi",
+     "L"
+    ],
+    [
+     "Ryan Donato",
+     "C"
+    ],
+    [
+     "Anton Frondell",
+     "C"
+    ],
+    [
+     "Luke Glendening",
+     "C"
+    ],
+    [
+     "Ryan Greene",
+     "C"
+    ],
+    [
+     "Jordan Greenway",
+     "L"
+    ],
+    [
+     "Patrick Kane",
+     "R"
+    ],
+    [
+     "Roman Kantserov",
+     "R"
+    ],
+    [
+     "Andrew Mangiapane",
+     "L"
+    ],
+    [
+     "Oliver Moore",
+     "C"
+    ],
+    [
+     "Frank Nazar",
+     "C"
+    ],
+    [
+     "Cole Smith",
+     "R"
+    ],
+    [
+     "Teuvo Teravainen",
+     "C"
+    ],
+    [
+     "Dominic Toninato",
+     "C"
+    ],
+    [
+     "Bowen Byram",
+     "D"
+    ],
+    [
+     "Ian Cole",
+     "D"
+    ],
+    [
+     "Ethan Del Mastro",
+     "D"
+    ],
+    [
+     "Wyatt Kaiser",
+     "D"
+    ],
+    [
+     "Kevin Korchinski",
+     "D"
+    ],
+    [
+     "Artyom Levshunov",
+     "D"
+    ],
+    [
+     "Sam Rinzel",
+     "D"
+    ],
+    [
+     "Alex Vlasic",
+     "D"
+    ],
+    [
+     "Drew Commesso",
+     "G"
+    ],
+    [
+     "Spencer Knight",
      "G"
     ]
    ],
@@ -3725,6 +3924,108 @@
     ],
     [
      "Joseph Woll",
+     "G"
+    ]
+   ],
+   "SEA": [
+    [
+     "Matty Beniers",
+     "C"
+    ],
+    [
+     "Berkly Catton",
+     "C"
+    ],
+    [
+     "Curtis Douglas",
+     "C"
+    ],
+    [
+     "Jordan Eberle",
+     "R"
+    ],
+    [
+     "Frederick Gaudreau",
+     "C"
+    ],
+    [
+     "Kaapo Kakko",
+     "R"
+    ],
+    [
+     "Jared McCann",
+     "L"
+    ],
+    [
+     "Bobby McMann",
+     "C"
+    ],
+    [
+     "Jacob Melanson",
+     "R"
+    ],
+    [
+     "Ben Meyers",
+     "C"
+    ],
+    [
+     "Jake O'Brien",
+     "C"
+    ],
+    [
+     "Mackie Samoskevich",
+     "R"
+    ],
+    [
+     "Chandler Stephenson",
+     "C"
+    ],
+    [
+     "Ryan Winterton",
+     "C"
+    ],
+    [
+     "Matthew Wood",
+     "R"
+    ],
+    [
+     "Vince Dunn",
+     "D"
+    ],
+    [
+     "Ryker Evans",
+     "D"
+    ],
+    [
+     "Cale Fleury",
+     "D"
+    ],
+    [
+     "Adam Larsson",
+     "D"
+    ],
+    [
+     "Ryan Lindgren",
+     "D"
+    ],
+    [
+     "Josh Mahura",
+     "D"
+    ],
+    [
+     "Brandon Montour",
+     "D"
+    ],
+    [
+     "Ville Ottavainen",
+     "D"
+    ],
+    [
+     "Joey Daccord",
+     "G"
+    ],
+    [
+     "Philipp Grubauer",
      "G"
     ]
    ],

@@ -3925,6 +3925,50 @@
     "info_at": "2026-11-25T17:06:48+00:00"
    }
   },
+  "CHI": {
+   "nhlcom": {
+    "at": "2026-11-25T19:17:22+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greene",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-25T19:16:21+00:00"
+   }
+  },
   "COL": {
    "dfo": {
     "at": "2026-11-25T18:25:40+00:00",
@@ -4755,6 +4799,50 @@
     ],
     "goalie": "Woll",
     "info_at": "2026-11-25T16:54:43+00:00"
+   }
+  },
+  "SEA": {
+   "nhlcom": {
+    "at": "2026-11-25T19:17:22+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Ottavainen"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "McMann",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "Gaudreau",
+      "Stephenson",
+      "Winterton"
+     ],
+     [
+      "Wood",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Grubauer",
+    "info_at": "2026-11-25T19:16:21+00:00"
    }
   },
   "STL": {
