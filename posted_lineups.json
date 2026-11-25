@@ -4888,6 +4888,52 @@
     "info_at": "2026-11-25T17:47:38+00:00"
    }
   },
+  "TOR": {
+   "gameday": {
+    "at": "2026-11-25T19:02:26+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Paul",
+      "Matthews",
+      "Marchenko"
+     ],
+     [
+      "McKenna",
+      "Tavares",
+      "Sissons"
+     ],
+     [
+      "Cowan",
+      "Räty",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "Joshua"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-25T19:00:33+00:00",
+    "ref": "2125665964117135736",
+    "via": "@joshuakloke"
+   }
+  },
   "UTA": {
    "nhlcom": {
     "at": "2026-11-25T18:53:32+00:00",
