@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T17:08:32.54Z",
+ "article_updated": "2026-11-25T17:14:50.309Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1345,6 +1345,54 @@
     "Dmitri Voronkov"
    ]
   },
+  "2026-11-25:FLA": {
+   "article_updated": "2026-11-25T17:14:50.309Z",
+   "defense": [
+    [
+     "Gustav Forsling",
+     "Aaron Ekblad"
+    ],
+    [
+     "Niko Mikkola",
+     "Seth Jones"
+    ],
+    [
+     "Dmitry Kulikov",
+     "Radko Gudas"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Carter Verhaeghe",
+     "Aleksander Barkov",
+     "Sam Reinhart"
+    ],
+    [
+     "Brady Tkachuk",
+     "Anton Lundell",
+     "Matthew Tkachuk"
+    ],
+    [
+     "Eetu Luostarinen",
+     "Sam Bennett",
+     "Brad Marchand"
+    ],
+    [
+     "Garnet Hathaway",
+     "Lars Eller",
+     "Sandis Vilmanis"
+    ]
+   ],
+   "goalies": [
+    "Jacob Markstrom",
+    "Akira Schmid"
+   ],
+   "scratched": [
+    "Uvis Balinskis",
+    "Bokondji Imama"
+   ]
+  },
   "2026-11-25:NJD": {
    "article_updated": "2026-11-25T17:06:48.375Z",
    "defense": [
@@ -1487,6 +1535,54 @@
    "scratched": [
     "Taylor Raddysh",
     "Matthew Robertson"
+   ]
+  },
+  "2026-11-25:OTT": {
+   "article_updated": "2026-11-25T17:14:50.309Z",
+   "defense": [
+    [
+     "Jake Sanderson",
+     "Artem Zub"
+    ],
+    [
+     "Thomas Chabot",
+     "Jordan Spence"
+    ],
+    [
+     "Tyler Kleven",
+     "Nikolas Matinpalo"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Fabian Zetterlund",
+     "Tim Stützle",
+     "Dylan Cozens"
+    ],
+    [
+     "Philip Tomasino",
+     "Shane Pinto",
+     "Drake Batherson"
+    ],
+    [
+     "Michael Amadio",
+     "Ridly Greig",
+     "Claude Giroux"
+    ],
+    [
+     "Sammy Blais",
+     "Stephen Halliday",
+     "Nick Cousins"
+    ]
+   ],
+   "goalies": [
+    "Linus Ullmark",
+    "Samuel Ersson"
+   ],
+   "scratched": [
+    "Carter Yakemchuk",
+    "Tyler Boucher"
    ]
   },
   "2026-11-25:PHI": {
@@ -1951,6 +2047,104 @@
      "G"
     ]
    ],
+   "FLA": [
+    [
+     "Aleksander Barkov",
+     "C"
+    ],
+    [
+     "Sam Bennett",
+     "C"
+    ],
+    [
+     "Lars Eller",
+     "C"
+    ],
+    [
+     "Jonah Gadjovich",
+     "L"
+    ],
+    [
+     "Garnet Hathaway",
+     "R"
+    ],
+    [
+     "Bokondji Imama",
+     "L"
+    ],
+    [
+     "Anton Lundell",
+     "C"
+    ],
+    [
+     "Eetu Luostarinen",
+     "C"
+    ],
+    [
+     "Brad Marchand",
+     "L"
+    ],
+    [
+     "Sam Reinhart",
+     "C"
+    ],
+    [
+     "Cole Schwindt",
+     "R"
+    ],
+    [
+     "Brady Tkachuk",
+     "L"
+    ],
+    [
+     "Matthew Tkachuk",
+     "L"
+    ],
+    [
+     "Carter Verhaeghe",
+     "C"
+    ],
+    [
+     "Sandis Vilmanis",
+     "L"
+    ],
+    [
+     "Uvis Balinskis",
+     "D"
+    ],
+    [
+     "Aaron Ekblad",
+     "D"
+    ],
+    [
+     "Gustav Forsling",
+     "D"
+    ],
+    [
+     "Radko Gudas",
+     "D"
+    ],
+    [
+     "Seth Jones",
+     "D"
+    ],
+    [
+     "Dmitry Kulikov",
+     "D"
+    ],
+    [
+     "Niko Mikkola",
+     "D"
+    ],
+    [
+     "Jacob Markstrom",
+     "G"
+    ],
+    [
+     "Akira Schmid",
+     "G"
+    ]
+   ],
    "NJD": [
     [
      "Jesper Boqvist",
@@ -2258,6 +2452,108 @@
     ],
     [
      "Igor Shesterkin",
+     "G"
+    ]
+   ],
+   "OTT": [
+    [
+     "Michael Amadio",
+     "R"
+    ],
+    [
+     "Drake Batherson",
+     "R"
+    ],
+    [
+     "Sammy Blais",
+     "L"
+    ],
+    [
+     "Tyler Boucher",
+     "R"
+    ],
+    [
+     "Andre Burakovsky",
+     "L"
+    ],
+    [
+     "Nick Cousins",
+     "C"
+    ],
+    [
+     "Dylan Cozens",
+     "C"
+    ],
+    [
+     "William Eklund",
+     "L"
+    ],
+    [
+     "Warren Foegele",
+     "L"
+    ],
+    [
+     "Claude Giroux",
+     "R"
+    ],
+    [
+     "Ridly Greig",
+     "C"
+    ],
+    [
+     "Stephen Halliday",
+     "C"
+    ],
+    [
+     "Hayden Hodgson",
+     "R"
+    ],
+    [
+     "Shane Pinto",
+     "C"
+    ],
+    [
+     "Tim Stützle",
+     "C"
+    ],
+    [
+     "Philip Tomasino",
+     "R"
+    ],
+    [
+     "Fabian Zetterlund",
+     "L"
+    ],
+    [
+     "Thomas Chabot",
+     "D"
+    ],
+    [
+     "Tyler Kleven",
+     "D"
+    ],
+    [
+     "Nikolas Matinpalo",
+     "D"
+    ],
+    [
+     "Jake Sanderson",
+     "D"
+    ],
+    [
+     "Jordan Spence",
+     "D"
+    ],
+    [
+     "Artem Zub",
+     "D"
+    ],
+    [
+     "Samuel Ersson",
+     "G"
+    ],
+    [
+     "Linus Ullmark",
      "G"
     ]
    ],

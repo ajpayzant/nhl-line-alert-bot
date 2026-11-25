@@ -3988,6 +3988,48 @@
     "info_at": "2026-11-25T16:04:56+00:00",
     "ref": "2125621769771917793",
     "via": "@JamesonCoop"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:15:44+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Lundell",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Bennett",
+      "Marchand"
+     ],
+     [
+      "Hathaway",
+      "Eller",
+      "Vilmanis"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-25T17:14:50+00:00"
    }
   },
   "NJD": {
@@ -4202,6 +4244,48 @@
     "info_at": "2026-11-25T16:39:07+00:00",
     "ref": "2125630371211444680",
     "via": "@SunGarrioch"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:15:44+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Blais",
+      "Halliday",
+      "Cousins"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-25T17:14:50+00:00"
    }
   },
   "PHI": {
