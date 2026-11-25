@@ -3544,6 +3544,50 @@
    }
   },
   "CAR": {
+   "dfo": {
+    "at": "2026-11-25T16:55:44+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Kotkaniemi"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-25T16:35:13+00:00",
+    "ref": "2125629388901282302",
+    "via": "Walt Ruff"
+   },
    "gameday": {
     "at": "2026-11-25T16:47:29+00:00",
     "defense": [
@@ -3986,6 +4030,50 @@
     "via": "@SunGarrioch"
    }
   },
+  "PHI": {
+   "nhlcom": {
+    "at": "2026-11-25T16:55:45+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Woll",
+    "info_at": "2026-11-25T16:54:43+00:00"
+   }
+  },
   "STL": {
    "nhlcom": {
     "at": "2026-11-25T16:46:31+00:00",
@@ -4164,6 +4252,48 @@
     "info_at": "2026-11-24T16:06:26+00:00",
     "ref": "2125259757082882357",
     "via": "Tom Gulitti"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T16:55:45+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "St. Ivany"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Jenner",
+      "Sourdif",
+      "Miroshnichenko"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-25T16:54:43+00:00"
    }
   }
  }

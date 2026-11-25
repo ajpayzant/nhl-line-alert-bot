@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T16:53:23.372Z",
+ "article_updated": "2026-11-25T16:54:43.747Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1297,6 +1297,55 @@
     "Scott Mayfield"
    ]
   },
+  "2026-11-25:PHI": {
+   "article_updated": "2026-11-25T16:54:43.747Z",
+   "defense": [
+    [
+     "Travis Sanheim",
+     "Rasmus Ristolainen"
+    ],
+    [
+     "Cam York",
+     "Jamie Drysdale"
+    ],
+    [
+     "Nick Seeler",
+     "Oliver Bonk"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Tyson Foerster",
+     "Christian Dvorak",
+     "Travis Konecny"
+    ],
+    [
+     "Owen Tippett",
+     "Denver Barkey",
+     "Porter Martone"
+    ],
+    [
+     "Cole Knuble",
+     "Noah Cates",
+     "Matvei Michkov"
+    ],
+    [
+     "Trevor Zegras",
+     "Sean Couturier",
+     "Noel Acciari"
+    ]
+   ],
+   "goalies": [
+    "Joseph Woll",
+    "Dan Vladar"
+   ],
+   "scratched": [
+    "David Jiricek",
+    "Simon Benoit",
+    "Michael Bunting"
+   ]
+  },
   "2026-11-25:STL": {
    "article_updated": "2026-11-25T16:45:37.687Z",
    "defense": [
@@ -1342,6 +1391,54 @@
    ],
    "scratched": [
     "Calle Rosen"
+   ]
+  },
+  "2026-11-25:WSH": {
+   "article_updated": "2026-11-25T16:54:43.747Z",
+   "defense": [
+    [
+     "Jakob Chychrun",
+     "Matt Roy"
+    ],
+    [
+     "Martin Fehérváry",
+     "Timothy Liljegren"
+    ],
+    [
+     "Cole Hutson",
+     "Jack St. Ivany"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Aliaksei Protas",
+     "Pierre-Luc Dubois",
+     "Tom Wilson"
+    ],
+    [
+     "Ryan Leonard",
+     "Ilya Protas",
+     "Alex Tuch"
+    ],
+    [
+     "Alex Ovechkin",
+     "Dylan Strome",
+     "Anthony Beauvillier"
+    ],
+    [
+     "Boone Jenner",
+     "Justin Sourdif",
+     "Ivan Miroshnichenko"
+    ]
+   ],
+   "goalies": [
+    "Logan Thompson",
+    "Charlie Lindgren"
+   ],
+   "scratched": [
+    "Ethen Frank",
+    "Justin Holl"
    ]
   }
  },
@@ -1560,6 +1657,104 @@
      "G"
     ]
    ],
+   "PHI": [
+    [
+     "Noel Acciari",
+     "C"
+    ],
+    [
+     "Denver Barkey",
+     "C"
+    ],
+    [
+     "Michael Bunting",
+     "L"
+    ],
+    [
+     "Noah Cates",
+     "L"
+    ],
+    [
+     "Sean Couturier",
+     "C"
+    ],
+    [
+     "Christian Dvorak",
+     "C"
+    ],
+    [
+     "Tyson Foerster",
+     "R"
+    ],
+    [
+     "Nikita Grebenkin",
+     "R"
+    ],
+    [
+     "Cole Knuble",
+     "R"
+    ],
+    [
+     "Travis Konecny",
+     "R"
+    ],
+    [
+     "Porter Martone",
+     "R"
+    ],
+    [
+     "Matvei Michkov",
+     "R"
+    ],
+    [
+     "Owen Tippett",
+     "R"
+    ],
+    [
+     "Trevor Zegras",
+     "C"
+    ],
+    [
+     "Simon Benoit",
+     "D"
+    ],
+    [
+     "Oliver Bonk",
+     "D"
+    ],
+    [
+     "Jamie Drysdale",
+     "D"
+    ],
+    [
+     "David Jiricek",
+     "D"
+    ],
+    [
+     "Rasmus Ristolainen",
+     "D"
+    ],
+    [
+     "Travis Sanheim",
+     "D"
+    ],
+    [
+     "Nick Seeler",
+     "D"
+    ],
+    [
+     "Cam York",
+     "D"
+    ],
+    [
+     "Dan Vladar",
+     "G"
+    ],
+    [
+     "Joseph Woll",
+     "G"
+    ]
+   ],
    "STL": [
     [
      "Jonatan Berggren",
@@ -1761,6 +1956,108 @@
     ],
     [
      "Adin Hill",
+     "G"
+    ]
+   ],
+   "WSH": [
+    [
+     "Anthony Beauvillier",
+     "R"
+    ],
+    [
+     "Pierre-Luc Dubois",
+     "C"
+    ],
+    [
+     "Ethen Frank",
+     "R"
+    ],
+    [
+     "Boone Jenner",
+     "C"
+    ],
+    [
+     "Jordan Kyrou",
+     "R"
+    ],
+    [
+     "Ryan Leonard",
+     "R"
+    ],
+    [
+     "Ivan Miroshnichenko",
+     "L"
+    ],
+    [
+     "Alex Ovechkin",
+     "L"
+    ],
+    [
+     "Aliaksei Protas",
+     "L"
+    ],
+    [
+     "Ilya Protas",
+     "L"
+    ],
+    [
+     "Justin Sourdif",
+     "C"
+    ],
+    [
+     "Dylan Strome",
+     "C"
+    ],
+    [
+     "Alex Tuch",
+     "R"
+    ],
+    [
+     "Tom Wilson",
+     "R"
+    ],
+    [
+     "Jakob Chychrun",
+     "D"
+    ],
+    [
+     "Vincent Desharnais",
+     "D"
+    ],
+    [
+     "Martin Fehérváry",
+     "D"
+    ],
+    [
+     "Justin Holl",
+     "D"
+    ],
+    [
+     "Cole Hutson",
+     "D"
+    ],
+    [
+     "Timothy Liljegren",
+     "D"
+    ],
+    [
+     "Matt Roy",
+     "D"
+    ],
+    [
+     "Rasmus Sandin",
+     "D"
+    ],
+    [
+     "Jack St. Ivany",
+     "D"
+    ],
+    [
+     "Charlie Lindgren",
+     "G"
+    ],
+    [
+     "Logan Thompson",
      "G"
     ]
    ]
