@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T17:54:45.74Z",
+ "article_updated": "2026-11-25T18:10:13.833Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1442,6 +1442,53 @@
     "Dmitri Voronkov"
    ]
   },
+  "2026-11-25:DAL": {
+   "article_updated": "2026-11-25T18:10:13.833Z",
+   "defense": [
+    [
+     "Esa Lindell",
+     "Miro Heiskanen"
+    ],
+    [
+     "Thomas Harley",
+     "Nils Lundkvist"
+    ],
+    [
+     "Kyle Burroughs",
+     "Tyler Myers"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Sam Steel",
+     "Roope Hintz",
+     "Mikko Rantanen"
+    ],
+    [
+     "Jason Robertson",
+     "Wyatt Johnston",
+     "Arttu Hyry"
+    ],
+    [
+     "Tyler Seguin",
+     "Justin Hryckowian",
+     "Jamie Benn"
+    ],
+    [
+     "Joel Kiviranta",
+     "Radek Faksa",
+     "David Perron"
+    ]
+   ],
+   "goalies": [
+    "Jake Oettinger",
+    "Casey DeSmith"
+   ],
+   "scratched": [
+    "Colin Blackwell"
+   ]
+  },
   "2026-11-25:DET": {
    "article_updated": "2026-11-25T17:54:45.74Z",
    "defense": [
@@ -1584,6 +1631,55 @@
    "scratched": [
     "Lenni Hameenaho",
     "Vladislav Kolyachonok"
+   ]
+  },
+  "2026-11-25:NSH": {
+   "article_updated": "2026-11-25T18:10:13.833Z",
+   "defense": [
+    [
+     "Roman Josi",
+     "Adam Wilsby"
+    ],
+    [
+     "Brady Skjei",
+     "Nick Perbix"
+    ],
+    [
+     "Nicolas Hague",
+     "Jayden Struble"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Steven Stamkos",
+     "Ryan O'Reilly",
+     "Mavrik Bourque"
+    ],
+    [
+     "Filip Forsberg",
+     "Shane Wright",
+     "Nils Hoglander"
+    ],
+    [
+     "Reid Schaefer",
+     "Alexander Kerfoot",
+     "Jonathan Marchessault"
+    ],
+    [
+     "Ross Colton",
+     "Jack Drury",
+     "Adam Edstrom"
+    ]
+   ],
+   "goalies": [
+    "Juuse Saros",
+    "Justus Annunen"
+   ],
+   "scratched": [
+    "Daemon Hunt",
+    "Ilya Lyubushkin",
+    "Vitali Pinchuk"
    ]
   },
   "2026-11-25:NYI": {
@@ -2418,6 +2514,112 @@
      "G"
     ]
    ],
+   "DAL": [
+    [
+     "Jamie Benn",
+     "L"
+    ],
+    [
+     "Colin Blackwell",
+     "C"
+    ],
+    [
+     "Oskar Bäck",
+     "C"
+    ],
+    [
+     "Matt Duchene",
+     "C"
+    ],
+    [
+     "Radek Faksa",
+     "C"
+    ],
+    [
+     "Roope Hintz",
+     "C"
+    ],
+    [
+     "Justin Hryckowian",
+     "C"
+    ],
+    [
+     "Arttu Hyry",
+     "R"
+    ],
+    [
+     "Wyatt Johnston",
+     "C"
+    ],
+    [
+     "Joel Kiviranta",
+     "L"
+    ],
+    [
+     "David Perron",
+     "L"
+    ],
+    [
+     "Mikko Rantanen",
+     "R"
+    ],
+    [
+     "Jason Robertson",
+     "L"
+    ],
+    [
+     "Tyler Seguin",
+     "C"
+    ],
+    [
+     "Sam Steel",
+     "C"
+    ],
+    [
+     "Lian Bichsel",
+     "D"
+    ],
+    [
+     "Kyle Burroughs",
+     "D"
+    ],
+    [
+     "Kyle Capobianco",
+     "D"
+    ],
+    [
+     "Thomas Harley",
+     "D"
+    ],
+    [
+     "Miro Heiskanen",
+     "D"
+    ],
+    [
+     "Esa Lindell",
+     "D"
+    ],
+    [
+     "Nils Lundkvist",
+     "D"
+    ],
+    [
+     "Tyler Myers",
+     "D"
+    ],
+    [
+     "Trey Taylor",
+     "D"
+    ],
+    [
+     "Casey DeSmith",
+     "G"
+    ],
+    [
+     "Jake Oettinger",
+     "G"
+    ]
+   ],
    "DET": [
     [
      "Mason Appleton",
@@ -2815,6 +3017,104 @@
     ],
     [
      "Connor Hellebuyck",
+     "G"
+    ]
+   ],
+   "NSH": [
+    [
+     "Mavrik Bourque",
+     "C"
+    ],
+    [
+     "Ross Colton",
+     "C"
+    ],
+    [
+     "Jack Drury",
+     "C"
+    ],
+    [
+     "Adam Edstrom",
+     "C"
+    ],
+    [
+     "Filip Forsberg",
+     "L"
+    ],
+    [
+     "Nils Hoglander",
+     "L"
+    ],
+    [
+     "Alexander Kerfoot",
+     "C"
+    ],
+    [
+     "Jonathan Marchessault",
+     "C"
+    ],
+    [
+     "Ryan O'Reilly",
+     "C"
+    ],
+    [
+     "Vitali Pinchuk",
+     "C"
+    ],
+    [
+     "Reid Schaefer",
+     "L"
+    ],
+    [
+     "Steven Stamkos",
+     "C"
+    ],
+    [
+     "Shane Wright",
+     "C"
+    ],
+    [
+     "Nicolas Hague",
+     "D"
+    ],
+    [
+     "Daemon Hunt",
+     "D"
+    ],
+    [
+     "Roman Josi",
+     "D"
+    ],
+    [
+     "Ilya Lyubushkin",
+     "D"
+    ],
+    [
+     "Nick Perbix",
+     "D"
+    ],
+    [
+     "Brady Skjei",
+     "D"
+    ],
+    [
+     "Jayden Struble",
+     "D"
+    ],
+    [
+     "William Trudeau",
+     "D"
+    ],
+    [
+     "Adam Wilsby",
+     "D"
+    ],
+    [
+     "Justus Annunen",
+     "G"
+    ],
+    [
+     "Juuse Saros",
      "G"
     ]
    ],

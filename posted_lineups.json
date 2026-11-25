@@ -3892,6 +3892,48 @@
     "info_at": "2026-11-24T16:52:57+00:00",
     "ref": "2125271466392326629",
     "via": "Robert Tiffin"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T18:11:22+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Burroughs",
+      "Myers"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Steel",
+      "Hintz",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Johnston",
+      "Hyry"
+     ],
+     [
+      "Seguin",
+      "Hryckowian",
+      "Benn"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-25T18:10:13+00:00"
    }
   },
   "DET": {
@@ -4200,6 +4242,50 @@
     ],
     "goalie": "Hellebuyck",
     "info_at": "2026-11-25T17:06:48+00:00"
+   }
+  },
+  "NSH": {
+   "nhlcom": {
+    "at": "2026-11-25T18:11:22+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-25T18:10:13+00:00"
    }
   },
   "NYI": {
