@@ -3982,6 +3982,48 @@
     "info_at": "2026-11-25T16:07:57+00:00",
     "ref": "2125622526315237491",
     "via": "@AnsarKhanMLive"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:56:24+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
+     ],
+     [
+      "Mazur",
+      "Rasmussen",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Tarasov",
+    "info_at": "2026-11-25T17:54:45+00:00"
    }
   },
   "FLA": {
@@ -4502,6 +4544,50 @@
     ],
     "goalie": "Vasilevskiy",
     "info_at": "2026-11-25T17:47:38+00:00"
+   }
+  },
+  "VAN": {
+   "nhlcom": {
+    "at": "2026-11-25T17:56:24+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Pettersson",
+      "Willander"
+     ],
+     [
+      "Oleksiak",
+      "Schenn"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Boeser"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Lekkerimäki"
+     ],
+     [
+      "O'Connor",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Reinhardt",
+      "Quillan",
+      "Cotter"
+     ]
+    ],
+    "goalie": "Meriläinen",
+    "info_at": "2026-11-25T17:54:45+00:00"
    }
   },
   "WPG": {
