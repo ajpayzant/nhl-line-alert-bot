@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T17:06:48.375Z",
+ "article_updated": "2026-11-25T17:08:32.54Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1249,6 +1249,54 @@
     "Raphael Lavoie"
    ]
   },
+  "2026-11-25:BUF": {
+   "article_updated": "2026-11-25T17:08:32.54Z",
+   "defense": [
+    [
+     "Rasmus Dahlin",
+     "Mattias Samuelsson"
+    ],
+    [
+     "Owen Power",
+     "Conor Timmins"
+    ],
+    [
+     "Olen Zellweger",
+     "Louis Crevier"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Zach Benson",
+     "Jiri Kulich",
+     "Tage Thompson"
+    ],
+    [
+     "Peyton Krebs",
+     "Noah Ostlund",
+     "Jack Quinn"
+    ],
+    [
+     "Jason Zucker",
+     "Josh Norris",
+     "Josh Doan"
+    ],
+    [
+     "Beck Malenstyn",
+     "Ryan McLeod",
+     "Sam Carrick"
+    ]
+   ],
+   "goalies": [
+    "Ukko-Pekka Luukkonen",
+    "Colten Ellis"
+   ],
+   "scratched": [
+    "Alex Lyon",
+    "Zach Metsa"
+   ]
+  },
   "2026-11-25:CBJ": {
    "article_updated": "2026-11-25T17:06:48.375Z",
    "defense": [
@@ -1391,6 +1439,54 @@
    "scratched": [
     "Mitchell Chaffee",
     "Scott Mayfield"
+   ]
+  },
+  "2026-11-25:NYR": {
+   "article_updated": "2026-11-25T17:08:32.54Z",
+   "defense": [
+    [
+     "Vladislav Gavrikov",
+     "Adam Fox"
+    ],
+    [
+     "Marcus Pettersson",
+     "Sean Durzi"
+    ],
+    [
+     "Braden Schneider",
+     "Scott Morrow"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Will Cuylle",
+     "Mika Zibanejad",
+     "Alexis Lafrenière"
+    ],
+    [
+     "Tye Kartye",
+     "J.T. Miller",
+     "Gabe Perreault"
+    ],
+    [
+     "Eeli Tolvanen",
+     "Noah Laba",
+     "Jaroslav Chmelar"
+    ],
+    [
+     "Glenn Gawdin",
+     "Max Sasson",
+     "Matt Rempe"
+    ]
+   ],
+   "goalies": [
+    "Joonas Korpisalo",
+    "Dylan Garand"
+   ],
+   "scratched": [
+    "Taylor Raddysh",
+    "Matthew Robertson"
    ]
   },
   "2026-11-25:PHI": {
@@ -1541,6 +1637,112 @@
  "rosters": {
   "date": "2026-11-25",
   "teams": {
+   "BUF": [
+    [
+     "Zach Benson",
+     "L"
+    ],
+    [
+     "Sam Carrick",
+     "C"
+    ],
+    [
+     "Justin Danforth",
+     "R"
+    ],
+    [
+     "Josh Doan",
+     "R"
+    ],
+    [
+     "Konsta Helenius",
+     "C"
+    ],
+    [
+     "Tyson Kozak",
+     "C"
+    ],
+    [
+     "Peyton Krebs",
+     "C"
+    ],
+    [
+     "Jiri Kulich",
+     "C"
+    ],
+    [
+     "Beck Malenstyn",
+     "L"
+    ],
+    [
+     "Ryan McLeod",
+     "C"
+    ],
+    [
+     "Josh Norris",
+     "C"
+    ],
+    [
+     "Noah Ostlund",
+     "C"
+    ],
+    [
+     "Jack Quinn",
+     "R"
+    ],
+    [
+     "Tage Thompson",
+     "C"
+    ],
+    [
+     "Jason Zucker",
+     "L"
+    ],
+    [
+     "Louis Crevier",
+     "D"
+    ],
+    [
+     "Rasmus Dahlin",
+     "D"
+    ],
+    [
+     "Matt Grzelcyk",
+     "D"
+    ],
+    [
+     "Zach Metsa",
+     "D"
+    ],
+    [
+     "Owen Power",
+     "D"
+    ],
+    [
+     "Mattias Samuelsson",
+     "D"
+    ],
+    [
+     "Conor Timmins",
+     "D"
+    ],
+    [
+     "Olen Zellweger",
+     "D"
+    ],
+    [
+     "Colten Ellis",
+     "G"
+    ],
+    [
+     "Ukko-Pekka Luukkonen",
+     "G"
+    ],
+    [
+     "Alex Lyon",
+     "G"
+    ]
+   ],
    "CBJ": [
     [
      "Charlie Coyle",
@@ -1942,6 +2144,120 @@
     ],
     [
      "Semyon Varlamov",
+     "G"
+    ]
+   ],
+   "NYR": [
+    [
+     "Oliver Bjorkstrand",
+     "R"
+    ],
+    [
+     "Jaroslav Chmelar",
+     "R"
+    ],
+    [
+     "Will Cuylle",
+     "L"
+    ],
+    [
+     "Pavel Dorofeyev",
+     "R"
+    ],
+    [
+     "Glenn Gawdin",
+     "C"
+    ],
+    [
+     "Tye Kartye",
+     "L"
+    ],
+    [
+     "Noah Laba",
+     "C"
+    ],
+    [
+     "Alexis Lafrenière",
+     "L"
+    ],
+    [
+     "J.T. Miller",
+     "C"
+    ],
+    [
+     "Gabe Perreault",
+     "R"
+    ],
+    [
+     "Taylor Raddysh",
+     "R"
+    ],
+    [
+     "Matt Rempe",
+     "C"
+    ],
+    [
+     "Max Sasson",
+     "C"
+    ],
+    [
+     "Adam Sykora",
+     "L"
+    ],
+    [
+     "Eeli Tolvanen",
+     "R"
+    ],
+    [
+     "Joseph Veleno",
+     "C"
+    ],
+    [
+     "Mika Zibanejad",
+     "C"
+    ],
+    [
+     "Sean Durzi",
+     "D"
+    ],
+    [
+     "Adam Fox",
+     "D"
+    ],
+    [
+     "Vladislav Gavrikov",
+     "D"
+    ],
+    [
+     "Scott Morrow",
+     "D"
+    ],
+    [
+     "Marcus Pettersson",
+     "D"
+    ],
+    [
+     "Matthew Robertson",
+     "D"
+    ],
+    [
+     "Braden Schneider",
+     "D"
+    ],
+    [
+     "Alberts Smits",
+     "D"
+    ],
+    [
+     "Dylan Garand",
+     "G"
+    ],
+    [
+     "Joonas Korpisalo",
+     "G"
+    ],
+    [
+     "Igor Shesterkin",
      "G"
     ]
    ],

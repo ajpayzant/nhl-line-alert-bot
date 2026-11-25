@@ -3543,6 +3543,50 @@
     "via": "@jackstudley13"
    }
   },
+  "BUF": {
+   "nhlcom": {
+    "at": "2026-11-25T17:10:41+00:00",
+    "defense": [
+     [
+      "Dahlin",
+      "Samuelsson"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Benson",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "Ostlund",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Doan"
+     ],
+     [
+      "Malenstyn",
+      "McLeod",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Luukkonen",
+    "info_at": "2026-11-25T17:08:32+00:00"
+   }
+  },
   "CAR": {
    "dfo": {
     "at": "2026-11-25T16:55:44+00:00",
@@ -4032,6 +4076,50 @@
     ],
     "goalie": "Sorokin",
     "info_at": "2026-11-25T16:45:37+00:00"
+   }
+  },
+  "NYR": {
+   "nhlcom": {
+    "at": "2026-11-25T17:10:41+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Perreault"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Rempe"
+     ]
+    ],
+    "goalie": "Korpisalo",
+    "info_at": "2026-11-25T17:08:32+00:00"
    }
   },
   "OTT": {
