@@ -3771,6 +3771,50 @@
     "via": "@JamesonCoop"
    }
   },
+  "NYI": {
+   "nhlcom": {
+    "at": "2026-11-25T16:46:31+00:00",
+    "defense": [
+     [
+      "Pelech",
+      "Schaefer"
+     ],
+     [
+      "Stanley",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Barzal"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Ritchie",
+      "Pageau",
+      "Duclair"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Maccelli"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-25T16:45:37+00:00"
+   }
+  },
   "OTT": {
    "dfo": {
     "at": "2026-11-25T16:40:42+00:00",
@@ -3851,6 +3895,50 @@
     "info_at": "2026-11-25T16:39:07+00:00",
     "ref": "2125630371211444680",
     "via": "@SunGarrioch"
+   }
+  },
+  "STL": {
+   "nhlcom": {
+    "at": "2026-11-25T16:46:31+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Barron",
+      "Parayko"
+     ],
+     [
+      "Fowler",
+      "Jiricek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holloway",
+      "Thomas",
+      "Neighbours"
+     ],
+     [
+      "Stenberg",
+      "McTavish",
+      "Dvorsky"
+     ],
+     [
+      "Kaskimaki",
+      "Suter",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Walker",
+      "Johnston"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-25T16:45:37+00:00"
    }
   },
   "WSH": {
