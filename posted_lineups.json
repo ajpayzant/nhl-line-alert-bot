@@ -4056,6 +4056,50 @@
     "info_at": "2026-11-25T23:43:23+00:00",
     "ref": "2125737143054287352",
     "via": "Calgary Flames"
+   },
+   "gameday": {
+    "at": "2026-11-25T23:52:26+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Sharangovich",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Farabee",
+      "Strome",
+      "Klapka"
+     ],
+     [
+      "Gridin",
+      "Castagna",
+      "Suniev"
+     ],
+     [
+      "Othmann",
+      "?Jones",
+      "Tsyplakov"
+     ]
+    ],
+    "goalie": "Cooley",
+    "info_at": "2026-11-25T23:46:46+00:00",
+    "ref": "2125737992568619129",
+    "via": "@dwillsnhl"
    }
   },
   "CHI": {
@@ -4667,6 +4711,50 @@
    }
   },
   "NJD": {
+   "gameday": {
+    "at": "2026-11-25T23:52:24+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "Chisholm",
+      "Dillon"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Rodrigues",
+      "Lombardi",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Noesen"
+     ]
+    ],
+    "goalie": "Hellebuyck",
+    "info_at": "2026-11-25T23:45:08+00:00",
+    "ref": "2125737583531749464",
+    "via": "@InStilettos_NHL"
+   },
    "nhlcom": {
     "at": "2026-11-25T17:07:24+00:00",
     "defense": [
@@ -5142,6 +5230,50 @@
    }
   },
   "PHI": {
+   "gameday": {
+    "at": "2026-11-25T23:52:27+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-25T23:47:15+00:00",
+    "ref": "2125738114702533035",
+    "via": "@TomGulittiNHL"
+   },
    "nhlcom": {
     "at": "2026-11-25T16:55:45+00:00",
     "defense": [
