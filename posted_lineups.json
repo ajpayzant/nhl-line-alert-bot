@@ -4718,6 +4718,50 @@
    }
   },
   "NYR": {
+   "dfo": {
+    "at": "2026-11-25T23:40:43+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Perreault"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Korpisalo",
+    "info_at": "2026-11-24T16:19:10+00:00",
+    "ref": "2125262960952004792",
+    "via": "Remy Mastey"
+   },
    "nhlcom": {
     "at": "2026-11-25T17:10:41+00:00",
     "defense": [
@@ -5416,7 +5460,7 @@
   },
   "WSH": {
    "dfo": {
-    "at": "2026-11-25T16:40:42+00:00",
+    "at": "2026-11-25T23:40:43+00:00",
     "defense": [
      [
       "Chychrun",
@@ -5446,7 +5490,7 @@
      [
       "Ovechkin",
       "Strome",
-      "Frank"
+      "Beauvillier"
      ],
      [
       "Jenner",
