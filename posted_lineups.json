@@ -4674,6 +4674,49 @@
    }
   },
   "NYI": {
+   "dfo": {
+    "at": "2026-11-25T23:45:48+00:00",
+    "defense": [
+     [
+      "Pelech",
+      "Schaefer"
+     ],
+     [
+      "Hutton",
+      "DeAngelo"
+     ],
+     [
+      "Stanley",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Barzal"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Maccelli"
+     ]
+    ],
+    "goalie": "Sorokin",
+    "info_at": "2026-11-25T23:39:35+00:00",
+    "ref": "2125736183833764151",
+    "via": "Stefen Rosner"
+   },
    "nhlcom": {
     "at": "2026-11-25T16:46:31+00:00",
     "defense": [
