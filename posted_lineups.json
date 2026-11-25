@@ -3808,7 +3808,7 @@
   },
   "CBJ": {
    "dfo": {
-    "at": "2026-11-25T16:45:39+00:00",
+    "at": "2026-11-25T18:25:40+00:00",
     "defense": [
      [
       "Werenski",
@@ -3816,11 +3816,11 @@
      ],
      [
       "Provorov",
-      "Mateychuk"
+      "Fabbro"
      ],
      [
       "Christiansen",
-      "Fabbro"
+      "Mateychuk"
      ]
     ],
     "extra": [],
@@ -3841,15 +3841,15 @@
       "Monahan"
      ],
      [
-      "Lomberg",
+      "Pyyhtia",
       "Lundeström",
-      "Pyyhtia"
+      "Lomberg"
      ]
     ],
     "goalie": "Talbot",
-    "info_at": "2026-11-25T16:43:16+00:00",
-    "ref": "2125631415307973047",
-    "via": "Aaron Portzline"
+    "info_at": "2026-11-25T18:20:18+00:00",
+    "ref": "2125655837012344832",
+    "via": "@BlueJacketsNHL"
    },
    "nhlcom": {
     "at": "2026-11-25T17:07:24+00:00",
@@ -3892,6 +3892,52 @@
     ],
     "goalie": "Talbot",
     "info_at": "2026-11-25T17:06:48+00:00"
+   }
+  },
+  "COL": {
+   "dfo": {
+    "at": "2026-11-25T18:25:40+00:00",
+    "defense": [
+     [
+      "Kulak",
+      "Makar"
+     ],
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "?Beckman",
+      "Kelly",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-24T18:09:27+00:00",
+    "ref": "2125290718440661407",
+    "via": "@HockeyMtnHighCO"
    }
   },
   "DAL": {

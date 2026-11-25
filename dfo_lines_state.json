@@ -124,9 +124,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Monahan\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Christiansen\", \"Fabbro\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "https://x.com/Aportzline/status/2125631415307973047",
-    "updated_at": "2026-11-25T16:45:02.477Z"
+    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Monahan\"], [\"Pyyhtia\", \"Lundestrom\", \"Lomberg\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Mateychuk\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://x.com/BlueJacketsNHL/status/2125655837012344832",
+    "updated_at": "2026-11-25T18:23:02.448Z"
   },
   "CGY": {
     "goalie": "Cooley",
@@ -183,10 +183,9 @@
   "COL": {
     "goalie": "Blackwood",
     "players": [
-      "Brindley",
+      "Beckman",
       "Burns",
       "Hughes",
-      "Juulsen",
       "Kadri",
       "Kelly",
       "Kulak",
@@ -197,14 +196,15 @@
       "Necas",
       "Nelson",
       "O'Connor",
+      "Reilly",
       "Roy",
       "Schwartz",
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"O'Connor\", \"Kelly\", \"Brindley\"]], [[\"Toews\", \"Makar\"], [\"Kulak\", \"Malinski\"], [\"Juulsen\", \"Burns\"]], [\"Blackwood\"], [\"Hughes\", \"Kadri\", \"Lehkonen\", \"Necas\", \"Makar\"]]",
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"Beckman\", \"Kelly\", \"O'Connor\"]], [[\"Kulak\", \"Makar\"], [\"Toews\", \"Malinski\"], [\"Reilly\", \"Burns\"]], [\"Blackwood\"], [\"Landeskog\", \"Kadri\", \"Roy\", \"Necas\", \"Makar\"]]",
     "source": "https://x.com/HockeyMtnHighCO/status/2125290718440661407?s=20",
-    "updated_at": "2026-11-24T19:39:28.826Z"
+    "updated_at": "2026-11-25T18:22:03.609Z"
   },
   "DAL": {
     "goalie": "Oettinger",
