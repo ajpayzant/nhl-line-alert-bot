@@ -3543,6 +3543,51 @@
     "via": "@jackstudley13"
    }
   },
+  "CAR": {
+   "gameday": {
+    "at": "2026-11-25T16:47:29+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Välimäki",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Carrier",
+      "Aho",
+      "Svechnikov"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Kotkaniemi"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-25T16:40:49+00:00",
+    "ref": "2125630800511045826"
+   }
+  },
   "CBJ": {
    "dfo": {
     "at": "2026-11-25T16:45:39+00:00",
@@ -3939,6 +3984,52 @@
     ],
     "goalie": "Hofer",
     "info_at": "2026-11-25T16:45:37+00:00"
+   }
+  },
+  "WPG": {
+   "gameday": {
+    "at": "2026-11-25T16:47:28+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Daws",
+    "info_at": "2026-11-25T16:39:57+00:00",
+    "ref": "2125630581698441686",
+    "via": "@MitchellClinton"
    }
   },
   "WSH": {
