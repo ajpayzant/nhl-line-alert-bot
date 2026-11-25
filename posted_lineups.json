@@ -3541,6 +3541,48 @@
     "info_at": "2026-11-25T16:07:29+00:00",
     "ref": "2125622409453515111",
     "via": "@jackstudley13"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:45:39+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Geekie",
+      "Lindholm",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Zacha",
+      "Peterka"
+     ],
+     [
+      "Khusnutdinov",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-25T17:45:12+00:00"
    }
   },
   "BUF": {
@@ -4464,6 +4506,48 @@
     "info_at": "2026-11-25T16:39:57+00:00",
     "ref": "2125630581698441686",
     "via": "@MitchellClinton"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T17:45:39+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Daws",
+    "info_at": "2026-11-25T17:45:12+00:00"
    }
   },
   "WSH": {
