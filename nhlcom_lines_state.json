@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-25T19:18:20.146Z",
+ "article_updated": "2026-11-25T19:24:05.205Z",
  "lineups": {
   "2026-11-22:BUF": {
    "article_updated": "2026-11-22T15:23:54.838Z",
@@ -1249,6 +1249,54 @@
     "Raphael Lavoie"
    ]
   },
+  "2026-11-25:ANA": {
+   "article_updated": "2026-11-25T19:24:05.205Z",
+   "defense": [
+    [
+     "Jackson LaCombe",
+     "Ian Moore"
+    ],
+    [
+     "Stian Solberg",
+     "Tristan Luneau"
+    ],
+    [
+     "Pavel Mintyukov",
+     "Drew Helleson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Nico Myatovic",
+     "Roger McQueen",
+     "Cutter Gauthier"
+    ],
+    [
+     "Alex Killorn",
+     "Mikael Granlund",
+     "Troy Terry"
+    ],
+    [
+     "Jeff Malott",
+     "Tim Washe",
+     "Judd Caulfield"
+    ],
+    [
+     "Frank Vatrano",
+     "Nikita Nesterenko",
+     "Sam Colangelo"
+    ]
+   ],
+   "goalies": [
+    "Laurent Brossoit",
+    "Lukas Dostal"
+   ],
+   "scratched": [
+    "Tyson Hinds",
+    "Ville Husso"
+   ]
+  },
   "2026-11-25:BOS": {
    "article_updated": "2026-11-25T17:45:12.898Z",
    "defense": [
@@ -2020,6 +2068,54 @@
     "Curtis Douglas"
    ]
   },
+  "2026-11-25:SJS": {
+   "article_updated": "2026-11-25T19:24:05.205Z",
+   "defense": [
+    [
+     "Darnell Nurse",
+     "Eric Pohlkamp"
+    ],
+    [
+     "Nolan Allan",
+     "Sam Dickinson"
+    ],
+    [
+     "Dmitry Orlov",
+     "Michael Kesselring"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Ivar Stenberg",
+     "Macklin Celebrini",
+     "Will Smith"
+    ],
+    [
+     "Michael Misa",
+     "Alexander Wennberg",
+     "Tyler Toffoli"
+    ],
+    [
+     "Mason Marchment",
+     "Ty Dellandrea",
+     "Collin Graf"
+    ],
+    [
+     "Barclay Goodrow",
+     "Zack Ostapchuk",
+     "Adam Gaudette"
+    ]
+   ],
+   "goalies": [
+    "Yaroslav Askarov",
+    "Alex Nedeljkovic"
+   ],
+   "scratched": [
+    "Libor Hajek",
+    "Brett Leason"
+   ]
+  },
   "2026-11-25:STL": {
    "article_updated": "2026-11-25T16:45:37.687Z",
    "defense": [
@@ -2311,6 +2407,116 @@
  "rosters": {
   "date": "2026-11-25",
   "teams": {
+   "ANA": [
+    [
+     "Leo Carlsson",
+     "C"
+    ],
+    [
+     "Judd Caulfield",
+     "R"
+    ],
+    [
+     "Sam Colangelo",
+     "R"
+    ],
+    [
+     "Cutter Gauthier",
+     "L"
+    ],
+    [
+     "Mikael Granlund",
+     "C"
+    ],
+    [
+     "A.J. Greer",
+     "L"
+    ],
+    [
+     "Alex Killorn",
+     "L"
+    ],
+    [
+     "Jeff Malott",
+     "L"
+    ],
+    [
+     "Roger McQueen",
+     "C"
+    ],
+    [
+     "Nico Myatovic",
+     "L"
+    ],
+    [
+     "Nikita Nesterenko",
+     "C"
+    ],
+    [
+     "Ryan Poehling",
+     "C"
+    ],
+    [
+     "Beckett Sennecke",
+     "R"
+    ],
+    [
+     "Troy Terry",
+     "R"
+    ],
+    [
+     "Frank Vatrano",
+     "R"
+    ],
+    [
+     "Tim Washe",
+     "C"
+    ],
+    [
+     "Drew Helleson",
+     "D"
+    ],
+    [
+     "Tyson Hinds",
+     "D"
+    ],
+    [
+     "Jackson LaCombe",
+     "D"
+    ],
+    [
+     "Tristan Luneau",
+     "D"
+    ],
+    [
+     "Pavel Mintyukov",
+     "D"
+    ],
+    [
+     "Travis Mitchell",
+     "D"
+    ],
+    [
+     "Ian Moore",
+     "D"
+    ],
+    [
+     "Stian Solberg",
+     "D"
+    ],
+    [
+     "Laurent Brossoit",
+     "G"
+    ],
+    [
+     "Lukas Dostal",
+     "G"
+    ],
+    [
+     "Ville Husso",
+     "G"
+    ]
+   ],
    "BOS": [
     [
      "Michael Eyssimont",
@@ -4026,6 +4232,108 @@
     ],
     [
      "Philipp Grubauer",
+     "G"
+    ]
+   ],
+   "SJS": [
+    [
+     "Macklin Celebrini",
+     "C"
+    ],
+    [
+     "Igor Chernyshov",
+     "L"
+    ],
+    [
+     "Ty Dellandrea",
+     "C"
+    ],
+    [
+     "Adam Gaudette",
+     "R"
+    ],
+    [
+     "Barclay Goodrow",
+     "C"
+    ],
+    [
+     "Collin Graf",
+     "R"
+    ],
+    [
+     "Brett Leason",
+     "R"
+    ],
+    [
+     "Mason Marchment",
+     "L"
+    ],
+    [
+     "Michael Misa",
+     "C"
+    ],
+    [
+     "Zack Ostapchuk",
+     "C"
+    ],
+    [
+     "Kiefer Sherwood",
+     "L"
+    ],
+    [
+     "Will Smith",
+     "C"
+    ],
+    [
+     "Ivar Stenberg",
+     "L"
+    ],
+    [
+     "Tyler Toffoli",
+     "C"
+    ],
+    [
+     "Alexander Wennberg",
+     "C"
+    ],
+    [
+     "Nolan Allan",
+     "D"
+    ],
+    [
+     "Sam Dickinson",
+     "D"
+    ],
+    [
+     "Libor Hajek",
+     "D"
+    ],
+    [
+     "Michael Kesselring",
+     "D"
+    ],
+    [
+     "Darnell Nurse",
+     "D"
+    ],
+    [
+     "Dmitry Orlov",
+     "D"
+    ],
+    [
+     "Eric Pohlkamp",
+     "D"
+    ],
+    [
+     "Jacob Trouba",
+     "D"
+    ],
+    [
+     "Yaroslav Askarov",
+     "G"
+    ],
+    [
+     "Alex Nedeljkovic",
      "G"
     ]
    ],

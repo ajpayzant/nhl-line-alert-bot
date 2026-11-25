@@ -3528,6 +3528,48 @@
     "info_at": "2026-11-25T18:17:14+00:00",
     "ref": "2125655062563234154",
     "via": "@ZachCav"
+   },
+   "nhlcom": {
+    "at": "2026-11-25T19:24:27+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Myatovic",
+      "McQueen",
+      "Gauthier"
+     ],
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Colangelo"
+     ]
+    ],
+    "goalie": "Brossoit",
+    "info_at": "2026-11-25T19:24:05+00:00"
    }
   },
   "BOS": {
@@ -4843,6 +4885,50 @@
     ],
     "goalie": "Daccord",
     "info_at": "2026-11-25T19:18:20+00:00"
+   }
+  },
+  "SJS": {
+   "nhlcom": {
+    "at": "2026-11-25T19:24:27+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Kesselring"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Gaudette"
+     ]
+    ],
+    "goalie": "Askarov",
+    "info_at": "2026-11-25T19:24:05+00:00"
    }
   },
   "STL": {
