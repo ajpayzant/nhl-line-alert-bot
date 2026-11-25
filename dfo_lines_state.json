@@ -115,8 +115,8 @@
       "Lomberg",
       "Lundestrom",
       "Mateychuk",
+      "Monahan",
       "Nichushkin",
-      "Olivier",
       "Provorov",
       "Pyyhtia",
       "Severson",
@@ -124,9 +124,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Olivier\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Christiansen\", \"Fabbro\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020378",
-    "updated_at": "2026-11-24T16:22:14.364Z"
+    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Monahan\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Mateychuk\"], [\"Christiansen\", \"Fabbro\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://x.com/Aportzline/status/2125631415307973047",
+    "updated_at": "2026-11-25T16:45:02.477Z"
   },
   "CGY": {
     "goalie": "Cooley",
@@ -221,16 +221,16 @@
       "Kiviranta",
       "Lindell",
       "Lundkvist",
+      "Myers",
       "Perron",
       "Rantanen",
       "Robertson",
       "Seguin",
-      "Steel",
-      "Taylor"
+      "Steel"
     ],
-    "signature": "[[[\"Steel\", \"Hintz\", \"Rantanen\"], [\"Robertson\", \"Johnston\", \"Hyry\"], [\"Hryckowian\", \"Seguin\", \"Benn\"], [\"Kiviranta\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Taylor\", \"Burroughs\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
+    "signature": "[[[\"Steel\", \"Hintz\", \"Rantanen\"], [\"Robertson\", \"Johnston\", \"Hyry\"], [\"Hryckowian\", \"Seguin\", \"Benn\"], [\"Kiviranta\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Burroughs\", \"Myers\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
     "source": "https://x.com/RobertTiffin/status/2125271466392326629?s=20",
-    "updated_at": "2026-11-24T17:33:30.044Z"
+    "updated_at": "2026-11-25T16:42:46.632Z"
   },
   "DET": {
     "goalie": "Tarasov",
