@@ -4623,6 +4623,50 @@
    }
   },
   "MIN": {
+   "gameday": {
+    "at": "2026-11-26T00:42:22+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Trenin",
+      "Yurov",
+      "Shabanov"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-26T00:36:29+00:00",
+    "ref": "2125750506387878196",
+    "via": "@DylanLoucks4"
+   },
    "nhlcom": {
     "at": "2026-11-25T18:53:32+00:00",
     "defense": [
@@ -4799,6 +4843,50 @@
    }
   },
   "NSH": {
+   "gameday": {
+    "at": "2026-11-26T00:42:21+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-26T00:36:10+00:00",
+    "ref": "2125750423005130992",
+    "via": "@brooksbratten"
+   },
    "nhlcom": {
     "at": "2026-11-25T18:11:22+00:00",
     "defense": [
