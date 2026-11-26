@@ -4222,6 +4222,50 @@
     "ref": "2125290718440661407",
     "via": "@HockeyMtnHighCO"
    },
+   "gameday": {
+    "at": "2026-11-26T02:26:26+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Makar"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "?Beckman",
+      "Kelly",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-26T02:23:27+00:00",
+    "ref": "2125777425556767211",
+    "via": "@OHaraSports"
+   },
    "nhlcom": {
     "at": "2026-11-25T19:29:23+00:00",
     "defense": [
