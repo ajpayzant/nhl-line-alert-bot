@@ -4683,6 +4683,52 @@
   }
  },
  "2026-11-26": {
+  "ANA": {
+   "gameday": {
+    "at": "2026-11-26T19:01:28+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Helleson"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Moore"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Gauthier",
+      "McQueen",
+      "Sennecke"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Myatovic"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-26T18:52:05+00:00",
+    "ref": "2126026222442611072",
+    "via": "@ZachCav"
+   }
+  },
   "CBJ": {
    "gameday": {
     "at": "2026-11-26T17:51:30+00:00",
