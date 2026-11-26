@@ -3618,25 +3618,12 @@
     "via": "Jack Studley"
    },
    "gameday": {
-    "at": "2026-11-25T23:46:30+00:00",
-    "defense": [
-     [
-      "Lindholm",
-      "McAvoy"
-     ],
-     [
-      "Zadorov",
-      "Borgen"
-     ],
-     [
-      "Lohrei",
-      "Clifton"
-     ]
-    ],
+    "at": "2026-11-26T02:21:26+00:00",
+    "defense": [],
     "extra": [],
     "forwards": [
      [
-      "Geekie",
+      "Khusnutdinov",
       "Lindholm",
       "Pastrnak"
      ],
@@ -3646,7 +3633,7 @@
       "Peterka"
      ],
      [
-      "Khusnutdinov",
+      "Geekie",
       "Minten",
       "Poitras"
      ],
@@ -3656,10 +3643,10 @@
       "Kastelic"
      ]
     ],
-    "goalie": "Swayman",
-    "info_at": "2026-11-25T23:39:23+00:00",
-    "ref": "2125736135238574085",
-    "via": "@bellefraser1"
+    "goalie": "",
+    "info_at": "2026-11-26T02:16:24+00:00",
+    "ref": "2125775647725556201",
+    "via": "@jackstudley13"
    },
    "nhlcom": {
     "at": "2026-11-25T17:45:39+00:00",
@@ -4103,6 +4090,50 @@
    }
   },
   "CHI": {
+   "gameday": {
+    "at": "2026-11-26T02:21:27+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Donato",
+      "Kantserov",
+      "Frondell"
+     ],
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Mangiapane",
+      "Greene",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-26T02:17:57+00:00",
+    "ref": "2125776038655402355",
+    "via": "@BenPopeCST"
+   },
    "nhlcom": {
     "at": "2026-11-25T19:17:22+00:00",
     "defense": [
