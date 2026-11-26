@@ -695,7 +695,7 @@
     "updated_at": "2026-11-24T16:28:41.892Z"
   },
   "UTA": {
-    "goalie": "Cossa",
+    "goalie": "Vejmelka",
     "players": [
       "But",
       "Cooley",
@@ -716,9 +716,9 @@
       "Weegar",
       "Yamamoto"
     ],
-    "signature": "[[[\"Keller\", \"McBain\", \"Guenther\"], [\"Cooley\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Cossa\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020382",
-    "updated_at": "2026-11-24T16:34:27.107Z"
+    "signature": "[[[\"Keller\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Cooley\", \"Guenther\"], [\"McBain\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Jones\", \"DeSimone\"]], [\"Vejmelka\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
+    "source": "https://x.com/utahmammoth/status/2125749219588010019",
+    "updated_at": "2026-11-26T00:41:04.911Z"
   },
   "VAN": {
     "goalie": "Merilainen",
