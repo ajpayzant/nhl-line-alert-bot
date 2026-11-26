@@ -4683,6 +4683,39 @@
   }
  },
  "2026-11-26": {
+  "CBJ": {
+   "gameday": {
+    "at": "2026-11-26T17:51:30+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "Nichushkin",
+      "Fantilli",
+      "Coyle"
+     ],
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Monahan",
+      "Sillinger",
+      "Williams"
+     ],
+     [
+      "Lomberg",
+      "Lundeström",
+      "Pyyhtia"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-26T17:47:48+00:00",
+    "ref": "2126010044315816377",
+    "via": "@MinkePxP"
+   }
+  },
   "NSH": {
    "nhlcom": {
     "at": "2026-11-26T14:10:41+00:00",
