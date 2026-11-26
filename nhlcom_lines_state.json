@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-26T16:46:48.449Z",
+ "article_updated": "2026-11-26T21:31:33.072Z",
  "lineups": {
   "2026-11-23:ANA": {
    "article_updated": "2026-11-23T20:43:44.275Z",
@@ -1010,6 +1010,53 @@
     "Dmitri Voronkov"
    ]
   },
+  "2026-11-25:CGY": {
+   "article_updated": "2026-11-26T21:31:33.072Z",
+   "defense": [
+    [
+     "Jake Middleton",
+     "Zach Whitecloud"
+    ],
+    [
+     "Joel Hanley",
+     "Simon Nemec"
+    ],
+    [
+     "Yan Kuznetsov",
+     "Zayne Parekh"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Yegor Sharangovich",
+     "Mikael Backlund",
+     "Matt Coronato"
+    ],
+    [
+     "Joel Farabee",
+     "Ryan Strome",
+     "Adam Klapka"
+    ],
+    [
+     "Matvei Gridin",
+     "Jonathan Castagna",
+     "Aydar Suniev"
+    ],
+    [
+     "Brennan Othmann",
+     "Sam Morton",
+     "Maxim Tsyplakov"
+    ]
+   ],
+   "goalies": [
+    "Dustin Wolf",
+    "Devin Cooley"
+   ],
+   "scratched": [
+    "Brayden Pachal"
+   ]
+  },
   "2026-11-25:CHI": {
    "article_updated": "2026-11-25T19:16:21.241Z",
    "defense": [
@@ -1346,7 +1393,7 @@
    ]
   },
   "2026-11-25:NJD": {
-   "article_updated": "2026-11-25T17:06:48.375Z",
+   "article_updated": "2026-11-26T21:31:33.072Z",
    "defense": [
     [
      "Luke Hughes",
@@ -1358,7 +1405,7 @@
     ],
     [
      "Declan Chisholm",
-     "Brenden Dillon"
+     "Vladislav Kolyachonok"
     ]
    ],
    "extra": [],
@@ -1389,8 +1436,7 @@
     "Jake Allen"
    ],
    "scratched": [
-    "Lenni Hameenaho",
-    "Vladislav Kolyachonok"
+    "Lenni Hameenaho"
    ]
   },
   "2026-11-25:NSH": {
@@ -2170,6 +2216,104 @@
      "G"
     ]
    ],
+   "CGY": [
+    [
+     "Mikael Backlund",
+     "C"
+    ],
+    [
+     "Jonathan Castagna",
+     "C"
+    ],
+    [
+     "Matt Coronato",
+     "R"
+    ],
+    [
+     "Joel Farabee",
+     "L"
+    ],
+    [
+     "Morgan Frost",
+     "C"
+    ],
+    [
+     "Matvei Gridin",
+     "R"
+    ],
+    [
+     "Jonathan Huberdeau",
+     "L"
+    ],
+    [
+     "Adam Klapka",
+     "R"
+    ],
+    [
+     "Brennan Othmann",
+     "L"
+    ],
+    [
+     "Martin Pospisil",
+     "C"
+    ],
+    [
+     "Yegor Sharangovich",
+     "C"
+    ],
+    [
+     "Ryan Strome",
+     "C"
+    ],
+    [
+     "Aydar Suniev",
+     "L"
+    ],
+    [
+     "Maxim Tsyplakov",
+     "R"
+    ],
+    [
+     "Kevin Bahl",
+     "D"
+    ],
+    [
+     "Joel Hanley",
+     "D"
+    ],
+    [
+     "Yan Kuznetsov",
+     "D"
+    ],
+    [
+     "Jake Middleton",
+     "D"
+    ],
+    [
+     "Simon Nemec",
+     "D"
+    ],
+    [
+     "Brayden Pachal",
+     "D"
+    ],
+    [
+     "Zayne Parekh",
+     "D"
+    ],
+    [
+     "Zach Whitecloud",
+     "D"
+    ],
+    [
+     "Devin Cooley",
+     "G"
+    ],
+    [
+     "Dustin Wolf",
+     "G"
+    ]
+   ],
    "DAL": [
     [
      "Jamie Benn",
@@ -2273,6 +2417,100 @@
     ],
     [
      "Jake Oettinger",
+     "G"
+    ]
+   ],
+   "NJD": [
+    [
+     "Jesper Boqvist",
+     "C"
+    ],
+    [
+     "Jesper Bratt",
+     "L"
+    ],
+    [
+     "Connor Brown",
+     "R"
+    ],
+    [
+     "Luke Evangelista",
+     "R"
+    ],
+    [
+     "Cody Glass",
+     "C"
+    ],
+    [
+     "Arseny Gritsyuk",
+     "R"
+    ],
+    [
+     "Lenni Hameenaho",
+     "R"
+    ],
+    [
+     "Nico Hischier",
+     "C"
+    ],
+    [
+     "Jack Hughes",
+     "C"
+    ],
+    [
+     "Amadeus Lombardi",
+     "C"
+    ],
+    [
+     "Anthony Mantha",
+     "R"
+    ],
+    [
+     "Timo Meier",
+     "R"
+    ],
+    [
+     "Stefan Noesen",
+     "R"
+    ],
+    [
+     "Evan Rodrigues",
+     "C"
+    ],
+    [
+     "Declan Chisholm",
+     "D"
+    ],
+    [
+     "Brenden Dillon",
+     "D"
+    ],
+    [
+     "Dougie Hamilton",
+     "D"
+    ],
+    [
+     "Luke Hughes",
+     "D"
+    ],
+    [
+     "Johnathan Kovacevic",
+     "D"
+    ],
+    [
+     "Brett Pesce",
+     "D"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "D"
+    ],
+    [
+     "Jake Allen",
+     "G"
+    ],
+    [
+     "Connor Hellebuyck",
      "G"
     ]
    ],
