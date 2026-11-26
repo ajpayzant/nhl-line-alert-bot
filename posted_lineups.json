@@ -4683,6 +4683,50 @@
   }
  },
  "2026-11-26": {
+  "NSH": {
+   "nhlcom": {
+    "at": "2026-11-26T14:10:41+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Annunen",
+    "info_at": "2026-11-26T14:09:20+00:00"
+   }
+  },
   "OTT": {
    "nhlcom": {
     "at": "2026-11-26T13:54:30+00:00",
@@ -4769,6 +4813,50 @@
     ],
     "goalie": "?Hildeby",
     "info_at": "2026-11-26T13:52:04+00:00"
+   }
+  },
+  "UTA": {
+   "nhlcom": {
+    "at": "2026-11-26T14:10:41+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Jones",
+      "DeSimone"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Keller",
+      "Trocheck",
+      "Crouse"
+     ],
+     [
+      "Lee",
+      "Cooley",
+      "Guenther"
+     ],
+     [
+      "McBain",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Cossa",
+    "info_at": "2026-11-26T14:09:20+00:00"
    }
   }
  }

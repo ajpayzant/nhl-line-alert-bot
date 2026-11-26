@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-26T13:57:41.164Z",
+ "article_updated": "2026-11-26T14:09:20.554Z",
  "lineups": {
   "2026-11-23:ANA": {
    "article_updated": "2026-11-23T20:43:44.275Z",
@@ -1393,7 +1393,7 @@
    ]
   },
   "2026-11-25:NSH": {
-   "article_updated": "2026-11-25T18:10:13.833Z",
+   "article_updated": "2026-11-26T14:09:20.554Z",
    "defense": [
     [
      "Roman Josi",
@@ -1432,8 +1432,8 @@
     ]
    ],
    "goalies": [
-    "Juuse Saros",
-    "Justus Annunen"
+    "Justus Annunen",
+    "Juuse Saros"
    ],
    "scratched": [
     "Daemon Hunt",
@@ -1827,7 +1827,7 @@
    ]
   },
   "2026-11-25:UTA": {
-   "article_updated": "2026-11-25T18:51:21.888Z",
+   "article_updated": "2026-11-26T14:09:20.554Z",
    "defense": [
     [
      "Mikhail Sergachev",
@@ -1845,17 +1845,17 @@
    "extra": [],
    "forwards": [
     [
-     "Dylan Guenther",
-     "Jack McBain",
-     "Clayton Keller"
-    ],
-    [
-     "Logan Cooley",
+     "Clayton Keller",
      "Vincent Trocheck",
      "Lawson Crouse"
     ],
     [
      "Anders Lee",
+     "Logan Cooley",
+     "Dylan Guenther"
+    ],
+    [
+     "Jack McBain",
      "Barrett Hayton",
      "Kailer Yamamoto"
     ],
@@ -1866,8 +1866,8 @@
     ]
    ],
    "goalies": [
-    "Karel Vejmelka",
-    "Sebastian Cossa"
+    "Sebastian Cossa",
+    "Karel Vejmelka"
    ],
    "scratched": [
     "Ben McCartney",
@@ -2022,6 +2022,104 @@
  "rosters": {
   "date": "2026-11-26",
   "teams": {
+   "NSH": [
+    [
+     "Mavrik Bourque",
+     "C"
+    ],
+    [
+     "Ross Colton",
+     "C"
+    ],
+    [
+     "Jack Drury",
+     "C"
+    ],
+    [
+     "Adam Edstrom",
+     "C"
+    ],
+    [
+     "Filip Forsberg",
+     "L"
+    ],
+    [
+     "Nils Hoglander",
+     "L"
+    ],
+    [
+     "Alexander Kerfoot",
+     "C"
+    ],
+    [
+     "Jonathan Marchessault",
+     "C"
+    ],
+    [
+     "Ryan O'Reilly",
+     "C"
+    ],
+    [
+     "Vitali Pinchuk",
+     "C"
+    ],
+    [
+     "Reid Schaefer",
+     "L"
+    ],
+    [
+     "Steven Stamkos",
+     "C"
+    ],
+    [
+     "Shane Wright",
+     "C"
+    ],
+    [
+     "Nicolas Hague",
+     "D"
+    ],
+    [
+     "Daemon Hunt",
+     "D"
+    ],
+    [
+     "Roman Josi",
+     "D"
+    ],
+    [
+     "Ilya Lyubushkin",
+     "D"
+    ],
+    [
+     "Nick Perbix",
+     "D"
+    ],
+    [
+     "Brady Skjei",
+     "D"
+    ],
+    [
+     "Jayden Struble",
+     "D"
+    ],
+    [
+     "William Trudeau",
+     "D"
+    ],
+    [
+     "Adam Wilsby",
+     "D"
+    ],
+    [
+     "Justus Annunen",
+     "G"
+    ],
+    [
+     "Juuse Saros",
+     "G"
+    ]
+   ],
    "OTT": [
     [
      "Michael Amadio",
@@ -2219,6 +2317,120 @@
     ],
     [
      "Andrei Vasilevskiy",
+     "G"
+    ]
+   ],
+   "UTA": [
+    [
+     "Daniil But",
+     "L"
+    ],
+    [
+     "Michael Carcone",
+     "L"
+    ],
+    [
+     "Logan Cooley",
+     "C"
+    ],
+    [
+     "Lawson Crouse",
+     "L"
+    ],
+    [
+     "Dylan Guenther",
+     "R"
+    ],
+    [
+     "Barrett Hayton",
+     "C"
+    ],
+    [
+     "Clayton Keller",
+     "R"
+    ],
+    [
+     "Anders Lee",
+     "L"
+    ],
+    [
+     "Jack McBain",
+     "C"
+    ],
+    [
+     "Ben McCartney",
+     "L"
+    ],
+    [
+     "Liam O'Brien",
+     "C"
+    ],
+    [
+     "Nick Schmaltz",
+     "C"
+    ],
+    [
+     "Kevin Stenlund",
+     "C"
+    ],
+    [
+     "Vincent Trocheck",
+     "C"
+    ],
+    [
+     "Kailer Yamamoto",
+     "R"
+    ],
+    [
+     "Gregor Biber",
+     "D"
+    ],
+    [
+     "Nick DeSimone",
+     "D"
+    ],
+    [
+     "Artem Duda",
+     "D"
+    ],
+    [
+     "Zac Jones",
+     "D"
+    ],
+    [
+     "Maveric Lamoureux",
+     "D"
+    ],
+    [
+     "John Marino",
+     "D"
+    ],
+    [
+     "Andrew Peeke",
+     "D"
+    ],
+    [
+     "Nate Schmidt",
+     "D"
+    ],
+    [
+     "Mikhail Sergachev",
+     "D"
+    ],
+    [
+     "Dmitri Simashev",
+     "D"
+    ],
+    [
+     "MacKenzie Weegar",
+     "D"
+    ],
+    [
+     "Sebastian Cossa",
+     "G"
+    ],
+    [
+     "Karel Vejmelka",
      "G"
     ]
    ]
