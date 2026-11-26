@@ -4727,6 +4727,48 @@
     "info_at": "2026-11-26T18:52:05+00:00",
     "ref": "2126026222442611072",
     "via": "@ZachCav"
+   },
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Helleson"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Moore"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Gauthier",
+      "McQueen",
+      "Sennecke"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Myatovic"
+     ]
+    ],
+    "goalie": "Brossoit",
+    "info_at": "2026-11-26T21:55:27+00:00"
    }
   },
   "CBJ": {
@@ -4848,6 +4890,50 @@
     "info_at": "2026-11-26T21:31:33+00:00"
    }
   },
+  "CHI": {
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greene",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Commesso",
+    "info_at": "2026-11-26T21:55:27+00:00"
+   }
+  },
   "DET": {
    "nhlcom": {
     "at": "2026-11-26T21:43:26+00:00",
@@ -4890,6 +4976,50 @@
     ],
     "goalie": "Gibson",
     "info_at": "2026-11-26T21:43:20+00:00"
+   }
+  },
+  "LAK": {
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "Anderson",
+      "Doughty"
+     ],
+     [
+      "Dumoulin",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Ceci"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Panarin",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Moore",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Lee",
+      "Turcotte",
+      "Perry"
+     ]
+    ],
+    "goalie": "Kuemper",
+    "info_at": "2026-11-26T21:55:27+00:00"
    }
   },
   "NJD": {
@@ -4980,6 +5110,50 @@
     "info_at": "2026-11-26T14:09:20+00:00"
    }
   },
+  "NYR": {
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Rempe"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Garand",
+    "info_at": "2026-11-26T21:55:27+00:00"
+   }
+  },
   "OTT": {
    "nhlcom": {
     "at": "2026-11-26T13:54:30+00:00",
@@ -5066,6 +5240,50 @@
     ],
     "goalie": "Vladar",
     "info_at": "2026-11-26T21:43:20+00:00"
+   }
+  },
+  "SJS": {
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Pohlkamp"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Kesselring"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Gaudette"
+     ]
+    ],
+    "goalie": "Askarov",
+    "info_at": "2026-11-26T21:55:27+00:00"
    }
   },
   "STL": {
@@ -5332,6 +5550,48 @@
     "info_at": "2026-11-26T19:34:49+00:00",
     "ref": "2126036974196986154",
     "via": "@h_kirk6"
+   },
+   "nhlcom": {
+    "at": "2026-11-26T21:57:28+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "Hart",
+    "info_at": "2026-11-26T21:55:27+00:00"
    }
   }
  }
