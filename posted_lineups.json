@@ -5069,6 +5069,52 @@
     "goalie": "Cossa",
     "info_at": "2026-11-26T14:09:20+00:00"
    }
+  },
+  "VGK": {
+   "gameday": {
+    "at": "2026-11-26T19:41:21+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-26T19:34:49+00:00",
+    "ref": "2126036974196986154",
+    "via": "@h_kirk6"
+   }
   }
  }
 }
