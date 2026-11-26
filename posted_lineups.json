@@ -4279,6 +4279,50 @@
     "ref": "2125271466392326629",
     "via": "Robert Tiffin"
    },
+   "gameday": {
+    "at": "2026-11-26T00:47:26+00:00",
+    "defense": [
+     [
+      "Lindell",
+      "Heiskanen"
+     ],
+     [
+      "Harley",
+      "Lundkvist"
+     ],
+     [
+      "Burroughs",
+      "Myers"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Steel",
+      "Hintz",
+      "Rantanen"
+     ],
+     [
+      "Robertson",
+      "Johnston",
+      "Hyry"
+     ],
+     [
+      "Seguin",
+      "Hryckowian",
+      "Benn"
+     ],
+     [
+      "Kiviranta",
+      "Faksa",
+      "Perron"
+     ]
+    ],
+    "goalie": "Oettinger",
+    "info_at": "2026-11-26T00:42:23+00:00",
+    "ref": "2125751990244483375",
+    "via": "@RobertTiffin"
+   },
    "nhlcom": {
     "at": "2026-11-25T18:11:22+00:00",
     "defense": [
