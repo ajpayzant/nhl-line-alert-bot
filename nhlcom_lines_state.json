@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-26T15:31:10.062Z",
+ "article_updated": "2026-11-26T15:49:06.505Z",
  "lineups": {
   "2026-11-23:ANA": {
    "article_updated": "2026-11-23T20:43:44.275Z",
@@ -1149,7 +1149,8 @@
     "Casey DeSmith"
    ],
    "scratched": [
-    "Colin Blackwell"
+    "Colin Blackwell",
+    "Trey Taylor"
    ]
   },
   "2026-11-25:DET": {
@@ -1732,27 +1733,27 @@
    ]
   },
   "2026-11-25:STL": {
-   "article_updated": "2026-11-25T16:45:37.687Z",
+   "article_updated": "2026-11-26T15:49:06.505Z",
    "defense": [
     [
      "Philip Broberg",
      "Logan Mailloux"
     ],
     [
-     "Justin Barron",
+     "Cam Fowler",
      "Colton Parayko"
     ],
     [
-     "Cam Fowler",
+     "Justin Barron",
      "Adam Jiricek"
     ]
    ],
    "extra": [],
    "forwards": [
     [
-     "Dylan Holloway",
+     "Jake Neighbours",
      "Robert Thomas",
-     "Jake Neighbours"
+     "Dylan Holloway"
     ],
     [
      "Otto Stenberg",
@@ -2169,6 +2170,112 @@
      "G"
     ]
    ],
+   "DAL": [
+    [
+     "Jamie Benn",
+     "L"
+    ],
+    [
+     "Colin Blackwell",
+     "C"
+    ],
+    [
+     "Oskar Bäck",
+     "C"
+    ],
+    [
+     "Matt Duchene",
+     "C"
+    ],
+    [
+     "Radek Faksa",
+     "C"
+    ],
+    [
+     "Roope Hintz",
+     "C"
+    ],
+    [
+     "Justin Hryckowian",
+     "C"
+    ],
+    [
+     "Arttu Hyry",
+     "R"
+    ],
+    [
+     "Wyatt Johnston",
+     "C"
+    ],
+    [
+     "Joel Kiviranta",
+     "L"
+    ],
+    [
+     "David Perron",
+     "L"
+    ],
+    [
+     "Mikko Rantanen",
+     "R"
+    ],
+    [
+     "Jason Robertson",
+     "L"
+    ],
+    [
+     "Tyler Seguin",
+     "C"
+    ],
+    [
+     "Sam Steel",
+     "C"
+    ],
+    [
+     "Lian Bichsel",
+     "D"
+    ],
+    [
+     "Kyle Burroughs",
+     "D"
+    ],
+    [
+     "Kyle Capobianco",
+     "D"
+    ],
+    [
+     "Thomas Harley",
+     "D"
+    ],
+    [
+     "Miro Heiskanen",
+     "D"
+    ],
+    [
+     "Esa Lindell",
+     "D"
+    ],
+    [
+     "Nils Lundkvist",
+     "D"
+    ],
+    [
+     "Tyler Myers",
+     "D"
+    ],
+    [
+     "Trey Taylor",
+     "D"
+    ],
+    [
+     "Casey DeSmith",
+     "G"
+    ],
+    [
+     "Jake Oettinger",
+     "G"
+    ]
+   ],
    "NSH": [
     [
      "Mavrik Bourque",
@@ -2366,6 +2473,116 @@
     ],
     [
      "Linus Ullmark",
+     "G"
+    ]
+   ],
+   "STL": [
+    [
+     "Jonatan Berggren",
+     "R"
+    ],
+    [
+     "Pavel Buchnevich",
+     "L"
+    ],
+    [
+     "Dillon Dube",
+     "C"
+    ],
+    [
+     "Dalibor Dvorsky",
+     "R"
+    ],
+    [
+     "Dylan Holloway",
+     "L"
+    ],
+    [
+     "Ross Johnston",
+     "L"
+    ],
+    [
+     "Aleksanteri Kaskimaki",
+     "C"
+    ],
+    [
+     "Connor McMichael",
+     "L"
+    ],
+    [
+     "Mason McTavish",
+     "C"
+    ],
+    [
+     "Jake Neighbours",
+     "L"
+    ],
+    [
+     "Jimmy Snuggerud",
+     "R"
+    ],
+    [
+     "Otto Stenberg",
+     "C"
+    ],
+    [
+     "Pius Suter",
+     "C"
+    ],
+    [
+     "Robert Thomas",
+     "C"
+    ],
+    [
+     "Alexey Toropchenko",
+     "R"
+    ],
+    [
+     "Nathan Walker",
+     "L"
+    ],
+    [
+     "Justin Barron",
+     "D"
+    ],
+    [
+     "Philip Broberg",
+     "D"
+    ],
+    [
+     "Brandon Carlo",
+     "D"
+    ],
+    [
+     "Cam Fowler",
+     "D"
+    ],
+    [
+     "Adam Jiricek",
+     "D"
+    ],
+    [
+     "Logan Mailloux",
+     "D"
+    ],
+    [
+     "Colton Parayko",
+     "D"
+    ],
+    [
+     "Calle Rosen",
+     "D"
+    ],
+    [
+     "Tyler Tucker",
+     "D"
+    ],
+    [
+     "Jordan Binnington",
+     "G"
+    ],
+    [
+     "Joel Hofer",
      "G"
     ]
    ],

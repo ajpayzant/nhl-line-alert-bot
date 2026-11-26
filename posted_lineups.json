@@ -4771,6 +4771,50 @@
     "info_at": "2026-11-26T13:52:04+00:00"
    }
   },
+  "STL": {
+   "nhlcom": {
+    "at": "2026-11-26T15:49:28+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Fowler",
+      "Parayko"
+     ],
+     [
+      "Barron",
+      "Jiricek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Holloway"
+     ],
+     [
+      "Stenberg",
+      "McTavish",
+      "Dvorsky"
+     ],
+     [
+      "Kaskimaki",
+      "Suter",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Walker",
+      "Johnston"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-26T15:49:06+00:00"
+   }
+  },
   "TBL": {
    "nhlcom": {
     "at": "2026-11-26T13:54:30+00:00",
