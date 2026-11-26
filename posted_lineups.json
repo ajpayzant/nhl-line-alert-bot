@@ -4860,6 +4860,50 @@
    }
   },
   "TOR": {
+   "gameday": {
+    "at": "2026-11-26T17:16:26+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Marchenko",
+      "Matthews",
+      "Paul"
+     ],
+     [
+      "Tavares",
+      "Sissons",
+      "McKenna"
+     ],
+     [
+      "Cowan",
+      "Räty",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "Joshua"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-26T17:12:02+00:00",
+    "ref": "2126001043750400128",
+    "via": "@davidalter"
+   },
    "nhlcom": {
     "at": "2026-11-26T15:32:26+00:00",
     "defense": [
