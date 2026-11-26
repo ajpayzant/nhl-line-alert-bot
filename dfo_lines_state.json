@@ -157,7 +157,6 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
-      "Bertuzzi",
       "Cole",
       "Del Mastro",
       "Donato",
@@ -169,6 +168,7 @@
       "Kantserov",
       "Korchinski",
       "Levshunov",
+      "Mangiapane",
       "Moore",
       "Nazar",
       "Rinzel",
@@ -176,7 +176,7 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Donato\", \"Kantserov\", \"Bertuzzi\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Greene\", \"Frondell\", \"Teravainen\"], [\"Smith\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Bertuzzi\", \"Nazar\", \"Kantserov\", \"Rinzel\", \"Kane\"]]",
+    "signature": "[[[\"Donato\", \"Kantserov\", \"Frondell\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Greene\", \"Teravainen\"], [\"Smith\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Kane\"]]",
     "source": "https://x.com/MarkLazerus/status/2125339710214299959",
     "updated_at": "2026-11-25T00:42:28.256Z"
   },
