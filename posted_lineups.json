@@ -4760,6 +4760,48 @@
     "info_at": "2026-11-26T17:47:48+00:00",
     "ref": "2126010044315816377",
     "via": "@MinkePxP"
+   },
+   "nhlcom": {
+    "at": "2026-11-26T21:43:26+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Fabbro"
+     ],
+     [
+      "Christiansen",
+      "Gudbranson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Nichushkin",
+      "Fantilli",
+      "Coyle"
+     ],
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Monahan",
+      "Sillinger",
+      "Williams"
+     ],
+     [
+      "Lomberg",
+      "Lundeström",
+      "Pyyhtia"
+     ]
+    ],
+    "goalie": "Greaves",
+    "info_at": "2026-11-26T21:43:20+00:00"
    }
   },
   "CGY": {
@@ -4804,6 +4846,50 @@
     ],
     "goalie": "Wolf",
     "info_at": "2026-11-26T21:31:33+00:00"
+   }
+  },
+  "DET": {
+   "nhlcom": {
+    "at": "2026-11-26T21:43:26+00:00",
+    "defense": [
+     [
+      "Chiarot",
+      "Seider"
+     ],
+     [
+      "Johansson",
+      "Faulk"
+     ],
+     [
+      "Englund",
+      "Johansson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrincat",
+      "Copp",
+      "Raymond"
+     ],
+     [
+      "Kasper",
+      "Finnie",
+      "Arvidsson"
+     ],
+     [
+      "Brandsegg-Nygård",
+      "Dach",
+      "Compher"
+     ],
+     [
+      "Mazur",
+      "Rasmussen",
+      "Kolesar"
+     ]
+    ],
+    "goalie": "Gibson",
+    "info_at": "2026-11-26T21:43:20+00:00"
    }
   },
   "NJD": {
@@ -4936,6 +5022,50 @@
     ],
     "goalie": "Ersson",
     "info_at": "2026-11-26T13:52:04+00:00"
+   }
+  },
+  "PHI": {
+   "nhlcom": {
+    "at": "2026-11-26T21:43:26+00:00",
+    "defense": [
+     [
+      "Sanheim",
+      "Ristolainen"
+     ],
+     [
+      "York",
+      "Drysdale"
+     ],
+     [
+      "Seeler",
+      "Bonk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Foerster",
+      "Dvorak",
+      "Konecny"
+     ],
+     [
+      "Tippett",
+      "Barkey",
+      "Martone"
+     ],
+     [
+      "Knuble",
+      "Cates",
+      "Michkov"
+     ],
+     [
+      "Zegras",
+      "Couturier",
+      "Acciari"
+     ]
+    ],
+    "goalie": "Vladar",
+    "info_at": "2026-11-26T21:43:20+00:00"
    }
   },
   "STL": {
