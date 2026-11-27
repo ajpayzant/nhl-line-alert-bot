@@ -103,18 +103,18 @@
     "updated_at": "2026-11-26T14:27:57.505Z"
   },
   "CBJ": {
-    "goalie": "Talbot",
+    "goalie": "Greaves",
     "players": [
       "Christiansen",
       "Coyle",
       "Del Bel Belluz",
       "Fabbro",
       "Fantilli",
+      "Gudbranson",
       "Johnson",
       "Knies",
       "Lomberg",
       "Lundestrom",
-      "Mateychuk",
       "Monahan",
       "Nichushkin",
       "Provorov",
@@ -124,7 +124,7 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Monahan\", \"Sillinger\", \"Williams\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Mateychuk\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Monahan\", \"Sillinger\", \"Williams\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Gudbranson\"]], [\"Greaves\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
     "source": "https://x.com/minkepxp/status/2126007412410724564?s=46",
     "updated_at": "2026-11-27T02:19:11.246Z"
   },
