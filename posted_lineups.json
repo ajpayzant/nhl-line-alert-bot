@@ -5631,6 +5631,50 @@
    }
   },
   "STL": {
+   "gameday": {
+    "at": "2026-11-27T17:56:30+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Fowler",
+      "Parayko"
+     ],
+     [
+      "Barron",
+      "Jiricek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Holloway"
+     ],
+     [
+      "Stenberg",
+      "McTavish",
+      "McMichael"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Dvorsky"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-27T17:54:06+00:00",
+    "ref": "2126374017015885859",
+    "via": "@MDeFranks"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
