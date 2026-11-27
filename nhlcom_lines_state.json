@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T18:40:06.25Z",
+ "article_updated": "2026-11-27T19:30:20.061Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -1780,7 +1780,7 @@
    ]
   },
   "2026-11-27:CHI": {
-   "article_updated": "2026-11-27T14:01:47.165Z",
+   "article_updated": "2026-11-27T19:30:20.061Z",
    "defense": [
     [
      "Alex Vlasic",
@@ -1800,17 +1800,17 @@
     [
      "Oliver Moore",
      "Frank Nazar",
-     "Patrick Kane"
+     "Tyler Bertuzzi"
     ],
     [
      "Ryan Donato",
      "Roman Kantserov",
-     "Tyler Bertuzzi"
+     "Teuvo Teravainen"
     ],
     [
      "Ryan Greene",
      "Anton Frondell",
-     "Teuvo Teravainen"
+     "Andrew Mangiapane"
     ],
     [
      "Cole Smith",
@@ -1823,7 +1823,6 @@
     "Spencer Knight"
    ],
    "scratched": [
-    "Andrew Mangiapane",
     "Dominic Toninato"
    ]
   },

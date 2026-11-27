@@ -4658,7 +4658,7 @@
     "via": "Vinnie Parise"
    },
    "nhlcom": {
-    "at": "2026-11-27T14:04:25+00:00",
+    "at": "2026-11-27T19:31:29+00:00",
     "defense": [
      [
       "Vlasic",
@@ -4678,17 +4678,17 @@
      [
       "Moore",
       "Nazar",
-      "Kane"
+      "Bertuzzi"
      ],
      [
       "Donato",
       "Kantserov",
-      "Bertuzzi"
+      "Teravainen"
      ],
      [
       "Greene",
       "Frondell",
-      "Teravainen"
+      "Mangiapane"
      ],
      [
       "Smith",
@@ -4697,7 +4697,7 @@
      ]
     ],
     "goalie": "Commesso",
-    "info_at": "2026-11-27T14:01:47+00:00"
+    "info_at": "2026-11-27T19:30:20+00:00"
    }
   },
   "COL": {
@@ -5185,19 +5185,19 @@
   },
   "MTL": {
    "gameday": {
-    "at": "2026-11-27T19:27:18+00:00",
+    "at": "2026-11-27T19:31:27+00:00",
     "defense": [],
     "extra": [],
     "forwards": [
      [
       "Newhook",
       "Suzuki",
-      "Slafkovský"
+      "Demidov"
      ],
      [
       "Caufield",
       "Larkin",
-      "Demidov"
+      "Slafkovský"
      ],
      [
       "Bolduc",
@@ -5211,8 +5211,8 @@
      ]
     ],
     "goalie": "",
-    "info_at": "2026-11-27T19:25:47+00:00",
-    "ref": "2126397089840267590",
+    "info_at": "2026-11-27T19:30:35+00:00",
+    "ref": "2126398298219262191",
     "via": "@ArponBasu"
    }
   },
