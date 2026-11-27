@@ -4791,6 +4791,50 @@
    }
   },
   "NJD": {
+   "dfo": {
+    "at": "2026-11-27T17:45:42+00:00",
+    "defense": [
+     [
+      "Hughes",
+      "Pesce"
+     ],
+     [
+      "Siegenthaler",
+      "Hamilton"
+     ],
+     [
+      "?Silayev",
+      "?Kolyachonok"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Meier",
+      "Hughes",
+      "Brown"
+     ],
+     [
+      "Gritsyuk",
+      "Hischier",
+      "Bratt"
+     ],
+     [
+      "Noesen",
+      "Rodrigues",
+      "Evangelista"
+     ],
+     [
+      "Boqvist",
+      "Glass",
+      "Lombardi"
+     ]
+    ],
+    "goalie": "Allen",
+    "info_at": "2026-11-27T17:40:15+00:00",
+    "ref": "2126370530940928447",
+    "via": "Mike Morreale"
+   },
    "nhlcom": {
     "at": "2026-11-27T16:29:33+00:00",
     "defense": [
@@ -4835,6 +4879,50 @@
    }
   },
   "NSH": {
+   "dfo": {
+    "at": "2026-11-27T17:45:42+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-27T17:35:54+00:00",
+    "ref": "2126369436961562729",
+    "via": "Alex Daugherty"
+   },
    "gameday": {
     "at": "2026-11-27T17:41:27+00:00",
     "defense": [
@@ -5499,6 +5587,50 @@
    }
   },
   "TOR": {
+   "dfo": {
+    "at": "2026-11-27T17:45:41+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Paul",
+      "Matthews",
+      "Marchenko"
+     ],
+     [
+      "McKenna",
+      "Sissons",
+      "Tavares"
+     ],
+     [
+      "Cowan",
+      "Räty",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "MacEwen"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-27T17:38:52+00:00",
+    "ref": "2126370182159585655",
+    "via": "David Alter"
+   },
    "nhlcom": {
     "at": "2026-11-27T17:43:27+00:00",
     "defense": [
