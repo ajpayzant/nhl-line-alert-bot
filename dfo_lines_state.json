@@ -475,7 +475,7 @@
       "Lafreni\u00e8re",
       "Miller",
       "Morrow",
-      "Perreault",
+      "Parssinen",
       "Pettersson",
       "Raddysh",
       "Sasson",
@@ -483,9 +483,9 @@
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Cuylle\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Kartye\", \"Miller\", \"Perreault\"], [\"Tolvanen\", \"Sasson\", \"Raddysh\"], [\"Gawdin\", \"Laba\", \"Chmelar\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Lafreni\\u00e8re\", \"Miller\", \"Perreault\", \"Zibanejad\", \"Fox\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020387",
-    "updated_at": "2026-11-26T14:25:50.645Z"
+    "signature": "[[[\"Cuylle\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Kartye\", \"Miller\", \"Tolvanen\"], [\"Parssinen\", \"Sasson\", \"Raddysh\"], [\"Gawdin\", \"Laba\", \"Chmelar\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Kartye\", \"Miller\", \"Lafreni\\u00e8re\", \"Zibanejad\", \"Fox\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T02:25:30.722Z"
   },
   "OTT": {
     "goalie": "Ullmark",
