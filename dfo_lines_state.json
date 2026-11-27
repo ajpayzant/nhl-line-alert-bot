@@ -540,9 +540,10 @@
     "updated_at": "2026-11-26T14:52:53.394Z"
   },
   "PIT": {
-    "goalie": "Silovs",
+    "goalie": "Murashov",
     "players": [
-      "Brazeau",
+      "Calvert",
+      "Carlile",
       "Crosby",
       "Dewar",
       "Girard",
@@ -558,12 +559,11 @@
       "McGroarty",
       "Novak",
       "Rakell",
-      "Stastney",
       "van Riemsdyk"
     ],
-    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Hayes\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Brazeau\"]], [[\"Stastney\", \"Karlsson\"], [\"Girard\", \"Korczak\"], [\"van Riemsdyk\", \"Letang\"]], [\"Silovs\"], [\"Rakell\", \"Malkin\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020391",
-    "updated_at": "2026-11-26T14:34:52.118Z"
+    "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Hayes\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Calvert\"]], [[\"Korczak\", \"Karlsson\"], [\"Girard\", \"van Riemsdyk\"], [\"Carlile\", \"Letang\"]], [\"Murashov\"], [\"Rakell\", \"Malkin\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
+    "source": "https://x.com/king_jemison/status/2126355009872822626",
+    "updated_at": "2026-11-27T16:59:38.099Z"
   },
   "SEA": {
     "goalie": "Daccord",

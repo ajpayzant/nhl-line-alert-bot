@@ -5056,6 +5056,50 @@
    }
   },
   "PIT": {
+   "dfo": {
+    "at": "2026-11-27T17:05:42+00:00",
+    "defense": [
+     [
+      "Korczak",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Carlile",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Malkin",
+      "Crosby",
+      "Rakell"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Hayes"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "?Calvert"
+     ]
+    ],
+    "goalie": "Murashov",
+    "info_at": "2026-11-27T16:38:34+00:00",
+    "ref": "2126355009872822626",
+    "via": "@king_jemison"
+   },
    "gameday": {
     "at": "2026-11-27T16:56:28+00:00",
     "defense": [
