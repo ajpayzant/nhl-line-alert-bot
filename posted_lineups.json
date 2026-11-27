@@ -4258,6 +4258,51 @@
     "info_at": "2026-11-27T14:01:47+00:00"
    }
   },
+  "BUF": {
+   "nhlcom": {
+    "at": "2026-11-27T18:10:41+00:00",
+    "defense": [
+     [
+      "Dahlin",
+      "Samuelsson"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "extra": [
+     "Metsa"
+    ],
+    "forwards": [
+     [
+      "Doan",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Krebs",
+      "McLeod",
+      "Quinn"
+     ],
+     [
+      "Zucker",
+      "Norris",
+      "Danforth"
+     ],
+     [
+      "Malenstyn",
+      "Carrick"
+     ]
+    ],
+    "goalie": "Luukkonen",
+    "info_at": "2026-11-27T18:09:19+00:00"
+   }
+  },
   "CAR": {
    "dfo": {
     "at": "2026-11-27T16:40:39+00:00",
@@ -5537,6 +5582,48 @@
     "info_at": "2026-11-27T16:51:18+00:00",
     "ref": "2126358211372442053",
     "via": "@PensInsideScoop"
+   },
+   "nhlcom": {
+    "at": "2026-11-27T18:10:41+00:00",
+    "defense": [
+     [
+      "Korczak",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Carlile",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Malkin"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Hayes"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "?Calvert"
+     ]
+    ],
+    "goalie": "Murashov",
+    "info_at": "2026-11-27T18:09:19+00:00"
    }
   },
   "SEA": {

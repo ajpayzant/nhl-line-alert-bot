@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T18:01:10.021Z",
+ "article_updated": "2026-11-27T18:09:19.456Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -1637,6 +1637,54 @@
     "Michael Eyssimont"
    ]
   },
+  "2026-11-27:BUF": {
+   "article_updated": "2026-11-27T18:09:19.456Z",
+   "defense": [
+    [
+     "Rasmus Dahlin",
+     "Mattias Samuelsson"
+    ],
+    [
+     "Owen Power",
+     "Conor Timmins"
+    ],
+    [
+     "Olen Zellweger",
+     "Louis Crevier"
+    ]
+   ],
+   "extra": [
+    "Zach Metsa"
+   ],
+   "forwards": [
+    [
+     "Josh Doan",
+     "Jiri Kulich",
+     "Tage Thompson"
+    ],
+    [
+     "Peyton Krebs",
+     "Ryan McLeod",
+     "Jack Quinn"
+    ],
+    [
+     "Jason Zucker",
+     "Josh Norris",
+     "Justin Danforth"
+    ],
+    [
+     "Beck Malenstyn",
+     "Sam Carrick"
+    ]
+   ],
+   "goalies": [
+    "Ukko-Pekka Luukkonen",
+    "Alex Lyon"
+   ],
+   "scratched": [
+    "Colten Ellis"
+   ]
+  },
   "2026-11-27:CBJ": {
    "article_updated": "2026-11-27T14:01:47.165Z",
    "defense": [
@@ -2259,6 +2307,55 @@
     "David Jiricek",
     "Simon Benoit",
     "Michael Bunting"
+   ]
+  },
+  "2026-11-27:PIT": {
+   "article_updated": "2026-11-27T18:09:19.456Z",
+   "defense": [
+    [
+     "Kaedan Korczak",
+     "Erik Karlsson"
+    ],
+    [
+     "Samuel Girard",
+     "Trevor van Riemsdyk"
+    ],
+    [
+     "Declan Carlile",
+     "Kris Letang"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Rickard Rakell",
+     "Sidney Crosby",
+     "Evgeni Malkin"
+    ],
+    [
+     "Tommy Novak",
+     "Ben Kindel",
+     "Avery Hayes"
+    ],
+    [
+     "Rutger McGroarty",
+     "Hendrix Lapierre",
+     "Ville Koivunen"
+    ],
+    [
+     "Connor Dewar",
+     "Blake Lizotte",
+     "Atley Calvert"
+    ]
+   ],
+   "goalies": [
+    "Sergei Murashov",
+    "Arturs Silovs"
+   ],
+   "scratched": [
+    "Andrei Kuzmenko",
+    "Spencer Stastney",
+    "Justin Brazeau"
    ]
   },
   "2026-11-27:SJS": {
@@ -2903,6 +3000,112 @@
     ],
     [
      "Jeremy Swayman",
+     "G"
+    ]
+   ],
+   "BUF": [
+    [
+     "Zach Benson",
+     "L"
+    ],
+    [
+     "Sam Carrick",
+     "C"
+    ],
+    [
+     "Justin Danforth",
+     "R"
+    ],
+    [
+     "Josh Doan",
+     "R"
+    ],
+    [
+     "Konsta Helenius",
+     "C"
+    ],
+    [
+     "Tyson Kozak",
+     "C"
+    ],
+    [
+     "Peyton Krebs",
+     "C"
+    ],
+    [
+     "Jiri Kulich",
+     "C"
+    ],
+    [
+     "Beck Malenstyn",
+     "L"
+    ],
+    [
+     "Ryan McLeod",
+     "C"
+    ],
+    [
+     "Josh Norris",
+     "C"
+    ],
+    [
+     "Noah Ostlund",
+     "C"
+    ],
+    [
+     "Jack Quinn",
+     "R"
+    ],
+    [
+     "Tage Thompson",
+     "C"
+    ],
+    [
+     "Jason Zucker",
+     "L"
+    ],
+    [
+     "Louis Crevier",
+     "D"
+    ],
+    [
+     "Rasmus Dahlin",
+     "D"
+    ],
+    [
+     "Matt Grzelcyk",
+     "D"
+    ],
+    [
+     "Zach Metsa",
+     "D"
+    ],
+    [
+     "Owen Power",
+     "D"
+    ],
+    [
+     "Mattias Samuelsson",
+     "D"
+    ],
+    [
+     "Conor Timmins",
+     "D"
+    ],
+    [
+     "Olen Zellweger",
+     "D"
+    ],
+    [
+     "Colten Ellis",
+     "G"
+    ],
+    [
+     "Ukko-Pekka Luukkonen",
+     "G"
+    ],
+    [
+     "Alex Lyon",
      "G"
     ]
    ],
@@ -4213,6 +4416,116 @@
     ],
     [
      "Joseph Woll",
+     "G"
+    ]
+   ],
+   "PIT": [
+    [
+     "Justin Brazeau",
+     "R"
+    ],
+    [
+     "Atley Calvert",
+     "C"
+    ],
+    [
+     "Egor Chinakhov",
+     "R"
+    ],
+    [
+     "Sidney Crosby",
+     "C"
+    ],
+    [
+     "Connor Dewar",
+     "C"
+    ],
+    [
+     "Avery Hayes",
+     "R"
+    ],
+    [
+     "Ben Kindel",
+     "C"
+    ],
+    [
+     "Ville Koivunen",
+     "R"
+    ],
+    [
+     "Andrei Kuzmenko",
+     "L"
+    ],
+    [
+     "Hendrix Lapierre",
+     "C"
+    ],
+    [
+     "Blake Lizotte",
+     "C"
+    ],
+    [
+     "Evgeni Malkin",
+     "C"
+    ],
+    [
+     "Rutger McGroarty",
+     "R"
+    ],
+    [
+     "Tommy Novak",
+     "C"
+    ],
+    [
+     "Rickard Rakell",
+     "R"
+    ],
+    [
+     "Nick Robertson",
+     "L"
+    ],
+    [
+     "Bryan Rust",
+     "R"
+    ],
+    [
+     "Elmer Soderblom",
+     "L"
+    ],
+    [
+     "Declan Carlile",
+     "D"
+    ],
+    [
+     "Samuel Girard",
+     "D"
+    ],
+    [
+     "Erik Karlsson",
+     "D"
+    ],
+    [
+     "Kaedan Korczak",
+     "D"
+    ],
+    [
+     "Kris Letang",
+     "D"
+    ],
+    [
+     "Spencer Stastney",
+     "D"
+    ],
+    [
+     "Trevor van Riemsdyk",
+     "D"
+    ],
+    [
+     "Sergei Murashov",
+     "G"
+    ],
+    [
+     "Arturs Silovs",
      "G"
     ]
    ],
