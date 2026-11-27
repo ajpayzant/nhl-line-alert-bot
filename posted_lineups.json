@@ -5375,6 +5375,50 @@
    }
   },
   "TOR": {
+   "dfo": {
+    "at": "2026-11-27T01:55:36+00:00",
+    "defense": [
+     [
+      "McCabe",
+      "Raddysh"
+     ],
+     [
+      "Ekman-Larsson",
+      "Tanev"
+     ],
+     [
+      "Rielly",
+      "Stecher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Marchenko",
+      "Matthews",
+      "Paul"
+     ],
+     [
+      "Tavares",
+      "Sissons",
+      "McKenna"
+     ],
+     [
+      "Cowan",
+      "Räty",
+      "Nylander"
+     ],
+     [
+      "Duhaime",
+      "Blueger",
+      "Joshua"
+     ]
+    ],
+    "goalie": "Stolarz",
+    "info_at": "2026-11-26T17:05:23+00:00",
+    "ref": "2125999371208761725",
+    "via": "David Alter"
+   },
    "gameday": {
     "at": "2026-11-26T17:16:26+00:00",
     "defense": [
