@@ -157,6 +157,7 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
+      "Bertuzzi",
       "Cole",
       "Del Mastro",
       "Donato",
@@ -168,7 +169,6 @@
       "Kantserov",
       "Korchinski",
       "Levshunov",
-      "Mangiapane",
       "Moore",
       "Nazar",
       "Rinzel",
@@ -176,9 +176,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Donato\", \"Kantserov\", \"Frondell\"], [\"Moore\", \"Nazar\", \"Kane\"], [\"Mangiapane\", \"Greene\", \"Teravainen\"], [\"Smith\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Del Mastro\", \"Levshunov\"], [\"Korchinski\", \"Cole\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Kane\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020399",
-    "updated_at": "2026-11-27T18:19:38.380Z"
+    "signature": "[[[\"Moore\", \"Nazar\", \"Kane\"], [\"Donato\", \"Kantserov\", \"Bertuzzi\"], [\"Greene\", \"Frondell\", \"Teravainen\"], [\"Smith\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Bertuzzi\", \"Rinzel\", \"Kane\"]]",
+    "source": "https://thehockeynews.com/nhl/chicago-blackhawks/latest-news/blackhawks-vs-rangers-projected-lineup-how-to-watch-more-ahead-of-game-26",
+    "updated_at": "2026-11-27T18:22:41.525Z"
   },
   "COL": {
     "goalie": "Blackwood",
@@ -305,8 +305,8 @@
       "Vilmanis"
     ],
     "signature": "[[[\"Verhaeghe\", \"Barkov\", \"Reinhart\"], [\"Tkachuk\", \"Bennett\", \"Tkachuk\"], [\"Luostarinen\", \"Lundell\", \"Marchand\"], [\"Hathaway\", \"Eller\", \"Vilmanis\"]], [[\"Forsling\", \"Ekblad\"], [\"Mikkola\", \"Jones\"], [\"Kulikov\", \"Gudas\"]], [\"Markstrom\"], [\"Tkachuk\", \"Reinhart\", \"Verhaeghe\", \"Jones\", \"Tkachuk\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020389",
-    "updated_at": "2026-11-26T14:30:39.916Z"
+    "source": "https://x.com/JamesonCoop/status/2126367217407205578",
+    "updated_at": "2026-11-27T18:21:17.597Z"
   },
   "LAK": {
     "goalie": "Kuemper",
@@ -331,8 +331,8 @@
       "Zuccarello"
     ],
     "signature": "[[[\"Panarin\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Turcotte\", \"Perry\"]], [[\"Anderson\", \"Doughty\"], [\"Dumoulin\", \"Clarke\"], [\"Edmundson\", \"Ceci\"]], [\"Kuemper\"], [\"Kempe\", \"Byfield\", \"Laferriere\", \"Panarin\", \"Clarke\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020379",
-    "updated_at": "2026-11-24T16:23:44.848Z"
+    "source": "https://lakingsinsider.com/2026/11/27/11-27-preview-freeway-faceoff-implications-no-morning-skate-kuempers-road-performance-laviolette-on-kirsanov/",
+    "updated_at": "2026-11-27T18:21:45.249Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
@@ -587,9 +587,9 @@
       "Winterton",
       "Wood"
     ],
-    "signature": "[[[\"McMann\", \"Catton\", \"Eberle\"], [\"Kakko\", \"Beniers\", \"Samoskevich\"], [\"Stephenson\", \"Gaudreau\", \"Winterton\"], [\"Meyers\", \"Wood\", \"Melanson\"]], [[\"Dunn\", \"Larsson\"], [\"Evans\", \"Montour\"], [\"Lindgren\", \"Mahura\"]], [\"Daccord\"], [\"Eberle\", \"Beniers\", \"McMann\", \"Stephenson\", \"Dunn\"]]",
-    "source": "https://www.nhl.com/news/seattle-kraken-at-edmonton-oilers-game-preview-projected-lines-112726",
-    "updated_at": "2026-11-27T13:39:19.367Z"
+    "signature": "[[[\"Stephenson\", \"Catton\", \"Eberle\"], [\"Kakko\", \"Beniers\", \"Samoskevich\"], [\"McMann\", \"Gaudreau\", \"Wood\"], [\"Winterton\", \"Meyers\", \"Melanson\"]], [[\"Dunn\", \"Larsson\"], [\"Evans\", \"Montour\"], [\"Lindgren\", \"Mahura\"]], [\"Daccord\"], [\"Eberle\", \"Beniers\", \"McMann\", \"Stephenson\", \"Dunn\"]]",
+    "source": "https://x.com/Benton_Mike/status/2126369022295851327",
+    "updated_at": "2026-11-27T18:20:56.636Z"
   },
   "SJS": {
     "goalie": "Askarov",

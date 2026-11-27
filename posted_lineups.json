@@ -4614,6 +4614,49 @@
    }
   },
   "CHI": {
+   "dfo": {
+    "at": "2026-11-27T18:25:38+00:00",
+    "defense": [
+     [
+      "Vlasic",
+      "Rinzel"
+     ],
+     [
+      "Cole",
+      "Levshunov"
+     ],
+     [
+      "Korchinski",
+      "Del Mastro"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Moore",
+      "Nazar",
+      "Kane"
+     ],
+     [
+      "Donato",
+      "Kantserov",
+      "Bertuzzi"
+     ],
+     [
+      "Greene",
+      "Frondell",
+      "Teravainen"
+     ],
+     [
+      "Smith",
+      "Glendening",
+      "Greenway"
+     ]
+    ],
+    "goalie": "Knight",
+    "info_at": "2026-11-27T18:22:41+00:00",
+    "via": "Vinnie Parise"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -4836,6 +4879,50 @@
    }
   },
   "FLA": {
+   "dfo": {
+    "at": "2026-11-27T18:25:37+00:00",
+    "defense": [
+     [
+      "Forsling",
+      "Ekblad"
+     ],
+     [
+      "Mikkola",
+      "Jones"
+     ],
+     [
+      "Kulikov",
+      "Gudas"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Verhaeghe",
+      "Barkov",
+      "Reinhart"
+     ],
+     [
+      "Tkachuk",
+      "Bennett",
+      "Tkachuk"
+     ],
+     [
+      "Luostarinen",
+      "Lundell",
+      "Marchand"
+     ],
+     [
+      "Hathaway",
+      "Eller",
+      "Vilmanis"
+     ]
+    ],
+    "goalie": "Markstrom",
+    "info_at": "2026-11-27T17:27:05+00:00",
+    "ref": "2126367217407205578",
+    "via": "Jameson Olive"
+   },
    "nhlcom": {
     "at": "2026-11-27T17:35:36+00:00",
     "defense": [
@@ -4880,6 +4967,49 @@
    }
   },
   "LAK": {
+   "dfo": {
+    "at": "2026-11-27T18:25:37+00:00",
+    "defense": [
+     [
+      "Anderson",
+      "Doughty"
+     ],
+     [
+      "Dumoulin",
+      "Clarke"
+     ],
+     [
+      "Edmundson",
+      "Ceci"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Panarin",
+      "Laferriere",
+      "Kempe"
+     ],
+     [
+      "Fiala",
+      "Byfield",
+      "Zuccarello"
+     ],
+     [
+      "Moore",
+      "Haula",
+      "Armia"
+     ],
+     [
+      "Lee",
+      "Turcotte",
+      "Perry"
+     ]
+    ],
+    "goalie": "Kuemper",
+    "info_at": "2026-11-27T18:21:45+00:00",
+    "via": "Zach Dooley"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -5628,7 +5758,7 @@
   },
   "SEA": {
    "dfo": {
-    "at": "2026-11-27T13:40:38+00:00",
+    "at": "2026-11-27T18:25:37+00:00",
     "defense": [
      [
       "Dunn",
@@ -5646,7 +5776,7 @@
     "extra": [],
     "forwards": [
      [
-      "McMann",
+      "Stephenson",
       "Catton",
       "Eberle"
      ],
@@ -5656,19 +5786,20 @@
       "Samoskevich"
      ],
      [
-      "Stephenson",
+      "McMann",
       "Gaudreau",
-      "Winterton"
+      "Wood"
      ],
      [
+      "Winterton",
       "Meyers",
-      "Wood",
       "Melanson"
      ]
     ],
     "goalie": "Daccord",
-    "info_at": "2026-11-27T13:39:19+00:00",
-    "via": "Geoff Baker"
+    "info_at": "2026-11-27T17:34:15+00:00",
+    "ref": "2126369022295851327",
+    "via": "Mike Benton"
    },
    "gameday": {
     "at": "2026-11-27T17:41:28+00:00",
