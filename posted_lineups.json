@@ -4128,7 +4128,7 @@
   },
   "BOS": {
    "dfo": {
-    "at": "2026-11-27T16:50:42+00:00",
+    "at": "2026-11-27T17:40:44+00:00",
     "defense": [
      [
       "Lindholm",
@@ -4146,14 +4146,14 @@
     "extra": [],
     "forwards": [
      [
-      "Khusnutdinov",
-      "Lindholm",
+      "Peterka",
+      "Zacha",
       "Pastrnak"
      ],
      [
       "Mittelstadt",
-      "Zacha",
-      "Peterka"
+      "Lindholm",
+      "Khusnutdinov"
      ],
      [
       "Geekie",
@@ -4167,9 +4167,9 @@
      ]
     ],
     "goalie": "Swayman",
-    "info_at": "2026-11-27T16:45:20+00:00",
-    "ref": "2126356710965321750",
-    "via": "Joe McDonald"
+    "info_at": "2026-11-27T17:36:05+00:00",
+    "ref": "2126369481782120568",
+    "via": "Belle Fraser"
    },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
