@@ -4684,6 +4684,50 @@
  },
  "2026-11-26": {
   "ANA": {
+   "dfo": {
+    "at": "2026-11-27T02:20:35+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Helleson"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Moore"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Gauthier",
+      "McQueen",
+      "Sennecke"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Myatovic"
+     ]
+    ],
+    "goalie": "Dostal",
+    "info_at": "2026-11-26T18:45:07+00:00",
+    "ref": "2126024466757308518",
+    "via": "Zach Cavanagh"
+   },
    "gameday": {
     "at": "2026-11-26T19:01:28+00:00",
     "defense": [
@@ -4772,6 +4816,50 @@
    }
   },
   "CBJ": {
+   "dfo": {
+    "at": "2026-11-27T02:20:35+00:00",
+    "defense": [
+     [
+      "Werenski",
+      "Severson"
+     ],
+     [
+      "Provorov",
+      "Fabbro"
+     ],
+     [
+      "Christiansen",
+      "Mateychuk"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Nichushkin",
+      "Fantilli",
+      "Coyle"
+     ],
+     [
+      "Knies",
+      "Del Bel Belluz",
+      "Johnson"
+     ],
+     [
+      "Monahan",
+      "Sillinger",
+      "Williams"
+     ],
+     [
+      "Lomberg",
+      "Lundeström",
+      "Pyyhtia"
+     ]
+    ],
+    "goalie": "Talbot",
+    "info_at": "2026-11-26T17:37:21+00:00",
+    "ref": "2126007412410724564",
+    "via": "Wes Minke"
+   },
    "gameday": {
     "at": "2026-11-26T17:51:30+00:00",
     "defense": [],

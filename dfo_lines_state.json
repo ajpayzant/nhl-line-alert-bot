@@ -3,7 +3,6 @@
     "goalie": "Dostal",
     "players": [
       "Caulfield",
-      "Colangelo",
       "Gauthier",
       "Granlund",
       "Helleson",
@@ -16,14 +15,15 @@
       "Moore",
       "Myatovic",
       "Nesterenko",
+      "Sennecke",
       "Solberg",
       "Terry",
       "Vatrano",
       "Washe"
     ],
-    "signature": "[[[\"Killorn\", \"Granlund\", \"Terry\"], [\"Myatovic\", \"McQueen\", \"Gauthier\"], [\"Malott\", \"Washe\", \"Caulfield\"], [\"Vatrano\", \"Nesterenko\", \"Colangelo\"]], [[\"Lacombe\", \"Moore\"], [\"Solberg\", \"Luneau\"], [\"Mintyukov\", \"Helleson\"]], [\"Dostal\"], [\"Caulfield\", \"Granlund\", \"Killorn\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020398",
-    "updated_at": "2026-11-26T15:05:09.587Z"
+    "signature": "[[[\"Killorn\", \"Granlund\", \"Terry\"], [\"Gauthier\", \"McQueen\", \"Sennecke\"], [\"Malott\", \"Washe\", \"Caulfield\"], [\"Vatrano\", \"Nesterenko\", \"Myatovic\"]], [[\"Lacombe\", \"Helleson\"], [\"Solberg\", \"Luneau\"], [\"Mintyukov\", \"Moore\"]], [\"Dostal\"], [\"Killorn\", \"Granlund\", \"Sennecke\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://x.com/zachcav/status/2126024466757308518?s=46",
+    "updated_at": "2026-11-27T02:18:23.870Z"
   },
   "BOS": {
     "goalie": "Swayman",
@@ -124,9 +124,9 @@
       "Werenski",
       "Williams"
     ],
-    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Sillinger\", \"Williams\", \"Monahan\"], [\"Pyyhtia\", \"Lundestrom\", \"Lomberg\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Mateychuk\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020393",
-    "updated_at": "2026-11-26T14:55:15.042Z"
+    "signature": "[[[\"Nichushkin\", \"Fantilli\", \"Coyle\"], [\"Knies\", \"Del Bel Belluz\", \"Johnson\"], [\"Monahan\", \"Sillinger\", \"Williams\"], [\"Lomberg\", \"Lundestrom\", \"Pyyhtia\"]], [[\"Werenski\", \"Severson\"], [\"Provorov\", \"Fabbro\"], [\"Christiansen\", \"Mateychuk\"]], [\"Talbot\"], [\"Knies\", \"Fantilli\", \"Coyle\", \"Werenski\", \"Johnson\"]]",
+    "source": "https://x.com/minkepxp/status/2126007412410724564?s=46",
+    "updated_at": "2026-11-27T02:19:11.246Z"
   },
   "CGY": {
     "goalie": "Wolf",
