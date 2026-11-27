@@ -5851,6 +5851,50 @@
    }
   },
   "UTA": {
+   "dfo": {
+    "at": "2026-11-27T17:55:39+00:00",
+    "defense": [
+     [
+      "Sergachev",
+      "Peeke"
+     ],
+     [
+      "Simashev",
+      "Weegar"
+     ],
+     [
+      "Biber",
+      "Jones"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Keller",
+      "Trocheck",
+      "Crouse"
+     ],
+     [
+      "Lee",
+      "Cooley",
+      "Guenther"
+     ],
+     [
+      "McBain",
+      "Hayton",
+      "Yamamoto"
+     ],
+     [
+      "O'Brien",
+      "Stenlund",
+      "But"
+     ]
+    ],
+    "goalie": "Vejmelka",
+    "info_at": "2026-11-27T17:45:47+00:00",
+    "ref": "2126371923777159346",
+    "via": "Utah Mammoth"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [

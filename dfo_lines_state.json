@@ -702,9 +702,9 @@
       "But",
       "Cooley",
       "Crouse",
-      "DeSimone",
       "Guenther",
       "Hayton",
+      "Jones",
       "Keller",
       "Lee",
       "McBain",
@@ -717,9 +717,9 @@
       "Weegar",
       "Yamamoto"
     ],
-    "signature": "[[[\"Keller\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Cooley\", \"Guenther\"], [\"McBain\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Weegar\"], [\"Simashev\", \"Peeke\"], [\"Biber\", \"DeSimone\"]], [\"Vejmelka\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
-    "source": "",
-    "updated_at": "2026-11-27T17:12:35.429Z"
+    "signature": "[[[\"Keller\", \"Trocheck\", \"Crouse\"], [\"Lee\", \"Cooley\", \"Guenther\"], [\"McBain\", \"Hayton\", \"Yamamoto\"], [\"O'Brien\", \"Stenlund\", \"But\"]], [[\"Sergachev\", \"Peeke\"], [\"Simashev\", \"Weegar\"], [\"Biber\", \"Jones\"]], [\"Vejmelka\"], [\"Cooley\", \"Trocheck\", \"Keller\", \"Sergachev\", \"Guenther\"]]",
+    "source": "https://x.com/utahmammoth/status/2126371923777159346",
+    "updated_at": "2026-11-27T17:53:39.136Z"
   },
   "VAN": {
     "goalie": "Merilainen",
