@@ -5673,6 +5673,49 @@
    }
   },
   "STL": {
+   "dfo": {
+    "at": "2026-11-27T18:05:45+00:00",
+    "defense": [
+     [
+      "Broberg",
+      "Mailloux"
+     ],
+     [
+      "Fowler",
+      "Parayko"
+     ],
+     [
+      "Barron",
+      "Jiricek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Neighbours",
+      "Thomas",
+      "Holloway"
+     ],
+     [
+      "Stenberg",
+      "McTavish",
+      "McMichael"
+     ],
+     [
+      "Kaskimaki",
+      "Buchnevich",
+      "Berggren"
+     ],
+     [
+      "Toropchenko",
+      "Suter",
+      "Dvorsky"
+     ]
+    ],
+    "goalie": "Hofer",
+    "info_at": "2026-11-27T17:57:26+00:00",
+    "via": "St. Louis Blues"
+   },
    "gameday": {
     "at": "2026-11-27T17:56:30+00:00",
     "defense": [

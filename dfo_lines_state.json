@@ -623,25 +623,25 @@
       "Barron",
       "Berggren",
       "Broberg",
+      "Buchnevich",
       "Dvorsky",
       "Fowler",
       "Holloway",
       "Ji\u0159\u00ed\u010dek",
-      "Johnston",
       "Kaskimaki",
       "Mailloux",
+      "McMichael",
       "McTavish",
       "Neighbours",
       "Parayko",
       "Stenberg",
       "Suter",
       "Thomas",
-      "Toropchenko",
-      "Walker"
+      "Toropchenko"
     ],
-    "signature": "[[[\"Holloway\", \"Thomas\", \"Neighbours\"], [\"Stenberg\", \"McTavish\", \"Dvorsky\"], [\"Kaskimaki\", \"Suter\", \"Berggren\"], [\"Toropchenko\", \"Walker\", \"Johnston\"]], [[\"Broberg\", \"Mailloux\"], [\"Fowler\", \"Parayko\"], [\"Barron\", \"Ji\\u0159\\u00ed\\u010dek\"]], [\"Hofer\"], [\"Holloway\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020390",
-    "updated_at": "2026-11-26T14:31:27.065Z"
+    "signature": "[[[\"Neighbours\", \"Thomas\", \"Holloway\"], [\"Stenberg\", \"McTavish\", \"McMichael\"], [\"Kaskimaki\", \"Buchnevich\", \"Berggren\"], [\"Toropchenko\", \"Suter\", \"Dvorsky\"]], [[\"Broberg\", \"Mailloux\"], [\"Fowler\", \"Parayko\"], [\"Barron\", \"Ji\\u0159\\u00ed\\u010dek\"]], [\"Hofer\"], [\"Holloway\", \"McTavish\", \"Neighbours\", \"Thomas\", \"Broberg\"]]",
+    "source": "https://www.nhl.com/blues/news/projected-lineup-nov-27-vs-dallas",
+    "updated_at": "2026-11-27T17:57:26.596Z"
   },
   "TBL": {
     "goalie": "Vasilevskiy",
