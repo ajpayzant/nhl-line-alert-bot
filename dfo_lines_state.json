@@ -157,7 +157,6 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
-      "Bertuzzi",
       "Cole",
       "Del Mastro",
       "Donato",
@@ -165,10 +164,10 @@
       "Glendening",
       "Greene",
       "Greenway",
-      "Kane",
       "Kantserov",
       "Korchinski",
       "Levshunov",
+      "Mangiapane",
       "Moore",
       "Nazar",
       "Rinzel",
@@ -176,9 +175,9 @@
       "Teravainen",
       "Vlasic"
     ],
-    "signature": "[[[\"Moore\", \"Nazar\", \"Kane\"], [\"Donato\", \"Kantserov\", \"Bertuzzi\"], [\"Greene\", \"Frondell\", \"Teravainen\"], [\"Smith\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Bertuzzi\", \"Rinzel\", \"Kane\"]]",
-    "source": "https://thehockeynews.com/nhl/chicago-blackhawks/latest-news/blackhawks-vs-rangers-projected-lineup-how-to-watch-more-ahead-of-game-26",
-    "updated_at": "2026-11-27T18:22:41.525Z"
+    "signature": "[[[\"Donato\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Teravainen\"], [\"Smith\", \"Greene\", \"Mangiapane\"], [\"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Teravainen\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T21:35:09.846Z"
   },
   "COL": {
     "goalie": "Blackwood",
