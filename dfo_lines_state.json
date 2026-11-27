@@ -519,6 +519,7 @@
       "Acciari",
       "Barkey",
       "Bonk",
+      "Bunting",
       "Cates",
       "Couturier",
       "Drysdale",
@@ -527,7 +528,6 @@
       "Knuble",
       "Konecny",
       "Martone",
-      "Michkov",
       "Ristolainen",
       "Sanheim",
       "Seeler",
@@ -535,9 +535,9 @@
       "York",
       "Zegras"
     ],
-    "signature": "[[[\"Foerster\", \"Dvorak\", \"Konecny\"], [\"Tippett\", \"Barkey\", \"Martone\"], [\"Zegras\", \"Cates\", \"Michkov\"], [\"Knuble\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Ristolainen\"], [\"York\", \"Drysdale\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Michkov\", \"Zegras\", \"Drysdale\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020392",
-    "updated_at": "2026-11-26T14:52:53.394Z"
+    "signature": "[[[\"Foerster\", \"Dvorak\", \"Konecny\"], [\"Tippett\", \"Barkey\", \"Martone\"], [\"Zegras\", \"Cates\", \"Knuble\"], [\"Bunting\", \"Couturier\", \"Acciari\"]], [[\"Sanheim\", \"Ristolainen\"], [\"York\", \"Drysdale\"], [\"Seeler\", \"Bonk\"]], [\"Vladar\"], [\"Martone\", \"Barkey\", \"Foerster\", \"Zegras\", \"Drysdale\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T18:35:24.645Z"
   },
   "PIT": {
     "goalie": "Murashov",
