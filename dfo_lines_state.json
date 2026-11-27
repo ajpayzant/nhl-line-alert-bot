@@ -193,7 +193,6 @@
       "Lehkonen",
       "Makar",
       "Malinski",
-      "Necas",
       "Nelson",
       "O'Connor",
       "Reilly",
@@ -202,9 +201,9 @@
       "Svechkov",
       "Toews"
     ],
-    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Necas\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Hughes\"], [\"Beckman\", \"Kelly\", \"O'Connor\"]], [[\"Kulak\", \"Makar\"], [\"Toews\", \"Malinski\"], [\"Reilly\", \"Burns\"]], [\"Blackwood\"], [\"Landeskog\", \"Kadri\", \"Roy\", \"Necas\", \"Makar\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020397",
-    "updated_at": "2026-11-26T15:02:44.248Z"
+    "signature": "[[[\"Lehkonen\", \"Nelson\", \"Hughes\"], [\"Landeskog\", \"Kadri\", \"Roy\"], [\"Schwartz\", \"Svechkov\", \"Makar\"], [\"Beckman\", \"Kelly\", \"O'Connor\"]], [[\"Kulak\", \"Makar\"], [\"Toews\", \"Malinski\"], [\"Reilly\", \"Burns\"]], [\"Blackwood\"], [\"Landeskog\", \"Kadri\", \"Roy\", \"Malinski\", \"Makar\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T21:01:33.555Z"
   },
   "DAL": {
     "goalie": "Oettinger",
