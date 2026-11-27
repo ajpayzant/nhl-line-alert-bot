@@ -5877,7 +5877,7 @@
   },
   "PHI": {
    "dfo": {
-    "at": "2026-11-27T19:45:41+00:00",
+    "at": "2026-11-27T20:15:40+00:00",
     "defense": [
      [
       "Sanheim",
@@ -5892,7 +5892,9 @@
       "Benoit"
      ]
     ],
-    "extra": [],
+    "extra": [
+     "Jiricek"
+    ],
     "forwards": [
      [
       "Foerster",
@@ -5901,8 +5903,7 @@
      ],
      [
       "Zegras",
-      "Barkey",
-      "Tippett"
+      "Barkey"
      ],
      [
       "Bunting",
