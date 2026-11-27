@@ -492,7 +492,7 @@
     "players": [
       "Amadio",
       "Batherson",
-      "Blais",
+      "Burakovsky",
       "Chabot",
       "Cousins",
       "Cozens",
@@ -509,9 +509,9 @@
       "Zetterlund",
       "Zub"
     ],
-    "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Blais\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020389",
-    "updated_at": "2026-11-26T14:29:19.824Z"
+    "signature": "[[[\"Zetterlund\", \"St\\u00fctzle\", \"Cozens\"], [\"Tomasino\", \"Pinto\", \"Batherson\"], [\"Amadio\", \"Greig\", \"Giroux\"], [\"Burakovsky\", \"Halliday\", \"Cousins\"]], [[\"Sanderson\", \"Zub\"], [\"Chabot\", \"Spence\"], [\"Kleven\", \"Matinpalo\"]], [\"Ullmark\"], [\"Halliday\", \"Pinto\", \"St\\u00fctzle\", \"Batherson\", \"Sanderson\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T17:15:50.495Z"
   },
   "PHI": {
     "goalie": "Vladar",
