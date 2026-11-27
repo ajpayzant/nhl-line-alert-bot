@@ -4793,6 +4793,49 @@
    }
   },
   "NYR": {
+   "dfo": {
+    "at": "2026-11-27T16:35:42+00:00",
+    "defense": [
+     [
+      "Gavrikov",
+      "Fox"
+     ],
+     [
+      "Pettersson",
+      "Durzi"
+     ],
+     [
+      "Schneider",
+      "Morrow"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Cuylle",
+      "Zibanejad",
+      "Lafrenière"
+     ],
+     [
+      "Kartye",
+      "Miller",
+      "Parssinen"
+     ],
+     [
+      "Tolvanen",
+      "Laba",
+      "Chmelar"
+     ],
+     [
+      "Gawdin",
+      "Sasson",
+      "Raddysh"
+     ]
+    ],
+    "goalie": "Garand",
+    "info_at": "2026-11-27T16:33:56+00:00",
+    "via": "Projected"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [

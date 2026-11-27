@@ -53,17 +53,17 @@
   "BUF": {
     "goalie": "Luukkonen",
     "players": [
-      "Benson",
       "Carrick",
       "Crevier",
       "Dahlin",
+      "Danforth",
       "Doan",
       "Krebs",
       "Kulich",
       "Malenstyn",
       "McLeod",
+      "Metsa",
       "Norris",
-      "Ostlund",
       "Power",
       "Quinn",
       "Samuelsson",
@@ -72,9 +72,9 @@
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Benson\", \"Kulich\", \"Thompson\"], [\"Krebs\", \"Ostlund\", \"Quinn\"], [\"Zucker\", \"Norris\", \"Doan\"], [\"Malenstyn\", \"McLeod\", \"Carrick\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Benson\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020387",
-    "updated_at": "2026-11-26T14:26:38.083Z"
+    "signature": "[[[\"Doan\", \"Kulich\", \"Thompson\"], [\"Zucker\", \"McLeod\", \"Quinn\"], [\"Krebs\", \"Norris\"], [\"Malenstyn\", \"Carrick\", \"Danforth\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Kulich\", \"Quinn\", \"Thompson\", \"Dahlin\"], [\"Metsa\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T16:33:02.857Z"
   },
   "CAR": {
     "goalie": "Kochetkov",
@@ -483,9 +483,9 @@
       "Tolvanen",
       "Zibanejad"
     ],
-    "signature": "[[[\"Cuylle\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Kartye\", \"Miller\", \"Tolvanen\"], [\"Parssinen\", \"Sasson\", \"Raddysh\"], [\"Gawdin\", \"Laba\", \"Chmelar\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Kartye\", \"Miller\", \"Lafreni\\u00e8re\", \"Zibanejad\", \"Fox\"]]",
-    "source": "",
-    "updated_at": "2026-11-27T02:25:30.722Z"
+    "signature": "[[[\"Cuylle\", \"Zibanejad\", \"Lafreni\\u00e8re\"], [\"Kartye\", \"Miller\", \"Parssinen\"], [\"Tolvanen\", \"Laba\", \"Chmelar\"], [\"Gawdin\", \"Sasson\", \"Raddysh\"]], [[\"Gavrikov\", \"Fox\"], [\"Pettersson\", \"Durzi\"], [\"Schneider\", \"Morrow\"]], [\"Garand\"], [\"Kartye\", \"Miller\", \"Lafreni\\u00e8re\", \"Zibanejad\", \"Fox\"]]",
+    "source": "https://www.foreverblueshirts.com/new-york-rangers-news/preview-lines-notes-how-to-watch-black-friday-road-game-vs-blackhawks",
+    "updated_at": "2026-11-27T16:33:56.588Z"
   },
   "OTT": {
     "goalie": "Ullmark",
