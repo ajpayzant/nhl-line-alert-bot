@@ -4395,7 +4395,7 @@
   },
   "CBJ": {
    "dfo": {
-    "at": "2026-11-27T14:00:44+00:00",
+    "at": "2026-11-27T19:51:05+00:00",
     "defense": [
      [
       "Werenski",
@@ -4434,9 +4434,9 @@
      ]
     ],
     "goalie": "Greaves",
-    "info_at": "2026-11-26T17:37:21+00:00",
-    "ref": "2126007412410724564",
-    "via": "Wes Minke"
+    "info_at": "2026-11-27T19:37:33+00:00",
+    "ref": "2126400052989923740",
+    "via": "Mark Scheig"
    },
    "gameday": {
     "at": "2026-11-27T19:41:29+00:00",
@@ -5788,6 +5788,50 @@
    }
   },
   "OTT": {
+   "dfo": {
+    "at": "2026-11-27T19:51:05+00:00",
+    "defense": [
+     [
+      "Sanderson",
+      "Zub"
+     ],
+     [
+      "Chabot",
+      "Spence"
+     ],
+     [
+      "Kleven",
+      "Matinpalo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Zetterlund",
+      "Stützle",
+      "Cozens"
+     ],
+     [
+      "Tomasino",
+      "Pinto",
+      "Batherson"
+     ],
+     [
+      "Amadio",
+      "Greig",
+      "Giroux"
+     ],
+     [
+      "Cousins",
+      "Halliday",
+      "Burakovsky"
+     ]
+    ],
+    "goalie": "Ullmark",
+    "info_at": "2026-11-27T19:39:25+00:00",
+    "ref": "2126400522718413212",
+    "via": "Ottawa Senators"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -6802,6 +6846,50 @@
    }
   },
   "VAN": {
+   "dfo": {
+    "at": "2026-11-27T19:51:05+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Willander"
+     ],
+     [
+      "?Pettersson",
+      "Schenn"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Lekkerimäki"
+     ],
+     [
+      "Ohgren",
+      "Rossi",
+      "Boeser"
+     ],
+     [
+      "O'Connor",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Cotter",
+      "Quillan",
+      "Reinhardt"
+     ]
+    ],
+    "goalie": "Lankinen",
+    "info_at": "2026-11-27T19:43:24+00:00",
+    "ref": "2126401524633080315",
+    "via": "Brendan Batchelor"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
