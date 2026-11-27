@@ -4437,6 +4437,50 @@
    }
   },
   "CGY": {
+   "dfo": {
+    "at": "2026-11-27T17:50:40+00:00",
+    "defense": [
+     [
+      "Middleton",
+      "Whitecloud"
+     ],
+     [
+      "Hanley",
+      "Nemec"
+     ],
+     [
+      "Kuznetsov",
+      "Parekh"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Sharangovich",
+      "Backlund",
+      "Coronato"
+     ],
+     [
+      "Farabee",
+      "Strome",
+      "Klapka"
+     ],
+     [
+      "Gridin",
+      "Castagna",
+      "Suniev"
+     ],
+     [
+      "Tsyplakov",
+      "Frost",
+      "Othmann"
+     ]
+    ],
+    "goalie": "Cooley",
+    "info_at": "2026-11-27T17:38:15+00:00",
+    "ref": "2126370027905716251",
+    "via": "Derek Wills"
+   },
    "gameday": {
     "at": "2026-11-27T17:46:34+00:00",
     "defense": [
