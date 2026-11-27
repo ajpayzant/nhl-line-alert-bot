@@ -4700,6 +4700,50 @@
     "info_at": "2026-11-27T15:30:16+00:00",
     "ref": "2126337822248374684",
     "via": "Stefen Rosner"
+   },
+   "gameday": {
+    "at": "2026-11-27T15:46:24+00:00",
+    "defense": [
+     [
+      "Pelech",
+      "Schaefer"
+     ],
+     [
+      "Stanley",
+      "Kessel"
+     ],
+     [
+      "Hutton",
+      "DeAngelo"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Barzal"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau",
+      "Ritchie"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Maccelli"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-27T15:41:16+00:00",
+    "ref": "2126340590736470472",
+    "via": "@ethan_sears"
    }
   },
   "NYR": {
