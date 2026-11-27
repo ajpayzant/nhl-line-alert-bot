@@ -21,9 +21,9 @@
       "Vatrano",
       "Washe"
     ],
-    "signature": "[[[\"Killorn\", \"Granlund\", \"Terry\"], [\"Gauthier\", \"McQueen\", \"Sennecke\"], [\"Malott\", \"Washe\", \"Caulfield\"], [\"Vatrano\", \"Nesterenko\", \"Myatovic\"]], [[\"Lacombe\", \"Helleson\"], [\"Solberg\", \"Luneau\"], [\"Mintyukov\", \"Moore\"]], [\"Dostal\"], [\"Killorn\", \"Granlund\", \"Sennecke\", \"Lacombe\", \"Gauthier\"]]",
-    "source": "https://x.com/zachcav/status/2126024466757308518?s=46",
-    "updated_at": "2026-11-27T02:18:23.870Z"
+    "signature": "[[[\"Killorn\", \"Granlund\", \"Terry\"], [\"Gauthier\", \"McQueen\", \"Sennecke\"], [\"Malott\", \"Washe\", \"Caulfield\"], [\"Vatrano\", \"Nesterenko\", \"Myatovic\"]], [[\"Lacombe\", \"Moore\"], [\"Solberg\", \"Luneau\"], [\"Mintyukov\", \"Helleson\"]], [\"Dostal\"], [\"Killorn\", \"Granlund\", \"Sennecke\", \"Lacombe\", \"Gauthier\"]]",
+    "source": "https://x.com/ZachCav/status/2126414886054100998",
+    "updated_at": "2026-11-27T20:39:05.111Z"
   },
   "BOS": {
     "goalie": "Swayman",
@@ -331,8 +331,8 @@
       "Zuccarello"
     ],
     "signature": "[[[\"Panarin\", \"Laferriere\", \"Kempe\"], [\"Fiala\", \"Byfield\", \"Zuccarello\"], [\"Moore\", \"Haula\", \"Armia\"], [\"Lee\", \"Turcotte\", \"Perry\"]], [[\"Anderson\", \"Doughty\"], [\"Dumoulin\", \"Clarke\"], [\"Edmundson\", \"Ceci\"]], [\"Kuemper\"], [\"Kempe\", \"Byfield\", \"Laferriere\", \"Panarin\", \"Clarke\"]]",
-    "source": "https://lakingsinsider.com/2026/11/27/11-27-preview-freeway-faceoff-implications-no-morning-skate-kuempers-road-performance-laviolette-on-kirsanov/",
-    "updated_at": "2026-11-27T18:21:45.249Z"
+    "source": "https://x.com/jaredshafran/status/2126415014244540495",
+    "updated_at": "2026-11-27T20:39:51.637Z"
   },
   "MIN": {
     "goalie": "Wallstedt",
@@ -356,8 +356,8 @@
       "Yurov"
     ],
     "signature": "[[[\"Kaprizov\", \"Eriksson Ek\", \"Boldy\"], [\"Coleman\", \"McCarron\", \"Brink\"], [\"Shabanov\", \"Yurov\", \"Trenin\"], [\"Foligno\", \"Hartman\", \"Foligno\"]], [[\"Brodin\", \"Faber\"], [\"Kiersted\", \"Spurgeon\"], [\"Bogosian\", \"Spacek\"]], [\"Wallstedt\"], [\"Shabanov\", \"Eriksson Ek\", \"Kaprizov\", \"Faber\", \"Boldy\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020396",
-    "updated_at": "2026-11-26T15:00:12.400Z"
+    "source": "https://x.com/DylanLoucks4/status/2126414522202411178",
+    "updated_at": "2026-11-27T20:36:19.980Z"
   },
   "MTL": {
     "goalie": "Fowler",
@@ -613,9 +613,9 @@
       "Toffoli",
       "Wennberg"
     ],
-    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Smith\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Graf\"], [\"Goodrow\", \"Ostapchuk\", \"Gaudette\"]], [[\"Nurse\", \"Kesselring\"], [\"Allan\", \"Dickinson\"], [\"Orlov\", \"Cagnoni\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
-    "source": "https://x.com/CurtisPashelka/status/2126385915895656913",
-    "updated_at": "2026-11-27T18:43:06.508Z"
+    "signature": "[[[\"Stenberg\", \"Celebrini\", \"Gaudette\"], [\"Misa\", \"Wennberg\", \"Toffoli\"], [\"Marchment\", \"Dellandrea\", \"Smith\"], [\"Goodrow\", \"Ostapchuk\", \"Graf\"]], [[\"Nurse\", \"Kesselring\"], [\"Allan\", \"Dickinson\"], [\"Orlov\", \"Cagnoni\"]], [\"Askarov\"], [\"Stenberg\", \"Wennberg\", \"Smith\", \"Celebrini\", \"Orlov\"]]",
+    "source": "https://x.com/Real_Max_Miller/status/2126414728536740320",
+    "updated_at": "2026-11-27T20:37:48.326Z"
   },
   "STL": {
     "goalie": "Hofer",

@@ -4083,6 +4083,50 @@
  },
  "2026-11-27": {
   "ANA": {
+   "dfo": {
+    "at": "2026-11-27T20:40:37+00:00",
+    "defense": [
+     [
+      "LaCombe",
+      "Moore"
+     ],
+     [
+      "Solberg",
+      "Luneau"
+     ],
+     [
+      "Mintyukov",
+      "Helleson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Killorn",
+      "Granlund",
+      "Terry"
+     ],
+     [
+      "Gauthier",
+      "McQueen",
+      "Sennecke"
+     ],
+     [
+      "Malott",
+      "Washe",
+      "Caulfield"
+     ],
+     [
+      "Vatrano",
+      "Nesterenko",
+      "Myatovic"
+     ]
+    ],
+    "goalie": "Dostal",
+    "info_at": "2026-11-27T20:36:30+00:00",
+    "ref": "2126414886054100998",
+    "via": "Zach Cavanagh"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -5142,7 +5186,7 @@
   },
   "LAK": {
    "dfo": {
-    "at": "2026-11-27T18:25:37+00:00",
+    "at": "2026-11-27T20:40:37+00:00",
     "defense": [
      [
       "Anderson",
@@ -5181,8 +5225,9 @@
      ]
     ],
     "goalie": "Kuemper",
-    "info_at": "2026-11-27T18:21:45+00:00",
-    "via": "Zach Dooley"
+    "info_at": "2026-11-27T20:37:00+00:00",
+    "ref": "2126415014244540495",
+    "via": "Jared Shafran"
    },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
@@ -5228,6 +5273,50 @@
    }
   },
   "MIN": {
+   "dfo": {
+    "at": "2026-11-27T20:40:37+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Wallstedt",
+    "info_at": "2026-11-27T20:35:03+00:00",
+    "ref": "2126414522202411178",
+    "via": "Dylan Loucks"
+   },
    "nhlcom": {
     "at": "2026-11-27T18:30:44+00:00",
     "defense": [
@@ -6274,7 +6363,7 @@
   },
   "SJS": {
    "dfo": {
-    "at": "2026-11-27T18:45:42+00:00",
+    "at": "2026-11-27T20:40:37+00:00",
     "defense": [
      [
       "Nurse",
@@ -6294,7 +6383,7 @@
      [
       "Stenberg",
       "Celebrini",
-      "Smith"
+      "Gaudette"
      ],
      [
       "Misa",
@@ -6304,18 +6393,18 @@
      [
       "Marchment",
       "Dellandrea",
-      "Graf"
+      "Smith"
      ],
      [
       "Goodrow",
       "Ostapchuk",
-      "Gaudette"
+      "Graf"
      ]
     ],
     "goalie": "Askarov",
-    "info_at": "2026-11-27T18:41:23+00:00",
-    "ref": "2126385915895656913",
-    "via": "Projected"
+    "info_at": "2026-11-27T20:35:52+00:00",
+    "ref": "2126414728536740320",
+    "via": "Max Miller"
    },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
