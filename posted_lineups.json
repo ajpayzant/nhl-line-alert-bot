@@ -4171,6 +4171,50 @@
     "ref": "2126369481782120568",
     "via": "Belle Fraser"
    },
+   "gameday": {
+    "at": "2026-11-27T17:41:26+00:00",
+    "defense": [
+     [
+      "Lindholm",
+      "McAvoy"
+     ],
+     [
+      "Zadorov",
+      "Borgen"
+     ],
+     [
+      "Lohrei",
+      "Clifton"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Peterka",
+      "Zacha",
+      "Pastrnak"
+     ],
+     [
+      "Mittelstadt",
+      "Lindholm",
+      "Khusnutdinov"
+     ],
+     [
+      "Geekie",
+      "Minten",
+      "Poitras"
+     ],
+     [
+      "Jeannot",
+      "Kuraly",
+      "Kastelic"
+     ]
+    ],
+    "goalie": "Swayman",
+    "info_at": "2026-11-27T17:36:46+00:00",
+    "ref": "2126369653966643693",
+    "via": "@bellefraser1"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -4791,6 +4835,50 @@
    }
   },
   "NSH": {
+   "gameday": {
+    "at": "2026-11-27T17:41:27+00:00",
+    "defense": [
+     [
+      "Josi",
+      "Wilsby"
+     ],
+     [
+      "Skjei",
+      "Perbix"
+     ],
+     [
+      "Hague",
+      "Struble"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stamkos",
+      "O'Reilly",
+      "Bourque"
+     ],
+     [
+      "Forsberg",
+      "Wright",
+      "Hoglander"
+     ],
+     [
+      "Schaefer",
+      "Kerfoot",
+      "Marchessault"
+     ],
+     [
+      "Colton",
+      "Drury",
+      "Edstrom"
+     ]
+    ],
+    "goalie": "Saros",
+    "info_at": "2026-11-27T17:37:14+00:00",
+    "ref": "2126369773005283469",
+    "via": "@brooksbratten"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
@@ -5232,6 +5320,50 @@
     "goalie": "Daccord",
     "info_at": "2026-11-27T13:39:19+00:00",
     "via": "Geoff Baker"
+   },
+   "gameday": {
+    "at": "2026-11-27T17:41:28+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stephenson",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "McMann",
+      "Gaudreau",
+      "Wood"
+     ],
+     [
+      "Winterton",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-27T17:38:11+00:00",
+    "ref": "2126370011816284396",
+    "via": "@Benton_Mike"
    }
   },
   "SJS": {
