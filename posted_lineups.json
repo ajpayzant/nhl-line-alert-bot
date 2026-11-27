@@ -4170,6 +4170,52 @@
     "info_at": "2026-11-27T14:01:47+00:00"
    }
   },
+  "CAR": {
+   "gameday": {
+    "at": "2026-11-27T16:02:26+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Svechnikov",
+      "Aho",
+      "Carrier"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Deslauriers"
+     ]
+    ],
+    "goalie": "Bussi",
+    "info_at": "2026-11-27T16:01:01+00:00",
+    "ref": "2126345558348517762",
+    "via": "@RyanHenkel_"
+   }
+  },
   "CBJ": {
    "dfo": {
     "at": "2026-11-27T14:00:44+00:00",
