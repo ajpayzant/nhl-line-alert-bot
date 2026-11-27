@@ -4978,6 +4978,52 @@
     "info_at": "2026-11-26T21:43:20+00:00"
    }
   },
+  "EDM": {
+   "dfo": {
+    "at": "2026-11-27T02:05:39+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Dach",
+      "Nugent-Hopkins",
+      "Kapanen"
+     ],
+     [
+      "Formenton",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Jones",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Levi",
+    "info_at": "2026-11-25T18:13:34+00:00",
+    "ref": "2125654138788905219",
+    "via": "Bob Stauffer"
+   }
+  },
   "LAK": {
    "nhlcom": {
     "at": "2026-11-26T21:57:28+00:00",
