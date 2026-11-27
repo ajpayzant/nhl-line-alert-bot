@@ -6019,6 +6019,50 @@
    }
   },
   "SJS": {
+   "dfo": {
+    "at": "2026-11-27T18:45:42+00:00",
+    "defense": [
+     [
+      "Nurse",
+      "Kesselring"
+     ],
+     [
+      "Allan",
+      "Dickinson"
+     ],
+     [
+      "Orlov",
+      "Cagnoni"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stenberg",
+      "Celebrini",
+      "Smith"
+     ],
+     [
+      "Misa",
+      "Wennberg",
+      "Toffoli"
+     ],
+     [
+      "Marchment",
+      "Dellandrea",
+      "Graf"
+     ],
+     [
+      "Goodrow",
+      "Ostapchuk",
+      "Gaudette"
+     ]
+    ],
+    "goalie": "Askarov",
+    "info_at": "2026-11-27T18:41:23+00:00",
+    "ref": "2126385915895656913",
+    "via": "Projected"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
