@@ -4700,6 +4700,50 @@
     "info_at": "2026-11-27T14:01:47+00:00"
    }
   },
+  "COL": {
+   "nhlcom": {
+    "at": "2026-11-27T18:30:44+00:00",
+    "defense": [
+     [
+      "Toews",
+      "Malinski"
+     ],
+     [
+      "Kulak",
+      "Makar"
+     ],
+     [
+      "Reilly",
+      "Burns"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Lehkonen",
+      "Nelson",
+      "Necas"
+     ],
+     [
+      "Landeskog",
+      "Kadri",
+      "Roy"
+     ],
+     [
+      "Schwartz",
+      "Svechkov",
+      "Hughes"
+     ],
+     [
+      "Beckman",
+      "Kelly",
+      "O'Connor"
+     ]
+    ],
+    "goalie": "Blackwood",
+    "info_at": "2026-11-27T18:29:28+00:00"
+   }
+  },
   "DAL": {
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
@@ -5051,6 +5095,50 @@
     ],
     "goalie": "Kuemper",
     "info_at": "2026-11-27T14:01:47+00:00"
+   }
+  },
+  "MIN": {
+   "nhlcom": {
+    "at": "2026-11-27T18:30:44+00:00",
+    "defense": [
+     [
+      "Brodin",
+      "Faber"
+     ],
+     [
+      "Kiersted",
+      "Spurgeon"
+     ],
+     [
+      "Bogosian",
+      "Spacek"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Kaprizov",
+      "Eriksson Ek",
+      "Boldy"
+     ],
+     [
+      "Shabanov",
+      "Yurov",
+      "Trenin"
+     ],
+     [
+      "Coleman",
+      "McCarron",
+      "Brink"
+     ],
+     [
+      "Foligno",
+      "Hartman",
+      "Foligno"
+     ]
+    ],
+    "goalie": "Gustavsson",
+    "info_at": "2026-11-27T18:29:28+00:00"
    }
   },
   "NJD": {
@@ -5582,7 +5670,7 @@
   },
   "PHI": {
    "nhlcom": {
-    "at": "2026-11-27T14:04:25+00:00",
+    "at": "2026-11-27T18:30:44+00:00",
     "defense": [
      [
       "Sanheim",
@@ -5610,9 +5698,9 @@
       "Martone"
      ],
      [
-      "Knuble",
+      "Bunting",
       "Cates",
-      "Michkov"
+      "Knuble"
      ],
      [
       "Zegras",
@@ -5621,7 +5709,7 @@
      ]
     ],
     "goalie": "Vladar",
-    "info_at": "2026-11-27T14:01:47+00:00"
+    "info_at": "2026-11-27T18:29:28+00:00"
    }
   },
   "PIT": {

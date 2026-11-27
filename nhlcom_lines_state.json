@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T18:09:19.456Z",
+ "article_updated": "2026-11-27T18:29:28.414Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -1827,6 +1827,53 @@
     "Dominic Toninato"
    ]
   },
+  "2026-11-27:COL": {
+   "article_updated": "2026-11-27T18:29:28.414Z",
+   "defense": [
+    [
+     "Devon Toews",
+     "Sam Malinski"
+    ],
+    [
+     "Brett Kulak",
+     "Cale Makar"
+    ],
+    [
+     "Mike Reilly",
+     "Brent Burns"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Artturi Lehkonen",
+     "Brock Nelson",
+     "Martin Necas"
+    ],
+    [
+     "Gabriel Landeskog",
+     "Nazem Kadri",
+     "Nicolas Roy"
+    ],
+    [
+     "Jaden Schwartz",
+     "Fedor Svechkov",
+     "T.J. Hughes"
+    ],
+    [
+     "Adam Beckman",
+     "Parker Kelly",
+     "Logan O'Connor"
+    ]
+   ],
+   "goalies": [
+    "Mackenzie Blackwood",
+    "Scott Wedgewood"
+   ],
+   "scratched": [
+    "Noah Juulsen"
+   ]
+  },
   "2026-11-27:DAL": {
    "article_updated": "2026-11-27T14:01:47.165Z",
    "defense": [
@@ -2018,6 +2065,54 @@
     "Scott Laughton",
     "Samuel Helenius",
     "Kirill Kirsanov"
+   ]
+  },
+  "2026-11-27:MIN": {
+   "article_updated": "2026-11-27T18:29:28.414Z",
+   "defense": [
+    [
+     "Jonas Brodin",
+     "Brock Faber"
+    ],
+    [
+     "Matt Kiersted",
+     "Jared Spurgeon"
+    ],
+    [
+     "Zach Bogosian",
+     "David Spacek"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Kirill Kaprizov",
+     "Joel Eriksson Ek",
+     "Matt Boldy"
+    ],
+    [
+     "Maxim Shabanov",
+     "Danila Yurov",
+     "Yakov Trenin"
+    ],
+    [
+     "Blake Coleman",
+     "Michael McCarron",
+     "Bobby Brink"
+    ],
+    [
+     "Marcus Foligno",
+     "Ryan Hartman",
+     "Nick Foligno"
+    ]
+   ],
+   "goalies": [
+    "Filip Gustavsson",
+    "Jesper Wallstedt"
+   ],
+   "scratched": [
+    "Nico Sturm",
+    "Viking Gustafsson Nyberg"
    ]
   },
   "2026-11-27:NJD": {
@@ -2261,7 +2356,7 @@
    ]
   },
   "2026-11-27:PHI": {
-   "article_updated": "2026-11-27T14:01:47.165Z",
+   "article_updated": "2026-11-27T18:29:28.414Z",
    "defense": [
     [
      "Travis Sanheim",
@@ -2289,9 +2384,9 @@
      "Porter Martone"
     ],
     [
-     "Cole Knuble",
+     "Michael Bunting",
      "Noah Cates",
-     "Matvei Michkov"
+     "Cole Knuble"
     ],
     [
      "Trevor Zegras",
@@ -2306,7 +2401,7 @@
    "scratched": [
     "David Jiricek",
     "Simon Benoit",
-    "Michael Bunting"
+    "Matvei Michkov"
    ]
   },
   "2026-11-27:PIT": {
@@ -3407,6 +3502,112 @@
      "G"
     ]
    ],
+   "COL": [
+    [
+     "Adam Beckman",
+     "L"
+    ],
+    [
+     "Gavin Brindley",
+     "C"
+    ],
+    [
+     "T.J. Hughes",
+     "R"
+    ],
+    [
+     "Nazem Kadri",
+     "C"
+    ],
+    [
+     "Parker Kelly",
+     "C"
+    ],
+    [
+     "Zachary L'Heureux",
+     "L"
+    ],
+    [
+     "Gabriel Landeskog",
+     "L"
+    ],
+    [
+     "Artturi Lehkonen",
+     "L"
+    ],
+    [
+     "Nathan MacKinnon",
+     "C"
+    ],
+    [
+     "Taylor Makar",
+     "L"
+    ],
+    [
+     "Martin Necas",
+     "C"
+    ],
+    [
+     "Brock Nelson",
+     "C"
+    ],
+    [
+     "Logan O'Connor",
+     "R"
+    ],
+    [
+     "Nicolas Roy",
+     "C"
+    ],
+    [
+     "Jaden Schwartz",
+     "L"
+    ],
+    [
+     "Fedor Svechkov",
+     "C"
+    ],
+    [
+     "Brent Burns",
+     "D"
+    ],
+    [
+     "Noah Juulsen",
+     "D"
+    ],
+    [
+     "Brett Kulak",
+     "D"
+    ],
+    [
+     "Cale Makar",
+     "D"
+    ],
+    [
+     "Sam Malinski",
+     "D"
+    ],
+    [
+     "Josh Manson",
+     "D"
+    ],
+    [
+     "Mike Reilly",
+     "D"
+    ],
+    [
+     "Devon Toews",
+     "D"
+    ],
+    [
+     "Mackenzie Blackwood",
+     "G"
+    ],
+    [
+     "Scott Wedgewood",
+     "G"
+    ]
+   ],
    "DAL": [
     [
      "Jamie Benn",
@@ -3804,6 +4005,104 @@
     ],
     [
      "Darcy Kuemper",
+     "G"
+    ]
+   ],
+   "MIN": [
+    [
+     "Matt Boldy",
+     "L"
+    ],
+    [
+     "Bobby Brink",
+     "R"
+    ],
+    [
+     "Blake Coleman",
+     "L"
+    ],
+    [
+     "Joel Eriksson Ek",
+     "C"
+    ],
+    [
+     "Marcus Foligno",
+     "L"
+    ],
+    [
+     "Nick Foligno",
+     "L"
+    ],
+    [
+     "Ryan Hartman",
+     "R"
+    ],
+    [
+     "Kirill Kaprizov",
+     "L"
+    ],
+    [
+     "Michael McCarron",
+     "C"
+    ],
+    [
+     "Maxim Shabanov",
+     "R"
+    ],
+    [
+     "Nico Sturm",
+     "C"
+    ],
+    [
+     "Yakov Trenin",
+     "C"
+    ],
+    [
+     "Danila Yurov",
+     "R"
+    ],
+    [
+     "Zach Bogosian",
+     "D"
+    ],
+    [
+     "Jonas Brodin",
+     "D"
+    ],
+    [
+     "Brock Faber",
+     "D"
+    ],
+    [
+     "Quinn Hughes",
+     "D"
+    ],
+    [
+     "Matt Kiersted",
+     "D"
+    ],
+    [
+     "Olli Maatta",
+     "D"
+    ],
+    [
+     "David Spacek",
+     "D"
+    ],
+    [
+     "Jared Spurgeon",
+     "D"
+    ],
+    [
+     "Filip Gustavsson",
+     "G"
+    ],
+    [
+     "Calvin Pickard",
+     "G"
+    ],
+    [
+     "Jesper Wallstedt",
      "G"
     ]
    ],
