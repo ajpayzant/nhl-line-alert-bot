@@ -1,678 +1,6 @@
 {
- "article_updated": "2026-11-26T22:58:19.473Z",
+ "article_updated": "2026-11-27T14:01:47.165Z",
  "lineups": {
-  "2026-11-23:ANA": {
-   "article_updated": "2026-11-23T20:43:44.275Z",
-   "defense": [
-    [
-     "Jackson LaCombe",
-     "Ian Moore"
-    ],
-    [
-     "Pavel Mintyukov",
-     "Drew Helleson"
-    ],
-    [
-     "Tristan Luneau",
-     "Stian Solberg"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Cutter Gauthier",
-     "Mikael Granlund",
-     "Troy Terry"
-    ],
-    [
-     "Alex Killorn",
-     "Roger McQueen",
-     "Judd Caulfield"
-    ],
-    [
-     "Jeff Malott",
-     "Tim Washe",
-     "Sam Colangelo"
-    ],
-    [
-     "Nico Myatovic",
-     "Nikita Nesterenko",
-     "Frank Vatrano"
-    ]
-   ],
-   "goalies": [
-    "Lukas Dostal",
-    "Ville Husso"
-   ],
-   "scratched": [
-    "Tyson Hinds",
-    "Noah Warren"
-   ]
-  },
-  "2026-11-23:CBJ": {
-   "article_updated": "2026-11-23T18:50:03.15Z",
-   "defense": [
-    [
-     "Zach Werenski",
-     "Damon Severson"
-    ],
-    [
-     "Ivan Provorov",
-     "Dante Fabbro"
-    ],
-    [
-     "Jake Christiansen",
-     "Denton Mateychuk"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Matthew Knies",
-     "Luca Del Bel Belluz",
-     "Kent Johnson"
-    ],
-    [
-     "Charlie Coyle",
-     "Adam Fantilli",
-     "Valeri Nichushkin"
-    ],
-    [
-     "Jack Williams",
-     "Cole Sillinger",
-     "Mathieu Olivier"
-    ],
-    [
-     "Ryan Lomberg",
-     "Isac Lundeström",
-     "Mikael Pyyhtia"
-    ]
-   ],
-   "goalies": [
-    "Cam Talbot",
-    "Jet Greaves"
-   ],
-   "scratched": [
-    "Erik Gudbranson",
-    "Dmitri Voronkov"
-   ]
-  },
-  "2026-11-23:CGY": {
-   "article_updated": "2026-11-23T18:19:49.341Z",
-   "defense": [
-    [
-     "Jake Middleton",
-     "Zach Whitecloud"
-    ],
-    [
-     "Joel Hanley",
-     "Simon Nemec"
-    ],
-    [
-     "Yan Kuznetsov",
-     "Zayne Parekh"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Joel Farabee",
-     "Mikael Backlund",
-     "Matt Coronato"
-    ],
-    [
-     "Matvei Gridin",
-     "Ryan Strome",
-     "Aydar Suniev"
-    ],
-    [
-     "Yegor Sharangovich",
-     "Morgan Frost",
-     "Adam Klapka"
-    ],
-    [
-     "Maxim Tsyplakov",
-     "Jonathan Castagna",
-     "Sam Morton"
-    ]
-   ],
-   "goalies": [
-    "Devin Cooley",
-    "Dustin Wolf"
-   ],
-   "scratched": [
-    "Brennan Othmann",
-    "Brayden Pachal"
-   ]
-  },
-  "2026-11-23:LAK": {
-   "article_updated": "2026-11-23T18:33:44.965Z",
-   "defense": [
-    [
-     "Mikey Anderson",
-     "Drew Doughty"
-    ],
-    [
-     "Brandt Clarke",
-     "Brian Dumoulin"
-    ],
-    [
-     "Joel Edmundson",
-     "Cody Ceci"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Artemi Panarin",
-     "Alex Laferriere",
-     "Adrian Kempe"
-    ],
-    [
-     "Kevin Fiala",
-     "Quinton Byfield",
-     "Mats Zuccarello"
-    ],
-    [
-     "Trevor Moore",
-     "Erik Haula",
-     "Joel Armia"
-    ],
-    [
-     "Andre Lee",
-     "Scott Laughton",
-     "Corey Perry"
-    ]
-   ],
-   "goalies": [
-    "Darcy Kuemper",
-    "Anton Forsberg"
-   ],
-   "scratched": [
-    "Samuel Helenius",
-    "Alex Turcotte"
-   ]
-  },
-  "2026-11-23:MIN": {
-   "article_updated": "2026-11-23T19:57:09.976Z",
-   "defense": [
-    [
-     "Jonas Brodin",
-     "Brock Faber"
-    ],
-    [
-     "Matt Kiersted",
-     "Jared Spurgeon"
-    ],
-    [
-     "Zach Bogosian",
-     "David Spacek"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Kirill Kaprizov",
-     "Joel Eriksson Ek",
-     "Matt Boldy"
-    ],
-    [
-     "Maxim Shabanov",
-     "Danila Yurov",
-     "Yakov Trenin"
-    ],
-    [
-     "Blake Coleman",
-     "Michael McCarron",
-     "Bobby Brink"
-    ],
-    [
-     "Marcus Foligno",
-     "Ryan Hartman",
-     "Nick Foligno"
-    ]
-   ],
-   "goalies": [
-    "Filip Gustavsson",
-    "Calvin Pickard"
-   ],
-   "scratched": [
-    "Nico Sturm",
-    "Jesper Wallstedt"
-   ]
-  },
-  "2026-11-23:MTL": {
-   "article_updated": "2026-11-23T18:33:44.965Z",
-   "defense": [
-    [
-     "Kaiden Guhle",
-     "Noah Dobson"
-    ],
-    [
-     "Lane Hutson",
-     "Alexandre Carrier"
-    ],
-    [
-     "Arber Xhekaj",
-     "Adam Engstrom"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Cole Caufield",
-     "Nick Suzuki",
-     "Alexandre Texier"
-    ],
-    [
-     "Alex Newhook",
-     "Dylan Larkin",
-     "Juraj Slafkovský"
-    ],
-    [
-     "Zachary Bolduc",
-     "Phillip Danault",
-     "Oliver Kapanen"
-    ],
-    [
-     "Florian Xhekaj",
-     "Jake Evans",
-     "Owen Beck"
-    ]
-   ],
-   "goalies": [
-    "Jakub Dobes",
-    "Jacob Fowler"
-   ],
-   "scratched": []
-  },
-  "2026-11-23:NJD": {
-   "article_updated": "2026-11-23T17:37:51.355Z",
-   "defense": [
-    [
-     "Luke Hughes",
-     "Brett Pesce"
-    ],
-    [
-     "Jonas Siegenthaler",
-     "Dougie Hamilton"
-    ],
-    [
-     "Declan Chisholm",
-     "Brenden Dillon"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Timo Meier",
-     "Jack Hughes",
-     "Connor Brown"
-    ],
-    [
-     "Arseny Gritsyuk",
-     "Nico Hischier",
-     "Jesper Bratt"
-    ],
-    [
-     "Evan Rodrigues",
-     "Amadeus Lombardi",
-     "Luke Evangelista"
-    ],
-    [
-     "Jesper Boqvist",
-     "Cody Glass",
-     "Stefan Noesen"
-    ]
-   ],
-   "goalies": [
-    "Connor Hellebuyck",
-    "Jake Allen"
-   ],
-   "scratched": [
-    "Lenni Hameenaho",
-    "Vladislav Kolyachonok"
-   ]
-  },
-  "2026-11-23:NYI": {
-   "article_updated": "2026-11-23T17:43:23.663Z",
-   "defense": [
-    [
-     "Adam Pelech",
-     "Matthew Schaefer"
-    ],
-    [
-     "Logan Stanley",
-     "Tony DeAngelo"
-    ],
-    [
-     "Ben Hutton",
-     "Matthew Kessel"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Simon Holmstrom",
-     "Bo Horvat",
-     "Kyle Palmieri"
-    ],
-    [
-     "Brayden Schenn",
-     "Mathew Barzal",
-     "Victor Eklund"
-    ],
-    [
-     "Matias Maccelli",
-     "Jean-Gabriel Pageau",
-     "Emil Heineman"
-    ],
-    [
-     "Ondrej Palat",
-     "Casey Cizikas",
-     "Anthony Duclair"
-    ]
-   ],
-   "goalies": [
-    "Ilya Sorokin",
-    "Semyon Varlamov"
-   ],
-   "scratched": [
-    "Mitchell Chaffee",
-    "Scott Mayfield"
-   ]
-  },
-  "2026-11-23:OTT": {
-   "article_updated": "2026-11-23T18:19:49.341Z",
-   "defense": [
-    [
-     "Jake Sanderson",
-     "Artem Zub"
-    ],
-    [
-     "Thomas Chabot",
-     "Jordan Spence"
-    ],
-    [
-     "Tyler Kleven",
-     "Nikolas Matinpalo"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Fabian Zetterlund",
-     "Tim Stützle",
-     "Dylan Cozens"
-    ],
-    [
-     "Philip Tomasino",
-     "Shane Pinto",
-     "Drake Batherson"
-    ],
-    [
-     "Michael Amadio",
-     "Ridly Greig",
-     "Claude Giroux"
-    ],
-    [
-     "Sammy Blais",
-     "Stephen Halliday",
-     "Nick Cousins"
-    ]
-   ],
-   "goalies": [
-    "Linus Ullmark",
-    "Samuel Ersson"
-   ],
-   "scratched": [
-    "Carter Yakemchuk",
-    "Tyler Boucher"
-   ]
-  },
-  "2026-11-23:SEA": {
-   "article_updated": "2026-11-23T20:43:44.275Z",
-   "defense": [
-    [
-     "Vince Dunn",
-     "Adam Larsson"
-    ],
-    [
-     "Ryker Evans",
-     "Brandon Montour"
-    ],
-    [
-     "Ryan Lindgren",
-     "Ville Ottavainen"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Bobby McMann",
-     "Berkly Catton",
-     "Jordan Eberle"
-    ],
-    [
-     "Kaapo Kakko",
-     "Matty Beniers",
-     "Mackie Samoskevich"
-    ],
-    [
-     "Frederick Gaudreau",
-     "Chandler Stephenson",
-     "Ryan Winterton"
-    ],
-    [
-     "Matthew Wood",
-     "Ben Meyers",
-     "Jacob Melanson"
-    ]
-   ],
-   "goalies": [
-    "Joey Daccord",
-    "Philipp Grubauer"
-   ],
-   "scratched": [
-    "Cale Fleury",
-    "Ville Ottavainen",
-    "Curtis Douglas"
-   ]
-  },
-  "2026-11-23:SJS": {
-   "article_updated": "2026-11-23T19:57:09.976Z",
-   "defense": [
-    [
-     "Darnell Nurse",
-     "Michael Kesselring"
-    ],
-    [
-     "Nolan Allan",
-     "Sam Dickinson"
-    ],
-    [
-     "Dmitry Orlov",
-     "Eric Pohlkamp"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Ivar Stenberg",
-     "Macklin Celebrini",
-     "Will Smith"
-    ],
-    [
-     "Michael Misa",
-     "Alexander Wennberg",
-     "Tyler Toffoli"
-    ],
-    [
-     "Mason Marchment",
-     "Ty Dellandrea",
-     "Adam Gaudette"
-    ],
-    [
-     "Barclay Goodrow",
-     "Zack Ostapchuk",
-     "Brett Leason"
-    ]
-   ],
-   "goalies": [
-    "Yaroslav Askarov",
-    "Alex Nedeljkovic"
-   ],
-   "scratched": [
-    "Collin Graf",
-    "Libor Hajek"
-   ]
-  },
-  "2026-11-23:TOR": {
-   "article_updated": "2026-11-23T17:43:23.663Z",
-   "defense": [
-    [
-     "Jake McCabe",
-     "Darren Raddysh"
-    ],
-    [
-     "Oliver Ekman-Larsson",
-     "Chris Tanev"
-    ],
-    [
-     "Morgan Rielly",
-     "Troy Stecher"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Easton Cowan",
-     "Auston Matthews",
-     "Jack Roslovic"
-    ],
-    [
-     "Nick Paul",
-     "John Tavares",
-     "Gavin McKenna"
-    ],
-    [
-     "Dakota Joshua",
-     "Teddy Blueger",
-     "William Nylander"
-    ],
-    [
-     "Brandon Duhaime",
-     "Aatu Räty",
-     "Zack MacEwen"
-    ]
-   ],
-   "goalies": [
-    "Anthony Stolarz",
-    "Sergei Bobrovsky"
-   ],
-   "scratched": [
-    "Cole McWard",
-    "Brendan Brisson",
-    "Ryan Tverberg"
-   ]
-  },
-  "2026-11-23:UTA": {
-   "article_updated": "2026-11-23T18:19:49.341Z",
-   "defense": [
-    [
-     "Mikhail Sergachev",
-     "Andrew Peeke"
-    ],
-    [
-     "Dmitri Simashev",
-     "MacKenzie Weegar"
-    ],
-    [
-     "Zac Jones",
-     "Nick DeSimone"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Logan Cooley",
-     "Vincent Trocheck",
-     "Clayton Keller"
-    ],
-    [
-     "Anders Lee",
-     "Barrett Hayton",
-     "Kailer Yamamoto"
-    ],
-    [
-     "Ben McCartney",
-     "Jack McBain",
-     "Lawson Crouse"
-    ],
-    [
-     "Liam O'Brien",
-     "Kevin Stenlund",
-     "Daniil But"
-    ]
-   ],
-   "goalies": [
-    "Sebastian Cossa",
-    "Karel Vejmelka"
-   ],
-   "scratched": [
-    "Ben McCartney",
-    "Gregor Biber"
-   ]
-  },
-  "2026-11-23:WPG": {
-   "article_updated": "2026-11-23T18:19:49.341Z",
-   "defense": [
-    [
-     "Josh Morrissey",
-     "Elias Salomonsson"
-    ],
-    [
-     "Dylan Samberg",
-     "Neal Pionk"
-    ],
-    [
-     "Mario Ferraro",
-     "Henry Thrun"
-    ]
-   ],
-   "extra": [],
-   "forwards": [
-    [
-     "Kyle Connor",
-     "Mark Scheifele",
-     "Gabriel Vilardi"
-    ],
-    [
-     "Cole Perfetti",
-     "Brayden Yager",
-     "Dawson Mercer"
-    ],
-    [
-     "Morgan Barron",
-     "Adam Lowry",
-     "Viggo Björck"
-    ],
-    [
-     "Alex Iafallo",
-     "Danil Zhilkin",
-     "Tyrel Bauer"
-    ]
-   ],
-   "goalies": [
-    "Stuart Skinner",
-    "Nico Daws"
-   ],
-   "scratched": [
-    "Haydn Fleury",
-    "Nino Niederreiter",
-    "Cole Koepke"
-   ]
-  },
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
    "defense": [
@@ -2210,10 +1538,1068 @@
     "Ethen Frank",
     "Justin Holl"
    ]
+  },
+  "2026-11-27:ANA": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Jackson LaCombe",
+     "Drew Helleson"
+    ],
+    [
+     "Stian Solberg",
+     "Tristan Luneau"
+    ],
+    [
+     "Pavel Mintyukov",
+     "Ian Moore"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Alex Killorn",
+     "Mikael Granlund",
+     "Troy Terry"
+    ],
+    [
+     "Cutter Gauthier",
+     "Roger McQueen",
+     "Beckett Sennecke"
+    ],
+    [
+     "Jeff Malott",
+     "Tim Washe",
+     "Judd Caulfield"
+    ],
+    [
+     "Frank Vatrano",
+     "Nikita Nesterenko",
+     "Nico Myatovic"
+    ]
+   ],
+   "goalies": [
+    "Laurent Brossoit",
+    "Lukas Dostal"
+   ],
+   "scratched": [
+    "Tyson Hinds",
+    "Ville Husso",
+    "Sam Colangelo"
+   ]
+  },
+  "2026-11-27:BOS": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Hampus Lindholm",
+     "Charlie McAvoy"
+    ],
+    [
+     "Nikita Zadorov",
+     "Will Borgen"
+    ],
+    [
+     "Mason Lohrei",
+     "Connor Clifton"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Morgan Geekie",
+     "Elias Lindholm",
+     "David Pastrnak"
+    ],
+    [
+     "Casey Mittelstadt",
+     "Pavel Zacha",
+     "JJ Peterka"
+    ],
+    [
+     "Marat Khusnutdinov",
+     "Fraser Minten",
+     "Matthew Poitras"
+    ],
+    [
+     "Tanner Jeannot",
+     "Sean Kuraly",
+     "Mark Kastelic"
+    ]
+   ],
+   "goalies": [
+    "Jeremy Swayman",
+    "Michael DiPietro"
+   ],
+   "scratched": [
+    "Frederic Brunet",
+    "Jonathan Aspirot",
+    "Michael Eyssimont"
+   ]
+  },
+  "2026-11-27:CBJ": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Zach Werenski",
+     "Damon Severson"
+    ],
+    [
+     "Ivan Provorov",
+     "Dante Fabbro"
+    ],
+    [
+     "Jake Christiansen",
+     "Erik Gudbranson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Valeri Nichushkin",
+     "Adam Fantilli",
+     "Charlie Coyle"
+    ],
+    [
+     "Matthew Knies",
+     "Luca Del Bel Belluz",
+     "Kent Johnson"
+    ],
+    [
+     "Sean Monahan",
+     "Cole Sillinger",
+     "Jack Williams"
+    ],
+    [
+     "Ryan Lomberg",
+     "Isac Lundeström",
+     "Mikael Pyyhtia"
+    ]
+   ],
+   "goalies": [
+    "Jet Greaves",
+    "Cam Talbot"
+   ],
+   "scratched": [
+    "Dmitri Voronkov"
+   ]
+  },
+  "2026-11-27:CGY": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Jake Middleton",
+     "Zach Whitecloud"
+    ],
+    [
+     "Joel Hanley",
+     "Simon Nemec"
+    ],
+    [
+     "Yan Kuznetsov",
+     "Zayne Parekh"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Yegor Sharangovich",
+     "Mikael Backlund",
+     "Matt Coronato"
+    ],
+    [
+     "Joel Farabee",
+     "Ryan Strome",
+     "Adam Klapka"
+    ],
+    [
+     "Matvei Gridin",
+     "Jonathan Castagna",
+     "Aydar Suniev"
+    ],
+    [
+     "Brennan Othmann",
+     "Sam Morton",
+     "Maxim Tsyplakov"
+    ]
+   ],
+   "goalies": [
+    "Dustin Wolf",
+    "Devin Cooley"
+   ],
+   "scratched": [
+    "Brayden Pachal"
+   ]
+  },
+  "2026-11-27:CHI": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Alex Vlasic",
+     "Sam Rinzel"
+    ],
+    [
+     "Ian Cole",
+     "Artyom Levshunov"
+    ],
+    [
+     "Kevin Korchinski",
+     "Ethan Del Mastro"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Oliver Moore",
+     "Frank Nazar",
+     "Patrick Kane"
+    ],
+    [
+     "Ryan Donato",
+     "Roman Kantserov",
+     "Tyler Bertuzzi"
+    ],
+    [
+     "Ryan Greene",
+     "Anton Frondell",
+     "Teuvo Teravainen"
+    ],
+    [
+     "Cole Smith",
+     "Luke Glendening",
+     "Jordan Greenway"
+    ]
+   ],
+   "goalies": [
+    "Drew Commesso",
+    "Spencer Knight"
+   ],
+   "scratched": [
+    "Andrew Mangiapane",
+    "Dominic Toninato"
+   ]
+  },
+  "2026-11-27:DAL": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Esa Lindell",
+     "Miro Heiskanen"
+    ],
+    [
+     "Thomas Harley",
+     "Nils Lundkvist"
+    ],
+    [
+     "Kyle Burroughs",
+     "Tyler Myers"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Sam Steel",
+     "Roope Hintz",
+     "Mikko Rantanen"
+    ],
+    [
+     "Jason Robertson",
+     "Wyatt Johnston",
+     "Arttu Hyry"
+    ],
+    [
+     "Tyler Seguin",
+     "Justin Hryckowian",
+     "Jamie Benn"
+    ],
+    [
+     "Joel Kiviranta",
+     "Radek Faksa",
+     "David Perron"
+    ]
+   ],
+   "goalies": [
+    "Jake Oettinger",
+    "Casey DeSmith"
+   ],
+   "scratched": [
+    "Colin Blackwell",
+    "Trey Taylor"
+   ]
+  },
+  "2026-11-27:DET": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Ben Chiarot",
+     "Moritz Seider"
+    ],
+    [
+     "Albert Johansson",
+     "Justin Faulk"
+    ],
+    [
+     "Andreas Englund",
+     "Anton Johansson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Alex DeBrincat",
+     "Andrew Copp",
+     "Lucas Raymond"
+    ],
+    [
+     "Marco Kasper",
+     "Emmitt Finnie",
+     "Viktor Arvidsson"
+    ],
+    [
+     "Michael Brandsegg-Nygård",
+     "Kirby Dach",
+     "J.T. Compher"
+    ],
+    [
+     "Carter Mazur",
+     "Michael Rasmussen",
+     "Keegan Kolesar"
+    ]
+   ],
+   "goalies": [
+    "John Gibson",
+    "Daniil Tarasov"
+   ],
+   "scratched": [
+    "Jacob Bernard-Docker",
+    "Mason Appleton"
+   ]
+  },
+  "2026-11-27:FLA": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Gustav Forsling",
+     "Aaron Ekblad"
+    ],
+    [
+     "Niko Mikkola",
+     "Seth Jones"
+    ],
+    [
+     "Dmitry Kulikov",
+     "Radko Gudas"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Carter Verhaeghe",
+     "Aleksander Barkov",
+     "Sam Reinhart"
+    ],
+    [
+     "Brady Tkachuk",
+     "Anton Lundell",
+     "Matthew Tkachuk"
+    ],
+    [
+     "Eetu Luostarinen",
+     "Sam Bennett",
+     "Brad Marchand"
+    ],
+    [
+     "Garnet Hathaway",
+     "Lars Eller",
+     "Sandis Vilmanis"
+    ]
+   ],
+   "goalies": [
+    "Jacob Markstrom",
+    "Akira Schmid"
+   ],
+   "scratched": [
+    "Uvis Balinskis",
+    "Bokondji Imama"
+   ]
+  },
+  "2026-11-27:LAK": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Mikey Anderson",
+     "Drew Doughty"
+    ],
+    [
+     "Brian Dumoulin",
+     "Brandt Clarke"
+    ],
+    [
+     "Joel Edmundson",
+     "Cody Ceci"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Artemi Panarin",
+     "Alex Laferriere",
+     "Adrian Kempe"
+    ],
+    [
+     "Kevin Fiala",
+     "Quinton Byfield",
+     "Mats Zuccarello"
+    ],
+    [
+     "Trevor Moore",
+     "Erik Haula",
+     "Joel Armia"
+    ],
+    [
+     "Andre Lee",
+     "Alex Turcotte",
+     "Corey Perry"
+    ]
+   ],
+   "goalies": [
+    "Darcy Kuemper",
+    "Anton Forsberg"
+   ],
+   "scratched": [
+    "Scott Laughton",
+    "Samuel Helenius",
+    "Kirill Kirsanov"
+   ]
+  },
+  "2026-11-27:NJD": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Luke Hughes",
+     "Brett Pesce"
+    ],
+    [
+     "Jonas Siegenthaler",
+     "Dougie Hamilton"
+    ],
+    [
+     "Declan Chisholm",
+     "Vladislav Kolyachonok"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Timo Meier",
+     "Jack Hughes",
+     "Connor Brown"
+    ],
+    [
+     "Arseny Gritsyuk",
+     "Nico Hischier",
+     "Jesper Bratt"
+    ],
+    [
+     "Evan Rodrigues",
+     "Amadeus Lombardi",
+     "Luke Evangelista"
+    ],
+    [
+     "Jesper Boqvist",
+     "Cody Glass",
+     "Stefan Noesen"
+    ]
+   ],
+   "goalies": [
+    "Connor Hellebuyck",
+    "Jake Allen"
+   ],
+   "scratched": [
+    "Lenni Hameenaho"
+   ]
+  },
+  "2026-11-27:NSH": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Roman Josi",
+     "Adam Wilsby"
+    ],
+    [
+     "Brady Skjei",
+     "Nick Perbix"
+    ],
+    [
+     "Nicolas Hague",
+     "Jayden Struble"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Steven Stamkos",
+     "Ryan O'Reilly",
+     "Mavrik Bourque"
+    ],
+    [
+     "Filip Forsberg",
+     "Shane Wright",
+     "Nils Hoglander"
+    ],
+    [
+     "Reid Schaefer",
+     "Alexander Kerfoot",
+     "Jonathan Marchessault"
+    ],
+    [
+     "Ross Colton",
+     "Jack Drury",
+     "Adam Edstrom"
+    ]
+   ],
+   "goalies": [
+    "Justus Annunen",
+    "Juuse Saros"
+   ],
+   "scratched": [
+    "Daemon Hunt",
+    "Ilya Lyubushkin",
+    "Vitali Pinchuk"
+   ]
+  },
+  "2026-11-27:NYR": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Vladislav Gavrikov",
+     "Adam Fox"
+    ],
+    [
+     "Marcus Pettersson",
+     "Sean Durzi"
+    ],
+    [
+     "Braden Schneider",
+     "Scott Morrow"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Will Cuylle",
+     "Mika Zibanejad",
+     "Alexis Lafrenière"
+    ],
+    [
+     "Tye Kartye",
+     "J.T. Miller",
+     "Matt Rempe"
+    ],
+    [
+     "Eeli Tolvanen",
+     "Noah Laba",
+     "Jaroslav Chmelar"
+    ],
+    [
+     "Glenn Gawdin",
+     "Max Sasson",
+     "Taylor Raddysh"
+    ]
+   ],
+   "goalies": [
+    "Dylan Garand",
+    "Joonas Korpisalo"
+   ],
+   "scratched": [
+    "Matthew Robertson",
+    "Juuso Parssinen"
+   ]
+  },
+  "2026-11-27:OTT": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Jake Sanderson",
+     "Artem Zub"
+    ],
+    [
+     "Thomas Chabot",
+     "Jordan Spence"
+    ],
+    [
+     "Tyler Kleven",
+     "Nikolas Matinpalo"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Fabian Zetterlund",
+     "Tim Stützle",
+     "Dylan Cozens"
+    ],
+    [
+     "Philip Tomasino",
+     "Shane Pinto",
+     "Drake Batherson"
+    ],
+    [
+     "Michael Amadio",
+     "Ridly Greig",
+     "Claude Giroux"
+    ],
+    [
+     "Sammy Blais",
+     "Stephen Halliday",
+     "Nick Cousins"
+    ]
+   ],
+   "goalies": [
+    "Samuel Ersson",
+    "Linus Ullmark"
+   ],
+   "scratched": [
+    "Carter Yakemchuk",
+    "Tyler Boucher"
+   ]
+  },
+  "2026-11-27:PHI": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Travis Sanheim",
+     "Rasmus Ristolainen"
+    ],
+    [
+     "Cam York",
+     "Jamie Drysdale"
+    ],
+    [
+     "Nick Seeler",
+     "Oliver Bonk"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Tyson Foerster",
+     "Christian Dvorak",
+     "Travis Konecny"
+    ],
+    [
+     "Owen Tippett",
+     "Denver Barkey",
+     "Porter Martone"
+    ],
+    [
+     "Cole Knuble",
+     "Noah Cates",
+     "Matvei Michkov"
+    ],
+    [
+     "Trevor Zegras",
+     "Sean Couturier",
+     "Noel Acciari"
+    ]
+   ],
+   "goalies": [
+    "Dan Vladar",
+    "Joseph Woll"
+   ],
+   "scratched": [
+    "David Jiricek",
+    "Simon Benoit",
+    "Michael Bunting"
+   ]
+  },
+  "2026-11-27:SJS": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Darnell Nurse",
+     "Eric Pohlkamp"
+    ],
+    [
+     "Nolan Allan",
+     "Sam Dickinson"
+    ],
+    [
+     "Dmitry Orlov",
+     "Michael Kesselring"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Ivar Stenberg",
+     "Macklin Celebrini",
+     "Will Smith"
+    ],
+    [
+     "Michael Misa",
+     "Alexander Wennberg",
+     "Tyler Toffoli"
+    ],
+    [
+     "Mason Marchment",
+     "Ty Dellandrea",
+     "Collin Graf"
+    ],
+    [
+     "Barclay Goodrow",
+     "Zack Ostapchuk",
+     "Adam Gaudette"
+    ]
+   ],
+   "goalies": [
+    "Yaroslav Askarov",
+    "Alex Nedeljkovic"
+   ],
+   "scratched": [
+    "Luca Cagnoni",
+    "Cam Lund"
+   ]
+  },
+  "2026-11-27:STL": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Philip Broberg",
+     "Logan Mailloux"
+    ],
+    [
+     "Cam Fowler",
+     "Colton Parayko"
+    ],
+    [
+     "Justin Barron",
+     "Adam Jiricek"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake Neighbours",
+     "Robert Thomas",
+     "Dylan Holloway"
+    ],
+    [
+     "Otto Stenberg",
+     "Mason McTavish",
+     "Dalibor Dvorsky"
+    ],
+    [
+     "Aleksanteri Kaskimaki",
+     "Pius Suter",
+     "Jonatan Berggren"
+    ],
+    [
+     "Alexey Toropchenko",
+     "Nathan Walker",
+     "Ross Johnston"
+    ]
+   ],
+   "goalies": [
+    "Joel Hofer",
+    "Jordan Binnington"
+   ],
+   "scratched": [
+    "Calle Rosen"
+   ]
+  },
+  "2026-11-27:TBL": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Charle-Edouard D'Astous",
+     "John Carlson"
+    ],
+    [
+     "Ryan McDonagh",
+     "Erik Cernak"
+    ],
+    [
+     "Victor Hedman",
+     "J.J. Moser"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Brandon Hagel",
+     "Anthony Cirelli",
+     "Nikita Kucherov"
+    ],
+    [
+     "Jake Guentzel",
+     "Brayden Point",
+     "Yanni Gourde"
+    ],
+    [
+     "Ilya Mikheyev",
+     "Zemgus Girgensons",
+     "Gage Goncalves"
+    ],
+    [
+     "Jeffrey Viel",
+     "Sam O'Reilly",
+     "Scott Sabourin"
+    ]
+   ],
+   "goalies": [
+    "Dennis Hildeby",
+    "Andrei Vasilevskiy"
+   ],
+   "scratched": [
+    "Max Crozier",
+    "Emil Lilleberg"
+   ]
+  },
+  "2026-11-27:TOR": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Jake McCabe",
+     "Darren Raddysh"
+    ],
+    [
+     "Oliver Ekman-Larsson",
+     "Chris Tanev"
+    ],
+    [
+     "Morgan Rielly",
+     "Troy Stecher"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Nick Paul",
+     "Auston Matthews",
+     "Kirill Marchenko"
+    ],
+    [
+     "Gavin McKenna",
+     "John Tavares",
+     "Colton Sissons"
+    ],
+    [
+     "Easton Cowan",
+     "Aatu Räty",
+     "William Nylander"
+    ],
+    [
+     "Brandon Duhaime",
+     "Teddy Blueger",
+     "Dakota Joshua"
+    ]
+   ],
+   "goalies": [
+    "Anthony Stolarz",
+    "Sergei Bobrovsky"
+   ],
+   "scratched": [
+    "Cole McWard",
+    "Zack MacEwen",
+    "Dakota Mermis"
+   ]
+  },
+  "2026-11-27:UTA": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Mikhail Sergachev",
+     "Andrew Peeke"
+    ],
+    [
+     "Dmitri Simashev",
+     "MacKenzie Weegar"
+    ],
+    [
+     "Zac Jones",
+     "Nick DeSimone"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Clayton Keller",
+     "Vincent Trocheck",
+     "Lawson Crouse"
+    ],
+    [
+     "Anders Lee",
+     "Logan Cooley",
+     "Dylan Guenther"
+    ],
+    [
+     "Jack McBain",
+     "Barrett Hayton",
+     "Kailer Yamamoto"
+    ],
+    [
+     "Liam O'Brien",
+     "Kevin Stenlund",
+     "Daniil But"
+    ]
+   ],
+   "goalies": [
+    "Sebastian Cossa",
+    "Karel Vejmelka"
+   ],
+   "scratched": [
+    "Ben McCartney",
+    "Gregor Biber"
+   ]
+  },
+  "2026-11-27:VAN": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Zeev Buium",
+     "Filip Hronek"
+    ],
+    [
+     "Elias Pettersson",
+     "Tom Willander"
+    ],
+    [
+     "Jamie Oleksiak",
+     "Luke Schenn"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Jake DeBrusk",
+     "Filip Chytil",
+     "Brock Boeser"
+    ],
+    [
+     "Liam Ohgren",
+     "Marco Rossi",
+     "Jonathan Lekkerimäki"
+    ],
+    [
+     "Drew O'Connor",
+     "Ty Mueller",
+     "Linus Karlsson"
+    ],
+    [
+     "Cole Reinhardt",
+     "Jacob Quillan",
+     "Paul Cotter"
+    ]
+   ],
+   "goalies": [
+    "Leevi Meriläinen",
+    "Kevin Lankinen"
+   ],
+   "scratched": [
+    "Cameron Crotty",
+    "Arshdeep Bains"
+   ]
+  },
+  "2026-11-27:VGK": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Brayden McNabb",
+     "Shea Theodore"
+    ],
+    [
+     "Jeremy Lauzon",
+     "Rasmus Andersson"
+    ],
+    [
+     "Parker Wotherspoon",
+     "Dylan Coghlan"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Brett Howden",
+     "Jack Eichel",
+     "Mark Stone"
+    ],
+    [
+     "Trevor Connelly",
+     "William Karlsson",
+     "Mitch Marner"
+    ],
+    [
+     "Ivan Barbashev",
+     "Tomas Hertl",
+     "Victor Olofsson"
+    ],
+    [
+     "Braeden Bowman",
+     "Nic Dowd",
+     "Marc Gatcomb"
+    ]
+   ],
+   "goalies": [
+    "Carter Hart",
+    "Adin Hill"
+   ],
+   "scratched": [
+    "Lukas Cromier",
+    "Raphael Lavoie"
+   ]
+  },
+  "2026-11-27:WSH": {
+   "article_updated": "2026-11-27T14:01:47.165Z",
+   "defense": [
+    [
+     "Jakob Chychrun",
+     "Matt Roy"
+    ],
+    [
+     "Martin Fehérváry",
+     "Timothy Liljegren"
+    ],
+    [
+     "Cole Hutson",
+     "Jack St. Ivany"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Aliaksei Protas",
+     "Pierre-Luc Dubois",
+     "Tom Wilson"
+    ],
+    [
+     "Ryan Leonard",
+     "Ilya Protas",
+     "Alex Tuch"
+    ],
+    [
+     "Alex Ovechkin",
+     "Dylan Strome",
+     "Anthony Beauvillier"
+    ],
+    [
+     "Boone Jenner",
+     "Justin Sourdif",
+     "Ivan Miroshnichenko"
+    ]
+   ],
+   "goalies": [
+    "Logan Thompson",
+    "Charlie Lindgren"
+   ],
+   "scratched": [
+    "Ethen Frank",
+    "Justin Holl"
+   ]
   }
  },
  "rosters": {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "teams": {
    "ANA": [
     [
@@ -4061,6 +4447,10 @@
    ],
    "UTA": [
     [
+     "Yegor Borikov",
+     "R"
+    ],
+    [
      "Daniil But",
      "L"
     ],
@@ -4095,10 +4485,6 @@
     [
      "Jack McBain",
      "C"
-    ],
-    [
-     "Ben McCartney",
-     "L"
     ],
     [
      "Liam O'Brien",
