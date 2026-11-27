@@ -7235,6 +7235,50 @@
    }
   },
   "VGK": {
+   "dfo": {
+    "at": "2026-11-27T20:55:39+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "Hill",
+    "info_at": "2026-11-27T20:48:50+00:00",
+    "ref": "2126417992284242401",
+    "via": "@SinBinVegas"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
