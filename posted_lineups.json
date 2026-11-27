@@ -4434,6 +4434,52 @@
     "info_at": "2026-11-27T14:01:47+00:00"
    }
   },
+  "EDM": {
+   "dfo": {
+    "at": "2026-11-27T14:05:43+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Mukhamadullin",
+      "Walman"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Dach",
+      "Nugent-Hopkins",
+      "Kapanen"
+     ],
+     [
+      "Formenton",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Jones",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-25T18:13:34+00:00",
+    "ref": "2125654138788905219",
+    "via": "Bob Stauffer"
+   }
+  },
   "FLA": {
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
