@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T15:06:34.3Z",
+ "article_updated": "2026-11-27T15:15:07.03Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -2550,7 +2550,7 @@
    ]
   },
   "2026-11-27:WSH": {
-   "article_updated": "2026-11-27T14:01:47.165Z",
+   "article_updated": "2026-11-27T15:15:07.03Z",
    "defense": [
     [
      "Jakob Chychrun",
@@ -2562,7 +2562,7 @@
     ],
     [
      "Cole Hutson",
-     "Jack St. Ivany"
+     "Vincent Desharnais"
     ]
    ],
    "extra": [],
@@ -2594,7 +2594,8 @@
    ],
    "scratched": [
     "Ethen Frank",
-    "Justin Holl"
+    "Jack St. Ivany",
+    "Clay Stevenson"
    ]
   }
  },
