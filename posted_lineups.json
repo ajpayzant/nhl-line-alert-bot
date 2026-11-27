@@ -5183,6 +5183,39 @@
     "info_at": "2026-11-27T18:29:28+00:00"
    }
   },
+  "MTL": {
+   "gameday": {
+    "at": "2026-11-27T19:27:18+00:00",
+    "defense": [],
+    "extra": [],
+    "forwards": [
+     [
+      "Newhook",
+      "Suzuki",
+      "Slafkovský"
+     ],
+     [
+      "Caufield",
+      "Larkin",
+      "Demidov"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Evans"
+     ],
+     [
+      "Xhekaj",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-27T19:25:47+00:00",
+    "ref": "2126397089840267590",
+    "via": "@ArponBasu"
+   }
+  },
   "NJD": {
    "dfo": {
     "at": "2026-11-27T17:45:42+00:00",
