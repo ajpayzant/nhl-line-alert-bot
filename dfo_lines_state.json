@@ -173,11 +173,12 @@
       "Rinzel",
       "Smith",
       "Teravainen",
+      "Toninato",
       "Vlasic"
     ],
-    "signature": "[[[\"Donato\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Teravainen\"], [\"Smith\", \"Greene\", \"Mangiapane\"], [\"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Teravainen\"]]",
+    "signature": "[[[\"Donato\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Teravainen\"], [\"Smith\", \"Greene\", \"Mangiapane\"], [\"Toninato\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Teravainen\"]]",
     "source": "",
-    "updated_at": "2026-11-27T21:35:09.846Z"
+    "updated_at": "2026-11-27T21:35:28.854Z"
   },
   "COL": {
     "goalie": "Blackwood",
