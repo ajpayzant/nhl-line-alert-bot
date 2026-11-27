@@ -4171,6 +4171,50 @@
    }
   },
   "CAR": {
+   "dfo": {
+    "at": "2026-11-27T16:40:39+00:00",
+    "defense": [
+     [
+      "Slavin",
+      "Chatfield"
+     ],
+     [
+      "Miller",
+      "Walker"
+     ],
+     [
+      "Gostisbehere",
+      "Nikishin"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Svechnikov",
+      "Aho",
+      "Carrier"
+     ],
+     [
+      "Hall",
+      "Stankoven",
+      "Blake"
+     ],
+     [
+      "Martinook",
+      "Staal",
+      "Jarvis"
+     ],
+     [
+      "Robinson",
+      "Jankowski",
+      "Deslauriers"
+     ]
+    ],
+    "goalie": "Kochetkov",
+    "info_at": "2026-11-27T15:58:07+00:00",
+    "ref": "2126344829504532605",
+    "via": "Ryan Henkel"
+   },
    "gameday": {
     "at": "2026-11-27T16:02:26+00:00",
     "defense": [
@@ -4482,7 +4526,7 @@
   },
   "EDM": {
    "dfo": {
-    "at": "2026-11-27T14:05:43+00:00",
+    "at": "2026-11-27T16:40:39+00:00",
     "defense": [
      [
       "Ekholm",
@@ -4493,8 +4537,8 @@
       "Murphy"
      ],
      [
-      "Mukhamadullin",
-      "Walman"
+      "Walman",
+      "Emberson"
      ]
     ],
     "extra": [],
@@ -4521,8 +4565,8 @@
      ]
     ],
     "goalie": "Jarry",
-    "info_at": "2026-11-25T18:13:34+00:00",
-    "ref": "2125654138788905219",
+    "info_at": "2026-11-27T16:27:06+00:00",
+    "ref": "2126352121008361809",
     "via": "Bob Stauffer"
    }
   },
@@ -5318,6 +5362,52 @@
     ],
     "goalie": "Hart",
     "info_at": "2026-11-27T14:01:47+00:00"
+   }
+  },
+  "WPG": {
+   "dfo": {
+    "at": "2026-11-27T16:40:39+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-27T16:37:16+00:00",
+    "ref": "2126354680850595878",
+    "via": "Mitchell Clinton"
    }
   },
   "WSH": {

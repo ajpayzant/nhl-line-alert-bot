@@ -83,24 +83,24 @@
       "Blake",
       "Carrier",
       "Chatfield",
+      "Deslauriers",
       "Gostisbehere",
       "Hall",
       "Jankowski",
       "Jarvis",
-      "Kotkaniemi",
       "Martinook",
+      "Miller",
       "Nikishin",
       "Robinson",
       "Slavin",
       "Staal",
       "Stankoven",
       "Svechnikov",
-      "Valimaki",
       "Walker"
     ],
-    "signature": "[[[\"Carrier\", \"Aho\", \"Svechnikov\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Kotkaniemi\"]], [[\"Slavin\", \"Chatfield\"], [\"Valimaki\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Kochetkov\"], [\"Svechnikov\", \"Aho\", \"Blake\", \"Jarvis\", \"Gostisbehere\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020388",
-    "updated_at": "2026-11-26T14:27:57.505Z"
+    "signature": "[[[\"Svechnikov\", \"Aho\", \"Carrier\"], [\"Hall\", \"Stankoven\", \"Blake\"], [\"Martinook\", \"Staal\", \"Jarvis\"], [\"Robinson\", \"Jankowski\", \"Deslauriers\"]], [[\"Slavin\", \"Chatfield\"], [\"Miller\", \"Walker\"], [\"Gostisbehere\", \"Nikishin\"]], [\"Kochetkov\"], [\"Svechnikov\", \"Jarvis\", \"Blake\", \"Aho\", \"Gostisbehere\"]]",
+    "source": "https://x.com/RyanHenkel_/status/2126344829504532605",
+    "updated_at": "2026-11-27T16:39:30.280Z"
   },
   "CBJ": {
     "goalie": "Greaves",
@@ -265,6 +265,7 @@
       "Dickinson",
       "Draisaitl",
       "Ekholm",
+      "Emberson",
       "Formenton",
       "Frederic",
       "Jones",
@@ -272,16 +273,15 @@
       "Kapanen",
       "McDavid",
       "Michaels",
-      "Mukhamadullin",
       "Murphy",
       "Nugent-Hopkins",
       "Podkolzin",
       "Shea",
       "Walman"
     ],
-    "signature": "[[[\"Podkolzin\", \"McDavid\", \"Draisaitl\"], [\"Dach\", \"Nugent-Hopkins\", \"Kapanen\"], [\"Formenton\", \"Dickinson\", \"Joseph\"], [\"Jones\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Mukhamadullin\", \"Walman\"]], [\"Jarry\"], [\"Kapanen\", \"Nugent-Hopkins\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
-    "source": "https://x.com/Bob_Stauffer/status/2125654138788905219",
-    "updated_at": "2026-11-27T02:02:21.422Z"
+    "signature": "[[[\"Podkolzin\", \"McDavid\", \"Draisaitl\"], [\"Dach\", \"Nugent-Hopkins\", \"Kapanen\"], [\"Formenton\", \"Dickinson\", \"Joseph\"], [\"Jones\", \"Michaels\", \"Frederic\"]], [[\"Ekholm\", \"Bouchard\"], [\"Shea\", \"Murphy\"], [\"Walman\", \"Emberson\"]], [\"Jarry\"], [\"Kapanen\", \"Nugent-Hopkins\", \"Draisaitl\", \"McDavid\", \"Bouchard\"]]",
+    "source": "https://x.com/Bob_Stauffer/status/2126352121008361809?s=20",
+    "updated_at": "2026-11-27T16:36:38.011Z"
   },
   "FLA": {
     "goalie": "Markstrom",
@@ -796,8 +796,8 @@
       "Yager"
     ],
     "signature": "[[[\"Connor\", \"Scheifele\", \"Vilardi\"], [\"Perfetti\", \"Yager\", \"Mercer\"], [\"Iafallo\", \"Lowry\", \"Bj\\u00f6rck\"], [\"Koepke\", \"Barron\", \"Bauer\"]], [[\"Morrissey\", \"Salomonsson\"], [\"Samberg\", \"Pionk\"], [\"Ferraro\", \"Thrun\"]], [\"Skinner\"], [\"Vilardi\", \"Scheifele\", \"Perfetti\", \"Morrissey\", \"Connor\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020386",
-    "updated_at": "2026-11-26T14:24:16.235Z"
+    "source": "https://x.com/MitchellClinton/status/2126354680850595878",
+    "updated_at": "2026-11-27T16:40:11.987Z"
   },
   "WSH": {
     "goalie": "Thompson",
