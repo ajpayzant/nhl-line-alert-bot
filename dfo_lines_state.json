@@ -157,13 +157,13 @@
   "CHI": {
     "goalie": "Knight",
     "players": [
+      "Boucher",
       "Cole",
       "Del Mastro",
       "Donato",
       "Frondell",
       "Glendening",
       "Greene",
-      "Greenway",
       "Kantserov",
       "Korchinski",
       "Levshunov",
@@ -171,14 +171,14 @@
       "Moore",
       "Nazar",
       "Rinzel",
+      "Slaggert",
       "Smith",
       "Teravainen",
-      "Toninato",
       "Vlasic"
     ],
-    "signature": "[[[\"Donato\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Teravainen\"], [\"Smith\", \"Greene\", \"Mangiapane\"], [\"Toninato\", \"Glendening\", \"Greenway\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Teravainen\"]]",
-    "source": "",
-    "updated_at": "2026-11-27T21:35:28.854Z"
+    "signature": "[[[\"Donato\", \"Frondell\", \"Kantserov\"], [\"Moore\", \"Nazar\", \"Teravainen\"], [\"Boucher\", \"Greene\", \"Mangiapane\"], [\"Smith\", \"Glendening\", \"Slaggert\"]], [[\"Vlasic\", \"Rinzel\"], [\"Cole\", \"Levshunov\"], [\"Korchinski\", \"Del Mastro\"]], [\"Knight\"], [\"Kantserov\", \"Nazar\", \"Frondell\", \"Rinzel\", \"Teravainen\"]]",
+    "source": "https://x.com/JackBushman2/status/2126437584104726717?a=scq18aiCix3XRv-a5x0&s=20",
+    "updated_at": "2026-11-27T22:09:38.034Z"
   },
   "COL": {
     "goalie": "Blackwood",

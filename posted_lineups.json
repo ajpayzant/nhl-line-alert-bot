@@ -4747,7 +4747,7 @@
   },
   "CHI": {
    "dfo": {
-    "at": "2026-11-27T18:25:38+00:00",
+    "at": "2026-11-27T22:10:38+00:00",
     "defense": [
      [
       "Vlasic",
@@ -4765,29 +4765,30 @@
     "extra": [],
     "forwards": [
      [
+      "Donato",
+      "Frondell",
+      "Kantserov"
+     ],
+     [
       "Moore",
       "Nazar",
-      "Kane"
-     ],
-     [
-      "Donato",
-      "Kantserov",
-      "Bertuzzi"
-     ],
-     [
-      "Greene",
-      "Frondell",
       "Teravainen"
+     ],
+     [
+      "?Boucher",
+      "Greene",
+      "Mangiapane"
      ],
      [
       "Smith",
       "Glendening",
-      "Greenway"
+      "?Slaggert"
      ]
     ],
     "goalie": "Knight",
-    "info_at": "2026-11-27T18:22:41+00:00",
-    "via": "Vinnie Parise"
+    "info_at": "2026-11-27T22:06:42+00:00",
+    "ref": "2126437584104726717",
+    "via": "Jack Bushman"
    },
    "nhlcom": {
     "at": "2026-11-27T19:31:29+00:00",
