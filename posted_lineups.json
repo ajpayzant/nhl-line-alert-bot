@@ -4920,6 +4920,48 @@
     "info_at": "2026-11-27T17:29:33+00:00",
     "ref": "2126367839955067333",
     "via": "@Bob_Stauffer"
+   },
+   "nhlcom": {
+    "at": "2026-11-27T18:40:44+00:00",
+    "defense": [
+     [
+      "Ekholm",
+      "Bouchard"
+     ],
+     [
+      "Shea",
+      "Murphy"
+     ],
+     [
+      "Walman",
+      "Emberson"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Podkolzin",
+      "McDavid",
+      "Draisaitl"
+     ],
+     [
+      "Dach",
+      "Nugent-Hopkins",
+      "Kapanen"
+     ],
+     [
+      "Formenton",
+      "Dickinson",
+      "Joseph"
+     ],
+     [
+      "Jones",
+      "Michaels",
+      "Frederic"
+     ]
+    ],
+    "goalie": "Jarry",
+    "info_at": "2026-11-27T18:40:06+00:00"
    }
   },
   "FLA": {
@@ -5932,6 +5974,48 @@
     "info_at": "2026-11-27T17:38:11+00:00",
     "ref": "2126370011816284396",
     "via": "@Benton_Mike"
+   },
+   "nhlcom": {
+    "at": "2026-11-27T18:40:44+00:00",
+    "defense": [
+     [
+      "Dunn",
+      "Larsson"
+     ],
+     [
+      "Evans",
+      "Montour"
+     ],
+     [
+      "Lindgren",
+      "Mahura"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Stephenson",
+      "Catton",
+      "Eberle"
+     ],
+     [
+      "Kakko",
+      "Beniers",
+      "Samoskevich"
+     ],
+     [
+      "McMann",
+      "Gaudreau",
+      "Wood"
+     ],
+     [
+      "Winterton",
+      "Meyers",
+      "Melanson"
+     ]
+    ],
+    "goalie": "Grubauer",
+    "info_at": "2026-11-27T18:40:06+00:00"
    }
   },
   "SJS": {
@@ -5980,7 +6064,7 @@
   },
   "STL": {
    "dfo": {
-    "at": "2026-11-27T18:05:45+00:00",
+    "at": "2026-11-27T18:40:43+00:00",
     "defense": [
      [
       "Broberg",
@@ -6019,8 +6103,9 @@
      ]
     ],
     "goalie": "Hofer",
-    "info_at": "2026-11-27T17:57:26+00:00",
-    "via": "St. Louis Blues"
+    "info_at": "2026-11-27T18:35:43+00:00",
+    "ref": "2126384489794322728",
+    "via": "Matthew DeFranks"
    },
    "gameday": {
     "at": "2026-11-27T17:56:30+00:00",

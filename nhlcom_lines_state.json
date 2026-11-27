@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T18:29:28.414Z",
+ "article_updated": "2026-11-27T18:40:06.25Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -1970,6 +1970,53 @@
     "Mason Appleton"
    ]
   },
+  "2026-11-27:EDM": {
+   "article_updated": "2026-11-27T18:40:06.25Z",
+   "defense": [
+    [
+     "Mattias Ekholm",
+     "Evan Bouchard"
+    ],
+    [
+     "Ryan Shea",
+     "Connor Murphy"
+    ],
+    [
+     "Jake Walman",
+     "Ty Emberson"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Vasily Podkolzin",
+     "Connor McDavid",
+     "Leon Draisaitl"
+    ],
+    [
+     "Colton Dach",
+     "Ryan Nugent-Hopkins",
+     "Kasperi Kapanen"
+    ],
+    [
+     "Alex Formenton",
+     "Jason Dickinson",
+     "Mathieu Joseph"
+    ],
+    [
+     "Max Jones",
+     "Owen Michaels",
+     "Trent Frederic"
+    ]
+   ],
+   "goalies": [
+    "Tristan Jarry",
+    "Devon Levi"
+   ],
+   "scratched": [
+    "Shakir Mukhamadullin"
+   ]
+  },
   "2026-11-27:FLA": {
    "article_updated": "2026-11-27T17:35:10.447Z",
    "defense": [
@@ -2451,6 +2498,54 @@
     "Andrei Kuzmenko",
     "Spencer Stastney",
     "Justin Brazeau"
+   ]
+  },
+  "2026-11-27:SEA": {
+   "article_updated": "2026-11-27T18:40:06.25Z",
+   "defense": [
+    [
+     "Vince Dunn",
+     "Adam Larsson"
+    ],
+    [
+     "Ryker Evans",
+     "Brandon Montour"
+    ],
+    [
+     "Ryan Lindgren",
+     "Josh Mahura"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Chandler Stephenson",
+     "Berkly Catton",
+     "Jordan Eberle"
+    ],
+    [
+     "Kaapo Kakko",
+     "Matty Beniers",
+     "Mackie Samoskevich"
+    ],
+    [
+     "Bobby McMann",
+     "Frederick Gaudreau",
+     "Matthew Wood"
+    ],
+    [
+     "Ryan Winterton",
+     "Ben Meyers",
+     "Jacob Melanson"
+    ]
+   ],
+   "goalies": [
+    "Philipp Grubauer",
+    "Joey Daccord"
+   ],
+   "scratched": [
+    "Cale Fleury",
+    "Ville Ottavainen"
    ]
   },
   "2026-11-27:SJS": {
@@ -3812,6 +3907,116 @@
      "G"
     ]
    ],
+   "EDM": [
+    [
+     "Colton Dach",
+     "C"
+    ],
+    [
+     "Jason Dickinson",
+     "C"
+    ],
+    [
+     "Leon Draisaitl",
+     "C"
+    ],
+    [
+     "Alex Formenton",
+     "L"
+    ],
+    [
+     "Trent Frederic",
+     "C"
+    ],
+    [
+     "Filip Hallander",
+     "C"
+    ],
+    [
+     "Zach Hyman",
+     "L"
+    ],
+    [
+     "Mattias Janmark",
+     "C"
+    ],
+    [
+     "Max Jones",
+     "L"
+    ],
+    [
+     "Mathieu Joseph",
+     "R"
+    ],
+    [
+     "Kasperi Kapanen",
+     "R"
+    ],
+    [
+     "Connor McDavid",
+     "C"
+    ],
+    [
+     "Owen Michaels",
+     "R"
+    ],
+    [
+     "Ryan Nugent-Hopkins",
+     "C"
+    ],
+    [
+     "Vasily Podkolzin",
+     "R"
+    ],
+    [
+     "Matt Savoie",
+     "C"
+    ],
+    [
+     "Evan Bouchard",
+     "D"
+    ],
+    [
+     "Mattias Ekholm",
+     "D"
+    ],
+    [
+     "Ty Emberson",
+     "D"
+    ],
+    [
+     "Shakir Mukhamadullin",
+     "D"
+    ],
+    [
+     "Connor Murphy",
+     "D"
+    ],
+    [
+     "Alec Regula",
+     "D"
+    ],
+    [
+     "Ryan Shea",
+     "D"
+    ],
+    [
+     "Jake Walman",
+     "D"
+    ],
+    [
+     "Frederik Andersen",
+     "G"
+    ],
+    [
+     "Tristan Jarry",
+     "G"
+    ],
+    [
+     "Devon Levi",
+     "G"
+    ]
+   ],
    "FLA": [
     [
      "Aleksander Barkov",
@@ -4825,6 +5030,108 @@
     ],
     [
      "Arturs Silovs",
+     "G"
+    ]
+   ],
+   "SEA": [
+    [
+     "Matty Beniers",
+     "C"
+    ],
+    [
+     "Berkly Catton",
+     "C"
+    ],
+    [
+     "Curtis Douglas",
+     "C"
+    ],
+    [
+     "Jordan Eberle",
+     "R"
+    ],
+    [
+     "Frederick Gaudreau",
+     "C"
+    ],
+    [
+     "Kaapo Kakko",
+     "R"
+    ],
+    [
+     "Jared McCann",
+     "L"
+    ],
+    [
+     "Bobby McMann",
+     "C"
+    ],
+    [
+     "Jacob Melanson",
+     "R"
+    ],
+    [
+     "Ben Meyers",
+     "C"
+    ],
+    [
+     "Jake O'Brien",
+     "C"
+    ],
+    [
+     "Mackie Samoskevich",
+     "R"
+    ],
+    [
+     "Chandler Stephenson",
+     "C"
+    ],
+    [
+     "Ryan Winterton",
+     "C"
+    ],
+    [
+     "Matthew Wood",
+     "R"
+    ],
+    [
+     "Vince Dunn",
+     "D"
+    ],
+    [
+     "Ryker Evans",
+     "D"
+    ],
+    [
+     "Cale Fleury",
+     "D"
+    ],
+    [
+     "Adam Larsson",
+     "D"
+    ],
+    [
+     "Ryan Lindgren",
+     "D"
+    ],
+    [
+     "Josh Mahura",
+     "D"
+    ],
+    [
+     "Brandon Montour",
+     "D"
+    ],
+    [
+     "Ville Ottavainen",
+     "D"
+    ],
+    [
+     "Joey Daccord",
+     "G"
+    ],
+    [
+     "Philipp Grubauer",
      "G"
     ]
    ],
