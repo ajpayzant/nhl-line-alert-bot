@@ -5230,6 +5230,48 @@
     "info_at": "2026-11-27T15:41:16+00:00",
     "ref": "2126340590736470472",
     "via": "@ethan_sears"
+   },
+   "nhlcom": {
+    "at": "2026-11-27T17:59:28+00:00",
+    "defense": [
+     [
+      "Pelech",
+      "Schaefer"
+     ],
+     [
+      "Stanley",
+      "DeAngelo"
+     ],
+     [
+      "Hutton",
+      "Kessel"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Holmstrom",
+      "Horvat",
+      "Barzal"
+     ],
+     [
+      "Heineman",
+      "Schenn",
+      "Eklund"
+     ],
+     [
+      "Duclair",
+      "Pageau",
+      "Ritchie"
+     ],
+     [
+      "Palat",
+      "Cizikas",
+      "Maccelli"
+     ]
+    ],
+    "goalie": "Varlamov",
+    "info_at": "2026-11-27T17:58:45+00:00"
    }
   },
   "NYR": {
@@ -6158,6 +6200,48 @@
     "info_at": "2026-11-27T16:50:24+00:00",
     "ref": "2126357987766005989",
     "via": "@WiebesWorld"
+   },
+   "nhlcom": {
+    "at": "2026-11-27T17:59:28+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-27T17:58:45+00:00"
    }
   },
   "WSH": {

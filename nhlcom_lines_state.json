@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T17:43:23.17Z",
+ "article_updated": "2026-11-27T17:58:45.035Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -2068,6 +2068,54 @@
     "Vitali Pinchuk"
    ]
   },
+  "2026-11-27:NYI": {
+   "article_updated": "2026-11-27T17:58:45.035Z",
+   "defense": [
+    [
+     "Adam Pelech",
+     "Matthew Schaefer"
+    ],
+    [
+     "Logan Stanley",
+     "Tony DeAngelo"
+    ],
+    [
+     "Ben Hutton",
+     "Matthew Kessel"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Simon Holmstrom",
+     "Bo Horvat",
+     "Mathew Barzal"
+    ],
+    [
+     "Emil Heineman",
+     "Brayden Schenn",
+     "Victor Eklund"
+    ],
+    [
+     "Anthony Duclair",
+     "Jean-Gabriel Pageau",
+     "Calum Ritchie"
+    ],
+    [
+     "Ondrej Palat",
+     "Casey Cizikas",
+     "Matias Maccelli"
+    ]
+   ],
+   "goalies": [
+    "Semyon Varlamov",
+    "Ilya Sorokin"
+   ],
+   "scratched": [
+    "Mitchell Chaffee",
+    "Scott Mayfield"
+   ]
+  },
   "2026-11-27:NYR": {
    "article_updated": "2026-11-27T14:01:47.165Z",
    "defense": [
@@ -2547,6 +2595,54 @@
    "scratched": [
     "Lukas Cromier",
     "Raphael Lavoie"
+   ]
+  },
+  "2026-11-27:WPG": {
+   "article_updated": "2026-11-27T17:58:45.035Z",
+   "defense": [
+    [
+     "Josh Morrissey",
+     "Elias Salomonsson"
+    ],
+    [
+     "Dylan Samberg",
+     "Neal Pionk"
+    ],
+    [
+     "Mario Ferraro",
+     "Henry Thrun"
+    ]
+   ],
+   "extra": [],
+   "forwards": [
+    [
+     "Kyle Connor",
+     "Mark Scheifele",
+     "Gabriel Vilardi"
+    ],
+    [
+     "Cole Perfetti",
+     "Brayden Yager",
+     "Dawson Mercer"
+    ],
+    [
+     "Alex Iafallo",
+     "Adam Lowry",
+     "Viggo Björck"
+    ],
+    [
+     "Cole Koepke",
+     "Morgan Barron",
+     "Tyrel Bauer"
+    ]
+   ],
+   "goalies": [
+    "Stuart Skinner",
+    "Nico Daws"
+   ],
+   "scratched": [
+    "Haydn Fleury",
+    "Nino Niederreiter"
    ]
   },
   "2026-11-27:WSH": {
@@ -3700,6 +3796,108 @@
      "G"
     ]
    ],
+   "NYI": [
+    [
+     "Mathew Barzal",
+     "C"
+    ],
+    [
+     "Mitchell Chaffee",
+     "R"
+    ],
+    [
+     "Casey Cizikas",
+     "C"
+    ],
+    [
+     "Anthony Duclair",
+     "L"
+    ],
+    [
+     "Victor Eklund",
+     "R"
+    ],
+    [
+     "Emil Heineman",
+     "L"
+    ],
+    [
+     "Simon Holmstrom",
+     "R"
+    ],
+    [
+     "Bo Horvat",
+     "C"
+    ],
+    [
+     "Matias Maccelli",
+     "L"
+    ],
+    [
+     "Jean-Gabriel Pageau",
+     "C"
+    ],
+    [
+     "Ondrej Palat",
+     "L"
+    ],
+    [
+     "Kyle Palmieri",
+     "C"
+    ],
+    [
+     "Calum Ritchie",
+     "C"
+    ],
+    [
+     "Brayden Schenn",
+     "C"
+    ],
+    [
+     "Tony DeAngelo",
+     "D"
+    ],
+    [
+     "Ben Hutton",
+     "D"
+    ],
+    [
+     "Matthew Kessel",
+     "D"
+    ],
+    [
+     "Scott Mayfield",
+     "D"
+    ],
+    [
+     "Adam Pelech",
+     "D"
+    ],
+    [
+     "Ryan Pulock",
+     "D"
+    ],
+    [
+     "Alexander Romanov",
+     "D"
+    ],
+    [
+     "Matthew Schaefer",
+     "D"
+    ],
+    [
+     "Logan Stanley",
+     "D"
+    ],
+    [
+     "Ilya Sorokin",
+     "G"
+    ],
+    [
+     "Semyon Varlamov",
+     "G"
+    ]
+   ],
    "NYR": [
     [
      "Oliver Bjorkstrand",
@@ -4753,6 +4951,108 @@
     ],
     [
      "Adin Hill",
+     "G"
+    ]
+   ],
+   "WPG": [
+    [
+     "Morgan Barron",
+     "C"
+    ],
+    [
+     "Viggo Björck",
+     "C"
+    ],
+    [
+     "Kyle Connor",
+     "L"
+    ],
+    [
+     "Alex Iafallo",
+     "L"
+    ],
+    [
+     "Cole Koepke",
+     "L"
+    ],
+    [
+     "Adam Lowry",
+     "C"
+    ],
+    [
+     "Dawson Mercer",
+     "C"
+    ],
+    [
+     "Vladislav Namestnikov",
+     "C"
+    ],
+    [
+     "Nino Niederreiter",
+     "R"
+    ],
+    [
+     "Cole Perfetti",
+     "C"
+    ],
+    [
+     "Isak Rosen",
+     "R"
+    ],
+    [
+     "Mark Scheifele",
+     "C"
+    ],
+    [
+     "Gabriel Vilardi",
+     "C"
+    ],
+    [
+     "Brayden Yager",
+     "C"
+    ],
+    [
+     "Tyrel Bauer",
+     "D"
+    ],
+    [
+     "Dylan DeMelo",
+     "D"
+    ],
+    [
+     "Mario Ferraro",
+     "D"
+    ],
+    [
+     "Haydn Fleury",
+     "D"
+    ],
+    [
+     "Josh Morrissey",
+     "D"
+    ],
+    [
+     "Neal Pionk",
+     "D"
+    ],
+    [
+     "Elias Salomonsson",
+     "D"
+    ],
+    [
+     "Dylan Samberg",
+     "D"
+    ],
+    [
+     "Henry Thrun",
+     "D"
+    ],
+    [
+     "Nico Daws",
+     "G"
+    ],
+    [
+     "Stuart Skinner",
      "G"
     ]
    ],
