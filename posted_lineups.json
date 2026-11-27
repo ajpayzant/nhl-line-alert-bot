@@ -7279,6 +7279,50 @@
     "ref": "2126417992284242401",
     "via": "@SinBinVegas"
    },
+   "gameday": {
+    "at": "2026-11-27T20:56:33+00:00",
+    "defense": [
+     [
+      "McNabb",
+      "Theodore"
+     ],
+     [
+      "Lauzon",
+      "Andersson"
+     ],
+     [
+      "Wotherspoon",
+      "Coghlan"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Howden",
+      "Eichel",
+      "Stone"
+     ],
+     [
+      "Connelly",
+      "Karlsson",
+      "Marner"
+     ],
+     [
+      "Barbashev",
+      "Hertl",
+      "Olofsson"
+     ],
+     [
+      "Bowman",
+      "Dowd",
+      "Gatcomb"
+     ]
+    ],
+    "goalie": "Hart",
+    "info_at": "2026-11-27T20:50:01+00:00",
+    "ref": "2126418286611177523",
+    "via": "@SinBinVegas"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
