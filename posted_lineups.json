@@ -5055,6 +5055,52 @@
     "info_at": "2026-11-27T14:01:47+00:00"
    }
   },
+  "PIT": {
+   "gameday": {
+    "at": "2026-11-27T16:56:28+00:00",
+    "defense": [
+     [
+      "Korczak",
+      "Karlsson"
+     ],
+     [
+      "Girard",
+      "van Riemsdyk"
+     ],
+     [
+      "Carlile",
+      "Letang"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Rakell",
+      "Crosby",
+      "Malkin"
+     ],
+     [
+      "Novak",
+      "Kindel",
+      "Hayes"
+     ],
+     [
+      "McGroarty",
+      "Lapierre",
+      "Koivunen"
+     ],
+     [
+      "Dewar",
+      "Lizotte",
+      "?Calvert"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-27T16:51:18+00:00",
+    "ref": "2126358211372442053",
+    "via": "@PensInsideScoop"
+   }
+  },
   "SEA": {
    "dfo": {
     "at": "2026-11-27T13:40:38+00:00",
@@ -5452,6 +5498,50 @@
     "info_at": "2026-11-27T16:37:16+00:00",
     "ref": "2126354680850595878",
     "via": "Mitchell Clinton"
+   },
+   "gameday": {
+    "at": "2026-11-27T16:56:27+00:00",
+    "defense": [
+     [
+      "Morrissey",
+      "Salomonsson"
+     ],
+     [
+      "Samberg",
+      "Pionk"
+     ],
+     [
+      "Ferraro",
+      "Thrun"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Connor",
+      "Scheifele",
+      "Vilardi"
+     ],
+     [
+      "Perfetti",
+      "Yager",
+      "Mercer"
+     ],
+     [
+      "Iafallo",
+      "Lowry",
+      "Björck"
+     ],
+     [
+      "Koepke",
+      "Barron",
+      "Bauer"
+     ]
+    ],
+    "goalie": "Skinner",
+    "info_at": "2026-11-27T16:50:24+00:00",
+    "ref": "2126357987766005989",
+    "via": "@WiebesWorld"
    }
   },
   "WSH": {
