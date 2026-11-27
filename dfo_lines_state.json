@@ -209,6 +209,7 @@
   "DAL": {
     "goalie": "Oettinger",
     "players": [
+      "Back",
       "Benn",
       "Burroughs",
       "Faksa",
@@ -218,7 +219,6 @@
       "Hryckowian",
       "Hyry",
       "Johnston",
-      "Kiviranta",
       "Lindell",
       "Lundkvist",
       "Myers",
@@ -228,9 +228,9 @@
       "Seguin",
       "Steel"
     ],
-    "signature": "[[[\"Steel\", \"Hintz\", \"Rantanen\"], [\"Robertson\", \"Johnston\", \"Hyry\"], [\"Hryckowian\", \"Seguin\", \"Benn\"], [\"Kiviranta\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Burroughs\", \"Myers\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020395",
-    "updated_at": "2026-11-26T14:58:32.054Z"
+    "signature": "[[[\"Steel\", \"Hintz\", \"Rantanen\"], [\"Robertson\", \"Johnston\", \"Hyry\"], [\"Hryckowian\", \"Seguin\", \"Benn\"], [\"Back\", \"Faksa\", \"Perron\"]], [[\"Lindell\", \"Heiskanen\"], [\"Harley\", \"Lundkvist\"], [\"Burroughs\", \"Myers\"]], [\"Oettinger\"], [\"Johnston\", \"Hintz\", \"Rantanen\", \"Heiskanen\", \"Robertson\"]]",
+    "source": "",
+    "updated_at": "2026-11-27T18:56:21.820Z"
   },
   "DET": {
     "goalie": "Gibson",
