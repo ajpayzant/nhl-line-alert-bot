@@ -1,5 +1,5 @@
 {
- "article_updated": "2026-11-27T15:15:07.03Z",
+ "article_updated": "2026-11-27T16:25:01.204Z",
  "lineups": {
   "2026-11-24:EDM": {
    "article_updated": "2026-11-24T18:32:16.263Z",
@@ -1973,7 +1973,7 @@
    ]
   },
   "2026-11-27:NJD": {
-   "article_updated": "2026-11-27T14:01:47.165Z",
+   "article_updated": "2026-11-27T16:25:01.204Z",
    "defense": [
     [
      "Luke Hughes",
@@ -1984,7 +1984,7 @@
      "Dougie Hamilton"
     ],
     [
-     "Declan Chisholm",
+     "Anton Silaev",
      "Vladislav Kolyachonok"
     ]
    ],
@@ -2016,7 +2016,8 @@
     "Jake Allen"
    ],
    "scratched": [
-    "Lenni Hameenaho"
+    "Lenni Hameenaho",
+    "Connor Hellebuyck"
    ]
   },
   "2026-11-27:NSH": {
