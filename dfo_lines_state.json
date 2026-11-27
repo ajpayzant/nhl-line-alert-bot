@@ -655,7 +655,7 @@
       "Gourde",
       "Guentzel",
       "Hagel",
-      "Holmberg",
+      "Hedman",
       "Kucherov",
       "Lilleberg",
       "McDonagh",
@@ -665,9 +665,9 @@
       "Point",
       "Viel"
     ],
-    "signature": "[[[\"Hagel\", \"Cirelli\", \"Kucherov\"], [\"Guentzel\", \"Point\", \"Holmberg\"], [\"Mikheyev\", \"Girgensons\", \"Gourde\"], [\"Viel\", \"O'Reilly\", \"Goncalves\"]], [[\"D'Astous\", \"Carlson\"], [\"Moser\", \"Crozier\"], [\"McDonagh\", \"Lilleberg\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020388",
-    "updated_at": "2026-11-26T14:28:44.138Z"
+    "signature": "[[[\"Hagel\", \"Cirelli\", \"Kucherov\"], [\"Guentzel\", \"Point\", \"Goncalves\"], [\"Mikheyev\", \"Girgensons\", \"Gourde\"], [\"Viel\", \"O'Reilly\"]], [[\"D'Astous\", \"Carlson\"], [\"McDonagh\", \"Lilleberg\"], [\"Hedman\", \"Crozier\"]], [\"Vasilevskiy\"], [\"Guentzel\", \"O'Reilly\", \"Kucherov\", \"Point\", \"Carlson\"], [\"Moser\"]]",
+    "source": "https://x.com/Gabby_Shirley_/status/2126399341086585036",
+    "updated_at": "2026-11-27T19:39:51.298Z"
   },
   "TOR": {
     "goalie": "Stolarz",
@@ -804,6 +804,7 @@
     "players": [
       "Beauvillier",
       "Chychrun",
+      "Desharnais",
       "Dubois",
       "Fehervary",
       "Hutson",
@@ -815,13 +816,12 @@
       "Protas",
       "Roy",
       "Sourdif",
-      "St. Ivany",
       "Strome",
       "Tuch",
       "Wilson"
     ],
-    "signature": "[[[\"Protas\", \"Dubois\", \"Wilson\"], [\"Leonard\", \"Protas\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Beauvillier\"], [\"Jenner\", \"Sourdif\", \"Miroshnichenko\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Liljegren\"], [\"Hutson\", \"St. Ivany\"]], [\"Thompson\"], [\"Wilson\", \"Sourdif\", \"Strome\", \"Ovechkin\", \"Chychrun\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020392",
-    "updated_at": "2026-11-26T14:53:36.789Z"
+    "signature": "[[[\"Protas\", \"Dubois\", \"Wilson\"], [\"Leonard\", \"Protas\", \"Tuch\"], [\"Ovechkin\", \"Strome\", \"Beauvillier\"], [\"Miroshnichenko\", \"Jenner\", \"Sourdif\"]], [[\"Chychrun\", \"Roy\"], [\"Fehervary\", \"Liljegren\"], [\"Hutson\", \"Desharnais\"]], [\"Thompson\"], [\"Wilson\", \"Sourdif\", \"Strome\", \"Ovechkin\", \"Chychrun\"]]",
+    "source": "https://x.com/sammisilber/status/2126399232445645050",
+    "updated_at": "2026-11-27T19:36:59.794Z"
   }
 }

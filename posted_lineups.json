@@ -6272,6 +6272,51 @@
    }
   },
   "TBL": {
+   "dfo": {
+    "at": "2026-11-27T19:40:41+00:00",
+    "defense": [
+     [
+      "D'Astous",
+      "Carlson"
+     ],
+     [
+      "McDonagh",
+      "Lilleberg"
+     ],
+     [
+      "Hedman",
+      "Crozier"
+     ]
+    ],
+    "extra": [
+     "Moser"
+    ],
+    "forwards": [
+     [
+      "Hagel",
+      "Cirelli",
+      "Kucherov"
+     ],
+     [
+      "Guentzel",
+      "Point",
+      "Goncalves"
+     ],
+     [
+      "Mikheyev",
+      "Girgensons",
+      "Gourde"
+     ],
+     [
+      "Viel",
+      "O'Reilly"
+     ]
+    ],
+    "goalie": "Vasilevskiy",
+    "info_at": "2026-11-27T19:34:44+00:00",
+    "ref": "2126399341086585036",
+    "via": "Gabby Shirley"
+   },
    "gameday": {
     "at": "2026-11-27T19:37:21+00:00",
     "defense": [
@@ -6801,6 +6846,50 @@
    }
   },
   "WSH": {
+   "dfo": {
+    "at": "2026-11-27T19:40:41+00:00",
+    "defense": [
+     [
+      "Chychrun",
+      "Roy"
+     ],
+     [
+      "Fehérváry",
+      "Liljegren"
+     ],
+     [
+      "Hutson",
+      "Desharnais"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Protas",
+      "Dubois",
+      "Wilson"
+     ],
+     [
+      "Leonard",
+      "Protas",
+      "Tuch"
+     ],
+     [
+      "Ovechkin",
+      "Strome",
+      "Beauvillier"
+     ],
+     [
+      "Miroshnichenko",
+      "Jenner",
+      "Sourdif"
+     ]
+    ],
+    "goalie": "Thompson",
+    "info_at": "2026-11-27T19:34:18+00:00",
+    "ref": "2126399232445645050",
+    "via": "Sammi Silber"
+   },
    "nhlcom": {
     "at": "2026-11-27T15:15:47+00:00",
     "defense": [
