@@ -6890,6 +6890,41 @@
     "ref": "2126401524633080315",
     "via": "Brendan Batchelor"
    },
+   "gameday": {
+    "at": "2026-11-27T19:52:26+00:00",
+    "defense": [
+     [
+      "Buium",
+      "Hronek"
+     ],
+     [
+      "Oleksiak",
+      "Willander"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "DeBrusk",
+      "Chytil",
+      "Lekkerimäki"
+     ],
+     [
+      "O'Connor",
+      "Mueller",
+      "Karlsson"
+     ],
+     [
+      "Cotter",
+      "Quillan",
+      "Reinhardt"
+     ]
+    ],
+    "goalie": "",
+    "info_at": "2026-11-27T19:47:53+00:00",
+    "ref": "2126402651814494697",
+    "via": "@BatchHockey"
+   },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
     "defense": [
