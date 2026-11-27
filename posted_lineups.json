@@ -4660,7 +4660,7 @@
   },
   "FLA": {
    "nhlcom": {
-    "at": "2026-11-27T14:04:25+00:00",
+    "at": "2026-11-27T17:35:36+00:00",
     "defense": [
      [
       "Forsling",
@@ -4684,12 +4684,12 @@
      ],
      [
       "Tkachuk",
-      "Lundell",
+      "Bennett",
       "Tkachuk"
      ],
      [
       "Luostarinen",
-      "Bennett",
+      "Lundell",
       "Marchand"
      ],
      [
@@ -4699,7 +4699,7 @@
      ]
     ],
     "goalie": "Markstrom",
-    "info_at": "2026-11-27T14:01:47+00:00"
+    "info_at": "2026-11-27T17:35:10+00:00"
    }
   },
   "LAK": {
