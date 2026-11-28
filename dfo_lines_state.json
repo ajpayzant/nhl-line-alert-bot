@@ -366,7 +366,6 @@
       "Carrier",
       "Caufield",
       "Danault",
-      "Demidov",
       "Dobson",
       "Engstrom",
       "Evans",
@@ -377,11 +376,12 @@
       "Reinbacher",
       "Slafkovsky",
       "Suzuki",
+      "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Newhook\", \"Suzuki\", \"Demidov\"], [\"Caufield\", \"Larkin\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Evans\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Hutson\", \"Dobson\"], [\"Engstrom\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Dobes\"], [\"Larkin\", \"Suzuki\", \"Slafkovsky\", \"Caufield\", \"Hutson\"]]",
+    "signature": "[[[\"Newhook\", \"Suzuki\", \"Texier\"], [\"Caufield\", \"Larkin\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Evans\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Hutson\", \"Dobson\"], [\"Engstrom\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Dobes\"], [\"Larkin\", \"Suzuki\", \"Slafkovsky\", \"Caufield\", \"Hutson\"]]",
     "source": "https://x.com/ArponBasu/status/2126397591378342205",
-    "updated_at": "2026-11-28T01:37:03.469Z"
+    "updated_at": "2026-11-28T01:44:36.029Z"
   },
   "NJD": {
     "goalie": "Allen",
