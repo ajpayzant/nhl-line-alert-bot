@@ -359,29 +359,29 @@
     "updated_at": "2026-11-27T20:36:19.980Z"
   },
   "MTL": {
-    "goalie": "Fowler",
+    "goalie": "Dobes",
     "players": [
       "Beck",
       "Bolduc",
       "Carrier",
       "Caufield",
       "Danault",
+      "Demidov",
       "Dobson",
       "Engstrom",
       "Evans",
-      "Guhle",
       "Hutson",
       "Kapanen",
       "Larkin",
       "Newhook",
+      "Reinbacher",
       "Slafkovsky",
       "Suzuki",
-      "Texier",
       "Xhekaj"
     ],
-    "signature": "[[[\"Caufield\", \"Suzuki\", \"Slafkovsky\"], [\"Newhook\", \"Larkin\", \"Texier\"], [\"Bolduc\", \"Danault\", \"Evans\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Guhle\", \"Dobson\"], [\"Hutson\", \"Carrier\"], [\"Xhekaj\", \"Engstrom\"]], [\"Fowler\"], [\"Slafkovsky\", \"Suzuki\", \"Larkin\", \"Caufield\", \"Hutson\"]]",
-    "source": "https://www.nhl.com/gamecenter/2026020397",
-    "updated_at": "2026-11-26T15:01:50.479Z"
+    "signature": "[[[\"Newhook\", \"Suzuki\", \"Demidov\"], [\"Caufield\", \"Larkin\", \"Slafkovsky\"], [\"Bolduc\", \"Danault\", \"Evans\"], [\"Xhekaj\", \"Kapanen\", \"Beck\"]], [[\"Hutson\", \"Dobson\"], [\"Engstrom\", \"Carrier\"], [\"Xhekaj\", \"Reinbacher\"]], [\"Dobes\"], [\"Larkin\", \"Suzuki\", \"Slafkovsky\", \"Caufield\", \"Hutson\"]]",
+    "source": "https://x.com/ArponBasu/status/2126397591378342205",
+    "updated_at": "2026-11-28T01:37:03.469Z"
   },
   "NJD": {
     "goalie": "Allen",

@@ -5626,6 +5626,50 @@
    }
   },
   "MTL": {
+   "dfo": {
+    "at": "2026-11-28T01:40:40+00:00",
+    "defense": [
+     [
+      "Hutson",
+      "Dobson"
+     ],
+     [
+      "Engstrom",
+      "Carrier"
+     ],
+     [
+      "Xhekaj",
+      "Reinbacher"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Newhook",
+      "Suzuki",
+      "Demidov"
+     ],
+     [
+      "Caufield",
+      "Larkin",
+      "Slafkovský"
+     ],
+     [
+      "Bolduc",
+      "Danault",
+      "Evans"
+     ],
+     [
+      "Xhekaj",
+      "Kapanen",
+      "Beck"
+     ]
+    ],
+    "goalie": "Dobes",
+    "info_at": "2026-11-27T19:27:46+00:00",
+    "ref": "2126397591378342205",
+    "via": "Arpon Basu"
+   },
    "gameday": {
     "at": "2026-11-27T19:31:27+00:00",
     "defense": [],
