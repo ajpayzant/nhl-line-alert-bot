@@ -4347,6 +4347,50 @@
    }
   },
   "BUF": {
+   "dfo": {
+    "at": "2026-11-28T00:55:41+00:00",
+    "defense": [
+     [
+      "Samuelsson",
+      "Dahlin"
+     ],
+     [
+      "Power",
+      "Timmins"
+     ],
+     [
+      "Zellweger",
+      "Crevier"
+     ]
+    ],
+    "extra": [],
+    "forwards": [
+     [
+      "Doan",
+      "Kulich",
+      "Thompson"
+     ],
+     [
+      "Zucker",
+      "McLeod",
+      "Quinn"
+     ],
+     [
+      "Krebs",
+      "Norris",
+      "?Sheary"
+     ],
+     [
+      "Malenstyn",
+      "Carrick",
+      "Danforth"
+     ]
+    ],
+    "goalie": "Luukkonen",
+    "info_at": "2026-11-28T00:47:18+00:00",
+    "ref": "2126478003072794785",
+    "via": "Matthew Fairburn"
+   },
    "gameday": {
     "at": "2026-11-28T00:51:26+00:00",
     "defense": [
@@ -6352,7 +6396,7 @@
   },
   "PIT": {
    "dfo": {
-    "at": "2026-11-27T17:05:42+00:00",
+    "at": "2026-11-28T00:55:41+00:00",
     "defense": [
      [
       "Korczak",
@@ -6391,9 +6435,9 @@
      ]
     ],
     "goalie": "Murashov",
-    "info_at": "2026-11-27T16:38:34+00:00",
-    "ref": "2126355009872822626",
-    "via": "@king_jemison"
+    "info_at": "2026-11-28T00:44:28+00:00",
+    "ref": "2126477290137612637",
+    "via": "Pittsburgh Penguins"
    },
    "gameday": {
     "at": "2026-11-27T16:56:28+00:00",
@@ -6484,7 +6528,7 @@
   },
   "SEA": {
    "dfo": {
-    "at": "2026-11-27T18:25:37+00:00",
+    "at": "2026-11-28T00:55:41+00:00",
     "defense": [
      [
       "Dunn",
@@ -6523,9 +6567,9 @@
      ]
     ],
     "goalie": "Daccord",
-    "info_at": "2026-11-27T17:34:15+00:00",
-    "ref": "2126369022295851327",
-    "via": "Mike Benton"
+    "info_at": "2026-11-28T00:51:44+00:00",
+    "ref": "2126479117302530103",
+    "via": "Seattle Kraken"
    },
    "gameday": {
     "at": "2026-11-27T17:41:28+00:00",

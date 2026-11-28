@@ -62,19 +62,19 @@
       "Kulich",
       "Malenstyn",
       "McLeod",
-      "Metsa",
       "Norris",
       "Power",
       "Quinn",
       "Samuelsson",
+      "Sheary",
       "Thompson",
       "Timmins",
       "Zellweger",
       "Zucker"
     ],
-    "signature": "[[[\"Doan\", \"Kulich\", \"Thompson\"], [\"Zucker\", \"McLeod\", \"Quinn\"], [\"Krebs\", \"Norris\"], [\"Malenstyn\", \"Carrick\", \"Danforth\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Kulich\", \"Quinn\", \"Thompson\", \"Dahlin\"], [\"Metsa\"]]",
-    "source": "",
-    "updated_at": "2026-11-27T16:33:02.857Z"
+    "signature": "[[[\"Doan\", \"Kulich\", \"Thompson\"], [\"Zucker\", \"McLeod\", \"Quinn\"], [\"Krebs\", \"Norris\", \"Sheary\"], [\"Malenstyn\", \"Carrick\", \"Danforth\"]], [[\"Samuelsson\", \"Dahlin\"], [\"Power\", \"Timmins\"], [\"Zellweger\", \"Crevier\"]], [\"Luukkonen\"], [\"Doan\", \"Kulich\", \"Quinn\", \"Thompson\", \"Dahlin\"]]",
+    "source": "https://x.com/MatthewFairburn/status/2126478003072794785?a=VXSxvrL6qMLY9QHa38M&s=20",
+    "updated_at": "2026-11-28T00:48:43.994Z"
   },
   "CAR": {
     "goalie": "Kochetkov",
@@ -561,8 +561,8 @@
       "van Riemsdyk"
     ],
     "signature": "[[[\"Malkin\", \"Crosby\", \"Rakell\"], [\"Novak\", \"Kindel\", \"Hayes\"], [\"McGroarty\", \"Lapierre\", \"Koivunen\"], [\"Dewar\", \"Lizotte\", \"Calvert\"]], [[\"Korczak\", \"Karlsson\"], [\"Girard\", \"van Riemsdyk\"], [\"Carlile\", \"Letang\"]], [\"Murashov\"], [\"Rakell\", \"Malkin\", \"Novak\", \"Karlsson\", \"Crosby\"]]",
-    "source": "https://x.com/king_jemison/status/2126355009872822626",
-    "updated_at": "2026-11-27T16:59:38.099Z"
+    "source": "https://x.com/penguins/status/2126477290137612637?a=2WpdIVm89VAR2nYeBTY&s=20",
+    "updated_at": "2026-11-28T00:45:39.782Z"
   },
   "SEA": {
     "goalie": "Daccord",
@@ -587,8 +587,8 @@
       "Wood"
     ],
     "signature": "[[[\"Stephenson\", \"Catton\", \"Eberle\"], [\"Kakko\", \"Beniers\", \"Samoskevich\"], [\"McMann\", \"Gaudreau\", \"Wood\"], [\"Winterton\", \"Meyers\", \"Melanson\"]], [[\"Dunn\", \"Larsson\"], [\"Evans\", \"Montour\"], [\"Lindgren\", \"Mahura\"]], [\"Daccord\"], [\"Eberle\", \"Beniers\", \"McMann\", \"Stephenson\", \"Dunn\"]]",
-    "source": "https://x.com/Benton_Mike/status/2126369022295851327",
-    "updated_at": "2026-11-27T18:20:56.636Z"
+    "source": "https://x.com/SeattleKraken/status/2126479117302530103?a=HaEZ-G1Qx719LzypWOE&s=20",
+    "updated_at": "2026-11-28T00:54:13.432Z"
   },
   "SJS": {
     "goalie": "Askarov",
