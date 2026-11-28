@@ -6012,48 +6012,35 @@
     "via": "Mollie Walker"
    },
    "gameday": {
-    "at": "2026-11-27T22:17:23+00:00",
-    "defense": [
-     [
-      "Gavrikov",
-      "Fox"
-     ],
-     [
-      "Pettersson",
-      "Durzi"
-     ],
-     [
-      "Schneider",
-      "Morrow"
-     ]
-    ],
+    "at": "2026-11-28T00:46:25+00:00",
+    "defense": [],
     "extra": [],
     "forwards": [
      [
-      "Raddysh",
-      "Zibanejad",
-      "Lafrenière"
+      "Kartye",
+      "Miller",
+      "Zibanejad"
      ],
      [
       "Cuylle",
-      "Miller",
-      "Kartye"
+      "Sasson",
+      "Lafrenière"
      ],
      [
       "Tolvanen",
-      "Sasson",
-      "Chmelar"
+      "Laba",
+      "Raddysh"
      ],
      [
+      "Chmelar",
       "Gawdin",
-      "Laba",
       "Rempe"
      ]
     ],
-    "goalie": "Garand",
-    "info_at": "2026-11-27T22:08:33+00:00",
-    "ref": "2126438052423983499",
-    "via": "@MollieeWalkerr"
+    "goalie": "",
+    "info_at": "2026-11-28T00:38:01+00:00",
+    "ref": "2126475666074055150",
+    "via": "@vzmercogliano"
    },
    "nhlcom": {
     "at": "2026-11-27T14:04:25+00:00",
